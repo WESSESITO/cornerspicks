@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-21 01:34",
- "generado_iso": "2026-10-21T01:34:00-05:00",
+ "generado": "2026-10-21 06:30",
+ "generado_iso": "2026-10-21T06:30:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-10-21",
  "ayer": "2026-10-20",
@@ -12,43 +12,216 @@
    "link": "picksters-over-corners.html",
    "pendientes": [
     {
-     "fecha": "2026-10-20",
-     "hora": "19:07",
-     "iso": "2026-10-20T19:07:00-05:00",
-     "partido": "Guadalajara vs Necaxa",
-     "competencia": "Liga MX",
+     "fecha": "2026-10-21",
+     "hora": "14:00",
+     "iso": "2026-10-21T14:00:00-05:00",
+     "partido": "Real Madrid vs RB Leipzig",
+     "competencia": "Champions League",
      "nivel": null,
      "marcas": [
       "favorito claro"
      ],
-     "respaldo": "promedio 11,05-11,55",
+     "respaldo": "promedio 11,82-11,93",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": true,
+     "ya_empezo": false,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
-      "texto": "Promedio combinado del filtro: 11,05-11,55 córners (umbral: 10 o más de forma clara). ESPN últimos 10 (Chivas 6.8/4.8; Necaxa 5.2/5.3) 11.05; FotMob 11.55 (Chivas 7.5/5.2; Necaxa 5.5/4.9). Pasa claro de 10.",
+      "texto": "Promedio combinado del filtro: 11,82-11,93 córners (umbral: 10 o más de forma clara). ESPN (Real Madrid 6.3/5.0; Leipzig 6.22/6.33 en 9) 11.93; FotMob (Real Madrid 6.3/5.0; Leipzig 6.11/6.22 en 9) 11.82. El Madrid es favorito claro y Leipzig concede más de 6 corners por partido, así que el volumen debería cargarse del lado blanco con margen sobre 10.",
       "detalle": "",
       "origen": "bot"
      }
     },
     {
-     "fecha": "2026-10-20",
-     "hora": "20:00",
-     "iso": "2026-10-20T20:00:00-05:00",
-     "partido": "Atlético de San Luis vs Querétaro",
-     "competencia": "Liga MX",
+     "fecha": "2026-10-21",
+     "hora": "14:00",
+     "iso": "2026-10-21T14:00:00-05:00",
+     "partido": "Aston Villa vs Viking FK",
+     "competencia": "Champions League",
      "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 10,6-10,7",
+     "marcas": [
+      "ajustada",
+      "favorito claro"
+     ],
+     "respaldo": "promedio 10,6-11,5",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": true,
+     "ya_empezo": false,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
-      "texto": "Promedio combinado del filtro: 10,6-10,7 córners (umbral: 10 o más de forma clara). ESPN últimos 10 (San Luis 2.9/7.1; Querétaro 4.7/6.7) 10.7; FotMob 10.6 (San Luis 3.0/7.3; Querétaro 4.0/6.9). Ambos conceden mucho.",
+      "texto": "Promedio combinado del filtro: 10,6-11,5 córners (umbral: 10 o más de forma clara). ESPN (Aston Villa 4.5/4.3; Viking 7.2/7.0) 11.5; FotMob (Aston Villa 4.4/4.3; Viking 6.7/5.8) 10.6. Viking juega partidos con muchos corners en ambos sentidos, pero Villa genera poco y las fuentes discrepan, así que queda algo ajustado. Villa es favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "14:00",
+     "iso": "2026-10-21T14:00:00-05:00",
+     "partido": "Club Brugge vs RC Lens",
+     "competencia": "Champions League",
+     "nivel": null,
+     "marcas": [
+      "ajustada"
+     ],
+     "respaldo": "promedio 10,5-11,0",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,5-11,0 córners (umbral: 10 o más de forma clara). ESPN (Brujas 7.5/3.4; Lens 7.0/4.1) 11.0; FotMob (Brujas 7.3/3.4; Lens 6.3/4.0) 10.5. Los dos equipos generan mucho y conceden poco, así que el total depende de su producción ofensiva; pick algo ajustado y sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "14:00",
+     "iso": "2026-10-21T14:00:00-05:00",
+     "partido": "Bayern Munich vs Arsenal",
+     "competencia": "Champions League",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,25-10,33",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,25-10,33 córners (umbral: 10 o más de forma clara). ESPN (Bayern 9.67/2.89 en 9; Arsenal 5.0/3.1) 10.33; FotMob (Bayern 9.3/3.3; Arsenal 4.8/3.1) 10.25. El Bayern promedia más de 9 corners a favor, pero Arsenal concede muy pocos; es el pick más justo del día y no hay favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "18:00",
+     "iso": "2026-10-21T18:00:00-05:00",
+     "partido": "FC Cincinnati vs D.C. United",
+     "competencia": "MLS",
+     "nivel": null,
+     "marcas": [
+      "ajustada",
+      "en vigilancia",
+      "favorito moderado"
+     ],
+     "respaldo": "promedio 10,55",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,55 córners (umbral: 10 o más de forma clara). ESPN y FotMob coinciden en 10.55 (Cincinnati 5.9/4.4; D.C. United 5.2/5.6). D.C. United concede bastante y Cincinnati genera casi 6 por partido, pero queda algo ajustado y la MLS sigue en vigilancia.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "20:00",
+     "iso": "2026-10-21T20:00:00-05:00",
+     "partido": "Atlas vs América",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 12,05-12,1",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 12,05-12,1 córners (umbral: 10 o más de forma clara). ESPN (Atlas 6.1/6.4; América 5.9/5.8) 12.1; FotMob (Atlas 5.5/7.2; América 6.0/5.4) 12.05. Ambas fuentes lo ponen por encima de 12, holgado para el corte de Liga MX: Atlas concede mucho y América produce cerca de 6. Sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "20:00",
+     "iso": "2026-10-21T20:00:00-05:00",
+     "partido": "Toluca vs Tijuana",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 11,85-12,0",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,85-12,0 córners (umbral: 10 o más de forma clara). ESPN (Toluca 6.7/5.2; Tijuana 5.3/6.8) 12.0; FotMob (Toluca 6.0/6.3; Tijuana 5.1/6.3) 11.85. Tijuana concede más de 6 corners por partido y Toluca es favorito claro en casa, así que pasa de 10 con margen.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "20:00",
+     "iso": "2026-10-21T20:00:00-05:00",
+     "partido": "Puebla vs Monterrey",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [
+      "favorito moderado"
+     ],
+     "respaldo": "promedio 10,6-11,6",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,6-11,6 córners (umbral: 10 o más de forma clara). ESPN (Puebla 4.4/7.0; Monterrey 6.3/3.5) 10.6; FotMob (Puebla 4.8/6.8; Monterrey 7.2/4.4) 11.6. Puebla concede cerca de 7 corners por partido y Monterrey es favorito, pero las fuentes discrepan y el piso de ESPN queda justo para Liga MX.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "22:10",
+     "iso": "2026-10-21T22:10:00-05:00",
+     "partido": "Pachuca vs Cruz Azul",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,65",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,65 córners (umbral: 10 o más de forma clara). ESPN y FotMob coinciden en 10.65 (Pachuca 5.9/3.6-3.8; Cruz Azul 5.9-6.0/5.7-5.8). Cruz Azul juega partidos abiertos, pero Pachuca concede poco; queda justo para el corte de Liga MX y sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "22:10",
+     "iso": "2026-10-21T22:10:00-05:00",
+     "partido": "Santos Laguna vs Pumas UNAM",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,25-11,65",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,25-11,65 córners (umbral: 10 o más de forma clara). ESPN (Santos 7.5/5.3; Pumas 5.3/4.4) 11.25; FotMob (Santos 7.0/5.5; Pumas 5.6/5.2) 11.65. Santos genera más de 7 corners por partido en casa y en general, lo que sostiene un total por encima de 11 en ambas fuentes. Sin favorito claro.",
       "detalle": "",
       "origen": "bot"
      }
@@ -118,19 +291,61 @@
       "detalle": "",
       "origen": "bot"
      }
+    },
+    {
+     "fecha": "2026-10-20",
+     "hora": "19:07",
+     "iso": "2026-10-20T19:07:00-05:00",
+     "partido": "Guadalajara vs Necaxa",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 11,05-11,55",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "14 (9-5) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,05-11,55 córners (umbral: 10 o más de forma clara). ESPN últimos 10 (Chivas 6.8/4.8; Necaxa 5.2/5.3) 11.05; FotMob 11.55 (Chivas 7.5/5.2; Necaxa 5.5/4.9). Pasa claro de 10.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-20",
+     "hora": "20:00",
+     "iso": "2026-10-20T20:00:00-05:00",
+     "partido": "Atlético de San Luis vs Querétaro",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,6-10,7",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "7 (5-2) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,6-10,7 córners (umbral: 10 o más de forma clara). ESPN últimos 10 (San Luis 2.9/7.1; Querétaro 4.7/6.7) 10.7; FotMob 10.6 (San Luis 3.0/7.3; Querétaro 4.0/6.9). Ambos conceden mucho.",
+      "detalle": "",
+      "origen": "bot"
+     }
     }
    ],
    "hoy_cerradas": [],
    "balance": {
-    "resueltas": 92,
-    "aciertos": 60,
-    "errores": 32,
-    "pct": 65.22,
-    "unidades": 4.1,
-    "roi": 4.46,
+    "resueltas": 94,
+    "aciertos": 61,
+    "errores": 33,
+    "pct": 64.89,
+    "unidades": 3.7,
+    "roi": 3.94,
     "cuota_media": 1.61,
-    "total": 95,
-    "pendientes": 2,
+    "total": 105,
+    "pendientes": 10,
     "otros": 1,
     "anulados": 1
    }
