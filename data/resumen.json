@@ -1,0 +1,411 @@
+{
+ "generado": "2026-10-21 01:28",
+ "generado_iso": "2026-10-21T01:28:00-05:00",
+ "bots": [
+  {
+   "bot": "corners_10min",
+   "nombre": "Bot Corners 10 Minutos",
+   "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
+   "resumen": {
+    "resueltas": 94,
+    "aciertos": 52,
+    "errores": 42,
+    "pct": 55.32,
+    "unidades": -6.19,
+    "roi": -6.59,
+    "cuota_media": 1.69,
+    "total": 97,
+    "pendientes": 3,
+    "otros": 0
+   },
+   "serie": [
+    {
+     "fecha": "2026-10-08",
+     "dia_picks": 3,
+     "dia_aciertos": 1,
+     "dia_unidades": -1.35,
+     "acum_resueltas": 3,
+     "acum_aciertos": 1,
+     "acum_pct": 33.33,
+     "acum_unidades": -1.35
+    },
+    {
+     "fecha": "2026-10-09",
+     "dia_picks": 4,
+     "dia_aciertos": 2,
+     "dia_unidades": -0.56,
+     "acum_resueltas": 7,
+     "acum_aciertos": 3,
+     "acum_pct": 42.86,
+     "acum_unidades": -1.91
+    },
+    {
+     "fecha": "2026-10-10",
+     "dia_picks": 23,
+     "dia_aciertos": 12,
+     "dia_unidades": -3.13,
+     "acum_resueltas": 30,
+     "acum_aciertos": 15,
+     "acum_pct": 50.0,
+     "acum_unidades": -5.04
+    },
+    {
+     "fecha": "2026-10-11",
+     "dia_picks": 11,
+     "dia_aciertos": 8,
+     "dia_unidades": 2.55,
+     "acum_resueltas": 41,
+     "acum_aciertos": 23,
+     "acum_pct": 56.1,
+     "acum_unidades": -2.49
+    },
+    {
+     "fecha": "2026-10-12",
+     "dia_picks": 2,
+     "dia_aciertos": 1,
+     "dia_unidades": -0.28,
+     "acum_resueltas": 43,
+     "acum_aciertos": 24,
+     "acum_pct": 55.81,
+     "acum_unidades": -2.77
+    },
+    {
+     "fecha": "2026-10-13",
+     "dia_picks": 8,
+     "dia_aciertos": 3,
+     "dia_unidades": -2.98,
+     "acum_resueltas": 51,
+     "acum_aciertos": 27,
+     "acum_pct": 52.94,
+     "acum_unidades": -5.75
+    },
+    {
+     "fecha": "2026-10-14",
+     "dia_picks": 8,
+     "dia_aciertos": 3,
+     "dia_unidades": -2.91,
+     "acum_resueltas": 59,
+     "acum_aciertos": 30,
+     "acum_pct": 50.85,
+     "acum_unidades": -8.66
+    },
+    {
+     "fecha": "2026-10-15",
+     "dia_picks": 4,
+     "dia_aciertos": 4,
+     "dia_unidades": 2.67,
+     "acum_resueltas": 63,
+     "acum_aciertos": 34,
+     "acum_pct": 53.97,
+     "acum_unidades": -5.99
+    },
+    {
+     "fecha": "2026-10-16",
+     "dia_picks": 2,
+     "dia_aciertos": 2,
+     "dia_unidades": 1.42,
+     "acum_resueltas": 65,
+     "acum_aciertos": 36,
+     "acum_pct": 55.38,
+     "acum_unidades": -4.57
+    },
+    {
+     "fecha": "2026-10-17",
+     "dia_picks": 17,
+     "dia_aciertos": 10,
+     "dia_unidades": 0.14,
+     "acum_resueltas": 82,
+     "acum_aciertos": 46,
+     "acum_pct": 56.1,
+     "acum_unidades": -4.43
+    },
+    {
+     "fecha": "2026-10-18",
+     "dia_picks": 10,
+     "dia_aciertos": 5,
+     "dia_unidades": -1.46,
+     "acum_resueltas": 92,
+     "acum_aciertos": 51,
+     "acum_pct": 55.43,
+     "acum_unidades": -5.89
+    },
+    {
+     "fecha": "2026-10-19",
+     "dia_picks": 1,
+     "dia_aciertos": 1,
+     "dia_unidades": 0.7,
+     "acum_resueltas": 93,
+     "acum_aciertos": 52,
+     "acum_pct": 55.91,
+     "acum_unidades": -5.19
+    },
+    {
+     "fecha": "2026-10-20",
+     "dia_picks": 1,
+     "dia_aciertos": 0,
+     "dia_unidades": -1.0,
+     "acum_resueltas": 94,
+     "acum_aciertos": 52,
+     "acum_pct": 55.32,
+     "acum_unidades": -6.19
+    }
+   ],
+   "desde": "2026-10-08",
+   "hasta": "2026-10-20"
+  },
+  {
+   "bot": "over_corners",
+   "nombre": "Picksters Over Córners",
+   "mercado": "Más de 9,5 córners totales en el partido",
+   "resumen": {
+    "resueltas": 92,
+    "aciertos": 60,
+    "errores": 32,
+    "pct": 65.22,
+    "unidades": 4.1,
+    "roi": 4.46,
+    "cuota_media": 1.61,
+    "total": 95,
+    "pendientes": 2,
+    "otros": 1,
+    "anulados": 1
+   },
+   "serie": [
+    {
+     "fecha": "2026-10-07",
+     "dia_picks": 4,
+     "dia_aciertos": 4,
+     "dia_unidades": 2.4,
+     "acum_resueltas": 4,
+     "acum_aciertos": 4,
+     "acum_pct": 100.0,
+     "acum_unidades": 2.4
+    },
+    {
+     "fecha": "2026-10-08",
+     "dia_picks": 4,
+     "dia_aciertos": 3,
+     "dia_unidades": 0.8,
+     "acum_resueltas": 8,
+     "acum_aciertos": 7,
+     "acum_pct": 87.5,
+     "acum_unidades": 3.2
+    },
+    {
+     "fecha": "2026-10-09",
+     "dia_picks": 3,
+     "dia_aciertos": 2,
+     "dia_unidades": 0.2,
+     "acum_resueltas": 11,
+     "acum_aciertos": 9,
+     "acum_pct": 81.82,
+     "acum_unidades": 3.4
+    },
+    {
+     "fecha": "2026-10-10",
+     "dia_picks": 21,
+     "dia_aciertos": 12,
+     "dia_unidades": -1.8,
+     "acum_resueltas": 32,
+     "acum_aciertos": 21,
+     "acum_pct": 65.62,
+     "acum_unidades": 1.6
+    },
+    {
+     "fecha": "2026-10-11",
+     "dia_picks": 12,
+     "dia_aciertos": 8,
+     "dia_unidades": 0.8,
+     "acum_resueltas": 44,
+     "acum_aciertos": 29,
+     "acum_pct": 65.91,
+     "acum_unidades": 2.4
+    },
+    {
+     "fecha": "2026-10-12",
+     "dia_picks": 3,
+     "dia_aciertos": 3,
+     "dia_unidades": 1.8,
+     "acum_resueltas": 47,
+     "acum_aciertos": 32,
+     "acum_pct": 68.09,
+     "acum_unidades": 4.2
+    },
+    {
+     "fecha": "2026-10-13",
+     "dia_picks": 4,
+     "dia_aciertos": 2,
+     "dia_unidades": -0.7,
+     "acum_resueltas": 51,
+     "acum_aciertos": 34,
+     "acum_pct": 66.67,
+     "acum_unidades": 3.5
+    },
+    {
+     "fecha": "2026-10-14",
+     "dia_picks": 6,
+     "dia_aciertos": 5,
+     "dia_unidades": 2.0,
+     "acum_resueltas": 57,
+     "acum_aciertos": 39,
+     "acum_pct": 68.42,
+     "acum_unidades": 5.5
+    },
+    {
+     "fecha": "2026-10-15",
+     "dia_picks": 3,
+     "dia_aciertos": 3,
+     "dia_unidades": 1.8,
+     "acum_resueltas": 60,
+     "acum_aciertos": 42,
+     "acum_pct": 70.0,
+     "acum_unidades": 7.3
+    },
+    {
+     "fecha": "2026-10-16",
+     "dia_picks": 1,
+     "dia_aciertos": 1,
+     "dia_unidades": 0.6,
+     "acum_resueltas": 61,
+     "acum_aciertos": 43,
+     "acum_pct": 70.49,
+     "acum_unidades": 7.9
+    },
+    {
+     "fecha": "2026-10-17",
+     "dia_picks": 16,
+     "dia_aciertos": 8,
+     "dia_unidades": -3.2,
+     "acum_resueltas": 77,
+     "acum_aciertos": 51,
+     "acum_pct": 66.23,
+     "acum_unidades": 4.7
+    },
+    {
+     "fecha": "2026-10-18",
+     "dia_picks": 10,
+     "dia_aciertos": 5,
+     "dia_unidades": -2.0,
+     "acum_resueltas": 87,
+     "acum_aciertos": 56,
+     "acum_pct": 64.37,
+     "acum_unidades": 2.7
+    },
+    {
+     "fecha": "2026-10-19",
+     "dia_picks": 2,
+     "dia_aciertos": 2,
+     "dia_unidades": 1.2,
+     "acum_resueltas": 89,
+     "acum_aciertos": 58,
+     "acum_pct": 65.17,
+     "acum_unidades": 3.9
+    },
+    {
+     "fecha": "2026-10-20",
+     "dia_picks": 3,
+     "dia_aciertos": 2,
+     "dia_unidades": 0.2,
+     "acum_resueltas": 92,
+     "acum_aciertos": 60,
+     "acum_pct": 65.22,
+     "acum_unidades": 4.1
+    }
+   ],
+   "desde": "2026-10-07",
+   "hasta": "2026-10-20"
+  },
+  {
+   "bot": "corners_vivo",
+   "nombre": "Cornes en Vivo",
+   "mercado": "Total de córners del partido MÁS o MENOS que la línea en vivo",
+   "resumen": {
+    "resueltas": 34,
+    "aciertos": 18,
+    "errores": 16,
+    "pct": 52.94,
+    "unidades": 0.2,
+    "roi": 0.59,
+    "cuota_media": 1.9,
+    "total": 35,
+    "pendientes": 0,
+    "otros": 1,
+    "nulos": 1
+   },
+   "serie": [
+    {
+     "fecha": "2026-10-13",
+     "dia_picks": 2,
+     "dia_aciertos": 1,
+     "dia_unidades": -0.1,
+     "acum_resueltas": 2,
+     "acum_aciertos": 1,
+     "acum_pct": 50.0,
+     "acum_unidades": -0.1
+    },
+    {
+     "fecha": "2026-10-14",
+     "dia_picks": 3,
+     "dia_aciertos": 1,
+     "dia_unidades": -1.1,
+     "acum_resueltas": 5,
+     "acum_aciertos": 2,
+     "acum_pct": 40.0,
+     "acum_unidades": -1.2
+    },
+    {
+     "fecha": "2026-10-15",
+     "dia_picks": 11,
+     "dia_aciertos": 4,
+     "dia_unidades": -3.4,
+     "acum_resueltas": 16,
+     "acum_aciertos": 6,
+     "acum_pct": 37.5,
+     "acum_unidades": -4.6
+    },
+    {
+     "fecha": "2026-10-16",
+     "dia_picks": 1,
+     "dia_aciertos": 1,
+     "dia_unidades": 0.9,
+     "acum_resueltas": 17,
+     "acum_aciertos": 7,
+     "acum_pct": 41.18,
+     "acum_unidades": -3.7
+    },
+    {
+     "fecha": "2026-10-17",
+     "dia_picks": 9,
+     "dia_aciertos": 5,
+     "dia_unidades": 0.5,
+     "acum_resueltas": 26,
+     "acum_aciertos": 12,
+     "acum_pct": 46.15,
+     "acum_unidades": -3.2
+    },
+    {
+     "fecha": "2026-10-18",
+     "dia_picks": 7,
+     "dia_aciertos": 5,
+     "dia_unidades": 2.5,
+     "acum_resueltas": 33,
+     "acum_aciertos": 17,
+     "acum_pct": 51.52,
+     "acum_unidades": -0.7
+    },
+    {
+     "fecha": "2026-10-20",
+     "dia_picks": 1,
+     "dia_aciertos": 1,
+     "dia_unidades": 0.9,
+     "acum_resueltas": 34,
+     "acum_aciertos": 18,
+     "acum_pct": 52.94,
+     "acum_unidades": 0.2
+    }
+   ],
+   "desde": "2026-10-13",
+   "hasta": "2026-10-20"
+  }
+ ]
+}

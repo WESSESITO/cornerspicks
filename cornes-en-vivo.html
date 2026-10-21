@@ -1,0 +1,60 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><script>document.documentElement.classList.add('js')</script><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cornes en Vivo · CórnersPicks</title><meta name="description" content="Reglas, cambios y estadísticas de Cornes en Vivo: más o menos córners que la línea en vivo.">
+<link rel="icon" href="assets/favicon.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,800;0,900;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css?v=14"><script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js" defer></script><script src="js/app.js?v=14" defer></script></head>
+<body data-page="vivo"><header class="top"><div class="wrap"><a class="brand" href="index.html"><img src="assets/logo-square.png" alt="Logo CórnersPicks"><span>Córners<b>Picks</b></span></a>
+<button class="navbtn" type="button" aria-expanded="false" aria-controls="menu" aria-label="Abrir menú"><span aria-hidden="true">☰</span></button><nav class="main" id="menu" aria-label="Menú principal"><a href="index.html" title="Inicio">Inicio</a><a href="picks-del-dia.html" class="hot" title="Picks del día">🔥 Picks del día</a><a href="bot-10-minutos.html" title="Bot Corners 10 Minutos">10 Minutos</a><a href="picksters-over-corners.html" title="Picksters Over Córners">Over Córners</a><a href="cornes-en-vivo.html" class="on" aria-current="page" title="Cornes en Vivo">En Vivo</a><a href="metodologia.html" title="Metodología y glosario">Metodología</a><a href="comunidad.html" title="Comentarios y sugerencias">💬 Comentarios</a></nav></div></header><main class="wrap">
+<h1>Cornes <span class="neon">en Vivo</span></h1>
+<p class="muted">Antes se llamaba “Partido Vivo”. Mira partidos que ya se están jugando y, con los córners y el ritmo que lleva cada uno, proyecta cuántos habrá al final. Si la proyección se aleja lo suficiente de la línea en vivo, da una señal de MÁS o de MENOS.</p>
+<h2>El mercado</h2>
+<div class="card"><p><b>Total de córners del partido: MÁS o MENOS que la línea en vivo</b> que publica TotalCorner. <span class="tag">ACIERTO</span> si el total final queda del lado de la señal; <span class="tag red">ERROR</span> si queda del otro lado; <span class="tag grey">NULO</span> si iguala la línea.</p>
+<p><b>Cuándo dispara:</b></p>
+<ul class="rules"><li><span class="tag">v3-60</span> Lectura hacia el <b>minuto 60</b>. Las señales de MENOS se leen entre el 50' y el 70'; desde el 19 oct, las de MÁS solo desde el 60' hasta el ~75'.</li>
+<li><span class="tag amber">v3-HT · experimental</span> Lectura <b>al descanso</b>, solo cuando el favorito prepartido va perdiendo.</li></ul>
+<p><b>Actualización:</b> el bot revisa los partidos en pasadas a los :04, :24 y :44 de cada hora, entre las <time class="lt" datetime="2026-10-20T06:04:00-05:00">06:04 (UTC-5)</time> y las <time class="lt" datetime="2026-10-20T16:44:00-05:00">16:44 (UTC-5)</time>, y califica los resultados a las <time class="lt" datetime="2026-10-20T17:21:00-05:00">17:21 (UTC-5)</time> (hora de tu zona). Como las señales son en vivo, en este sitio aparecen después, con la actualización siguiente. El registro no guarda la hora exacta de cada alerta, solo el minuto del partido.</p></div>
+<h2>Parámetros y reglas (v3, desde el 17 oct)</h2>
+<h3>Proyección</h3>
+<div class="card"><p style="font-size:1.05rem"><b>Proyección = córners + (córners ÷ minuto) × (90 − minuto) × 0,85</b></p>
+<p class="muted small">Es el ritmo de córners que lleva el partido, extendido hasta el 90' y rebajado un 15 % (factor 0,85).</p></div>
+<h3>Ajustes</h3>
+<ul class="rules"><li><b>+1 presión:</b> 10 o más ataques peligrosos, o 4 o más tiros bloqueados o desviados, en los últimos 15 minutos.</li>
+<li><b>+1 contexto:</b> el favorito pierde o empata, o el partido va a un gol.</li>
+<li><b>−1:</b> ventaja de 2 goles con el partido cerrado, o una roja que hace replegarse a un equipo.</li>
+<li><b>Margen de 3 goles o más:</b> se descarta siempre.</li></ul>
+<h3>Señal</h3>
+<ul class="rules"><li><b>MÁS</b> si la proyección ajustada es ≥ línea en vivo + 1,5.</li>
+<li><b>MENOS</b> si la proyección ajustada es ≤ línea en vivo − 1,5.</li>
+<li>Si queda en medio, <b>se descarta</b> (no es pick, pero queda en el registro).</li></ul>
+<h3>Ligas</h3>
+<ul class="rules"><li>Solo partidos oficiales de Premier League, LaLiga, Serie A, Bundesliga, Ligue 1, Champions League, Europa League y Conference League.</li></ul>
+<h3>Cuotas y unidades</h3>
+<ul class="rules"><li>El bot no guarda cuotas reales. Como la cuota fluctúa en cada casa de apuestas, <b>usamos una cuota supuesta de 1,90 para calcular las unidades</b>, con 1 unidad por señal: acierto +0,90 u, error −1 u, nulo 0. Punto de equilibrio a 1,90: <b>52,6 %</b>.</li>
+<li>Es un supuesto del sitio, no una cuota tomada: las unidades son una aproximación.</li></ul>
+<h3>Fuentes</h3>
+<ul class="rules"><li>Línea en vivo y ataques peligrosos: TotalCorner. Minuto, marcador, córners, tiros y comentario jugada a jugada: ESPN. Los córners finales salen de ESPN; si TotalCorner no coincide, se anota en el registro.</li></ul>
+<h2>Cómo llegamos aquí</h2>
+<div class="timeline">
+<div class="ev"><div class="d">13 oct</div><b>v1.</b> Proyección = córners ÷ 60 × 90, con ajustes; señal si se aleja ±1,5 de la línea.</div>
+<div class="ev"><div class="d">16 oct</div><b>v2.</b> Se quita el −1 por “partido cerrado” con margen de 3 o más; el −1 queda solo para ventaja de 2 goles o roja. Motivo: la revisión del registro.</div>
+<div class="ev"><div class="d">16 oct</div><b>Corrección del registro:</b> en filas anteriores al 16 oct la línea prepartido y la en vivo podían estar invertidas. Se revisaron y la base quedó corregida (6/16).</div>
+<div class="ev"><div class="d">17 oct</div><b>v3.</b> Factor 0,85 en la proyección, descarte siempre con margen de 3 goles o más, se guarda la línea en texto crudo y empieza el <b>experimento al descanso (v3-HT)</b>.</div>
+<div class="ev"><div class="d">18 oct</div>Se aprueba la v3 (activa desde el 19 oct) con la regla <b>“MÁS desde el 60'”</b>: las señales de MÁS leídas antes del 60' iban 1 de 4, y desde el 64', 3 de 3.</div>
+</div>
+<h2>Estadísticas</h2>
+<p class="muted small">Todas las señales, con cuota supuesta de 1,90. Los nulos no cuentan para el % ni restan unidades.</p>
+<div id="kpis" class="kpis" data-needs-data></div>
+<h3>Solo v3 (desde el 17 oct)</h3>
+<div id="kpisV3" class="kpis"></div>
+<div class="grid g2">
+<div class="card"><h3>Aciertos acumulados</h3><div class="chart"><canvas id="pctChart"></canvas></div></div>
+<div class="card"><h3>Unidades acumuladas (cuota supuesta 1,90)</h3><div class="chart"><canvas id="uChart"></canvas></div></div>
+</div>
+<h2>Desglose: versión, disparador y señal</h2>
+<p class="muted small">La línea roja marca el equilibrio del 52,6 % a cuota 1,90. Con tan pocas señales, cada grupo todavía es una muestra muy chica.</p>
+<div class="grid g2"><div class="card"><div class="chart"><canvas id="brkChart"></canvas></div></div><div class="card" id="brkTbl"></div></div>
+<h2>Historial de señales</h2>
+<p class="muted small" id="descTxt"></p>
+<div id="tabla" data-needs-data></div>
+<div class="rg"><b>🔞 Juego responsable · solo mayores de 18 años.</b> Este sitio documenta el trabajo de unos bots de análisis; no es asesoría financiera ni garantiza resultados. Las apuestas implican riesgo de pérdida: apuesta solo lo que puedas permitirte perder, gestiona tu stake y no persigas pérdidas. Si sientes que el juego dejó de ser entretenimiento, busca ayuda.</div></main>
+<footer><div class="wrap">CórnersPicks · Datos generados el <span id="generado">—</span> a partir de los registros de cada bot. Las horas se muestran en la zona horaria de tu dispositivo (<span data-tz>UTC-5</span>).</div></footer></body></html>

@@ -1,0 +1,51 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><script>document.documentElement.classList.add('js')</script><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Metodología y glosario · CórnersPicks</title><meta name="description" content="Cómo se calculan las estadísticas de CórnersPicks y glosario de términos de apuestas.">
+<link rel="icon" href="assets/favicon.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,800;0,900;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css?v=14"><script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js" defer></script><script src="js/app.js?v=14" defer></script></head>
+<body data-page="met"><header class="top"><div class="wrap"><a class="brand" href="index.html"><img src="assets/logo-square.png" alt="Logo CórnersPicks"><span>Córners<b>Picks</b></span></a>
+<button class="navbtn" type="button" aria-expanded="false" aria-controls="menu" aria-label="Abrir menú"><span aria-hidden="true">☰</span></button><nav class="main" id="menu" aria-label="Menú principal"><a href="index.html" title="Inicio">Inicio</a><a href="picks-del-dia.html" class="hot" title="Picks del día">🔥 Picks del día</a><a href="bot-10-minutos.html" title="Bot Corners 10 Minutos">10 Minutos</a><a href="picksters-over-corners.html" title="Picksters Over Córners">Over Córners</a><a href="cornes-en-vivo.html" title="Cornes en Vivo">En Vivo</a><a href="metodologia.html" class="on" aria-current="page" title="Metodología y glosario">Metodología</a><a href="comunidad.html" title="Comentarios y sugerencias">💬 Comentarios</a></nav></div></header><main class="wrap">
+<h1>Metodología y <span class="neon">glosario</span></h1>
+<h2>Cómo se arma cada estadística</h2>
+<div class="card"><ul class="rules">
+<li><b>Fuente única de verdad:</b> cada bot lleva su propio registro (CSV). El sitio no escribe ni corrige picks: lee esos archivos tal cual. Para actualizar, se copian los CSV a <code>site-data/</code> y se corre <code>python3 build_data.py</code>, que genera los JSON de <code>data/</code> que leen las gráficas.</li>
+<li><b>Qué cuenta:</b> solo las picks cerradas con acierto o error. Pendientes, anuladas, “sin dato” y filas de referencia no entran en el % ni en las unidades.</li>
+<li><b>% de acierto</b> = aciertos ÷ picks resueltas.</li>
+<li><b>Unidades:</b> 1 unidad por pick. Acierto = cuota − 1; error = −1; anulada = 0.</li>
+<li><b>ROI por pick</b> = unidades ÷ picks resueltas.</li>
+<li><b>Acumulados en el tiempo:</b> se ordenan por fecha del partido (la fecha con la que lo registra cada bot, en UTC−5) y se suma día a día. En las tablas y tarjetas, las horas se muestran en la zona horaria de tu dispositivo.</li>
+<li><b>Cuotas:</b> Bot Corners 10 Minutos no guarda la cuota tomada, así que se usa la cuota de referencia de su regla (1,65 / 1,70 en fuertes, 1,72 en medias). Picksters Over Córners: Como la cuota fluctúa en cada casa de apuestas, usamos una cuota promedio de 1,60 para calcular las unidades. Por eso sus unidades son una aproximación. Cornes en Vivo no guarda cuotas: se usa una cuota supuesta de 1,90 (equilibrio 52,6 %).</li>
+<li><b>Cornes en Vivo:</b> solo cuentan las filas con señal MÁS o MENOS; los descartados quedan en el registro pero no son picks. Un nulo (el total igualó la línea) no suma ni resta y no entra en el %. Sus estadísticas se separan en v3 (desde el 17 oct) y pre-v3 (13–16 oct), y dentro de v3, por disparador (al minuto 60 o al descanso) y por señal.</li>
+<li><b>Comparar bots:</b> son mercados distintos con cuotas distintas. Lo que importa es si el % supera el punto de equilibrio de su cuota, y las unidades.</li></ul></div>
+<h2>Glosario</h2>
+<div class="card"><dl class="gl">
+<dt>Pick</dt><dd>Un pronóstico concreto: un partido y un mercado (por ejemplo, “más de 9,5 córners en Tijuana–Puebla”).</dd>
+<dt>Mercado</dt><dd>El tipo de apuesta. Aquí: “córner antes del minuto 10”, “más de 9,5 córners totales” y “más o menos córners que la línea en vivo”.</dd>
+<dt>Línea (9,5)</dt><dd>El número que hay que superar. “Más de 9,5” se gana con 10 o más córners: el ,5 evita el empate.</dd>
+<dt>Cuota</dt><dd>Lo que paga la casa por cada unidad apostada, incluida la apuesta. Cuota 1,60: apuestas 1 y, si aciertas, recibes 1,60 (ganas 0,60).</dd>
+<dt>Cuota promedio</dt><dd>Como la cuota fluctúa en cada casa de apuestas, se usa una cuota promedio de 1,60 para calcular las unidades.</dd>
+<dt>Punto de equilibrio</dt><dd>El % de acierto mínimo para no perder: 1 ÷ cuota. A 1,60 es 62,5 %; a 1,70, 58,8 %; a 1,72, 58,1 %; a 1,90, 52,6 %.</dd>
+<dt>Unidad (u)</dt><dd>Medida fija de apuesta, para comparar resultados sin hablar de dinero. +4,10 u significa que, apostando siempre 1 unidad, se ganaron 4,1 unidades netas.</dd>
+<dt>Stake</dt><dd>Cuánto apuestas en una pick. Recomendación del canal: entre el 1 y el 2 % de tu bank por pick, sin subirlo por rachas.</dd>
+<dt>Bank o bankroll</dt><dd>El dinero que separas solo para apostar. El stake se calcula sobre él.</dd>
+<dt>Kelly (cuarto de Kelly)</dt><dd>Fórmula que sugiere el stake según la ventaja estimada. Un cuarto de Kelly usa solo la cuarta parte de esa cifra, para reducir el riesgo. El bot de 10 minutos lo traduce en 0,5–2 % del bankroll.</dd>
+<dt>ROI</dt><dd>Retorno sobre lo apostado: unidades ganadas ÷ unidades apostadas.</dd>
+<dt>Backtest</dt><dd>Probar una regla sobre partidos ya jugados para ver cómo habría funcionado antes de usarla en real.</dd>
+<dt>Promedio combinado / córners esperados</dt><dd>Estimación de córners del partido sumando lo que cada equipo saca y lo que concede: (CF local + CA visitante)/2 + (CF visitante + CA local)/2.</dd>
+<dt>CF / CA</dt><dd>Córners a favor / córners en contra por partido.</dd>
+<dt>Fuerte / media</dt><dd>Niveles del Bot Corners 10 Minutos según sus puntos: fuerte 5 o más, media 4.</dd>
+<dt>Media C2</dt><dd>Pick media en la que el criterio C (córners que concede el débil) suma el máximo, 2 puntos. Se sigue aparte desde el 15 oct.</dd>
+<dt>Ajustada</dt><dd>Pick cuyo promedio queda cerca de la línea, con poco margen.</dd>
+<dt>En vigilancia</dt><dd>Liga que se mantiene en observación por malos resultados o por ser nueva; si no mejora, se saca del filtro.</dd>
+<dt>Favorito muy claro</dt><dd>Partido con un equipo muy superior en las cuotas. Si golea pronto, el partido se apaga y suele haber menos córners.</dd>
+<dt>Línea en vivo</dt><dd>La línea de córners totales que se ofrece con el partido ya en juego; cambia según cómo va el partido. Cornes en Vivo usa la de TotalCorner.</dd>
+<dt>Proyección ajustada</dt><dd>Estimación de Cornes en Vivo de los córners finales: córners + (córners ÷ minuto) × (90 − minuto) × 0,85, más o menos los ajustes de presión y contexto.</dd>
+<dt>Señal MÁS / MENOS</dt><dd>Pick de Cornes en Vivo: MÁS si la proyección supera la línea en vivo por 1,5 o más; MENOS si queda 1,5 o más por debajo.</dd>
+<dt>Descartado</dt><dd>Partido que el bot revisó en vivo pero no dio señal. Queda en el registro y no cuenta como pick.</dd>
+<dt>Nulo</dt><dd>Señal en la que el total final igualó la línea. No suma ni resta.</dd>
+<dt>v3-60 / v3-HT</dt><dd>Disparadores de Cornes en Vivo: lectura hacia el minuto 60, o al descanso cuando el favorito va perdiendo (experimental).</dd>
+<dt>Anulado</dt><dd>Pick que no se resuelve (partido suspendido o apuesta devuelta). No suma ni resta.</dd>
+<dt>Perseguir pérdidas</dt><dd>Subir la apuesta para recuperar lo perdido. Es la forma más rápida de vaciar el bank.</dd>
+</dl></div>
+<div class="rg"><b>🔞 Juego responsable · solo mayores de 18 años.</b> Este sitio documenta el trabajo de unos bots de análisis; no es asesoría financiera ni garantiza resultados. Las apuestas implican riesgo de pérdida: apuesta solo lo que puedas permitirte perder, gestiona tu stake y no persigas pérdidas. Si sientes que el juego dejó de ser entretenimiento, busca ayuda.</div></main>
+<footer><div class="wrap">CórnersPicks · Datos generados el <span id="generado">—</span> a partir de los registros de cada bot. Las horas se muestran en la zona horaria de tu dispositivo (<span data-tz>UTC-5</span>).</div></footer></body></html>

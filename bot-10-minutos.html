@@ -1,0 +1,54 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><script>document.documentElement.classList.add('js')</script><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bot Corners 10 Minutos · CórnersPicks</title><meta name="description" content="Reglas, cambios y estadísticas del Bot Corners 10 Minutos.">
+<link rel="icon" href="assets/favicon.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,800;0,900;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css?v=14"><script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js" defer></script><script src="js/app.js?v=14" defer></script></head>
+<body data-page="b10"><header class="top"><div class="wrap"><a class="brand" href="index.html"><img src="assets/logo-square.png" alt="Logo CórnersPicks"><span>Córners<b>Picks</b></span></a>
+<button class="navbtn" type="button" aria-expanded="false" aria-controls="menu" aria-label="Abrir menú"><span aria-hidden="true">☰</span></button><nav class="main" id="menu" aria-label="Menú principal"><a href="index.html" title="Inicio">Inicio</a><a href="picks-del-dia.html" class="hot" title="Picks del día">🔥 Picks del día</a><a href="bot-10-minutos.html" class="on" aria-current="page" title="Bot Corners 10 Minutos">10 Minutos</a><a href="picksters-over-corners.html" title="Picksters Over Córners">Over Córners</a><a href="cornes-en-vivo.html" title="Cornes en Vivo">En Vivo</a><a href="metodologia.html" title="Metodología y glosario">Metodología</a><a href="comunidad.html" title="Comentarios y sugerencias">💬 Comentarios</a></nav></div></header><main class="wrap">
+<h1>Bot Corners <span class="neon">10 Minutos</span></h1>
+<p class="muted">Busca partidos donde es muy probable que haya un córner en los primeros diez minutos.</p>
+<h2>El mercado</h2>
+<div class="card"><p><b>Al menos 1 córner antes del minuto 10</b> (de 0:00 a 9:59). Se resuelve con el jugada a jugada de ESPN: si el primer córner aparece antes del 10:00 es acierto; si no, error.</p>
+<p><b>Revisión:</b> cada 12 horas (rutina a las <time class="lt" datetime="2026-10-20T05:45:00-05:00">05:45 (UTC-5)</time> y <time class="lt" datetime="2026-10-20T17:45:00-05:00">17:45 (UTC-5)</time>, reporte hacia las <time class="lt" datetime="2026-10-20T06:00:00-05:00">06:00 (UTC-5)</time> y <time class="lt" datetime="2026-10-20T18:00:00-05:00">18:00 (UTC-5)</time>, hora de tu zona). Siempre hay reporte, aunque no aparezca ninguna oportunidad.</p></div>
+<h2>Parámetros y reglas</h2>
+<h3>Requisitos duros</h3>
+<ul class="rules"><li>Partido oficial: nunca amistosos.</li><li>Al menos 5 partidos de historial por equipo (se usan los últimos 10 oficiales).</li></ul>
+<h3>Ligas permitidas</h3>
+<ul class="rules"><li><b>Selecciones:</b> Nations League, eliminatorias UEFA/CONMEBOL/CONCACAF/CAF/AFC, Euro, Copa América, Mundial.</li>
+<li><b>Clubes:</b> Premier, LaLiga, Serie A, Bundesliga, Ligue 1, Eredivisie, Primeira Liga, Championship, Brasileirão A, Liga Profesional Argentina, MLS (regular y playoffs).</li>
+<li><b>Copas:</b> FA Cup, Copa del Rey, Coppa Italia, DFB-Pokal, Coupe de France, Copa de Brasil, Copa Argentina, US Open Cup, Champions, Europa y Conference.</li>
+<li><b>Excluidas:</b> ligas menores, divisiones inferiores, Leagues Cup, All-Star.</li></ul>
+<h3>Sistema de puntos (de −3 a 8)</h3>
+<div class="pts">
+<div class="card"><b class="k">A</b><b>Favorito local.</b> Cuota del local favorito ≤1,30: +2; de 1,31 a 1,60: +1; favorito visitante o partido parejo: 0.</div>
+<div class="card"><b class="k">B</b><b>Córners a favor del favorito.</b> ≥6,5: +2; de 5,5 a 6,4: +1.</div>
+<div class="card"><b class="k">C</b><b>Córners en contra del débil.</b> ≥6,0: +2; de 5,0 a 5,9: +1.</div>
+<div class="card"><b class="k">D</b><b>Córners esperados ≥10,5:</b> +1. Esperados = (CF local + CA visitante)/2 + (CF visitante + CA local)/2.</div>
+<div class="card"><b class="k">E</b><b>Ritmo de tiros</b> (desde el 8 oct). Tiros a favor y en contra de ambos, últimos 10, ≥1,08 × la media de tiros de la liga: +1.</div>
+<div class="card"><b class="k">−</b><b>Restas.</b> Esperados &lt;8,5: −1. Rotación anunciada del favorito: −2.</div>
+</div>
+<p><b>Niveles:</b> <span class="tag">FUERTE</span> 5 puntos o más · <span class="tag amber">MEDIA</span> 4 puntos · con menos de 4 se descarta. Desde el 15 oct solo se apuestan las fuertes con cuota ≥1,70; las medias son “solo seguimiento”.</p>
+<p><b>Fuentes:</b> ESPN API (calendario, historial y resultados), FotMob como respaldo, cuotas 1X2 de mercado vía ESPN, líneas de casas de referencia y TotalCorner solo como apoyo. CF = córners a favor; CA = córners en contra.</p>
+<h2>Cómo llegamos aquí</h2>
+<div class="timeline">
+<div class="ev"><div class="d">7 oct</div>Arranque con un filtro de 6 reglas (había que cumplir ≥4 de 6 + prioridad 1 o 2). En la práctica era imposible de cumplir. Un backtest de ~1.500 partidos llevó a cambiarlo por un <b>sistema de puntos A–D</b> (escala −3 a 7).</div>
+<div class="ev"><div class="d">8 oct</div>Se agrega el criterio <b>E</b> (ritmo de tiros) y la escala pasa a −3 a 8. En el backtest la fuerte subió de 62 % a 64 %. Stake sugerido: un cuarto de Kelly (0,5–2 % del bankroll), sin apuesta con cuota menor a 1,65. Primeras picks registradas.</div>
+<div class="ev"><div class="d">15 oct</div>Solo se apuestan las <b>fuertes con cuota ≥1,70</b>. Las medias pasan a “sin apuesta, solo seguimiento” y se vigilan aparte las <b>medias C2</b> (las que tienen C = 2).</div>
+<div class="ev"><div class="d">16 oct</div>Se corrige un bug en E (comparaba contra la media de la liga y no contra 1,08 × la media). Se decide mantener los promedios generales y no separar casa/fuera (backtest de 2.442 partidos: fuertes 64,8 % contra 54,9 %).</div>
+</div>
+<h2>Estadísticas</h2>
+<div id="kpis" class="kpis" data-needs-data></div>
+<p class="muted small" id="nivelTxt"></p>
+<div class="grid g2">
+<div class="card"><h3>% de acierto acumulado</h3><div class="chart"><canvas id="pctChart"></canvas></div></div>
+<div class="card"><h3>Unidades acumuladas</h3><div class="chart"><canvas id="uChart"></canvas></div></div>
+</div>
+<h2>Desglose por nivel</h2>
+<div class="grid g2"><div class="card"><div class="chart"><canvas id="nivelChart"></canvas></div></div><div class="card" id="nivelTbl"></div></div>
+<h2>Desglose por liga / competencia</h2>
+<div class="grid g2"><div class="card"><div class="chart" style="height:440px"><canvas id="ligaChart"></canvas></div></div><div class="card" id="ligaTbl" style="overflow:auto"></div></div>
+<h2>Historial de picks</h2>
+<div id="tabla" data-needs-data></div>
+<div class="notice small"><b>Cómo se calculan las unidades (supuesto):</b> el bot no guarda las cuotas reales tomadas; la columna <i>cuota_min</i> es la mínima recomendada. Por eso se usa 1 unidad por pick con estas cuotas: <b>fuerte a 1,65</b> hasta el 14 oct y <b>a 1,70</b> desde el 15 oct; <b>media a 1,72</b>. Si la fila trae una cuota_min coherente con su nivel (1,65 o 1,70 en fuertes, 1,72 en medias), se usa esa. Acierto = cuota − 1; error = −1. Las medias “solo seguimiento” (desde el 15 oct) también se valoran a 1,72 para poder compararlas, aunque no se apostaron; arriba se muestra además el total solo con las apostadas. Las pendientes, las “sin dato” y la fila de referencia (Galatasaray–Kasımpaşa, análisis del 9 oct) no cuentan. Las fechas de las gráficas son las del partido.<div id="avisos"></div></div>
+<div class="rg"><b>🔞 Juego responsable · solo mayores de 18 años.</b> Este sitio documenta el trabajo de unos bots de análisis; no es asesoría financiera ni garantiza resultados. Las apuestas implican riesgo de pérdida: apuesta solo lo que puedas permitirte perder, gestiona tu stake y no persigas pérdidas. Si sientes que el juego dejó de ser entretenimiento, busca ayuda.</div></main>
+<footer><div class="wrap">CórnersPicks · Datos generados el <span id="generado">—</span> a partir de los registros de cada bot. Las horas se muestran en la zona horaria de tu dispositivo (<span data-tz>UTC-5</span>).</div></footer></body></html>

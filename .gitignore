@@ -1,0 +1,9 @@
+screenshots/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.tmp
+*.swp
+*~
+.DS_Store

@@ -1,0 +1,23 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><script>document.documentElement.classList.add('js')</script><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Inicio · CórnersPicks</title><meta name="description" content="Cómo trabajan los bots de picks de córners de CórnersPicks: reglas, historial y estadísticas.">
+<link rel="icon" href="assets/favicon.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,800;0,900;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css?v=14"><script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js" defer></script><script src="js/app.js?v=14" defer></script></head>
+<body data-page="home"><header class="top"><div class="wrap"><a class="brand" href="index.html"><img src="assets/logo-square.png" alt="Logo CórnersPicks"><span>Córners<b>Picks</b></span></a>
+<button class="navbtn" type="button" aria-expanded="false" aria-controls="menu" aria-label="Abrir menú"><span aria-hidden="true">☰</span></button><nav class="main" id="menu" aria-label="Menú principal"><a href="index.html" class="on" aria-current="page" title="Inicio">Inicio</a><a href="picks-del-dia.html" class="hot" title="Picks del día">🔥 Picks del día</a><a href="bot-10-minutos.html" title="Bot Corners 10 Minutos">10 Minutos</a><a href="picksters-over-corners.html" title="Picksters Over Córners">Over Córners</a><a href="cornes-en-vivo.html" title="Cornes en Vivo">En Vivo</a><a href="metodologia.html" title="Metodología y glosario">Metodología</a><a href="comunidad.html" title="Comentarios y sugerencias">💬 Comentarios</a></nav></div></header><main class="wrap">
+<section class="hero"><img src="assets/banner.jpg" alt="CórnersPicks: pronósticos de córners todos los días"></section>
+<h1>Cómo trabajan los bots de <span class="neon">CórnersPicks</span></h1>
+<p>CórnersPicks es un canal de pronósticos de córners. Detrás de cada pick hay un bot que revisa el calendario, cruza estadísticas de varias fuentes y aplica unas reglas fijas para decidir si un partido entra o no. Este sitio documenta ese trabajo desde cero: <b>qué mercado mira cada bot, cómo se definieron sus parámetros, cómo fueron cambiando</b> y cómo les ha ido, con todas las picks, incluidas las falladas.</p>
+<a class="pdd-cta" href="picks-del-dia.html"><span class="big">🔥 Picks del día</span><span>Las picks pendientes de cada bot, en la hora de tu zona, y los resultados de ayer →</span></a>
+<a class="pdd-cta alt" href="comunidad.html"><span class="big">💬 Comentarios y sugerencias</span><span>Propón ligas o mercados, reporta errores o comenta las picks →</span></a>
+<h2>Resumen general</h2>
+<div id="botcards" class="grid g3" data-needs-data></div>
+<h3>Totales de los tres bots</h3><div id="totales" class="kpis"></div><p class="muted small">Suma simple de los tres registros (cada bot con su propia cuota: real, promedio o supuesta). Sirve como referencia, no como un solo sistema.</p>
+<h2>Comparativa</h2>
+<div class="grid g2">
+<div class="card"><h3>Unidades acumuladas</h3><div class="chart"><canvas id="cmpUnits"></canvas></div></div>
+<div class="card"><h3>% de acierto acumulado</h3><div class="chart"><canvas id="cmpPct"></canvas></div></div>
+</div>
+<p class="muted small">Ojo: los bots juegan mercados distintos y con cuotas distintas, así que el % de acierto no se compara directamente. A cuota 1,60 hace falta acertar el 62,5 % para no perder; a 1,70, el 58,8 %; a 1,90 (cuota supuesta de Cornes en Vivo), el 52,6 %. Las unidades sí reflejan el resultado neto con 1 unidad por pick. Ver <a href="metodologia.html">metodología</a>.</p>
+<div class="rg"><b>🔞 Juego responsable · solo mayores de 18 años.</b> Este sitio documenta el trabajo de unos bots de análisis; no es asesoría financiera ni garantiza resultados. Las apuestas implican riesgo de pérdida: apuesta solo lo que puedas permitirte perder, gestiona tu stake y no persigas pérdidas. Si sientes que el juego dejó de ser entretenimiento, busca ayuda.</div></main>
+<footer><div class="wrap">CórnersPicks · Datos generados el <span id="generado">—</span> a partir de los registros de cada bot. Las horas se muestran en la zona horaria de tu dispositivo (<span data-tz>UTC-5</span>).</div></footer></body></html>
