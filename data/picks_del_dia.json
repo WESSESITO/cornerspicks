@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-21 06:30",
- "generado_iso": "2026-10-21T06:30:00-05:00",
+ "generado": "2026-10-21 18:37",
+ "generado_iso": "2026-10-21T18:37:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-10-21",
  "ayer": "2026-10-20",
@@ -11,93 +11,6 @@
    "mercado": "Más de 9,5 córners totales",
    "link": "picksters-over-corners.html",
    "pendientes": [
-    {
-     "fecha": "2026-10-21",
-     "hora": "14:00",
-     "iso": "2026-10-21T14:00:00-05:00",
-     "partido": "Real Madrid vs RB Leipzig",
-     "competencia": "Champions League",
-     "nivel": null,
-     "marcas": [
-      "favorito claro"
-     ],
-     "respaldo": "promedio 11,82-11,93",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,82-11,93 córners (umbral: 10 o más de forma clara). ESPN (Real Madrid 6.3/5.0; Leipzig 6.22/6.33 en 9) 11.93; FotMob (Real Madrid 6.3/5.0; Leipzig 6.11/6.22 en 9) 11.82. El Madrid es favorito claro y Leipzig concede más de 6 corners por partido, así que el volumen debería cargarse del lado blanco con margen sobre 10.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "14:00",
-     "iso": "2026-10-21T14:00:00-05:00",
-     "partido": "Aston Villa vs Viking FK",
-     "competencia": "Champions League",
-     "nivel": null,
-     "marcas": [
-      "ajustada",
-      "favorito claro"
-     ],
-     "respaldo": "promedio 10,6-11,5",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,6-11,5 córners (umbral: 10 o más de forma clara). ESPN (Aston Villa 4.5/4.3; Viking 7.2/7.0) 11.5; FotMob (Aston Villa 4.4/4.3; Viking 6.7/5.8) 10.6. Viking juega partidos con muchos corners en ambos sentidos, pero Villa genera poco y las fuentes discrepan, así que queda algo ajustado. Villa es favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "14:00",
-     "iso": "2026-10-21T14:00:00-05:00",
-     "partido": "Club Brugge vs RC Lens",
-     "competencia": "Champions League",
-     "nivel": null,
-     "marcas": [
-      "ajustada"
-     ],
-     "respaldo": "promedio 10,5-11,0",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,5-11,0 córners (umbral: 10 o más de forma clara). ESPN (Brujas 7.5/3.4; Lens 7.0/4.1) 11.0; FotMob (Brujas 7.3/3.4; Lens 6.3/4.0) 10.5. Los dos equipos generan mucho y conceden poco, así que el total depende de su producción ofensiva; pick algo ajustado y sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "14:00",
-     "iso": "2026-10-21T14:00:00-05:00",
-     "partido": "Bayern Munich vs Arsenal",
-     "competencia": "Champions League",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 10,25-10,33",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,25-10,33 córners (umbral: 10 o más de forma clara). ESPN (Bayern 9.67/2.89 en 9; Arsenal 5.0/3.1) 10.33; FotMob (Bayern 9.3/3.3; Arsenal 4.8/3.1) 10.25. El Bayern promedia más de 9 corners a favor, pero Arsenal concede muy pocos; es el pick más justo del día y no hay favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
     {
      "fecha": "2026-10-21",
      "hora": "18:00",
@@ -113,7 +26,7 @@
      "respaldo": "promedio 10,55",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -335,17 +248,105 @@
      }
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-10-21",
+     "hora": "14:00",
+     "iso": "2026-10-21T14:00:00-05:00",
+     "partido": "Real Madrid vs RB Leipzig",
+     "competencia": "Champions League",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 11,82-11,93",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "8 (7-1) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,82-11,93 córners (umbral: 10 o más de forma clara). ESPN (Real Madrid 6.3/5.0; Leipzig 6.22/6.33 en 9) 11.93; FotMob (Real Madrid 6.3/5.0; Leipzig 6.11/6.22 en 9) 11.82. El Madrid es favorito claro y Leipzig concede más de 6 corners por partido, así que el volumen debería cargarse del lado blanco con margen sobre 10.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "14:00",
+     "iso": "2026-10-21T14:00:00-05:00",
+     "partido": "Aston Villa vs Viking FK",
+     "competencia": "Champions League",
+     "nivel": null,
+     "marcas": [
+      "ajustada",
+      "favorito claro"
+     ],
+     "respaldo": "promedio 10,6-11,5",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "14 (8-6) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,6-11,5 córners (umbral: 10 o más de forma clara). ESPN (Aston Villa 4.5/4.3; Viking 7.2/7.0) 11.5; FotMob (Aston Villa 4.4/4.3; Viking 6.7/5.8) 10.6. Viking juega partidos con muchos corners en ambos sentidos, pero Villa genera poco y las fuentes discrepan, así que queda algo ajustado. Villa es favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "14:00",
+     "iso": "2026-10-21T14:00:00-05:00",
+     "partido": "Club Brugge vs RC Lens",
+     "competencia": "Champions League",
+     "nivel": null,
+     "marcas": [
+      "ajustada"
+     ],
+     "respaldo": "promedio 10,5-11,0",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "6 (1-5) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,5-11,0 córners (umbral: 10 o más de forma clara). ESPN (Brujas 7.5/3.4; Lens 7.0/4.1) 11.0; FotMob (Brujas 7.3/3.4; Lens 6.3/4.0) 10.5. Los dos equipos generan mucho y conceden poco, así que el total depende de su producción ofensiva; pick algo ajustado y sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "14:00",
+     "iso": "2026-10-21T14:00:00-05:00",
+     "partido": "Bayern Munich vs Arsenal",
+     "competencia": "Champions League",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,25-10,33",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "8 (3-5) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,25-10,33 córners (umbral: 10 o más de forma clara). ESPN (Bayern 9.67/2.89 en 9; Arsenal 5.0/3.1) 10.33; FotMob (Bayern 9.3/3.3; Arsenal 4.8/3.1) 10.25. El Bayern promedia más de 9 corners a favor, pero Arsenal concede muy pocos; es el pick más justo del día y no hay favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
    "balance": {
-    "resueltas": 94,
-    "aciertos": 61,
-    "errores": 33,
-    "pct": 64.89,
-    "unidades": 3.7,
-    "roi": 3.94,
+    "resueltas": 98,
+    "aciertos": 62,
+    "errores": 36,
+    "pct": 63.27,
+    "unidades": 1.3,
+    "roi": 1.33,
     "cuota_media": 1.61,
     "total": 105,
-    "pendientes": 10,
+    "pendientes": 6,
     "otros": 1,
     "anulados": 1
    }
@@ -356,52 +357,6 @@
    "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
    "link": "bot-10-minutos.html",
    "pendientes": [
-    {
-     "fecha": "2026-10-21",
-     "hora": "14:00",
-     "iso": "2026-10-21T14:00:00-05:00",
-     "partido": "Aston Villa vs Viking FK",
-     "competencia": "Champions League",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "5 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-20 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Aston Villa es favorito local con cuota 1,22 (A=2). Aston Villa promedia 4,5 corners a favor (B=0) y Viking FK recibe 7,0 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,5 corners en el partido (D=1) y el ritmo es de 30,9 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: ESPN 5 pts; con FotMob (Viking CA 5,8) daría 4: fuerte al límite.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "14:00",
-     "iso": "2026-10-21T14:00:00-05:00",
-     "partido": "Real Madrid vs RB Leipzig",
-     "competencia": "Champions League",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "7 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-20 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Real Madrid es favorito local con cuota 1,25 (A=2). Real Madrid promedia 6,3 corners a favor (B=1) y RB Leipzig recibe 6,3 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 11,9 corners en el partido (D=1) y el ritmo es de 32,3 tiros frente a un umbral de 32,2 (E=1). Total 7 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
     {
      "fecha": "2026-10-21",
      "hora": "18:00",
@@ -416,11 +371,149 @@
      "cuota": "sin apuesta (solo seguimiento)",
      "sin_apuesta": true,
      "reportada": "2026-10-20 18:00",
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
       "texto": "FC Cincinnati es favorito local pero paga 1,65, por encima de 1,60, así que no suma por cuota (A=0). FC Cincinnati promedia 5,9 corners a favor (B=1) y D.C. United recibe 5,6 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 10,6 corners en el partido (D=1) y el ritmo es de 30,4 tiros frente a un umbral de 30,0 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "11:45",
+     "iso": "2026-10-22T11:45:00-05:00",
+     "partido": "Ararat-Armenia vs AZ Alkmaar",
+     "competencia": "Europa League",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-21 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,51), así que no suma por cuota (A=0). AZ Alkmaar promedia 7,3 corners a favor (B=2) y Ararat-Armenia recibe 7,7 en contra (C=2), en sus últimos 6 y 10 partidos oficiales. Se esperan 11,3 corners en el partido (D=1) y el ritmo es de 25,7 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob (ESPN incompleto).",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "11:45",
+     "iso": "2026-10-22T11:45:00-05:00",
+     "partido": "Juventus vs Stade Rennais",
+     "competencia": "Europa League",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-21 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Juventus es favorito local con cuota 1,54 (A=1). Juventus promedia 7,1 corners a favor (B=2) y Stade Rennais recibe 5,8 en contra (C=1), en sus últimos 9 partidos oficiales. Se esperan 11,1 corners en el partido (D=1) y el ritmo es de 28,2 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "11:45",
+     "iso": "2026-10-22T11:45:00-05:00",
+     "partido": "Kauno Zalgiris vs SK Brann",
+     "competencia": "Conference League",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-21 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,71), así que no suma por cuota (A=0). SK Brann promedia 8,8 corners a favor (B=2) y Kauno Zalgiris recibe 7,4 en contra (C=2), en sus últimos 7 y 10 partidos oficiales. Se esperan 11,3 corners en el partido (D=1) y el ritmo es de 26,2 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob (ESPN incompleto).",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "14:00",
+     "iso": "2026-10-22T14:00:00-05:00",
+     "partido": "Lillestrom vs Real Sociedad",
+     "competencia": "Europa League",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-21 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,51), así que no suma por cuota (A=0). Real Sociedad promedia 7,0 corners a favor (B=2) y Lillestrom recibe 5,5 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 11,6 corners en el partido (D=1) y el ritmo es de 30,4 tiros frente a un umbral de 32,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "14:00",
+     "iso": "2026-10-22T14:00:00-05:00",
+     "partido": "Lincoln Red Imps vs FC Twente",
+     "competencia": "Conference League",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-21 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,22), así que no suma por cuota (A=0). FC Twente promedia 7,0 corners a favor (B=2) y Lincoln Red Imps recibe 8,4 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,3 corners en el partido (D=1) y el ritmo es de 27,4 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob (ESPN incompleto).",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "14:00",
+     "iso": "2026-10-22T14:00:00-05:00",
+     "partido": "TSG Hoffenheim vs Lyon",
+     "competencia": "Europa League",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-21 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "TSG Hoffenheim es favorito local pero paga 2,00, por encima de 1,60, así que no suma por cuota (A=0). TSG Hoffenheim promedia 7,8 corners a favor (B=2) y Lyon recibe 6,0 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 11,3 corners en el partido (D=1) y el ritmo es de 28,1 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más.",
       "detalle": "",
       "origen": "bot"
      }
@@ -451,17 +544,64 @@
      }
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-10-21",
+     "hora": "14:00",
+     "iso": "2026-10-21T14:00:00-05:00",
+     "partido": "Aston Villa vs Viking FK",
+     "competencia": "Champions League",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-20 18:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "21:04 (22')",
+     "argumento": {
+      "texto": "Aston Villa es favorito local con cuota 1,22 (A=2). Aston Villa promedia 4,5 corners a favor (B=0) y Viking FK recibe 7,0 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,5 corners en el partido (D=1) y el ritmo es de 30,9 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: ESPN 5 pts; con FotMob (Viking CA 5,8) daría 4: fuerte al límite.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "14:00",
+     "iso": "2026-10-21T14:00:00-05:00",
+     "partido": "Real Madrid vs RB Leipzig",
+     "competencia": "Champions League",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "7 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-20 18:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "10:45 (11')",
+     "argumento": {
+      "texto": "Real Madrid es favorito local con cuota 1,25 (A=2). Real Madrid promedia 6,3 corners a favor (B=1) y RB Leipzig recibe 6,3 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 11,9 corners en el partido (D=1) y el ritmo es de 32,3 tiros frente a un umbral de 32,2 (E=1). Total 7 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
    "balance": {
-    "resueltas": 94,
+    "resueltas": 96,
     "aciertos": 52,
-    "errores": 42,
-    "pct": 55.32,
-    "unidades": -6.19,
-    "roi": -6.59,
+    "errores": 44,
+    "pct": 54.17,
+    "unidades": -8.19,
+    "roi": -8.53,
     "cuota_media": 1.69,
-    "total": 97,
-    "pendientes": 3,
+    "total": 103,
+    "pendientes": 7,
     "otros": 0
    }
   },
@@ -471,7 +611,93 @@
    "mercado": "Total de córners MÁS o MENOS que la línea en vivo",
    "link": "cornes-en-vivo.html",
    "vivo": true,
-   "pendientes": [],
+   "pendientes": [
+    {
+     "fecha": "2026-10-21",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "51'",
+     "partido": "Como vs Manchester United",
+     "competencia": "UEFA Champions League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "6,0",
+     "respaldo": "MENOS 6,0 · proyección 3,3 · marcador 2-0, 2 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "5 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 51 (ESPN 51', TC 51); goles Nico Paz 2', Douvikas 49'; Base 2 + 2/51*39*0.85 = 3.30; sin +1 presión: 2 tiros fuera 36-51' (39' Douvikas alto, 45' Cunha alto.",
+      "detalle": "43' Baturina atajado); sin +1 contexto: favorito Como (una casa de apuestas ML +140; Man United +175, empate +275) gana por 2; sin −1: lidera por 2 pero United debe salir (2 cambios al descanso), no se ve cerrado; sin rojas en ESPN (amarillas Andrey Santos 25', Baleba 51'; TC muestra marca 36' junto a Como, no confirmada); córners ESPN 1-1 = TC 1-1 (1T 1-1, 2T sin córners); tiros 6-3 (a puerta 4-0), bloqueados 0-0; posesión 61.9-38.1; TC ataques 23-11 / 23-10; ajustada 3.30 vs línea 6.0 (umbrales 7.5/4.5) = MENOS; una casa de apuestas O/U goles prepartido 3.5; línea TotalCorner texto crudo: \"9.5 (6.0)\" -> en vivo 6.0, prepartido 9.5; Fuente ESPN min/marcador/córners/tiros/commentary/cuotas; línea/ataques TotalCorner (TC min 51)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 4-1, córners 1-4 = 5 (= ESPN commentary)"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "53'",
+     "partido": "Lille vs Galatasaray",
+     "competencia": "UEFA Champions League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "6,0",
+     "respaldo": "MENOS 6,0 · proyección 4,2 · marcador 2-2, 2 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "nulo",
+     "detalle": "6 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 53 (ESPN 53', TC 52); goles Akgün 2', Diaoune 7' y 39', Batrakov 44'; OJO marcador: ESPN 2-2, TotalCorner 2-3 (línea de goles TC en vivo 6.5 sugiere un 5º gol no reflejado aún en ESPN); Base 2 + 2/53*37*0.85 = 3.19.",
+      "detalle": "sin +1 presión: 2 tiros fuera/bloqueados 38-53' (37' Yilmaz fuera, 49' André bloqueado; 38'/39' Bakwa atajados); +1 contexto: favorito Lille (una casa de apuestas ML +155; Galatasaray +170, empate +250) empatando (o perdiendo según TC); sin −1: margen 0-1, sin rojas (amarilla Bentaleb 21'); córners ESPN 1-1 = TC 1-1 (1T 1-0, 2T Galatasaray 52'); tiros 9-5 (a puerta 5-2), bloqueados 2-0; posesión 52.1-47.9; TC ataques 23-21 / 21-17; ajustada 4.19 vs línea 6.0 (umbrales 7.5/4.5) = MENOS; partido muy abierto de goles pero sin córners; una casa de apuestas O/U goles prepartido 2.5; línea TotalCorner texto crudo: \"9.0 (6.0)\" -> en vivo 6.0, prepartido 9.0; Fuente ESPN min/marcador/córners/tiros/commentary/cuotas; línea/ataques/marcador alterno TotalCorner (TC min 52)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 2-4, córners 3-3 = 6 (= ESPN commentary)"
+     }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "descanso",
+     "partido": "Levante vs Athletic Club",
+     "competencia": "LaLiga",
+     "nivel": null,
+     "marcas": [
+      "MÁS",
+      "v3-HT",
+      "experimental"
+     ],
+     "senal": "MÁS",
+     "linea": "11,5",
+     "respaldo": "MÁS 11,5 · proyección 13,1 · marcador 2-0, 6 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "12 córners",
+     "argumento": {
+      "texto": "minuto 45 (ESPN 45'+2' 1T, TC 46'); favorito prepartido Athletic Club (una casa de apuestas ML cierre +130; Levante +230, empate +225) pierde 2-0 (Roger Brugué 20' y 22'); córners 1T Levante 1 - Athletic 5 (ESPN = TC 1-5; Athletic 9', 27', 39', 41' y uno antes.",
+      "detalle": "Levante 44'); tiros 7-12, a puerta 4-3, bloqueados (ESPN) 1-4; posesión 39.2-60.8; DA TC 22-27; sin rojas ni amarillas; Base 6 + 6/45*45*0.85 = 11.10; +1 presión: 5 tiros fuera/bloqueados 30-45' (33' Olasagasti fuera, 35' Toljan fuera, 42' Berchiche bloqueado, 43' Jauregizar alto, 44' Requena bloqueado; ESPN commentary); +1 contexto: favorito perdiendo; sin −1: ventaja de 2 pero partido abierto (Levante sigue llegando, Athletic con 60% posesión y 4 córners desde el 9'); ajustada 13.10 vs línea 11.5 (umbral MÁS 13.0) = MÁS por 0.10 (muy sensible: con −1 por ventaja de 2 o sin el +1 de presión sería 12.10 = descartado); línea TotalCorner texto crudo: \"\"9.5 (11.5)\"\" -> en vivo 11.5, prepartido 9.5; expectativa 2T: Athletic debe empujar con centros (10 centros 1T) y Berenguer/Navarro por bandas, se esperan córners del Athletic; riesgo de contra de Levante (Brugué, Romero) con espacios; Fuente ESPN marcador/córners/tiros/cuotas/commentary; línea/DA TotalCorner (46')",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 3-1, córners 3-9 = 12 (= ESPN commentary); favorito Athletic Club NO remontó (perdió 3-1); córners 2T de Athletic: 3 (55', 70', 90'+2'; ESPN commentary); córners 2T totales: 5 (Levante 69', 76'); 1T real 1-6 (incluye 45'+2')"
+     }
+    }
+   ],
    "ayer": [
     {
      "fecha": "2026-10-20",
@@ -505,17 +731,17 @@
    ],
    "hoy_cerradas": [],
    "balance": {
-    "resueltas": 34,
-    "aciertos": 18,
+    "resueltas": 36,
+    "aciertos": 20,
     "errores": 16,
-    "pct": 52.94,
-    "unidades": 0.2,
-    "roi": 0.59,
+    "pct": 55.56,
+    "unidades": 2.0,
+    "roi": 5.56,
     "cuota_media": 1.9,
-    "total": 35,
+    "total": 38,
     "pendientes": 0,
-    "otros": 1,
-    "nulos": 1
+    "otros": 2,
+    "nulos": 2
    }
   }
  ]
