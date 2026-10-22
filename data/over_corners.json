@@ -2,8 +2,8 @@
  "bot": "over_corners",
  "nombre": "Picksters Over Córners",
  "mercado": "Más de 9,5 córners totales en el partido",
- "generado": "2026-10-22 08:40",
- "generado_iso": "2026-10-22T08:40:00-05:00",
+ "generado": "2026-10-22 18:34",
+ "generado_iso": "2026-10-22T18:34:00-05:00",
  "fuente_csv": "site-data/over_corners.csv",
  "breakeven": 62.5,
  "vigilancia": [
@@ -11,15 +11,15 @@
   "Liga Argentina"
  ],
  "resumen": {
-  "resueltas": 104,
-  "aciertos": 67,
-  "errores": 37,
-  "pct": 64.42,
-  "unidades": 3.3,
-  "roi": 3.17,
-  "cuota_media": 1.61,
+  "resueltas": 108,
+  "aciertos": 69,
+  "errores": 39,
+  "pct": 63.89,
+  "unidades": 2.5,
+  "roi": 2.31,
+  "cuota_media": 1.6,
   "total": 109,
-  "pendientes": 4,
+  "pendientes": 0,
   "otros": 1,
   "anulados": 1
  },
@@ -95,6 +95,20 @@
    "vigilancia": false
   },
   {
+   "grupo": "Europa League",
+   "resueltas": 7,
+   "aciertos": 5,
+   "errores": 2,
+   "pct": 71.43,
+   "unidades": 1.0,
+   "roi": 14.29,
+   "cuota_media": 1.6,
+   "total": 7,
+   "pendientes": 0,
+   "otros": 0,
+   "vigilancia": false
+  },
+  {
    "grupo": "LaLiga",
    "resueltas": 6,
    "aciertos": 5,
@@ -137,20 +151,6 @@
    "vigilancia": true
   },
   {
-   "grupo": "Europa League",
-   "resueltas": 3,
-   "aciertos": 3,
-   "errores": 0,
-   "pct": 100.0,
-   "unidades": 1.8,
-   "roi": 60.0,
-   "cuota_media": 1.6,
-   "total": 7,
-   "pendientes": 4,
-   "otros": 0,
-   "vigilancia": false
-  },
-  {
    "grupo": "Premier League",
    "resueltas": 2,
    "aciertos": 1,
@@ -182,28 +182,28 @@
  "por_favorito": [
   {
    "grupo": "sí",
-   "resueltas": 12,
-   "aciertos": 10,
-   "errores": 2,
-   "pct": 83.33,
-   "unidades": 4.0,
-   "roi": 33.33,
+   "resueltas": 14,
+   "aciertos": 11,
+   "errores": 3,
+   "pct": 78.57,
+   "unidades": 3.6,
+   "roi": 25.71,
    "cuota_media": 1.6,
    "total": 14,
-   "pendientes": 2,
+   "pendientes": 0,
    "otros": 0
   },
   {
    "grupo": "no",
-   "resueltas": 35,
-   "aciertos": 20,
-   "errores": 15,
-   "pct": 57.14,
-   "unidades": -3.0,
-   "roi": -8.57,
+   "resueltas": 37,
+   "aciertos": 21,
+   "errores": 16,
+   "pct": 56.76,
+   "unidades": -3.4,
+   "roi": -9.19,
    "cuota_media": 1.6,
    "total": 37,
-   "pendientes": 2,
+   "pendientes": 0,
    "otros": 0
   },
   {
@@ -370,14 +370,19 @@
    "acum_aciertos": 67,
    "acum_pct": 64.42,
    "acum_unidades": 3.3
+  },
+  {
+   "fecha": "2026-10-22",
+   "dia_picks": 4,
+   "dia_aciertos": 2,
+   "dia_unidades": -0.8,
+   "acum_resueltas": 108,
+   "acum_aciertos": 69,
+   "acum_pct": 63.89,
+   "acum_unidades": 2.5
   }
  ],
- "pendientes_lista": [
-  "Juventus vs Stade Rennais",
-  "Celtic vs Celta Vigo",
-  "Lillestrom vs Real Sociedad",
-  "TSG Hoffenheim vs Lyon"
- ],
+ "pendientes_lista": [],
  "avisos": [],
  "picks": [
   {
@@ -2383,16 +2388,16 @@
    "competencia": "Europa League",
    "promedio": "11.05",
    "linea": "Más de 9.5 corners",
-   "corners": "",
-   "corners_total": null,
-   "resultado": "pendiente",
+   "corners": "12 (7-5)",
+   "corners_total": 12,
+   "resultado": "acierto",
    "cuota": 1.6,
    "cuota_estimada": true,
-   "unidades": null,
+   "unidades": 0.6,
    "favorito_claro": "sí",
    "vigilancia": false,
    "resumen": "ESPN y FotMob coinciden en 11.05 (Juventus 7.11/2.78 en 9; Rennes 6.44/5.78 en 9). La Juventus genera más de 7 corners por partido y Rennes concede casi 6, así que el volumen debería venir del lado local con margen sobre 10. La Juve es favorita clara.",
-   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas + UEFA (sin amistosos); contrastado ESPN y FotMob (2026-10-22 06:00). Favorito muy claro: sí (Juventus 1.44 / Rennes 7.00, una casa de apuestas)."
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas + UEFA (sin amistosos); contrastado ESPN y FotMob (2026-10-22 06:00). Favorito muy claro: sí (Juventus 1.44 / Rennes 7.00, una casa de apuestas). | Cerrado 16:00 22-oct: final 2-2; corners 7-5=12 según ESPN y FotMob (coinciden)."
   },
   {
    "fecha": "2026-10-22",
@@ -2402,16 +2407,16 @@
    "competencia": "Europa League",
    "promedio": "10.65-10.9",
    "linea": "Más de 9.5 corners",
-   "corners": "",
-   "corners_total": null,
-   "resultado": "pendiente",
+   "corners": "8 (2-6)",
+   "corners_total": 8,
+   "resultado": "error",
    "cuota": 1.6,
    "cuota_estimada": true,
-   "unidades": null,
+   "unidades": -1.0,
    "favorito_claro": "no",
    "vigilancia": false,
    "resumen": "ESPN (Celtic 8.9/4.1; Celta 3.7/5.1) 10.9; FotMob (Celtic 8.5/4.1; Celta 3.6/5.1) 10.65. El Celtic saca más de 8 corners por partido y Celta concede más de 5, pero Celta genera poco; queda algo ajustado y sin favorito claro.",
-   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas + UEFA (sin amistosos); contrastado ESPN y FotMob (2026-10-22 06:00). Favorito muy claro: no (Celtic 2.70 / Celta 2.55, una casa de apuestas)."
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas + UEFA (sin amistosos); contrastado ESPN y FotMob (2026-10-22 06:00). Favorito muy claro: no (Celtic 2.70 / Celta 2.55, una casa de apuestas). | Cerrado 16:00 22-oct: final 1-2; corners 2-6=8 según ESPN y FotMob (coinciden)."
   },
   {
    "fecha": "2026-10-22",
@@ -2421,16 +2426,16 @@
    "competencia": "Europa League",
    "promedio": "11.55-11.7",
    "linea": "Más de 9.5 corners",
-   "corners": "",
-   "corners_total": null,
-   "resultado": "pendiente",
+   "corners": "7 (3-4)",
+   "corners_total": 7,
+   "resultado": "error",
    "cuota": 1.6,
    "cuota_estimada": true,
-   "unidades": null,
+   "unidades": -1.0,
    "favorito_claro": "sí",
    "vigilancia": false,
    "resumen": "ESPN (Lillestrom 5.9/5.5; Real Sociedad 7.0/4.7) 11.55; FotMob (Lillestrom 5.7/6.0; Real Sociedad 7.0/4.7) 11.7. Lillestrom concede más de 5 corners por partido y la Real Sociedad produce 7, así que ambas fuentes lo dejan holgado sobre 10. La Real es favorita clara.",
-   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas + UEFA (sin amistosos); contrastado ESPN y FotMob (2026-10-22 06:00). Favorito muy claro: sí (Real Sociedad 1.46 / Lillestrom 6.50, una casa de apuestas)."
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas + UEFA (sin amistosos); contrastado ESPN y FotMob (2026-10-22 06:00). Favorito muy claro: sí (Real Sociedad 1.46 / Lillestrom 6.50, una casa de apuestas). | Cerrado 16:00 22-oct: final 0-6; corners 3-4=7 según ESPN; FotMob marca 3-3=6, ambos por debajo de 10."
   },
   {
    "fecha": "2026-10-22",
@@ -2440,16 +2445,16 @@
    "competencia": "Europa League",
    "promedio": "11.25-11.3",
    "linea": "Más de 9.5 corners",
-   "corners": "",
-   "corners_total": null,
-   "resultado": "pendiente",
+   "corners": "20 (11-9)",
+   "corners_total": 20,
+   "resultado": "acierto",
    "cuota": 1.6,
    "cuota_estimada": true,
-   "unidades": null,
+   "unidades": 0.6,
    "favorito_claro": "no",
    "vigilancia": false,
    "resumen": "ESPN (Hoffenheim 7.78/4.33 en 9; Lyon 4.5/6.0) 11.3; FotMob (Hoffenheim 7.78/4.33 en 9; Lyon 4.4/6.0) 11.25. El Hoffenheim genera casi 8 corners por partido y Lyon concede 6, lo que sostiene un total por encima de 11 en ambas fuentes. Sin favorito claro.",
-   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas + UEFA (sin amistosos); contrastado ESPN y FotMob (2026-10-22 06:00). Favorito muy claro: no (Hoffenheim 2.05 / Lyon 3.20, una casa de apuestas)."
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas + UEFA (sin amistosos); contrastado ESPN y FotMob (2026-10-22 06:00). Favorito muy claro: no (Hoffenheim 2.05 / Lyon 3.20, una casa de apuestas). | Cerrado 16:00 22-oct: final 3-0; corners 11-9=20 según ESPN y FotMob (coinciden)."
   }
  ]
 }

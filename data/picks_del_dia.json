@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-22 08:40",
- "generado_iso": "2026-10-22T08:40:00-05:00",
+ "generado": "2026-10-22 18:34",
+ "generado_iso": "2026-10-22T18:34:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-10-22",
  "ayer": "2026-10-21",
@@ -10,94 +10,7 @@
    "nombre": "Picksters Over Córners",
    "mercado": "Más de 9,5 córners totales",
    "link": "picksters-over-corners.html",
-   "pendientes": [
-    {
-     "fecha": "2026-10-22",
-     "hora": "11:45",
-     "iso": "2026-10-22T11:45:00-05:00",
-     "partido": "Juventus vs Stade Rennais",
-     "competencia": "Europa League",
-     "nivel": null,
-     "marcas": [
-      "favorito claro"
-     ],
-     "respaldo": "promedio 11,05",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,05 córners (umbral: 10 o más de forma clara). ESPN y FotMob coinciden en 11.05 (Juventus 7.11/2.78 en 9; Rennes 6.44/5.78 en 9). La Juventus genera más de 7 corners por partido y Rennes concede casi 6, así que el volumen debería venir del lado local con margen sobre 10. La Juve es favorita clara.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-22",
-     "hora": "14:00",
-     "iso": "2026-10-22T14:00:00-05:00",
-     "partido": "Celtic vs Celta Vigo",
-     "competencia": "Europa League",
-     "nivel": null,
-     "marcas": [
-      "ajustada"
-     ],
-     "respaldo": "promedio 10,65-10,9",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,65-10,9 córners (umbral: 10 o más de forma clara). ESPN (Celtic 8.9/4.1; Celta 3.7/5.1) 10.9; FotMob (Celtic 8.5/4.1; Celta 3.6/5.1) 10.65. El Celtic saca más de 8 corners por partido y Celta concede más de 5, pero Celta genera poco; queda algo ajustado y sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-22",
-     "hora": "14:00",
-     "iso": "2026-10-22T14:00:00-05:00",
-     "partido": "Lillestrom vs Real Sociedad",
-     "competencia": "Europa League",
-     "nivel": null,
-     "marcas": [
-      "favorito claro"
-     ],
-     "respaldo": "promedio 11,55-11,7",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,55-11,7 córners (umbral: 10 o más de forma clara). ESPN (Lillestrom 5.9/5.5; Real Sociedad 7.0/4.7) 11.55; FotMob (Lillestrom 5.7/6.0; Real Sociedad 7.0/4.7) 11.7. Lillestrom concede más de 5 corners por partido y la Real Sociedad produce 7, así que ambas fuentes lo dejan holgado sobre 10. La Real es favorita clara.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-22",
-     "hora": "14:00",
-     "iso": "2026-10-22T14:00:00-05:00",
-     "partido": "TSG Hoffenheim vs Lyon",
-     "competencia": "Europa League",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 11,25-11,3",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,25-11,3 córners (umbral: 10 o más de forma clara). ESPN (Hoffenheim 7.78/4.33 en 9; Lyon 4.5/6.0) 11.3; FotMob (Hoffenheim 7.78/4.33 en 9; Lyon 4.4/6.0) 11.25. El Hoffenheim genera casi 8 corners por partido y Lyon concede 6, lo que sostiene un total por encima de 11 en ambas fuentes. Sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    }
-   ],
+   "pendientes": [],
    "ayer": [
     {
      "fecha": "2026-10-21",
@@ -315,17 +228,104 @@
      }
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-10-22",
+     "hora": "11:45",
+     "iso": "2026-10-22T11:45:00-05:00",
+     "partido": "Juventus vs Stade Rennais",
+     "competencia": "Europa League",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 11,05",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "12 (7-5) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,05 córners (umbral: 10 o más de forma clara). ESPN y FotMob coinciden en 11.05 (Juventus 7.11/2.78 en 9; Rennes 6.44/5.78 en 9). La Juventus genera más de 7 corners por partido y Rennes concede casi 6, así que el volumen debería venir del lado local con margen sobre 10. La Juve es favorita clara.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "14:00",
+     "iso": "2026-10-22T14:00:00-05:00",
+     "partido": "Celtic vs Celta Vigo",
+     "competencia": "Europa League",
+     "nivel": null,
+     "marcas": [
+      "ajustada"
+     ],
+     "respaldo": "promedio 10,65-10,9",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "8 (2-6) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,65-10,9 córners (umbral: 10 o más de forma clara). ESPN (Celtic 8.9/4.1; Celta 3.7/5.1) 10.9; FotMob (Celtic 8.5/4.1; Celta 3.6/5.1) 10.65. El Celtic saca más de 8 corners por partido y Celta concede más de 5, pero Celta genera poco; queda algo ajustado y sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "14:00",
+     "iso": "2026-10-22T14:00:00-05:00",
+     "partido": "Lillestrom vs Real Sociedad",
+     "competencia": "Europa League",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 11,55-11,7",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "7 (3-4) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,55-11,7 córners (umbral: 10 o más de forma clara). ESPN (Lillestrom 5.9/5.5; Real Sociedad 7.0/4.7) 11.55; FotMob (Lillestrom 5.7/6.0; Real Sociedad 7.0/4.7) 11.7. Lillestrom concede más de 5 corners por partido y la Real Sociedad produce 7, así que ambas fuentes lo dejan holgado sobre 10. La Real es favorita clara.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "14:00",
+     "iso": "2026-10-22T14:00:00-05:00",
+     "partido": "TSG Hoffenheim vs Lyon",
+     "competencia": "Europa League",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,25-11,3",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "20 (11-9) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,25-11,3 córners (umbral: 10 o más de forma clara). ESPN (Hoffenheim 7.78/4.33 en 9; Lyon 4.5/6.0) 11.3; FotMob (Hoffenheim 7.78/4.33 en 9; Lyon 4.4/6.0) 11.25. El Hoffenheim genera casi 8 corners por partido y Lyon concede 6, lo que sostiene un total por encima de 11 en ambas fuentes. Sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
    "balance": {
-    "resueltas": 104,
-    "aciertos": 67,
-    "errores": 37,
-    "pct": 64.42,
-    "unidades": 3.3,
-    "roi": 3.17,
-    "cuota_media": 1.61,
+    "resueltas": 108,
+    "aciertos": 69,
+    "errores": 39,
+    "pct": 63.89,
+    "unidades": 2.5,
+    "roi": 2.31,
+    "cuota_media": 1.6,
     "total": 109,
-    "pendientes": 4,
+    "pendientes": 0,
     "otros": 1,
     "anulados": 1
    }
@@ -337,11 +337,58 @@
    "link": "bot-10-minutos.html",
    "pendientes": [
     {
-     "fecha": "2026-10-21",
+     "fecha": "2026-10-23",
+     "hora": "13:00",
+     "iso": "2026-10-23T13:00:00-05:00",
+     "partido": "Go Ahead Eagles vs Telstar",
+     "competencia": "Eredivisie",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-22 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Go Ahead Eagles es favorito local pero paga 1,61, por encima de 1,60, así que no suma por cuota (A=0). Go Ahead Eagles promedia 6,3 corners a favor (B=1) y Telstar recibe 6,0 en contra (C=2), en sus últimos 9 partidos oficiales. Se esperan 10,9 corners en el partido (D=1) y el ritmo es de 30,7 tiros frente a un umbral de 33,3 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-23",
+     "hora": "13:30",
+     "iso": "2026-10-23T13:30:00-05:00",
+     "partido": "VfB Stuttgart vs Borussia Mönchengladbach",
+     "competencia": "Bundesliga",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-22 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "VfB Stuttgart es favorito local con cuota 1,36 (A=1). VfB Stuttgart promedia 6,8 corners a favor (B=2) y Borussia Mönchengladbach recibe 4,9 en contra (C=0), en sus últimos 7 y 10 partidos oficiales. Se esperan 11,5 corners en el partido (D=1) y el ritmo es de 33,0 tiros frente a un umbral de 31,2 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-23",
      "hora": "18:00",
-     "iso": "2026-10-21T18:00:00-05:00",
-     "partido": "FC Cincinnati vs D.C. United",
-     "competencia": "MLS",
+     "iso": "2026-10-23T18:00:00-05:00",
+     "partido": "Cruzeiro vs Remo",
+     "competencia": "Brasileirão",
      "nivel": "media",
      "marcas": [
       "media"
@@ -349,150 +396,12 @@
      "respaldo": "4 puntos",
      "cuota": "sin apuesta (solo seguimiento)",
      "sin_apuesta": true,
-     "reportada": "2026-10-20 18:00",
-     "ya_empezo": true,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "FC Cincinnati es favorito local pero paga 1,65, por encima de 1,60, así que no suma por cuota (A=0). FC Cincinnati promedia 5,9 corners a favor (B=1) y D.C. United recibe 5,6 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 10,6 corners en el partido (D=1) y el ritmo es de 30,4 tiros frente a un umbral de 30,0 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-22",
-     "hora": "11:45",
-     "iso": "2026-10-22T11:45:00-05:00",
-     "partido": "Ararat-Armenia vs AZ Alkmaar",
-     "competencia": "Europa League",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "5 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-21 18:00",
+     "reportada": "2026-10-22 18:00",
      "ya_empezo": false,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
-      "texto": "El favorito no juega de local (cuota 1,51), así que no suma por cuota (A=0). AZ Alkmaar promedia 7,3 corners a favor (B=2) y Ararat-Armenia recibe 7,7 en contra (C=2), en sus últimos 6 y 10 partidos oficiales. Se esperan 11,3 corners en el partido (D=1) y el ritmo es de 25,7 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob (ESPN incompleto).",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-22",
-     "hora": "11:45",
-     "iso": "2026-10-22T11:45:00-05:00",
-     "partido": "Juventus vs Stade Rennais",
-     "competencia": "Europa League",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "5 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-21 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Juventus es favorito local con cuota 1,54 (A=1). Juventus promedia 7,1 corners a favor (B=2) y Stade Rennais recibe 5,8 en contra (C=1), en sus últimos 9 partidos oficiales. Se esperan 11,1 corners en el partido (D=1) y el ritmo es de 28,2 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-22",
-     "hora": "11:45",
-     "iso": "2026-10-22T11:45:00-05:00",
-     "partido": "Kauno Zalgiris vs SK Brann",
-     "competencia": "Conference League",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "5 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-21 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "El favorito no juega de local (cuota 1,71), así que no suma por cuota (A=0). SK Brann promedia 8,8 corners a favor (B=2) y Kauno Zalgiris recibe 7,4 en contra (C=2), en sus últimos 7 y 10 partidos oficiales. Se esperan 11,3 corners en el partido (D=1) y el ritmo es de 26,2 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob (ESPN incompleto).",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-22",
-     "hora": "14:00",
-     "iso": "2026-10-22T14:00:00-05:00",
-     "partido": "Lillestrom vs Real Sociedad",
-     "competencia": "Europa League",
-     "nivel": "media",
-     "marcas": [
-      "media"
-     ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-21 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "El favorito no juega de local (cuota 1,51), así que no suma por cuota (A=0). Real Sociedad promedia 7,0 corners a favor (B=2) y Lillestrom recibe 5,5 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 11,6 corners en el partido (D=1) y el ritmo es de 30,4 tiros frente a un umbral de 32,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-22",
-     "hora": "14:00",
-     "iso": "2026-10-22T14:00:00-05:00",
-     "partido": "Lincoln Red Imps vs FC Twente",
-     "competencia": "Conference League",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "5 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-21 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "El favorito no juega de local (cuota 1,22), así que no suma por cuota (A=0). FC Twente promedia 7,0 corners a favor (B=2) y Lincoln Red Imps recibe 8,4 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,3 corners en el partido (D=1) y el ritmo es de 27,4 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob (ESPN incompleto).",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-22",
-     "hora": "14:00",
-     "iso": "2026-10-22T14:00:00-05:00",
-     "partido": "TSG Hoffenheim vs Lyon",
-     "competencia": "Europa League",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "5 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-21 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "TSG Hoffenheim es favorito local pero paga 2,00, por encima de 1,60, así que no suma por cuota (A=0). TSG Hoffenheim promedia 7,8 corners a favor (B=2) y Lyon recibe 6,0 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 11,3 corners en el partido (D=1) y el ritmo es de 28,1 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más.",
+      "texto": "Cruzeiro es favorito local con cuota 1,36 (A=1). Cruzeiro promedia 4,6 corners a favor (B=0) y Remo recibe 5,4 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 11,9 corners en el partido (D=1) y el ritmo es de 33,2 tiros frente a un umbral de 28,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob.",
       "detalle": "",
       "origen": "bot"
      }
@@ -544,19 +453,181 @@
       "detalle": "",
       "origen": "bot"
      }
+    },
+    {
+     "fecha": "2026-10-21",
+     "hora": "18:00",
+     "iso": "2026-10-21T18:00:00-05:00",
+     "partido": "FC Cincinnati vs D.C. United",
+     "competencia": "MLS",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-20 18:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "23:20 (24')",
+     "argumento": {
+      "texto": "FC Cincinnati es favorito local pero paga 1,65, por encima de 1,60, así que no suma por cuota (A=0). FC Cincinnati promedia 5,9 corners a favor (B=1) y D.C. United recibe 5,6 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 10,6 corners en el partido (D=1) y el ritmo es de 30,4 tiros frente a un umbral de 30,0 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento.",
+      "detalle": "",
+      "origen": "bot"
+     }
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-10-22",
+     "hora": "11:45",
+     "iso": "2026-10-22T11:45:00-05:00",
+     "partido": "Ararat-Armenia vs AZ Alkmaar",
+     "competencia": "Europa League",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-21 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "8:55 (9')",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,51), así que no suma por cuota (A=0). AZ Alkmaar promedia 7,3 corners a favor (B=2) y Ararat-Armenia recibe 7,7 en contra (C=2), en sus últimos 6 y 10 partidos oficiales. Se esperan 11,3 corners en el partido (D=1) y el ritmo es de 25,7 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob (ESPN incompleto).",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "11:45",
+     "iso": "2026-10-22T11:45:00-05:00",
+     "partido": "Juventus vs Stade Rennais",
+     "competencia": "Europa League",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-21 18:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "11:06 (12')",
+     "argumento": {
+      "texto": "Juventus es favorito local con cuota 1,54 (A=1). Juventus promedia 7,1 corners a favor (B=2) y Stade Rennais recibe 5,8 en contra (C=1), en sus últimos 9 partidos oficiales. Se esperan 11,1 corners en el partido (D=1) y el ritmo es de 28,2 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "11:45",
+     "iso": "2026-10-22T11:45:00-05:00",
+     "partido": "Kauno Zalgiris vs SK Brann",
+     "competencia": "Conference League",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-21 18:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "10:22 (11')",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,71), así que no suma por cuota (A=0). SK Brann promedia 8,8 corners a favor (B=2) y Kauno Zalgiris recibe 7,4 en contra (C=2), en sus últimos 7 y 10 partidos oficiales. Se esperan 11,3 corners en el partido (D=1) y el ritmo es de 26,2 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob (ESPN incompleto).",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "14:00",
+     "iso": "2026-10-22T14:00:00-05:00",
+     "partido": "Lillestrom vs Real Sociedad",
+     "competencia": "Europa League",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-21 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "3:39 (4')",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,51), así que no suma por cuota (A=0). Real Sociedad promedia 7,0 corners a favor (B=2) y Lillestrom recibe 5,5 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 11,6 corners en el partido (D=1) y el ritmo es de 30,4 tiros frente a un umbral de 32,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "14:00",
+     "iso": "2026-10-22T14:00:00-05:00",
+     "partido": "Lincoln Red Imps vs FC Twente",
+     "competencia": "Conference League",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-21 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "8:05 (9')",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,22), así que no suma por cuota (A=0). FC Twente promedia 7,0 corners a favor (B=2) y Lincoln Red Imps recibe 8,4 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,3 corners en el partido (D=1) y el ritmo es de 27,4 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob (ESPN incompleto).",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "14:00",
+     "iso": "2026-10-22T14:00:00-05:00",
+     "partido": "TSG Hoffenheim vs Lyon",
+     "competencia": "Europa League",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-21 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "9:07 (10')",
+     "argumento": {
+      "texto": "TSG Hoffenheim es favorito local pero paga 2,00, por encima de 1,60, así que no suma por cuota (A=0). TSG Hoffenheim promedia 7,8 corners a favor (B=2) y Lyon recibe 6,0 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 11,3 corners en el partido (D=1) y el ritmo es de 28,1 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
    "balance": {
-    "resueltas": 96,
-    "aciertos": 52,
-    "errores": 44,
-    "pct": 54.17,
-    "unidades": -8.19,
-    "roi": -8.53,
+    "resueltas": 103,
+    "aciertos": 56,
+    "errores": 47,
+    "pct": 54.37,
+    "unidades": -8.37,
+    "roi": -8.13,
     "cuota_media": 1.69,
-    "total": 103,
-    "pendientes": 7,
+    "total": 106,
+    "pendientes": 3,
     "otros": 0
    }
   },
@@ -566,7 +637,488 @@
    "mercado": "Total de córners MÁS o MENOS que la línea en vivo",
    "link": "cornes-en-vivo.html",
    "vivo": true,
-   "pendientes": [],
+   "pendientes": [
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "descanso",
+     "partido": "FC Nordsjælland vs CSKA Sofia",
+     "competencia": "UEFA Conference League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-HT",
+      "experimental"
+     ],
+     "senal": "MENOS",
+     "linea": "7,5",
+     "respaldo": "MENOS 7,5 · proyección 4,7 · marcador 0-1, 2 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "7 córners",
+     "argumento": {
+      "texto": "minuto 45 (ESPN HT 45'+4', TC HT); favorito prepartido Nordsjælland (una casa de apuestas ML -245; CSKA +650, empate +400) pierde 0-1 (Godoy 8'); córners 1T Nordsjælland 1 - CSKA 1 (ESPN = TC 1-1; Nordsjælland 45'+2').",
+      "detalle": "tiros 3-6, a puerta 1-4, bloqueados (ESPN) 1-1; posesión 57.4-42.6; TC ataques 27-15 / 27-15; sin rojas (amarillas Almeida 20', Acquah 36'); lesión Nelsson 30' (entra Salquist); Base 2 + 2/45*45*0.85 = 3.70; sin +1 presión: 2 tiros fuera/bloqueados 30-45' (39' Ebong bloqueado, 44' Adel alto); +1 contexto: favorito perdiendo; ajustada 4.70 vs línea 7.5 (umbrales 9.0/6.0) = MENOS por 1.30 de margen; línea TotalCorner texto crudo: \"9.0 (7.5)\" -> en vivo 7.5, prepartido 9.0; expectativa 2T: Nordsjælland debe empujar en casa con más posesión, puede subir el ritmo de córners (riesgo para el MENOS); riesgo de contra de CSKA (4 a puerta en 1T); Fuente ESPN marcador/córners/tiros/cuotas/commentary; línea/ataques TotalCorner (HT)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 2-2, córners 5-2 = 7 (= ESPN commentary 7); favorito Nordsjælland SÍ remontó (empató 2-2); córners 2T de Nordsjælland: 4 (49', 60', 64', 72'); córners 2T totales: 5"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "descanso",
+     "partido": "Getafe vs FC Lugano",
+     "competencia": "UEFA Conference League",
+     "nivel": null,
+     "marcas": [
+      "MÁS",
+      "v3-HT",
+      "experimental"
+     ],
+     "senal": "MÁS",
+     "linea": "13,5",
+     "respaldo": "MÁS 13,5 · proyección 15,8 · marcador 1-3, 8 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "17 córners",
+     "argumento": {
+      "texto": "minuto 45 (ESPN HT 45'+2', TC HT); favorito prepartido Getafe (una casa de apuestas ML +130; Lugano +235, empate +215) pierde 1-3 (Azón 2' Getafe; Ajeti 3' y 26', Cimignani 7' Lugano); córners 1T Getafe 6 - Lugano 2 (ESPN = TC 6-2).",
+      "detalle": "tiros 7-6, a puerta 3-4, bloqueados (ESPN) 0-2; posesión 45.5-54.5; TC ataques 21-14 / 21-14; sin rojas (amarillas Cimignani 13', Bislimi 20', Mayoral 23'); Base 8 + 8/45*45*0.85 = 14.80; sin +1 presión: 2 tiros fuera 30-45' (36' Azón cabezazo fuera, 45'+1' García alto); +1 contexto: favorito perdiendo; sin −1: ventaja de 2 de Lugano pero partido abierto (Getafe 6 córners en 1T, 4 goles en 26'); ajustada 15.80 vs línea 13.5 (umbral MÁS 15.0) = MÁS por 0.80 (sensible: con −1 por ventaja de 2 sería 14.80 = descartado); línea TotalCorner texto crudo: \"8.5 (13.5)\" -> en vivo 13.5, prepartido 8.5; expectativa 2T: Getafe obligado a ir arriba en casa, se esperan más córners del Getafe (centros/balón parado); riesgo de contra de Lugano con espacios; Fuente ESPN marcador/córners/tiros/cuotas/commentary; línea/ataques TotalCorner (HT)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 2-5, córners 15-2 = 17 (= ESPN commentary 17); favorito Getafe NO remontó (perdió 2-5); córners 2T de Getafe: 9 (55', 56', 68', 79' x3, 83', 86', 89'); córners 2T totales: 9"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "68'",
+     "partido": "Ararat-Armenia vs AZ Alkmaar",
+     "competencia": "UEFA Europa League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "8,5",
+     "respaldo": "MENOS 8,5 · proyección 6,7 · marcador 0-2, 6 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "11 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 68 (ESPN 68', TC 66); Base 6 + 6/68*22*0.85 = 7.65; córners ESPN 2-4 = TC 2-4; tiros 6-11, a puerta 3-5, bloqueados 1-1.",
+      "detalle": "posesión 38.8-61.2; TC ataques 16-36 / 11-24; sin rojas; sin +1 presión: 2 tiros fuera últimos 15' (53', 55' Ararat); sin +1 contexto: favorito AZ (ML -250) gana; −1: ventaja exacta de 2 y partido cerrado (AZ controla con 61% posesión, Ararat sin remates desde el 55'); SENSIBLE: sin el −1 serían 7.65 = descartado; ajustada 6.65 vs línea 8.5 (umbrales 10.0/7.0) = MENOS por 0.35; línea TotalCorner texto crudo: \"9.5 (8.5)\" -> en vivo 8.5, prepartido 9.5; Fuente ESPN min/marcador/córners/tiros/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 13:10)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 0-4, córners 5-6 = 11 (= ESPN commentary 11)"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "67'",
+     "partido": "OFI Crete vs Bayer Leverkusen",
+     "competencia": "UEFA Europa League",
+     "nivel": null,
+     "marcas": [
+      "MÁS",
+      "v3-60"
+     ],
+     "senal": "MÁS",
+     "linea": "13,5",
+     "respaldo": "MÁS 13,5 · proyección 15,2 · marcador 0-2, 11 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "15 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 67 (ESPN 67', TC 67); Base 11 + 11/67*23*0.85 = 14.21; córners ESPN 4-7 = TC 4-7 (1T 3-3); tiros 4-26, a puerta 2-12, bloqueados 1-6.",
+      "detalle": "posesión 37.9-62.1; TC ataques 17-46 / 9-32; sin rojas; +1 presión: 5 tiros fuera/bloqueados últimos 15' (58', 60', 64', 66', 66'); sin +1 contexto: favorito Leverkusen (ML -500) gana; sin −1: ventaja de 2 pero partido abierto (Leverkusen sigue rematando, 26 tiros, 5 córners en 2T); SENSIBLE: con −1 serían 14.21 = descartado; ajustada 15.21 vs línea 13.5 (umbrales 15.0/12.0) = MÁS por 0.21; línea TotalCorner texto crudo: \"9.0 (13.5)\" -> en vivo 13.5, prepartido 9.0; Fuente ESPN min/marcador/córners/tiros/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 13:10)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 0-2, córners 5-10 = 15 (= ESPN commentary 15)"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "62'",
+     "partido": "Union St.-Gilloise vs Hapoel Be'er Sheva",
+     "competencia": "UEFA Europa League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "4,5",
+     "respaldo": "MENOS 4,5 · proyección 2,8 · marcador 2-0, 2 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "4 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 62 (ESPN 62', TC 61); Base 2 + 2/62*28*0.85 = 2.77; córners ESPN 2-0 = TC 2-0; tiros 19-5, a puerta 9-3, bloqueados 3-1.",
+      "detalle": "posesión 52.5-47.5; TC ataques 56-21 / 34-16; sin rojas; sin +1 presión: 1 tiro fuera últimos 15' (50'); sin +1 contexto: favorito USG (ML -225) gana; sin −1: ventaja de 2 pero USG sigue atacando (19 tiros); línea en vivo muy baja (4.5); ajustada 2.77 vs línea 4.5 (umbrales 6.0/3.0) = MENOS por 0.23; línea TotalCorner texto crudo: \"9.0 (4.5)\" -> en vivo 4.5, prepartido 9.0; Fuente ESPN min/marcador/córners/tiros/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 13:10)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 4-0, córners 4-0 = 4 (= ESPN commentary 4)"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "65'",
+     "partido": "Trabzonspor vs Heart of Midlothian",
+     "competencia": "UEFA Conference League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "7,0",
+     "respaldo": "MENOS 7,0 · proyección 4,3 · marcador 2-0, 4 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "nulo",
+     "detalle": "7 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 65 (ESPN 65', TC 64); Base 4 + 4/65*25*0.85 = 5.31; córners ESPN 3-1 = TC 3-1; tiros 9-8, a puerta 4-1, bloqueados 2-3.",
+      "detalle": "posesión 61-39; TC ataques 29-24 / 19-15; sin rojas; sin +1 presión: 2 tiros fuera últimos 15' (52', 54'); sin +1 contexto: favorito Trabzonspor (ML -320) gana; −1: ventaja exacta de 2 y partido cerrado (Hearts 1 tiro a puerta, Trabzon controla con 61%); sin el −1 serían 5.31, igual MENOS; ajustada 4.31 vs línea 7.0 (umbrales 8.5/5.5) = MENOS por 1.69; línea TotalCorner texto crudo: \"9.5 (7.0)\" -> en vivo 7.0, prepartido 9.5; Fuente ESPN min/marcador/córners/tiros/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 13:10)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 2-0, córners 6-1 = 7 (= ESPN commentary 7)"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "descanso",
+     "partido": "Viktoria Plzen vs Levski Sofia",
+     "competencia": "UEFA Europa League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-HT",
+      "experimental"
+     ],
+     "senal": "MENOS",
+     "linea": "5,0",
+     "respaldo": "MENOS 5,0 · proyección 1 · marcador 0-1, 0 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "nulo",
+     "detalle": "5 córners",
+     "argumento": {
+      "texto": "minuto 45 (ESPN 45'+2', TC HT); descanso 0-1 (gol Levski 44'); favorito Viktoria Plzen (una casa de apuestas ML -130, dec 1.77; Levski +370, empate +280) PIERDE; córners 1T 0-0 (ESPN = TC).",
+      "detalle": "tiros 4-3, a puerta 1-2, bloqueados 0-1; posesión 47.8-52.2; TC ataques columna 19-3 (dato dudoso, repetido); sin rojas; Base 0 + 0/45*45*0.85 = 0.00; sin +1 presión: 2 tiros fuera últimos 15' (33', 39'); +1 contexto: favorito pierde; ajustada 1.00 vs línea 5.0 (umbrales 6.5/3.5) = MENOS; línea TotalCorner texto crudo: \"9.5 (5.0)\" -> en vivo 5.0, prepartido 9.5; 2T esperado: Plzen tendrá que empujar y debería sumar córners propios, pero en 1T no generó ninguno; riesgo de contra de Levski; MENOS frágil si Plzen se vuelca (línea muy baja); Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 14:48)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 1-2, córners 4-1 = 5 (= ESPN commentary 5); favorito Plzen NO remontó (perdió 1-2); córners 2T de Plzen: 4 (53', 62', 70', 84'); córners 2T totales: 5"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "descanso",
+     "partido": "AGF vs Egnatia",
+     "competencia": "UEFA Conference League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-HT",
+      "experimental"
+     ],
+     "senal": "MENOS",
+     "linea": "8,0",
+     "respaldo": "MENOS 8,0 · proyección 5,6 · marcador 0-1, 3 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "10 córners",
+     "argumento": {
+      "texto": "minuto 45 (ESPN 45'+1', TC 46, aún 1T); 0-1 (gol Egnatia 13'); favorito AGF (una casa de apuestas ML -230, dec 1.43; Egnatia +600, empate +370) PIERDE; ROJA AGF 3' (Eric Kahl), juegan con 10 casi todo el partido.",
+      "detalle": "córners 1T 1-2 (ESPN = TC); tiros 1-5, a puerta 0-3, bloqueados 0-0; posesión 32.3-67.7; TC ataques columna 11-28; Base 3 + 3/45*45*0.85 = 5.55; sin +1 presión: ningún tiro fuera/bloqueado últimos 15'; +1 contexto: favorito pierde; −1 roja: AGF con 10 se repliega (32% posesión, 1 tiro); SENSIBLE: sin el −1 serían 6.55 = descartado por 0.05; ajustada 5.55 vs línea 8.0 (umbrales 9.5/6.5) = MENOS por 0.95; línea TotalCorner texto crudo: \"9.0 (8.0)\" -> en vivo 8.0, prepartido 9.0; 2T esperado: AGF tendrá que arriesgar con 10, algún córner propio posible pero con poca llegada; alto riesgo de contra de Egnatia; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 14:48)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 1-1, córners 5-5 = 10 (= ESPN commentary 10); favorito AGF SÍ remontó (empató 1-1, con 10); córners 2T de AGF: 4 (53', 55', 67', 79'); córners 2T totales: 6"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "51'",
+     "partido": "Celtic vs Celta Vigo",
+     "competencia": "UEFA Europa League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "7,5",
+     "respaldo": "MENOS 7,5 · proyección 5,9 · marcador 1-0, 3 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "8 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 51 (ESPN 51', TC 51); Base 3 + 3/51*39*0.85 = 4.95; córners ESPN 0-3 = TC 0-3 (1T 0-2); tiros 3-12, a puerta 2-2, bloqueados 0-6.",
+      "detalle": "posesión 43.2-56.8; TC ataques 19-35 / 19-29; sin rojas; gol Baur 47'; +1 presión: 5 tiros fuera/bloqueados últimos 15' (37', 38', 43', 44', 46'; 4 de Celta); sin +1 contexto: favorito Celtic (ML +155 vs Celta +165) gana por 1; SENSIBLE: MENOS por solo 0.05 (umbral 6.0); Celta empujando para empatar; ajustada 5.95 vs línea 7.5 (umbrales 9.0/6.0) = MENOS; línea TotalCorner texto crudo: \"10.0 (7.5)\" -> en vivo 7.5, prepartido 10.0; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:08); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 1-2, córners 2-6 = 8 (= ESPN commentary 8)"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "51'",
+     "partido": "NK Celje vs RB Salzburg",
+     "competencia": "UEFA Europa League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "5,0",
+     "respaldo": "MENOS 5,0 · proyección 2,6 · marcador 0-2, 1 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "nulo",
+     "detalle": "5 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 51 (ESPN 51', TC 50); Base 1 + 1/51*39*0.85 = 1.65; córners ESPN 0-1 = TC 0-1; tiros 5-9, a puerta 0-2, bloqueados 1-3.",
+      "detalle": "posesión 46.9-53.1; TC ataques 16-24 / 15-24; sin rojas; goles Kitano 9', Lindstrøm 46'; +1 presión: 5 tiros fuera/bloqueados últimos 15' (39', 39', 43', 44', 45'+1'); sin +1 contexto: favorito Salzburg (ML -150) gana; sin −1 (ventaja de 2 pero recién 46', partido abierto; con −1 serían 1.65, igual MENOS); ajustada 2.65 vs línea 5.0 (umbrales 6.5/3.5) = MENOS; línea TotalCorner texto crudo: \"9.5 (5.0)\" -> en vivo 5.0, prepartido 9.5; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:08); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 2-2, córners 2-3 = 5 (= ESPN commentary 5)"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "51'",
+     "partido": "Viktoria Plzen vs Levski Sofia",
+     "competencia": "UEFA Europa League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "5,5",
+     "respaldo": "MENOS 5,5 · proyección 2,6 · marcador 0-1, 1 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "5 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 51 (ESPN 51', TC 51); Base 1 + 1/51*39*0.85 = 1.65; córners ESPN 0-1 = TC 0-1 (1T 0-0); tiros 6-4, a puerta 1-2, bloqueados 1-2.",
+      "detalle": "posesión 47.5-52.5; TC ataques 21-8 / 19-3; sin rojas; sin +1 presión: 3 tiros fuera/bloqueados últimos 15' (39', 47', 51'); +1 contexto: favorito Plzen (ML -130) pierde; ajustada lejos de la línea pese a que Plzen debe empujar; ajustada 2.65 vs línea 5.5 (umbrales 7.0/4.0) = MENOS; línea TotalCorner texto crudo: \"9.5 (5.5)\" -> en vivo 5.5, prepartido 9.5; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:08); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 1-2, córners 4-1 = 5 (= ESPN commentary 5)"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "50'",
+     "partido": "FC Thun vs Hajduk Split",
+     "competencia": "UEFA Conference League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "7,5",
+     "respaldo": "MENOS 7,5 · proyección 5 · marcador 0-1, 3 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "5 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 50 (ESPN 50', TC 50); Base 3 + 3/50*40*0.85 = 5.04; córners ESPN 1-2 = TC 1-2 (1T 1-2); tiros 4-6, a puerta 1-3, bloqueados 1-1.",
+      "detalle": "posesión 46-54; TC ataques 26-18 / 26-13; sin rojas; gol Dali 17'; sin +1 presión: 1 tiro bloqueado últimos 15' (44'); sin +1 contexto: favorito Hajduk (ML +125 vs Thun +190) gana; MENOS por 0.96 (umbral 6.0); ajustada 5.04 vs línea 7.5 (umbrales 9.0/6.0) = MENOS; línea TotalCorner texto crudo: \"9.5 (7.5)\" -> en vivo 7.5, prepartido 9.5; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:08); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 0-1, córners 2-3 = 5 (= ESPN commentary 5)"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "70'",
+     "partido": "Ajax Amsterdam vs Atalanta",
+     "competencia": "UEFA Conference League",
+     "nivel": null,
+     "marcas": [
+      "MÁS",
+      "v3-60"
+     ],
+     "senal": "MÁS",
+     "linea": "13,5",
+     "respaldo": "MÁS 13,5 · proyección 15,7 · marcador 0-0, 11 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "17 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 70 (ESPN 70', TC 69); Base 11 + 11/70*20*0.85 = 13.67; pendiente MÁS<60 de la corrida 15:08 (52', 9 córners, ajustada 16.59) reevaluado en 70'; córners ESPN 4-7 = TC 4-7.",
+      "detalle": "tiros 18-12, a puerta 5-0, bloqueados 5-5; posesión 61.7-38.3; TC ataques 54-40 / 40-18; sin rojas; +1 presión: 5 tiros fuera/bloqueados últimos 15' (57', 61', 61', 65', 66'); +1 contexto: favorito Ajax (ML +100 vs Atalanta +225) empata 0-0; MÁS por 0.67 (umbral 15.0); ajustada 15.67 vs línea 13.5 (umbrales 15.0/12.0) = MÁS; línea TotalCorner texto crudo: \"9.0 (13.5)\" -> en vivo 13.5, prepartido 9.0; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:27); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 2-0, córners 8-9 = 17 (= ESPN commentary 17)"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "65'",
+     "partido": "AFC Bournemouth vs AC Milan",
+     "competencia": "UEFA Europa League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "8,5",
+     "respaldo": "MENOS 8,5 · proyección 7 · marcador 2-0, 6 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "10 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 65 (ESPN 65', TC 65); Base 6 + 6/65*25*0.85 = 7.96; córners ESPN 4-2 = TC 4-2 (1T 2-2); tiros 11-1, a puerta 5-0, bloqueados 2-1.",
+      "detalle": "posesión 60-40; TC ataques 42-12 / 29-10; roja Maignan 27' (Milan con 10); goles Kluivert pen 8', Tavernier pen 32'; sin +1 presión: 1 tiro fuera últimos 15' (51'); sin +1 contexto: favorito Bournemouth (ML -120) gana; −1: ventaja exacta de 2, Milan con 10 y 1 solo tiro en todo el partido, partido cerrado; SENSIBLE: MENOS por solo 0.04 (umbral 7.0), sin el −1 serían 7.96 = descartado; ajustada 6.96 vs línea 8.5 (umbrales 10.0/7.0) = MENOS; línea TotalCorner texto crudo: \"9.5 (8.5)\" -> en vivo 8.5, prepartido 9.5; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:27); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 3-0, córners 6-4 = 10 (= ESPN commentary 10)"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "66'",
+     "partido": "Omonia Nicosia vs Benfica",
+     "competencia": "UEFA Europa League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "10,0",
+     "respaldo": "MENOS 10,0 · proyección 7,9 · marcador 1-2, 6 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "9 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 66 (ESPN 66', TC 66); Base 6 + 6/66*24*0.85 = 7.85; córners ESPN 3-3 (commentary 6) vs TC 3-4 (7) — DISCREPANCIA, se usa ESPN; con 7 córners serían 9.16 = descartado.",
+      "detalle": "tiros 6-12, a puerta 4-5, bloqueados 0-3; posesión 36.2-63.8; TC ataques 15-52 / 9-37; sin rojas; goles autogol Négo 14', Kakoullis 42', Pavlidis 49'; sin +1 presión: 3 tiros fuera/bloqueados últimos 15' (59', 60', 65'); sin +1 contexto: favorito Benfica (ML -300) gana por 1; MENOS por 0.65 (umbral 8.5); ajustada 7.85 vs línea 10.0 (umbrales 11.5/8.5) = MENOS; línea TotalCorner texto crudo: \"10.0 (10.0)\" -> en vivo 10.0, prepartido 10.0; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:27); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 1-4, córners 4-5 = 9 (= ESPN commentary 9)"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "62'",
+     "partido": "TSG Hoffenheim vs Lyon",
+     "competencia": "UEFA Europa League",
+     "nivel": null,
+     "marcas": [
+      "MÁS",
+      "v3-60"
+     ],
+     "senal": "MÁS",
+     "linea": "17,5",
+     "respaldo": "MÁS 17,5 · proyección 19,4 · marcador 2-0, 14 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "20 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 62 (ESPN 62', TC 61); Base 14 + 14/62*28*0.85 = 19.37; córners ESPN 10-4 = TC 10-4 (1T 8-3); tiros 15-4, a puerta 5-2, bloqueados 4-1.",
+      "detalle": "posesión 51.2-48.8; TC ataques 40-17 / 33-11; sin rojas; goles Kramaric 45'+4', Daghim 49'; sin +1 presión: 2 tiros fuera/bloqueados últimos 15' (51', 54'); sin +1 contexto: favorito Hoffenheim (ML -140) gana; sin −1: ventaja de 2 desde el 49' pero partido abierto (14 córners, Lyon obligado a ir arriba); SENSIBLE: MÁS por 0.37 (umbral 19.0), con −1 serían 18.37 = descartado; ajustada 19.37 vs línea 17.5 (umbrales 19.0/16.0) = MÁS; línea TotalCorner texto crudo: \"10.0 (17.5)\" -> en vivo 17.5, prepartido 10.0; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:27); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 3-0, córners 11-9 = 20 (= ESPN commentary 20)"
+     }
+    },
+    {
+     "fecha": "2026-10-22",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "66'",
+     "partido": "AS Monaco vs SC Freiburg",
+     "competencia": "UEFA Conference League",
+     "nivel": null,
+     "marcas": [
+      "MÁS",
+      "v3-60"
+     ],
+     "senal": "MÁS",
+     "linea": "15,5",
+     "respaldo": "MÁS 15,5 · proyección 17 · marcador 1-0, 13 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "17 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; minuto 66 (ESPN 66', TC 65); Base 13 + 13/66*24*0.85 = 17.02; córners ESPN 5-8 = TC 5-8 (1T 4-2; Freiburg 6 córners en 2T).",
+      "detalle": "tiros 8-10, a puerta 4-1, bloqueados 2-4; posesión 54.1-45.9; TC ataques 39-32 / 31-13; sin rojas; gol Brunner 45'+2'; sin +1 presión: 2 tiros fuera/bloqueados últimos 15' (61', 62'); sin +1 contexto: favorito Monaco (ML +125 vs Freiburg +200) gana por 1; Freiburg empujando por el empate; MUY SENSIBLE: MÁS por solo 0.02 (umbral 17.0); con minuto TC 65 serían 17.25; ajustada 17.02 vs línea 15.5 (umbrales 17.0/14.0) = MÁS; línea TotalCorner texto crudo: \"9.0 (15.5)\" -> en vivo 15.5, prepartido 9.0; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:27); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 3-0, córners 6-11 = 17 (= ESPN commentary 17)"
+     }
+    }
+   ],
    "ayer": [
     {
      "fecha": "2026-10-21",
@@ -656,17 +1208,17 @@
    ],
    "hoy_cerradas": [],
    "balance": {
-    "resueltas": 36,
-    "aciertos": 20,
-    "errores": 16,
-    "pct": 55.56,
-    "unidades": 2.0,
-    "roi": 5.56,
+    "resueltas": 50,
+    "aciertos": 30,
+    "errores": 20,
+    "pct": 60.0,
+    "unidades": 7.0,
+    "roi": 14.0,
     "cuota_media": 1.9,
-    "total": 38,
+    "total": 55,
     "pendientes": 0,
-    "otros": 2,
-    "nulos": 2
+    "otros": 5,
+    "nulos": 5
    }
   }
  ]
