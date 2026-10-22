@@ -1,5 +1,23 @@
 [
  {
+  "archivo": "assets/fondos/valderrama-1987-copa-america.webp",
+  "pagina": "index",
+  "jugador": "Carlos “el Pibe” Valderrama",
+  "evento": "Colombia–Argentina, Copa América 1987 (saludo de capitanes con Maradona)",
+  "titulo": "Valderrama maradona saludo.jpg",
+  "commons": "https://commons.wikimedia.org/wiki/File:Valderrama_maradona_saludo.jpg",
+  "autor": "Autor desconocido",
+  "fuente": "El Gráfico",
+  "fecha": "1987-07-11",
+  "licencia": "Public domain",
+  "licencia_detalle": "Dominio público (PD-AR-Photo / PD-1996)",
+  "licencia_url": "",
+  "atribucion_requerida": false,
+  "ancho": 1140,
+  "alto": 743,
+  "kb": 47
+ },
+ {
   "archivo": "assets/fondos/maradona-1986-inglaterra.webp",
   "pagina": "index",
   "jugador": "Diego Maradona",
@@ -16,24 +34,6 @@
   "ancho": 1600,
   "alto": 1966,
   "kb": 203
- },
- {
-  "archivo": "assets/fondos/pele-1970-campeon.webp",
-  "pagina": "index",
-  "jugador": "Pelé",
-  "evento": "final del Mundial 1970",
-  "titulo": "Pele celebrating 1970.jpg",
-  "commons": "https://commons.wikimedia.org/wiki/File:Pele_celebrating_1970.jpg",
-  "autor": "Autor desconocido (distribuida por Associated Press)",
-  "fuente": "El Gráfico",
-  "fecha": "1970-06-21",
-  "licencia": "Public domain",
-  "licencia_detalle": "Dominio público (PD-AR-Photo)",
-  "licencia_url": "",
-  "atribucion_requerida": false,
-  "ancho": 1600,
-  "alto": 1028,
-  "kb": 237
  },
  {
   "archivo": "assets/fondos/kempes-1978-final.webp",
@@ -162,22 +162,22 @@
   "kb": 77
  },
  {
-  "archivo": "assets/fondos/mundial-1974-nl-rda.webp",
+  "archivo": "assets/fondos/pele-1963-holanda-brasil.webp",
   "pagina": "cornes-en-vivo",
-  "jugador": "Países Bajos y RDA",
-  "evento": "Mundial 1974",
-  "titulo": "Wereldkampioenschap Voetbal 1974 in Munchen, Nederland tegen DDR, 2-0 Nederland, Bestanddeelnr 254-9510.jpg",
-  "commons": "https://commons.wikimedia.org/wiki/File:Wereldkampioenschap_Voetbal_1974_in_Munchen,_Nederland_tegen_DDR,_2-0_Nederland,_Bestanddeelnr_254-9510.jpg",
-  "autor": "Bert Verhoeff / Anefo",
-  "fuente": "https://proxy.handle.net/10648/ad9316be-d0b4-102d-bcf8-003048976d84",
-  "fecha": "Taken on 30 June 1974",
+  "jugador": "Pelé",
+  "evento": "Países Bajos–Brasil, Ámsterdam 1963",
+  "titulo": "Nederland tegen Brazilie 1-0 P Graafland in duel met Pele vlnr Groot, Klaa, Bestanddeelnr 915-1120.jpg",
+  "commons": "https://commons.wikimedia.org/wiki/File:Nederland_tegen_Brazilie_1-0_P_Graafland_in_duel_met_Pele_vlnr_Groot,_Klaa,_Bestanddeelnr_915-1120.jpg",
+  "autor": "Jack de Nijs for Anefo",
+  "fuente": "http://proxy.handle.net/10648/aa34e63c-d0b4-102d-bcf8-003048976d84",
+  "fecha": "1963-05-02",
   "licencia": "CC0",
   "licencia_detalle": "CC0 (Nationaal Archief)",
   "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "atribucion_requerida": false,
   "ancho": 1600,
-  "alto": 1060,
-  "kb": 179
+  "alto": 1620,
+  "kb": 229
  },
  {
   "archivo": "assets/fondos/yashin-1960.webp",
