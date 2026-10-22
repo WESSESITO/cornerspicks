@@ -14,9 +14,12 @@ for page, fs in pages.items():
     s = open(fn, encoding='utf-8').read()
     s = re.sub(r'<div class="bgfx".*?</div></div>\n?', '', s, flags=re.S)
     s = re.sub(r'<div class="fotocred">.*?</div>', '', s, flags=re.S)
-    layers = ''.join(f'<div class="bgl{" on" if i == 0 else ""}" ' +
-                     (f'style="background-image:url(\'{f["archivo"]}\')"' if i == 0 else f'data-src="{f["archivo"]}"') + '></div>'
-                     for i, f in enumerate(fs))
+    def st(f, i):
+        v = (f"--pos:{f['pos']};" if f.get('pos') else '') + (f"--posm:{f['pos_movil']};" if f.get('pos_movil') else '')
+        if i == 0:
+            v += f"background-image:url('{f['archivo']}')"
+        return (f' style="{v}"' if v else '') + ('' if i == 0 else f' data-src="{f["archivo"]}"')
+    layers = ''.join(f'<div class="bgl{" on" if i == 0 else ""}"{st(f, i)}></div>' for i, f in enumerate(fs))
     s = s.replace('<header class="top">', f'<div class="bgfx" aria-hidden="true">{layers}</div>\n<header class="top">', 1)
     cred = 'Fotos de fondo: ' + ' y '.join(f'{E(f["jugador"])} ({E(f["evento"])})' for f in fs) + \
            ' · <a href="metodologia.html#creditos">créditos de las imágenes</a>'
@@ -31,8 +34,9 @@ for f in F:
              f'<td>{E(f["autor"])}<br><span class="muted small">{E(f["fuente"][:90])}</span></td><td>{E(f["fecha"])}</td><td>{lic}</td></tr>')
 sa = [f for f in F if 'BY-SA' in f['licencia']]
 sa_txt = ' '.join(f'La foto de {E(f["jugador"])} tiene licencia {E(f["licencia"])}: nuestra versión modificada se comparte con esa misma licencia.' for f in sa)
+rec_txt = ' '.join(f'La foto de {E(f["jugador"])} además está {E(f["modificacion"])}.' for f in F if f.get('modificacion'))
 sec = f'''<h2 id="creditos">Créditos de las imágenes</h2>
-<div class="card"><p>Las fotos de fondo son imágenes históricas de <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a> en dominio público o con licencia libre (CC0, CC BY-SA). <b>Modificaciones:</b> todas se muestran en escala de grises, con contraste ajustado, tamaño reducido, un tinte verde y mucha transparencia. {sa_txt}</p>
+<div class="card"><p>Las fotos de fondo son imágenes históricas de <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a> en dominio público o con licencia libre (CC0, CC BY-SA). <b>Modificaciones:</b> todas se muestran en escala de grises, con contraste ajustado, tamaño reducido, un tinte verde y mucha transparencia. {sa_txt} {rec_txt}</p>
 <div class="tablewrap"><table class="cred"><thead><tr><th>Página</th><th>Foto</th><th>Archivo en Commons</th><th>Autor / fuente</th><th>Fecha</th><th>Licencia</th></tr></thead><tbody>{rows}</tbody></table></div></div><!--/creditos-->
 '''
 m = open('metodologia.html', encoding='utf-8').read()

@@ -1,6 +1,6 @@
 [
  {
-  "archivo": "assets/fondos/valderrama-1987-copa-america.webp",
+  "archivo": "assets/fondos/valderrama-1987-recorte.webp",
   "pagina": "index",
   "jugador": "Carlos “el Pibe” Valderrama",
   "evento": "Colombia–Argentina, Copa América 1987, saludo de capitanes",
@@ -14,8 +14,11 @@
   "licencia_url": "",
   "atribucion_requerida": false,
   "ancho": 1140,
-  "alto": 743,
-  "kb": 47
+  "alto": 378,
+  "kb": 23,
+  "pos": "40% 40%",
+  "pos_movil": "29% 40%",
+  "modificacion": "recortada (franja superior, 1140×378 px del original) para quitar la marca de agua de la revista"
  },
  {
   "archivo": "assets/fondos/maradona-1986-inglaterra.webp",
