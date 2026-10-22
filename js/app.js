@@ -221,5 +221,14 @@ function setupMenu(){const b=document.querySelector('.navbtn'),n=document.getEle
   n.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>set(false)));
   document.addEventListener('keydown',e=>{if(e.key==='Escape'&&b.getAttribute('aria-expanded')==='true'){set(false);b.focus();}});
   matchMedia('(min-width:821px)').addEventListener('change',e=>{if(e.matches)set(false);});}
-document.addEventListener('DOMContentLoaded',()=>{const p=document.body.dataset.page;setupMenu();localizeStatic();
+
+/* ---------- Fondos: carga perezosa y cambio suave a lo largo del scroll ---------- */
+function setupFondos(){const ls=[...document.querySelectorAll('.bgfx .bgl')];if(ls.length<2)return;let cur=0,raf=0;
+  const load=l=>{if(l.dataset.src){l.style.backgroundImage=`url('${l.dataset.src}')`;delete l.dataset.src;}};
+  const upd=()=>{raf=0;const max=Math.max(1,document.documentElement.scrollHeight-innerHeight),f=scrollY/max;
+    if(f>0.15)ls.forEach(load);
+    const i=Math.min(ls.length-1,Math.floor(f*ls.length*0.999));
+    if(i!==cur){load(ls[i]);ls[cur].classList.remove('on');ls[i].classList.add('on');cur=i;}};
+  addEventListener('scroll',()=>{if(!raf)raf=requestAnimationFrame(upd);},{passive:true});upd();}
+document.addEventListener('DOMContentLoaded',()=>{const p=document.body.dataset.page;setupMenu();setupFondos();localizeStatic();
   ({home:pageHome,b10:page10,over:pageOver,vivo:pageVivo,pdd:pagePdd,comunidad:async()=>stamp(await getJSON('data/resumen.json')),met:async()=>stamp(await getJSON('data/resumen.json'))}[p]||(async()=>{}))().catch(fail);});
