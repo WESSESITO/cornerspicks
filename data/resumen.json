@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-22 18:34",
- "generado_iso": "2026-10-22T18:34:00-05:00",
+ "generado": "2026-10-23 06:35",
+ "generado_iso": "2026-10-23T06:35:00-05:00",
  "bots": [
   {
    "bot": "corners_10min",
@@ -14,8 +14,8 @@
     "unidades": -8.37,
     "roi": -8.13,
     "cuota_media": 1.69,
-    "total": 106,
-    "pendientes": 3,
+    "total": 107,
+    "pendientes": 4,
     "otros": 0
    },
    "serie": [
@@ -185,8 +185,8 @@
     "unidades": 2.5,
     "roi": 2.31,
     "cuota_media": 1.6,
-    "total": 109,
-    "pendientes": 0,
+    "total": 112,
+    "pendientes": 3,
     "otros": 1,
     "anulados": 1
    },

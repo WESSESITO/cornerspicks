@@ -2,8 +2,8 @@
  "bot": "over_corners",
  "nombre": "Picksters Over Córners",
  "mercado": "Más de 9,5 córners totales en el partido",
- "generado": "2026-10-22 18:34",
- "generado_iso": "2026-10-22T18:34:00-05:00",
+ "generado": "2026-10-23 06:35",
+ "generado_iso": "2026-10-23T06:35:00-05:00",
  "fuente_csv": "site-data/over_corners.csv",
  "breakeven": 62.5,
  "vigilancia": [
@@ -18,8 +18,8 @@
   "unidades": 2.5,
   "roi": 2.31,
   "cuota_media": 1.6,
-  "total": 109,
-  "pendientes": 0,
+  "total": 112,
+  "pendientes": 3,
   "otros": 1,
   "anulados": 1
  },
@@ -33,8 +33,8 @@
    "unidades": 6.0,
    "roi": 23.08,
    "cuota_media": 1.6,
-   "total": 26,
-   "pendientes": 0,
+   "total": 27,
+   "pendientes": 1,
    "otros": 0,
    "vigilancia": false
   },
@@ -61,8 +61,8 @@
    "unidades": 1.4,
    "roi": 10.77,
    "cuota_media": 1.6,
-   "total": 13,
-   "pendientes": 0,
+   "total": 14,
+   "pendientes": 1,
    "otros": 0,
    "vigilancia": false
   },
@@ -75,8 +75,8 @@
    "unidades": 1.4,
    "roi": 10.77,
    "cuota_media": 1.6,
-   "total": 13,
-   "pendientes": 0,
+   "total": 14,
+   "pendientes": 1,
    "otros": 0,
    "vigilancia": false
   },
@@ -189,8 +189,8 @@
    "unidades": 3.6,
    "roi": 25.71,
    "cuota_media": 1.6,
-   "total": 14,
-   "pendientes": 0,
+   "total": 16,
+   "pendientes": 2,
    "otros": 0
   },
   {
@@ -202,8 +202,8 @@
    "unidades": -3.4,
    "roi": -9.19,
    "cuota_media": 1.6,
-   "total": 37,
-   "pendientes": 0,
+   "total": 38,
+   "pendientes": 1,
    "otros": 0
   },
   {
@@ -382,7 +382,11 @@
    "acum_unidades": 2.5
   }
  ],
- "pendientes_lista": [],
+ "pendientes_lista": [
+  "VfB Stuttgart vs Borussia Mönchengladbach",
+  "Cruzeiro vs Remo",
+  "Necaxa vs FC Juárez"
+ ],
  "avisos": [],
  "picks": [
   {
@@ -2455,6 +2459,63 @@
    "vigilancia": false,
    "resumen": "ESPN (Hoffenheim 7.78/4.33 en 9; Lyon 4.5/6.0) 11.3; FotMob (Hoffenheim 7.78/4.33 en 9; Lyon 4.4/6.0) 11.25. El Hoffenheim genera casi 8 corners por partido y Lyon concede 6, lo que sostiene un total por encima de 11 en ambas fuentes. Sin favorito claro.",
    "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas + UEFA (sin amistosos); contrastado ESPN y FotMob (2026-10-22 06:00). Favorito muy claro: no (Hoffenheim 2.05 / Lyon 3.20, una casa de apuestas). | Cerrado 16:00 22-oct: final 3-0; corners 11-9=20 según ESPN y FotMob (coinciden)."
+  },
+  {
+   "fecha": "2026-10-23",
+   "hora": "13:30",
+   "iso": "2026-10-23T13:30:00-05:00",
+   "partido": "VfB Stuttgart vs Borussia Mönchengladbach",
+   "competencia": "Bundesliga",
+   "promedio": "11.48-11.53",
+   "linea": "Más de 9.5 corners",
+   "corners": "",
+   "corners_total": null,
+   "resultado": "pendiente",
+   "cuota": 1.6,
+   "cuota_estimada": true,
+   "unidades": null,
+   "favorito_claro": "sí",
+   "vigilancia": false,
+   "resumen": "ESPN (Stuttgart 6.9/5.0; Gladbach 6.29/4.86 en 7) 11.53; FotMob (Stuttgart 6.8/5.0; Gladbach 6.29/4.86 en 7) 11.48. Los dos equipos generan más de 6 corners por partido y conceden alrededor de 5, así que ambas fuentes lo dejan con margen sobre 10. El Stuttgart es favorito claro en casa.",
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas (sin amistosos); contrastado ESPN y FotMob (2026-10-23 06:00). Favorito muy claro: sí (Stuttgart 1.36 / Gladbach 6.50, una casa de apuestas). Gladbach solo tiene 7 partidos con dato de corners."
+  },
+  {
+   "fecha": "2026-10-23",
+   "hora": "18:00",
+   "iso": "2026-10-23T18:00:00-05:00",
+   "partido": "Cruzeiro vs Remo",
+   "competencia": "Brasileirão",
+   "promedio": "11.95-12.0",
+   "linea": "Más de 9.5 corners",
+   "corners": "",
+   "corners_total": null,
+   "resultado": "pendiente",
+   "cuota": 1.6,
+   "cuota_estimada": true,
+   "unidades": null,
+   "favorito_claro": "sí",
+   "vigilancia": false,
+   "resumen": "ESPN (Cruzeiro 5.3/6.4; Remo 6.9/5.4) 12.0; FotMob (Cruzeiro 4.6/7.1; Remo 6.8/5.4) 11.95. Remo saca casi 7 corners por partido y Cruzeiro concede más de 6, lo que da el promedio más alto del día en ambas fuentes. El Cruzeiro es favorito claro en casa.",
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales del Brasileirão; contrastado ESPN y FotMob (2026-10-23 06:00). Favorito muy claro: sí (Cruzeiro 1.37 / Remo 7.50, una casa de apuestas)."
+  },
+  {
+   "fecha": "2026-10-23",
+   "hora": "20:00",
+   "iso": "2026-10-23T20:00:00-05:00",
+   "partido": "Necaxa vs FC Juárez",
+   "competencia": "Liga MX",
+   "promedio": "11.05-11.1",
+   "linea": "Más de 9.5 corners",
+   "corners": "",
+   "corners_total": null,
+   "resultado": "pendiente",
+   "cuota": 1.6,
+   "cuota_estimada": true,
+   "unidades": null,
+   "favorito_claro": "no",
+   "vigilancia": false,
+   "resumen": "ESPN (Necaxa 5.5/5.6; Juárez 4.7/6.4) 11.1; FotMob (Necaxa 5.5/5.6; Juárez 4.6/6.4) 11.05. Juárez concede más de 6 corners por partido y Necaxa genera 5,5, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes, aunque sin mucho margen. Necaxa es favorito, pero no muy claro.",
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales de Liga MX; contrastado ESPN y FotMob (2026-10-23 06:00). Favorito muy claro: no (Necaxa 1.77 / Juárez 4.30, una casa de apuestas)."
   }
  ]
 }

@@ -2,8 +2,8 @@
  "bot": "corners_10min",
  "nombre": "Bot Corners 10 Minutos",
  "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
- "generado": "2026-10-22 18:34",
- "generado_iso": "2026-10-22T18:34:00-05:00",
+ "generado": "2026-10-23 06:35",
+ "generado_iso": "2026-10-23T06:35:00-05:00",
  "fuente_csv": "site-data/corners_10min.csv",
  "resumen": {
   "resueltas": 103,
@@ -13,8 +13,8 @@
   "unidades": -8.37,
   "roi": -8.13,
   "cuota_media": 1.69,
-  "total": 106,
-  "pendientes": 3,
+  "total": 107,
+  "pendientes": 4,
   "otros": 0
  },
  "resumen_solo_apostadas": {
@@ -52,8 +52,8 @@
    "unidades": -6.72,
    "roi": -14.0,
    "cuota_media": 1.72,
-   "total": 50,
-   "pendientes": 2,
+   "total": 51,
+   "pendientes": 3,
    "otros": 0
   }
  ],
@@ -65,8 +65,8 @@
   "unidades": 3.76,
   "roi": 37.6,
   "cuota_media": 1.72,
-  "total": 11,
-  "pendientes": 1,
+  "total": 12,
+  "pendientes": 2,
   "otros": 0
  },
  "por_liga": [
@@ -118,8 +118,8 @@
    "unidades": -5.12,
    "roi": -42.67,
    "cuota_media": 1.7,
-   "total": 12,
-   "pendientes": 0,
+   "total": 13,
+   "pendientes": 1,
    "otros": 0
   },
   {
@@ -2809,6 +2809,26 @@
    "tipo": "pick",
    "fuente": "",
    "espn_id": "401841287"
+  },
+  {
+   "fecha": "2026-10-24",
+   "fecha_hora": "2026-10-24 06:30",
+   "iso": "2026-10-24T06:30:00-05:00",
+   "fecha_reporte": "2026-10-23 06:00",
+   "partido": "Portsmouth vs Millwall",
+   "competencia": "Championship",
+   "nivel": "media",
+   "puntos": 4,
+   "cuota": 1.72,
+   "cuota_origen": "regla",
+   "sin_apuesta": true,
+   "c2": true,
+   "minuto": "",
+   "resultado": "pendiente",
+   "unidades": null,
+   "tipo": "pick",
+   "fuente": "",
+   "espn_id": "401880203"
   },
   {
    "fecha": "2026-10-09",

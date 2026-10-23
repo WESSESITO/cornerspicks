@@ -1,234 +1,82 @@
 {
- "generado": "2026-10-22 18:34",
- "generado_iso": "2026-10-22T18:34:00-05:00",
+ "generado": "2026-10-23 06:35",
+ "generado_iso": "2026-10-23T06:35:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
- "hoy": "2026-10-22",
- "ayer": "2026-10-21",
+ "hoy": "2026-10-23",
+ "ayer": "2026-10-22",
  "bots": [
   {
    "bot": "over_corners",
    "nombre": "Picksters Over Córners",
    "mercado": "Más de 9,5 córners totales",
    "link": "picksters-over-corners.html",
-   "pendientes": [],
-   "ayer": [
+   "pendientes": [
     {
-     "fecha": "2026-10-21",
-     "hora": "14:00",
-     "iso": "2026-10-21T14:00:00-05:00",
-     "partido": "Real Madrid vs RB Leipzig",
-     "competencia": "Champions League",
+     "fecha": "2026-10-23",
+     "hora": "13:30",
+     "iso": "2026-10-23T13:30:00-05:00",
+     "partido": "VfB Stuttgart vs Borussia Mönchengladbach",
+     "competencia": "Bundesliga",
      "nivel": null,
      "marcas": [
       "favorito claro"
      ],
-     "respaldo": "promedio 11,82-11,93",
+     "respaldo": "promedio 11,48-11,53",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "error",
-     "detalle": "8 (7-1) córners",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
      "argumento": {
-      "texto": "Promedio combinado del filtro: 11,82-11,93 córners (umbral: 10 o más de forma clara). ESPN (Real Madrid 6.3/5.0; Leipzig 6.22/6.33 en 9) 11.93; FotMob (Real Madrid 6.3/5.0; Leipzig 6.11/6.22 en 9) 11.82. El Madrid es favorito claro y Leipzig concede más de 6 corners por partido, así que el volumen debería cargarse del lado blanco con margen sobre 10.",
+      "texto": "Promedio combinado del filtro: 11,48-11,53 córners (umbral: 10 o más de forma clara). ESPN (Stuttgart 6.9/5.0; Gladbach 6.29/4.86 en 7) 11.53; FotMob (Stuttgart 6.8/5.0; Gladbach 6.29/4.86 en 7) 11.48. Los dos equipos generan más de 6 corners por partido y conceden alrededor de 5, así que ambas fuentes lo dejan con margen sobre 10. El Stuttgart es favorito claro en casa.",
       "detalle": "",
       "origen": "bot"
      }
     },
     {
-     "fecha": "2026-10-21",
-     "hora": "14:00",
-     "iso": "2026-10-21T14:00:00-05:00",
-     "partido": "Aston Villa vs Viking FK",
-     "competencia": "Champions League",
-     "nivel": null,
-     "marcas": [
-      "ajustada",
-      "favorito claro"
-     ],
-     "respaldo": "promedio 10,6-11,5",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "14 (8-6) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,6-11,5 córners (umbral: 10 o más de forma clara). ESPN (Aston Villa 4.5/4.3; Viking 7.2/7.0) 11.5; FotMob (Aston Villa 4.4/4.3; Viking 6.7/5.8) 10.6. Viking juega partidos con muchos corners en ambos sentidos, pero Villa genera poco y las fuentes discrepan, así que queda algo ajustado. Villa es favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "14:00",
-     "iso": "2026-10-21T14:00:00-05:00",
-     "partido": "Club Brugge vs RC Lens",
-     "competencia": "Champions League",
-     "nivel": null,
-     "marcas": [
-      "ajustada"
-     ],
-     "respaldo": "promedio 10,5-11,0",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "error",
-     "detalle": "6 (1-5) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,5-11,0 córners (umbral: 10 o más de forma clara). ESPN (Brujas 7.5/3.4; Lens 7.0/4.1) 11.0; FotMob (Brujas 7.3/3.4; Lens 6.3/4.0) 10.5. Los dos equipos generan mucho y conceden poco, así que el total depende de su producción ofensiva; pick algo ajustado y sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "14:00",
-     "iso": "2026-10-21T14:00:00-05:00",
-     "partido": "Bayern Munich vs Arsenal",
-     "competencia": "Champions League",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 10,25-10,33",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "error",
-     "detalle": "8 (3-5) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,25-10,33 córners (umbral: 10 o más de forma clara). ESPN (Bayern 9.67/2.89 en 9; Arsenal 5.0/3.1) 10.33; FotMob (Bayern 9.3/3.3; Arsenal 4.8/3.1) 10.25. El Bayern promedia más de 9 corners a favor, pero Arsenal concede muy pocos; es el pick más justo del día y no hay favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
+     "fecha": "2026-10-23",
      "hora": "18:00",
-     "iso": "2026-10-21T18:00:00-05:00",
-     "partido": "FC Cincinnati vs D.C. United",
-     "competencia": "MLS",
-     "nivel": null,
-     "marcas": [
-      "ajustada",
-      "en vigilancia",
-      "favorito moderado"
-     ],
-     "respaldo": "promedio 10,55",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "15 (6-9) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,55 córners (umbral: 10 o más de forma clara). ESPN y FotMob coinciden en 10.55 (Cincinnati 5.9/4.4; D.C. United 5.2/5.6). D.C. United concede bastante y Cincinnati genera casi 6 por partido, pero queda algo ajustado y la MLS sigue en vigilancia.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "20:00",
-     "iso": "2026-10-21T20:00:00-05:00",
-     "partido": "Atlas vs América",
-     "competencia": "Liga MX",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 12,05-12,1",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "13 (9-4) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 12,05-12,1 córners (umbral: 10 o más de forma clara). ESPN (Atlas 6.1/6.4; América 5.9/5.8) 12.1; FotMob (Atlas 5.5/7.2; América 6.0/5.4) 12.05. Ambas fuentes lo ponen por encima de 12, holgado para el corte de Liga MX: Atlas concede mucho y América produce cerca de 6. Sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "20:00",
-     "iso": "2026-10-21T20:00:00-05:00",
-     "partido": "Toluca vs Tijuana",
-     "competencia": "Liga MX",
+     "iso": "2026-10-23T18:00:00-05:00",
+     "partido": "Cruzeiro vs Remo",
+     "competencia": "Brasileirão",
      "nivel": null,
      "marcas": [
       "favorito claro"
      ],
-     "respaldo": "promedio 11,85-12,0",
+     "respaldo": "promedio 11,95-12,0",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "22 (17-5) córners",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
      "argumento": {
-      "texto": "Promedio combinado del filtro: 11,85-12,0 córners (umbral: 10 o más de forma clara). ESPN (Toluca 6.7/5.2; Tijuana 5.3/6.8) 12.0; FotMob (Toluca 6.0/6.3; Tijuana 5.1/6.3) 11.85. Tijuana concede más de 6 corners por partido y Toluca es favorito claro en casa, así que pasa de 10 con margen.",
+      "texto": "Promedio combinado del filtro: 11,95-12,0 córners (umbral: 10 o más de forma clara). ESPN (Cruzeiro 5.3/6.4; Remo 6.9/5.4) 12.0; FotMob (Cruzeiro 4.6/7.1; Remo 6.8/5.4) 11.95. Remo saca casi 7 corners por partido y Cruzeiro concede más de 6, lo que da el promedio más alto del día en ambas fuentes. El Cruzeiro es favorito claro en casa.",
       "detalle": "",
       "origen": "bot"
      }
     },
     {
-     "fecha": "2026-10-21",
+     "fecha": "2026-10-23",
      "hora": "20:00",
-     "iso": "2026-10-21T20:00:00-05:00",
-     "partido": "Puebla vs Monterrey",
-     "competencia": "Liga MX",
-     "nivel": null,
-     "marcas": [
-      "favorito moderado"
-     ],
-     "respaldo": "promedio 10,6-11,6",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "10 (2-8) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,6-11,6 córners (umbral: 10 o más de forma clara). ESPN (Puebla 4.4/7.0; Monterrey 6.3/3.5) 10.6; FotMob (Puebla 4.8/6.8; Monterrey 7.2/4.4) 11.6. Puebla concede cerca de 7 corners por partido y Monterrey es favorito, pero las fuentes discrepan y el piso de ESPN queda justo para Liga MX.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "22:10",
-     "iso": "2026-10-21T22:10:00-05:00",
-     "partido": "Pachuca vs Cruz Azul",
+     "iso": "2026-10-23T20:00:00-05:00",
+     "partido": "Necaxa vs FC Juárez",
      "competencia": "Liga MX",
      "nivel": null,
      "marcas": [],
-     "respaldo": "promedio 10,65",
+     "respaldo": "promedio 11,05-11,1",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "error",
-     "detalle": "8 (0-8) córners",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
      "argumento": {
-      "texto": "Promedio combinado del filtro: 10,65 córners (umbral: 10 o más de forma clara). ESPN y FotMob coinciden en 10.65 (Pachuca 5.9/3.6-3.8; Cruz Azul 5.9-6.0/5.7-5.8). Cruz Azul juega partidos abiertos, pero Pachuca concede poco; queda justo para el corte de Liga MX y sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "22:10",
-     "iso": "2026-10-21T22:10:00-05:00",
-     "partido": "Santos Laguna vs Pumas UNAM",
-     "competencia": "Liga MX",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 11,25-11,65",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "12 (9-3) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,25-11,65 córners (umbral: 10 o más de forma clara). ESPN (Santos 7.5/5.3; Pumas 5.3/4.4) 11.25; FotMob (Santos 7.0/5.5; Pumas 5.6/5.2) 11.65. Santos genera más de 7 corners por partido en casa y en general, lo que sostiene un total por encima de 11 en ambas fuentes. Sin favorito claro.",
+      "texto": "Promedio combinado del filtro: 11,05-11,1 córners (umbral: 10 o más de forma clara). ESPN (Necaxa 5.5/5.6; Juárez 4.7/6.4) 11.1; FotMob (Necaxa 5.5/5.6; Juárez 4.6/6.4) 11.05. Juárez concede más de 6 corners por partido y Necaxa genera 5,5, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes, aunque sin mucho margen. Necaxa es favorito, pero no muy claro.",
       "detalle": "",
       "origen": "bot"
      }
     }
    ],
-   "hoy_cerradas": [
+   "ayer": [
     {
      "fecha": "2026-10-22",
      "hora": "11:45",
@@ -316,6 +164,7 @@
      }
     }
    ],
+   "hoy_cerradas": [],
    "balance": {
     "resueltas": 108,
     "aciertos": 69,
@@ -324,8 +173,8 @@
     "unidades": 2.5,
     "roi": 2.31,
     "cuota_media": 1.6,
-    "total": 109,
-    "pendientes": 0,
+    "total": 112,
+    "pendientes": 3,
     "otros": 1,
     "anulados": 1
    }
@@ -405,80 +254,33 @@
       "detalle": "",
       "origen": "bot"
      }
-    }
-   ],
-   "ayer": [
-    {
-     "fecha": "2026-10-21",
-     "hora": "14:00",
-     "iso": "2026-10-21T14:00:00-05:00",
-     "partido": "Aston Villa vs Viking FK",
-     "competencia": "Champions League",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "5 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-20 18:00",
-     "ya_empezo": true,
-     "resultado": "error",
-     "detalle": "21:04 (22')",
-     "argumento": {
-      "texto": "Aston Villa es favorito local con cuota 1,22 (A=2). Aston Villa promedia 4,5 corners a favor (B=0) y Viking FK recibe 7,0 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,5 corners en el partido (D=1) y el ritmo es de 30,9 tiros frente a un umbral de 32,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: ESPN 5 pts; con FotMob (Viking CA 5,8) daría 4: fuerte al límite.",
-      "detalle": "",
-      "origen": "bot"
-     }
     },
     {
-     "fecha": "2026-10-21",
-     "hora": "14:00",
-     "iso": "2026-10-21T14:00:00-05:00",
-     "partido": "Real Madrid vs RB Leipzig",
-     "competencia": "Champions League",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "7 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-20 18:00",
-     "ya_empezo": true,
-     "resultado": "error",
-     "detalle": "10:45 (11')",
-     "argumento": {
-      "texto": "Real Madrid es favorito local con cuota 1,25 (A=2). Real Madrid promedia 6,3 corners a favor (B=1) y RB Leipzig recibe 6,3 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 11,9 corners en el partido (D=1) y el ritmo es de 32,3 tiros frente a un umbral de 32,2 (E=1). Total 7 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "18:00",
-     "iso": "2026-10-21T18:00:00-05:00",
-     "partido": "FC Cincinnati vs D.C. United",
-     "competencia": "MLS",
+     "fecha": "2026-10-24",
+     "hora": "06:30",
+     "iso": "2026-10-24T06:30:00-05:00",
+     "partido": "Portsmouth vs Millwall",
+     "competencia": "Championship",
      "nivel": "media",
      "marcas": [
-      "media"
+      "media",
+      "C2"
      ],
      "respaldo": "4 puntos",
      "cuota": "sin apuesta (solo seguimiento)",
      "sin_apuesta": true,
-     "reportada": "2026-10-20 18:00",
-     "ya_empezo": true,
-     "resultado": "error",
-     "detalle": "23:20 (24')",
+     "reportada": "2026-10-23 06:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
      "argumento": {
-      "texto": "FC Cincinnati es favorito local pero paga 1,65, por encima de 1,60, así que no suma por cuota (A=0). FC Cincinnati promedia 5,9 corners a favor (B=1) y D.C. United recibe 5,6 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 10,6 corners en el partido (D=1) y el ritmo es de 30,4 tiros frente a un umbral de 30,0 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento.",
+      "texto": "Portsmouth es favorito local pero paga 2,50, por encima de 1,60, así que no suma por cuota (A=0). Portsmouth promedia 6,0 corners a favor (B=1) y Millwall recibe 7,3 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 27,0 tiros frente a un umbral de 29,7 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
       "detalle": "",
       "origen": "bot"
      }
     }
    ],
-   "hoy_cerradas": [
+   "ayer": [
     {
      "fecha": "2026-10-22",
      "hora": "11:45",
@@ -618,6 +420,7 @@
      }
     }
    ],
+   "hoy_cerradas": [],
    "balance": {
     "resueltas": 103,
     "aciertos": 56,
@@ -626,8 +429,8 @@
     "unidades": -8.37,
     "roi": -8.13,
     "cuota_media": 1.69,
-    "total": 106,
-    "pendientes": 3,
+    "total": 107,
+    "pendientes": 4,
     "otros": 0
    }
   },
@@ -637,7 +440,8 @@
    "mercado": "Total de córners MÁS o MENOS que la línea en vivo",
    "link": "cornes-en-vivo.html",
    "vivo": true,
-   "pendientes": [
+   "pendientes": [],
+   "ayer": [
     {
      "fecha": "2026-10-22",
      "hora": "",
@@ -1116,93 +920,6 @@
       "detalle": "tiros 8-10, a puerta 4-1, bloqueados 2-4; posesión 54.1-45.9; TC ataques 39-32 / 31-13; sin rojas; gol Brunner 45'+2'; sin +1 presión: 2 tiros fuera/bloqueados últimos 15' (61', 62'); sin +1 contexto: favorito Monaco (ML +125 vs Freiburg +200) gana por 1; Freiburg empujando por el empate; MUY SENSIBLE: MÁS por solo 0.02 (umbral 17.0); con minuto TC 65 serían 17.25; ajustada 17.02 vs línea 15.5 (umbrales 17.0/14.0) = MÁS; línea TotalCorner texto crudo: \"9.0 (15.5)\" -> en vivo 15.5, prepartido 9.0; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:27); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
       "origen": "bot",
       "despues": "Final: ESPN boxscore (FT) 3-0, córners 6-11 = 17 (= ESPN commentary 17)"
-     }
-    }
-   ],
-   "ayer": [
-    {
-     "fecha": "2026-10-21",
-     "hora": "",
-     "iso": null,
-     "vivo": true,
-     "minuto": "51'",
-     "partido": "Como vs Manchester United",
-     "competencia": "UEFA Champions League",
-     "nivel": null,
-     "marcas": [
-      "MENOS",
-      "v3-60"
-     ],
-     "senal": "MENOS",
-     "linea": "6,0",
-     "respaldo": "MENOS 6,0 · proyección 3,3 · marcador 2-0, 2 córners",
-     "cuota": "1,90 (supuesta)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "5 córners",
-     "argumento": {
-      "texto": "regla MÁS≥60; minuto 51 (ESPN 51', TC 51); goles Nico Paz 2', Douvikas 49'; Base 2 + 2/51*39*0.85 = 3.30; sin +1 presión: 2 tiros fuera 36-51' (39' Douvikas alto, 45' Cunha alto.",
-      "detalle": "43' Baturina atajado); sin +1 contexto: favorito Como (una casa de apuestas ML +140; Man United +175, empate +275) gana por 2; sin −1: lidera por 2 pero United debe salir (2 cambios al descanso), no se ve cerrado; sin rojas en ESPN (amarillas Andrey Santos 25', Baleba 51'; TC muestra marca 36' junto a Como, no confirmada); córners ESPN 1-1 = TC 1-1 (1T 1-1, 2T sin córners); tiros 6-3 (a puerta 4-0), bloqueados 0-0; posesión 61.9-38.1; TC ataques 23-11 / 23-10; ajustada 3.30 vs línea 6.0 (umbrales 7.5/4.5) = MENOS; una casa de apuestas O/U goles prepartido 3.5; línea TotalCorner texto crudo: \"9.5 (6.0)\" -> en vivo 6.0, prepartido 9.5; Fuente ESPN min/marcador/córners/tiros/commentary/cuotas; línea/ataques TotalCorner (TC min 51)",
-      "origen": "bot",
-      "despues": "Final: ESPN boxscore (FT) 4-1, córners 1-4 = 5 (= ESPN commentary)"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "",
-     "iso": null,
-     "vivo": true,
-     "minuto": "53'",
-     "partido": "Lille vs Galatasaray",
-     "competencia": "UEFA Champions League",
-     "nivel": null,
-     "marcas": [
-      "MENOS",
-      "v3-60"
-     ],
-     "senal": "MENOS",
-     "linea": "6,0",
-     "respaldo": "MENOS 6,0 · proyección 4,2 · marcador 2-2, 2 córners",
-     "cuota": "1,90 (supuesta)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "nulo",
-     "detalle": "6 córners",
-     "argumento": {
-      "texto": "regla MÁS≥60; minuto 53 (ESPN 53', TC 52); goles Akgün 2', Diaoune 7' y 39', Batrakov 44'; OJO marcador: ESPN 2-2, TotalCorner 2-3 (línea de goles TC en vivo 6.5 sugiere un 5º gol no reflejado aún en ESPN); Base 2 + 2/53*37*0.85 = 3.19.",
-      "detalle": "sin +1 presión: 2 tiros fuera/bloqueados 38-53' (37' Yilmaz fuera, 49' André bloqueado; 38'/39' Bakwa atajados); +1 contexto: favorito Lille (una casa de apuestas ML +155; Galatasaray +170, empate +250) empatando (o perdiendo según TC); sin −1: margen 0-1, sin rojas (amarilla Bentaleb 21'); córners ESPN 1-1 = TC 1-1 (1T 1-0, 2T Galatasaray 52'); tiros 9-5 (a puerta 5-2), bloqueados 2-0; posesión 52.1-47.9; TC ataques 23-21 / 21-17; ajustada 4.19 vs línea 6.0 (umbrales 7.5/4.5) = MENOS; partido muy abierto de goles pero sin córners; una casa de apuestas O/U goles prepartido 2.5; línea TotalCorner texto crudo: \"9.0 (6.0)\" -> en vivo 6.0, prepartido 9.0; Fuente ESPN min/marcador/córners/tiros/commentary/cuotas; línea/ataques/marcador alterno TotalCorner (TC min 52)",
-      "origen": "bot",
-      "despues": "Final: ESPN boxscore (FT) 2-4, córners 3-3 = 6 (= ESPN commentary)"
-     }
-    },
-    {
-     "fecha": "2026-10-21",
-     "hora": "",
-     "iso": null,
-     "vivo": true,
-     "minuto": "descanso",
-     "partido": "Levante vs Athletic Club",
-     "competencia": "LaLiga",
-     "nivel": null,
-     "marcas": [
-      "MÁS",
-      "v3-HT",
-      "experimental"
-     ],
-     "senal": "MÁS",
-     "linea": "11,5",
-     "respaldo": "MÁS 11,5 · proyección 13,1 · marcador 2-0, 6 córners",
-     "cuota": "1,90 (supuesta)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "12 córners",
-     "argumento": {
-      "texto": "minuto 45 (ESPN 45'+2' 1T, TC 46'); favorito prepartido Athletic Club (una casa de apuestas ML cierre +130; Levante +230, empate +225) pierde 2-0 (Roger Brugué 20' y 22'); córners 1T Levante 1 - Athletic 5 (ESPN = TC 1-5; Athletic 9', 27', 39', 41' y uno antes.",
-      "detalle": "Levante 44'); tiros 7-12, a puerta 4-3, bloqueados (ESPN) 1-4; posesión 39.2-60.8; DA TC 22-27; sin rojas ni amarillas; Base 6 + 6/45*45*0.85 = 11.10; +1 presión: 5 tiros fuera/bloqueados 30-45' (33' Olasagasti fuera, 35' Toljan fuera, 42' Berchiche bloqueado, 43' Jauregizar alto, 44' Requena bloqueado; ESPN commentary); +1 contexto: favorito perdiendo; sin −1: ventaja de 2 pero partido abierto (Levante sigue llegando, Athletic con 60% posesión y 4 córners desde el 9'); ajustada 13.10 vs línea 11.5 (umbral MÁS 13.0) = MÁS por 0.10 (muy sensible: con −1 por ventaja de 2 o sin el +1 de presión sería 12.10 = descartado); línea TotalCorner texto crudo: \"\"9.5 (11.5)\"\" -> en vivo 11.5, prepartido 9.5; expectativa 2T: Athletic debe empujar con centros (10 centros 1T) y Berenguer/Navarro por bandas, se esperan córners del Athletic; riesgo de contra de Levante (Brugué, Romero) con espacios; Fuente ESPN marcador/córners/tiros/cuotas/commentary; línea/DA TotalCorner (46')",
-      "origen": "bot",
-      "despues": "Final: ESPN boxscore (FT) 3-1, córners 3-9 = 12 (= ESPN commentary); favorito Athletic Club NO remontó (perdió 3-1); córners 2T de Athletic: 3 (55', 70', 90'+2'; ESPN commentary); córners 2T totales: 5 (Levante 69', 76'); 1T real 1-6 (incluye 45'+2')"
      }
     }
    ],
