@@ -2,8 +2,8 @@
  "bot": "over_corners",
  "nombre": "Picksters Over Córners",
  "mercado": "Más de 9,5 córners totales en el partido",
- "generado": "2026-10-23 06:35",
- "generado_iso": "2026-10-23T06:35:00-05:00",
+ "generado": "2026-10-23 18:38",
+ "generado_iso": "2026-10-23T18:38:00-05:00",
  "fuente_csv": "site-data/over_corners.csv",
  "breakeven": 62.5,
  "vigilancia": [
@@ -11,15 +11,15 @@
   "Liga Argentina"
  ],
  "resumen": {
-  "resueltas": 108,
-  "aciertos": 69,
+  "resueltas": 109,
+  "aciertos": 70,
   "errores": 39,
-  "pct": 63.89,
-  "unidades": 2.5,
-  "roi": 2.31,
+  "pct": 64.22,
+  "unidades": 3.1,
+  "roi": 2.84,
   "cuota_media": 1.6,
   "total": 112,
-  "pendientes": 3,
+  "pendientes": 2,
   "otros": 1,
   "anulados": 1
  },
@@ -54,15 +54,15 @@
   },
   {
    "grupo": "Bundesliga",
-   "resueltas": 13,
-   "aciertos": 9,
+   "resueltas": 14,
+   "aciertos": 10,
    "errores": 4,
-   "pct": 69.23,
-   "unidades": 1.4,
-   "roi": 10.77,
+   "pct": 71.43,
+   "unidades": 2.0,
+   "roi": 14.29,
    "cuota_media": 1.6,
    "total": 14,
-   "pendientes": 1,
+   "pendientes": 0,
    "otros": 0,
    "vigilancia": false
   },
@@ -182,15 +182,15 @@
  "por_favorito": [
   {
    "grupo": "sí",
-   "resueltas": 14,
-   "aciertos": 11,
+   "resueltas": 15,
+   "aciertos": 12,
    "errores": 3,
-   "pct": 78.57,
-   "unidades": 3.6,
-   "roi": 25.71,
+   "pct": 80.0,
+   "unidades": 4.2,
+   "roi": 28.0,
    "cuota_media": 1.6,
    "total": 16,
-   "pendientes": 2,
+   "pendientes": 1,
    "otros": 0
   },
   {
@@ -380,10 +380,19 @@
    "acum_aciertos": 69,
    "acum_pct": 63.89,
    "acum_unidades": 2.5
+  },
+  {
+   "fecha": "2026-10-23",
+   "dia_picks": 1,
+   "dia_aciertos": 1,
+   "dia_unidades": 0.6,
+   "acum_resueltas": 109,
+   "acum_aciertos": 70,
+   "acum_pct": 64.22,
+   "acum_unidades": 3.1
   }
  ],
  "pendientes_lista": [
-  "VfB Stuttgart vs Borussia Mönchengladbach",
   "Cruzeiro vs Remo",
   "Necaxa vs FC Juárez"
  ],
@@ -2468,16 +2477,16 @@
    "competencia": "Bundesliga",
    "promedio": "11.48-11.53",
    "linea": "Más de 9.5 corners",
-   "corners": "",
-   "corners_total": null,
-   "resultado": "pendiente",
+   "corners": "11 (6-5)",
+   "corners_total": 11,
+   "resultado": "acierto",
    "cuota": 1.6,
    "cuota_estimada": true,
-   "unidades": null,
+   "unidades": 0.6,
    "favorito_claro": "sí",
    "vigilancia": false,
    "resumen": "ESPN (Stuttgart 6.9/5.0; Gladbach 6.29/4.86 en 7) 11.53; FotMob (Stuttgart 6.8/5.0; Gladbach 6.29/4.86 en 7) 11.48. Los dos equipos generan más de 6 corners por partido y conceden alrededor de 5, así que ambas fuentes lo dejan con margen sobre 10. El Stuttgart es favorito claro en casa.",
-   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas (sin amistosos); contrastado ESPN y FotMob (2026-10-23 06:00). Favorito muy claro: sí (Stuttgart 1.36 / Gladbach 6.50, una casa de apuestas). Gladbach solo tiene 7 partidos con dato de corners."
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas (sin amistosos); contrastado ESPN y FotMob (2026-10-23 06:00). Favorito muy claro: sí (Stuttgart 1.36 / Gladbach 6.50, una casa de apuestas). Gladbach solo tiene 7 partidos con dato de corners. | Cerrado 16:00 23-oct: final 2-3; corners 6-5=11 según ESPN y FotMob (coinciden)."
   },
   {
    "fecha": "2026-10-23",

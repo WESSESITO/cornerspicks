@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-23 06:35",
- "generado_iso": "2026-10-23T06:35:00-05:00",
+ "generado": "2026-10-23 18:38",
+ "generado_iso": "2026-10-23T18:38:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-10-23",
  "ayer": "2026-10-22",
@@ -11,28 +11,6 @@
    "mercado": "Más de 9,5 córners totales",
    "link": "picksters-over-corners.html",
    "pendientes": [
-    {
-     "fecha": "2026-10-23",
-     "hora": "13:30",
-     "iso": "2026-10-23T13:30:00-05:00",
-     "partido": "VfB Stuttgart vs Borussia Mönchengladbach",
-     "competencia": "Bundesliga",
-     "nivel": null,
-     "marcas": [
-      "favorito claro"
-     ],
-     "respaldo": "promedio 11,48-11,53",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,48-11,53 córners (umbral: 10 o más de forma clara). ESPN (Stuttgart 6.9/5.0; Gladbach 6.29/4.86 en 7) 11.53; FotMob (Stuttgart 6.8/5.0; Gladbach 6.29/4.86 en 7) 11.48. Los dos equipos generan más de 6 corners por partido y conceden alrededor de 5, así que ambas fuentes lo dejan con margen sobre 10. El Stuttgart es favorito claro en casa.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
     {
      "fecha": "2026-10-23",
      "hora": "18:00",
@@ -46,7 +24,7 @@
      "respaldo": "promedio 11,95-12,0",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -164,17 +142,40 @@
      }
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-10-23",
+     "hora": "13:30",
+     "iso": "2026-10-23T13:30:00-05:00",
+     "partido": "VfB Stuttgart vs Borussia Mönchengladbach",
+     "competencia": "Bundesliga",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 11,48-11,53",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "11 (6-5) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,48-11,53 córners (umbral: 10 o más de forma clara). ESPN (Stuttgart 6.9/5.0; Gladbach 6.29/4.86 en 7) 11.53; FotMob (Stuttgart 6.8/5.0; Gladbach 6.29/4.86 en 7) 11.48. Los dos equipos generan más de 6 corners por partido y conceden alrededor de 5, así que ambas fuentes lo dejan con margen sobre 10. El Stuttgart es favorito claro en casa.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
    "balance": {
-    "resueltas": 108,
-    "aciertos": 69,
+    "resueltas": 109,
+    "aciertos": 70,
     "errores": 39,
-    "pct": 63.89,
-    "unidades": 2.5,
-    "roi": 2.31,
+    "pct": 64.22,
+    "unidades": 3.1,
+    "roi": 2.84,
     "cuota_media": 1.6,
     "total": 112,
-    "pendientes": 3,
+    "pendientes": 2,
     "otros": 1,
     "anulados": 1
    }
@@ -185,53 +186,6 @@
    "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
    "link": "bot-10-minutos.html",
    "pendientes": [
-    {
-     "fecha": "2026-10-23",
-     "hora": "13:00",
-     "iso": "2026-10-23T13:00:00-05:00",
-     "partido": "Go Ahead Eagles vs Telstar",
-     "competencia": "Eredivisie",
-     "nivel": "media",
-     "marcas": [
-      "media",
-      "C2"
-     ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-22 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Go Ahead Eagles es favorito local pero paga 1,61, por encima de 1,60, así que no suma por cuota (A=0). Go Ahead Eagles promedia 6,3 corners a favor (B=1) y Telstar recibe 6,0 en contra (C=2), en sus últimos 9 partidos oficiales. Se esperan 10,9 corners en el partido (D=1) y el ritmo es de 30,7 tiros frente a un umbral de 33,3 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-23",
-     "hora": "13:30",
-     "iso": "2026-10-23T13:30:00-05:00",
-     "partido": "VfB Stuttgart vs Borussia Mönchengladbach",
-     "competencia": "Bundesliga",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "5 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-22 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "VfB Stuttgart es favorito local con cuota 1,36 (A=1). VfB Stuttgart promedia 6,8 corners a favor (B=2) y Borussia Mönchengladbach recibe 4,9 en contra (C=0), en sus últimos 7 y 10 partidos oficiales. Se esperan 11,5 corners en el partido (D=1) y el ritmo es de 33,0 tiros frente a un umbral de 31,2 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
     {
      "fecha": "2026-10-23",
      "hora": "18:00",
@@ -246,7 +200,7 @@
      "cuota": "sin apuesta (solo seguimiento)",
      "sin_apuesta": true,
      "reportada": "2026-10-22 18:00",
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -275,6 +229,215 @@
      "detalle": "",
      "argumento": {
       "texto": "Portsmouth es favorito local pero paga 2,50, por encima de 1,60, así que no suma por cuota (A=0). Portsmouth promedia 6,0 corners a favor (B=1) y Millwall recibe 7,3 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 27,0 tiros frente a un umbral de 29,7 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "08:00",
+     "iso": "2026-10-24T08:00:00-05:00",
+     "partido": "Como vs Sassuolo",
+     "competencia": "Serie A",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Como es favorito local con cuota 1,46 (A=1). Como promedia 5,4 corners a favor (B=0) y Sassuolo recibe 6,0 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 10,2 corners en el partido (D=0) y el ritmo es de 31,6 tiros frente a un umbral de 28,9 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "08:30",
+     "iso": "2026-10-24T08:30:00-05:00",
+     "partido": "Augsburg vs Union Berlin",
+     "competencia": "Bundesliga",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Augsburg es favorito local pero paga 1,83, por encima de 1,60, así que no suma por cuota (A=0). Augsburg promedia 6,0 corners a favor (B=1) y Union Berlin recibe 6,0 en contra (C=2), en sus últimos 7 partidos oficiales. Se esperan 11,9 corners en el partido (D=1) y el ritmo es de 33,7 tiros frente a un umbral de 31,2 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "08:30",
+     "iso": "2026-10-24T08:30:00-05:00",
+     "partido": "RB Leipzig vs Elversberg",
+     "competencia": "Bundesliga",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "6 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "RB Leipzig es favorito local con cuota 1,41 (A=1). RB Leipzig promedia 5,6 corners a favor (B=1) y Elversberg recibe 7,3 en contra (C=2), en sus últimos 7 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 32,9 tiros frente a un umbral de 31,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "09:00",
+     "iso": "2026-10-24T09:00:00-05:00",
+     "partido": "Lincoln City vs Burnley",
+     "competencia": "Championship",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 2,45), así que no suma por cuota (A=0). Burnley promedia 5,5 corners a favor (B=1) y Lincoln City recibe 9,2 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,2 corners en el partido (D=1) y el ritmo es de 29,2 tiros frente a un umbral de 29,7 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "11:30",
+     "iso": "2026-10-24T11:30:00-05:00",
+     "partido": "Borussia Dortmund vs Eintracht Frankfurt",
+     "competencia": "Bundesliga",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Borussia Dortmund es favorito local con cuota 1,47 (A=1). Borussia Dortmund promedia 7,3 corners a favor (B=2) y Eintracht Frankfurt recibe 3,7 en contra (C=0), en sus últimos 7 y 10 partidos oficiales. Se esperan 10,6 corners en el partido (D=1) y el ritmo es de 30,2 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "14:00",
+     "iso": "2026-10-24T14:00:00-05:00",
+     "partido": "Atlético Madrid vs Deportivo A Coruña",
+     "competencia": "LaLiga",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Atlético Madrid es favorito local con cuota 1,29 (A=2). Atlético Madrid promedia 5,7 corners a favor (B=1) y Deportivo A Coruña recibe 5,4 en contra (C=1), en sus últimos 9 y 10 partidos oficiales. Se esperan 10,3 corners en el partido (D=0) y el ritmo es de 25,3 tiros frente a un umbral de 28,9 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "16:30",
+     "iso": "2026-10-24T16:30:00-05:00",
+     "partido": "Palmeiras vs RB Bragantino",
+     "competencia": "Brasileirão",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "6 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Palmeiras es favorito local con cuota 1,56 (A=1). Palmeiras promedia 5,8 corners a favor (B=1) y RB Bragantino recibe 6,2 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 12,6 corners en el partido (D=1) y el ritmo es de 32,1 tiros frente a un umbral de 28,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "18:30",
+     "iso": "2026-10-24T18:30:00-05:00",
+     "partido": "DC United vs FC Cincinnati",
+     "competencia": "MLS",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 2,20), así que no suma por cuota (A=0). FC Cincinnati promedia 6,3 corners a favor (B=1) y DC United recibe 5,7 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 11,2 corners en el partido (D=1) y el ritmo es de 30,1 tiros frente a un umbral de 30,0 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "18:30",
+     "iso": "2026-10-24T18:30:00-05:00",
+     "partido": "Philadelphia Union vs New England Revolution",
+     "competencia": "MLS",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Philadelphia Union es favorito local con cuota 1,50 (A=1). Philadelphia Union promedia 5,9 corners a favor (B=1) y New England Revolution recibe 7,0 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,0 corners en el partido (D=1) y el ritmo es de 26,6 tiros frente a un umbral de 30,0 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
       "detalle": "",
       "origen": "bot"
      }
@@ -420,17 +583,65 @@
      }
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-10-23",
+     "hora": "13:00",
+     "iso": "2026-10-23T13:00:00-05:00",
+     "partido": "Go Ahead Eagles vs Telstar",
+     "competencia": "Eredivisie",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-22 18:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "10:02 (11')",
+     "argumento": {
+      "texto": "Go Ahead Eagles es favorito local pero paga 1,61, por encima de 1,60, así que no suma por cuota (A=0). Go Ahead Eagles promedia 6,3 corners a favor (B=1) y Telstar recibe 6,0 en contra (C=2), en sus últimos 9 partidos oficiales. Se esperan 10,9 corners en el partido (D=1) y el ritmo es de 30,7 tiros frente a un umbral de 33,3 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-23",
+     "hora": "13:30",
+     "iso": "2026-10-23T13:30:00-05:00",
+     "partido": "VfB Stuttgart vs Borussia Mönchengladbach",
+     "competencia": "Bundesliga",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-22 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "2:09 (3')",
+     "argumento": {
+      "texto": "VfB Stuttgart es favorito local con cuota 1,36 (A=1). VfB Stuttgart promedia 6,8 corners a favor (B=2) y Borussia Mönchengladbach recibe 4,9 en contra (C=0), en sus últimos 7 y 10 partidos oficiales. Se esperan 11,5 corners en el partido (D=1) y el ritmo es de 33,0 tiros frente a un umbral de 31,2 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
    "balance": {
-    "resueltas": 103,
-    "aciertos": 56,
-    "errores": 47,
-    "pct": 54.37,
-    "unidades": -8.37,
-    "roi": -8.13,
+    "resueltas": 105,
+    "aciertos": 57,
+    "errores": 48,
+    "pct": 54.29,
+    "unidades": -8.67,
+    "roi": -8.26,
     "cuota_media": 1.69,
-    "total": 107,
-    "pendientes": 4,
+    "total": 116,
+    "pendientes": 11,
     "otros": 0
    }
   },
@@ -440,7 +651,36 @@
    "mercado": "Total de córners MÁS o MENOS que la línea en vivo",
    "link": "cornes-en-vivo.html",
    "vivo": true,
-   "pendientes": [],
+   "pendientes": [
+    {
+     "fecha": "2026-10-23",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "52'",
+     "partido": "Ipswich Town vs Nottingham Forest",
+     "competencia": "Premier League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "6,5",
+     "respaldo": "MENOS 6,5 · proyección 4,2 · marcador 1-1, 2 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "5 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; regla MENOS≥0.5; minuto 52 (ESPN 52', TC 52); Base 2 + 2/52*38*0.85 = 3.24; córners ESPN 0-2 = TC 0-2 (1T 0-2, 0 en 2T).",
+      "detalle": "tiros 6-6, a puerta 3-3, bloqueados 0-0; posesión 58.5-41.5; TC ataques 24-16 / 19-14; goles N. Williams 13', Enciso 41'; sin +1 presión: commentary 37'-52' sin tiros fuera/bloqueados; +1 contexto: favorito Forest (ML +125) empata; sin -1 por roja: ESPN commentary 49' 'VAR Decision: Card upgraded Issa Diop (Ipswich)' pero ESPN boxscore 0 rojas y TotalCorner sin roja (1 amarilla Ipswich) -> no confirmada; si fuera roja la ajustada bajaría a 3.24 (sigue MENOS); ajustada 4.24 vs línea 6.5 (umbrales 8.0/5.0; MENOS válido ≤4.5, margen 0.76 sobre el umbral) = MENOS; línea TotalCorner texto crudo: \"9.5 (6.5)\" -> en vivo 6.5, prepartido 9.5; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:11); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN | FT ESPN: córners 5",
+      "origen": "bot",
+      "despues": ""
+     }
+    }
+   ],
    "ayer": [
     {
      "fecha": "2026-10-22",
@@ -925,14 +1165,14 @@
    ],
    "hoy_cerradas": [],
    "balance": {
-    "resueltas": 50,
-    "aciertos": 30,
+    "resueltas": 51,
+    "aciertos": 31,
     "errores": 20,
-    "pct": 60.0,
-    "unidades": 7.0,
-    "roi": 14.0,
+    "pct": 60.78,
+    "unidades": 7.9,
+    "roi": 15.49,
     "cuota_media": 1.9,
-    "total": 55,
+    "total": 56,
     "pendientes": 0,
     "otros": 5,
     "nulos": 5
