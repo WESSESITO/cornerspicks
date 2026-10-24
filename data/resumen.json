@@ -1,20 +1,20 @@
 {
- "generado": "2026-10-23 18:38",
- "generado_iso": "2026-10-23T18:38:00-05:00",
+ "generado": "2026-10-24 06:31",
+ "generado_iso": "2026-10-24T06:31:00-05:00",
  "bots": [
   {
    "bot": "corners_10min",
    "nombre": "Bot Corners 10 Minutos",
    "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
    "resumen": {
-    "resueltas": 105,
-    "aciertos": 57,
+    "resueltas": 106,
+    "aciertos": 58,
     "errores": 48,
-    "pct": 54.29,
-    "unidades": -8.67,
-    "roi": -8.26,
+    "pct": 54.72,
+    "unidades": -7.95,
+    "roi": -7.5,
     "cuota_media": 1.69,
-    "total": 116,
+    "total": 117,
     "pendientes": 11,
     "otros": 0
    },
@@ -171,13 +171,13 @@
     },
     {
      "fecha": "2026-10-23",
-     "dia_picks": 2,
-     "dia_aciertos": 1,
-     "dia_unidades": -0.3,
-     "acum_resueltas": 105,
-     "acum_aciertos": 57,
-     "acum_pct": 54.29,
-     "acum_unidades": -8.67
+     "dia_picks": 3,
+     "dia_aciertos": 2,
+     "dia_unidades": 0.42,
+     "acum_resueltas": 106,
+     "acum_aciertos": 58,
+     "acum_pct": 54.72,
+     "acum_unidades": -7.95
     }
    ],
    "desde": "2026-10-08",
@@ -188,15 +188,15 @@
    "nombre": "Picksters Over Córners",
    "mercado": "Más de 9,5 córners totales en el partido",
    "resumen": {
-    "resueltas": 109,
-    "aciertos": 70,
+    "resueltas": 111,
+    "aciertos": 72,
     "errores": 39,
-    "pct": 64.22,
-    "unidades": 3.1,
-    "roi": 2.84,
+    "pct": 64.86,
+    "unidades": 4.3,
+    "roi": 3.87,
     "cuota_media": 1.6,
-    "total": 112,
-    "pendientes": 2,
+    "total": 131,
+    "pendientes": 19,
     "otros": 1,
     "anulados": 1
    },
@@ -363,13 +363,13 @@
     },
     {
      "fecha": "2026-10-23",
-     "dia_picks": 1,
-     "dia_aciertos": 1,
-     "dia_unidades": 0.6,
-     "acum_resueltas": 109,
-     "acum_aciertos": 70,
-     "acum_pct": 64.22,
-     "acum_unidades": 3.1
+     "dia_picks": 3,
+     "dia_aciertos": 3,
+     "dia_unidades": 1.8,
+     "acum_resueltas": 111,
+     "acum_aciertos": 72,
+     "acum_pct": 64.86,
+     "acum_unidades": 4.3
     }
    ],
    "desde": "2026-10-07",
