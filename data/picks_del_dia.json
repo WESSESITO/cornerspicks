@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-24 06:31",
- "generado_iso": "2026-10-24T06:31:00-05:00",
+ "generado": "2026-10-24 18:31",
+ "generado_iso": "2026-10-24T18:31:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-10-24",
  "ayer": "2026-10-23",
@@ -13,133 +13,6 @@
    "pendientes": [
     {
      "fecha": "2026-10-24",
-     "hora": "07:00",
-     "iso": "2026-10-24T07:00:00-05:00",
-     "partido": "Rayo Vallecano vs Elche",
-     "competencia": "LaLiga",
-     "nivel": null,
-     "marcas": [
-      "ajustada"
-     ],
-     "respaldo": "promedio 10,61-10,67",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,61-10,67 córners (umbral: 10 o más de forma clara). ESPN (Rayo Vallecano 5,62/6,38 en 8; Elche 4,67/4,67 en 9) 10,67; FotMob (Rayo Vallecano 5,62/6,38 en 8; Elche 4,56/4,67 en 9) 10,61. Elche genera 4,67 corners por partido y Rayo Vallecano concede 6,38, así que pasa el corte de 10,5 del fin de semana en ambas fuentes aunque ajustado. Rayo Vallecano es favorito, pero no muy claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-24",
-     "hora": "08:30",
-     "iso": "2026-10-24T08:30:00-05:00",
-     "partido": "FC Augsburg vs 1. FC Union Berlin",
-     "competencia": "Bundesliga",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 11,86-11,86",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,86-11,86 córners (umbral: 10 o más de forma clara). ESPN (FC Augsburg 6/7 en 7; 1. FC Union Berlin 4,71/6 en 7) 11,86; FotMob (FC Augsburg 6/7 en 7; 1. FC Union Berlin 4,71/6 en 7) 11,86. FC Augsburg genera 6 corners por partido y 1. FC Union Berlin concede 6, así que pasa el corte de 10,5 del fin de semana en ambas fuentes con margen holgado. FC Augsburg es favorito, pero no muy claro. La muestra es corta: algún equipo solo tiene 7 partidos con dato de corners.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-24",
-     "hora": "08:30",
-     "iso": "2026-10-24T08:30:00-05:00",
-     "partido": "FC Cologne vs Schalke 04",
-     "competencia": "Bundesliga",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 10,86-10,86",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,86-10,86 córners (umbral: 10 o más de forma clara). ESPN (FC Cologne 5,86/6,14 en 7; Schalke 04 3,86/5,86 en 7) 10,86; FotMob (FC Cologne 5,86/6,14 en 7; Schalke 04 3,86/5,86 en 7) 10,86. FC Cologne genera 5,86 corners por partido y Schalke 04 concede 5,86, así que pasa el corte de 10,5 del fin de semana en ambas fuentes con algo de margen. Sin favorito claro. La muestra es corta: algún equipo solo tiene 7 partidos con dato de corners.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-24",
-     "hora": "08:30",
-     "iso": "2026-10-24T08:30:00-05:00",
-     "partido": "RB Leipzig vs SV Elversberg",
-     "competencia": "Bundesliga",
-     "nivel": null,
-     "marcas": [
-      "favorito claro"
-     ],
-     "respaldo": "promedio 11,38-11,48",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,38-11,48 córners (umbral: 10 o más de forma clara). ESPN (RB Leipzig 5,7/6,4; SV Elversberg 3,57/7,29 en 7) 11,48; FotMob (RB Leipzig 5,6/6,3; SV Elversberg 3,57/7,29 en 7) 11,38. RB Leipzig genera 5,7 corners por partido y SV Elversberg concede 7,29, así que pasa el corte de 10,5 del fin de semana en ambas fuentes con margen holgado. RB Leipzig es favorito claro. La muestra es corta: algún equipo solo tiene 7 partidos con dato de corners.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-24",
-     "hora": "11:30",
-     "iso": "2026-10-24T11:30:00-05:00",
-     "partido": "Chelsea vs Tottenham Hotspur",
-     "competencia": "Premier League",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 11,50-11,55",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,50-11,55 córners (umbral: 10 o más de forma clara). ESPN (Chelsea 6/5,11 en 9; Tottenham Hotspur 7,33/4,67 en 9) 11,55; FotMob (Chelsea 5,89/5,11 en 9; Tottenham Hotspur 7,33/4,67 en 9) 11,5. Tottenham Hotspur genera 7,33 corners por partido y Chelsea concede 5,11, así que pasa el corte de 10,5 del fin de semana en ambas fuentes con margen holgado. Sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-24",
-     "hora": "11:30",
-     "iso": "2026-10-24T11:30:00-05:00",
-     "partido": "Borussia Dortmund vs Eintracht Frankfurt",
-     "competencia": "Bundesliga",
-     "nivel": null,
-     "marcas": [
-      "ajustada",
-      "favorito claro"
-     ],
-     "respaldo": "promedio 10,61-10,66",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,61-10,66 córners (umbral: 10 o más de forma clara). ESPN (Borussia Dortmund 7,4/4,5; Eintracht Frankfurt 5,71/3,71 en 7) 10,66; FotMob (Borussia Dortmund 7,3/4,5; Eintracht Frankfurt 5,71/3,71 en 7) 10,61. Borussia Dortmund genera 7,4 corners por partido y Eintracht Frankfurt 5,71, aunque el Frankfurt concede poco (3,71); pasa el corte de 10,5 del fin de semana en ambas fuentes aunque ajustado. Borussia Dortmund es favorito claro. La muestra es corta: algún equipo solo tiene 7 partidos con dato de corners.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-24",
      "hora": "14:30",
      "iso": "2026-10-24T14:30:00-05:00",
      "partido": "Mirassol vs São Paulo",
@@ -149,7 +22,7 @@
      "respaldo": "promedio 11,20-11,35",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -169,7 +42,7 @@
      "respaldo": "promedio 10,80-11,45",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -189,7 +62,7 @@
      "respaldo": "promedio 12,15-12,55",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -209,7 +82,7 @@
      "respaldo": "promedio 11,25-11,40",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -229,7 +102,7 @@
      "respaldo": "promedio 11,45-11,75",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -251,7 +124,7 @@
      "respaldo": "promedio 11,25-11,25",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -274,7 +147,7 @@
      "respaldo": "promedio 11,00-11,00",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -478,71 +351,25 @@
      }
     }
    ],
-   "hoy_cerradas": [],
-   "balance": {
-    "resueltas": 111,
-    "aciertos": 72,
-    "errores": 39,
-    "pct": 64.86,
-    "unidades": 4.3,
-    "roi": 3.87,
-    "cuota_media": 1.6,
-    "total": 131,
-    "pendientes": 19,
-    "otros": 1,
-    "anulados": 1
-   }
-  },
-  {
-   "bot": "corners_10min",
-   "nombre": "Bot Corners 10 Minutos",
-   "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
-   "link": "bot-10-minutos.html",
-   "pendientes": [
+   "hoy_cerradas": [
     {
      "fecha": "2026-10-24",
-     "hora": "06:30",
-     "iso": "2026-10-24T06:30:00-05:00",
-     "partido": "Portsmouth vs Millwall",
-     "competencia": "Championship",
-     "nivel": "media",
+     "hora": "07:00",
+     "iso": "2026-10-24T07:00:00-05:00",
+     "partido": "Rayo Vallecano vs Elche",
+     "competencia": "LaLiga",
+     "nivel": null,
      "marcas": [
-      "media",
-      "C2"
+      "ajustada"
      ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-23 06:00",
+     "respaldo": "promedio 10,61-10,67",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
      "ya_empezo": true,
-     "resultado": "pendiente",
-     "detalle": "",
+     "resultado": "error",
+     "detalle": "6 (3-3) córners",
      "argumento": {
-      "texto": "Portsmouth es favorito local pero paga 2,50, por encima de 1,60, así que no suma por cuota (A=0). Portsmouth promedia 6,0 corners a favor (B=1) y Millwall recibe 7,3 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 27,0 tiros frente a un umbral de 29,7 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-24",
-     "hora": "08:00",
-     "iso": "2026-10-24T08:00:00-05:00",
-     "partido": "Como vs Sassuolo",
-     "competencia": "Serie A",
-     "nivel": "media",
-     "marcas": [
-      "media",
-      "C2"
-     ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-23 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Como es favorito local con cuota 1,46 (A=1). Como promedia 5,4 corners a favor (B=0) y Sassuolo recibe 6,0 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 10,2 corners en el partido (D=0) y el ritmo es de 31,6 tiros frente a un umbral de 28,9 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "texto": "Promedio combinado del filtro: 10,61-10,67 córners (umbral: 10 o más de forma clara). ESPN (Rayo Vallecano 5,62/6,38 en 8; Elche 4,67/4,67 en 9) 10,67; FotMob (Rayo Vallecano 5,62/6,38 en 8; Elche 4,56/4,67 en 9) 10,61. Elche genera 4,67 corners por partido y Rayo Vallecano concede 6,38, así que pasa el corte de 10,5 del fin de semana en ambas fuentes aunque ajustado. Rayo Vallecano es favorito, pero no muy claro.",
       "detalle": "",
       "origen": "bot"
      }
@@ -551,21 +378,18 @@
      "fecha": "2026-10-24",
      "hora": "08:30",
      "iso": "2026-10-24T08:30:00-05:00",
-     "partido": "Augsburg vs Union Berlin",
+     "partido": "FC Augsburg vs 1. FC Union Berlin",
      "competencia": "Bundesliga",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "5 puntos",
-     "cuota": "mín. 1,70",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,86-11,86",
+     "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "reportada": "2026-10-23 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "6 (5-1) córners",
      "argumento": {
-      "texto": "Augsburg es favorito local pero paga 1,83, por encima de 1,60, así que no suma por cuota (A=0). Augsburg promedia 6,0 corners a favor (B=1) y Union Berlin recibe 6,0 en contra (C=2), en sus últimos 7 partidos oficiales. Se esperan 11,9 corners en el partido (D=1) y el ritmo es de 33,7 tiros frente a un umbral de 31,2 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "texto": "Promedio combinado del filtro: 11,86-11,86 córners (umbral: 10 o más de forma clara). ESPN (FC Augsburg 6/7 en 7; 1. FC Union Berlin 4,71/6 en 7) 11,86; FotMob (FC Augsburg 6/7 en 7; 1. FC Union Berlin 4,71/6 en 7) 11,86. FC Augsburg genera 6 corners por partido y 1. FC Union Berlin concede 6, así que pasa el corte de 10,5 del fin de semana en ambas fuentes con margen holgado. FC Augsburg es favorito, pero no muy claro. La muestra es corta: algún equipo solo tiene 7 partidos con dato de corners.",
       "detalle": "",
       "origen": "bot"
      }
@@ -574,45 +398,60 @@
      "fecha": "2026-10-24",
      "hora": "08:30",
      "iso": "2026-10-24T08:30:00-05:00",
-     "partido": "RB Leipzig vs Elversberg",
+     "partido": "FC Cologne vs Schalke 04",
      "competencia": "Bundesliga",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "6 puntos",
-     "cuota": "mín. 1,70",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,86-10,86",
+     "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "reportada": "2026-10-23 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "11 (6-5) córners",
      "argumento": {
-      "texto": "RB Leipzig es favorito local con cuota 1,41 (A=1). RB Leipzig promedia 5,6 corners a favor (B=1) y Elversberg recibe 7,3 en contra (C=2), en sus últimos 7 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 32,9 tiros frente a un umbral de 31,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "texto": "Promedio combinado del filtro: 10,86-10,86 córners (umbral: 10 o más de forma clara). ESPN (FC Cologne 5,86/6,14 en 7; Schalke 04 3,86/5,86 en 7) 10,86; FotMob (FC Cologne 5,86/6,14 en 7; Schalke 04 3,86/5,86 en 7) 10,86. FC Cologne genera 5,86 corners por partido y Schalke 04 concede 5,86, así que pasa el corte de 10,5 del fin de semana en ambas fuentes con algo de margen. Sin favorito claro. La muestra es corta: algún equipo solo tiene 7 partidos con dato de corners.",
       "detalle": "",
       "origen": "bot"
      }
     },
     {
      "fecha": "2026-10-24",
-     "hora": "09:00",
-     "iso": "2026-10-24T09:00:00-05:00",
-     "partido": "Lincoln City vs Burnley",
-     "competencia": "Championship",
-     "nivel": "media",
+     "hora": "08:30",
+     "iso": "2026-10-24T08:30:00-05:00",
+     "partido": "RB Leipzig vs SV Elversberg",
+     "competencia": "Bundesliga",
+     "nivel": null,
      "marcas": [
-      "media",
-      "C2"
+      "favorito claro"
      ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-23 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
+     "respaldo": "promedio 11,38-11,48",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "10 (4-6) córners",
      "argumento": {
-      "texto": "El favorito no juega de local (cuota 2,45), así que no suma por cuota (A=0). Burnley promedia 5,5 corners a favor (B=1) y Lincoln City recibe 9,2 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,2 corners en el partido (D=1) y el ritmo es de 29,2 tiros frente a un umbral de 29,7 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "texto": "Promedio combinado del filtro: 11,38-11,48 córners (umbral: 10 o más de forma clara). ESPN (RB Leipzig 5,7/6,4; SV Elversberg 3,57/7,29 en 7) 11,48; FotMob (RB Leipzig 5,6/6,3; SV Elversberg 3,57/7,29 en 7) 11,38. RB Leipzig genera 5,7 corners por partido y SV Elversberg concede 7,29, así que pasa el corte de 10,5 del fin de semana en ambas fuentes con margen holgado. RB Leipzig es favorito claro. La muestra es corta: algún equipo solo tiene 7 partidos con dato de corners.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "11:30",
+     "iso": "2026-10-24T11:30:00-05:00",
+     "partido": "Chelsea vs Tottenham Hotspur",
+     "competencia": "Premier League",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,50-11,55",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "10 (4-6) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,50-11,55 córners (umbral: 10 o más de forma clara). ESPN (Chelsea 6/5,11 en 9; Tottenham Hotspur 7,33/4,67 en 9) 11,55; FotMob (Chelsea 5,89/5,11 en 9; Tottenham Hotspur 7,33/4,67 en 9) 11,5. Tottenham Hotspur genera 7,33 corners por partido y Chelsea concede 5,11, así que pasa el corte de 10,5 del fin de semana en ambas fuentes con margen holgado. Sin favorito claro.",
       "detalle": "",
       "origen": "bot"
      }
@@ -623,46 +462,44 @@
      "iso": "2026-10-24T11:30:00-05:00",
      "partido": "Borussia Dortmund vs Eintracht Frankfurt",
      "competencia": "Bundesliga",
-     "nivel": "media",
+     "nivel": null,
      "marcas": [
-      "media"
+      "ajustada",
+      "favorito claro"
      ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-23 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
+     "respaldo": "promedio 10,61-10,66",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "14 (13-1) córners",
      "argumento": {
-      "texto": "Borussia Dortmund es favorito local con cuota 1,47 (A=1). Borussia Dortmund promedia 7,3 corners a favor (B=2) y Eintracht Frankfurt recibe 3,7 en contra (C=0), en sus últimos 7 y 10 partidos oficiales. Se esperan 10,6 corners en el partido (D=1) y el ritmo es de 30,2 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob.",
+      "texto": "Promedio combinado del filtro: 10,61-10,66 córners (umbral: 10 o más de forma clara). ESPN (Borussia Dortmund 7,4/4,5; Eintracht Frankfurt 5,71/3,71 en 7) 10,66; FotMob (Borussia Dortmund 7,3/4,5; Eintracht Frankfurt 5,71/3,71 en 7) 10,61. Borussia Dortmund genera 7,4 corners por partido y Eintracht Frankfurt 5,71, aunque el Frankfurt concede poco (3,71); pasa el corte de 10,5 del fin de semana en ambas fuentes aunque ajustado. Borussia Dortmund es favorito claro. La muestra es corta: algún equipo solo tiene 7 partidos con dato de corners.",
       "detalle": "",
       "origen": "bot"
      }
-    },
-    {
-     "fecha": "2026-10-24",
-     "hora": "14:00",
-     "iso": "2026-10-24T14:00:00-05:00",
-     "partido": "Atlético Madrid vs Deportivo A Coruña",
-     "competencia": "LaLiga",
-     "nivel": "media",
-     "marcas": [
-      "media"
-     ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-23 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Atlético Madrid es favorito local con cuota 1,29 (A=2). Atlético Madrid promedia 5,7 corners a favor (B=1) y Deportivo A Coruña recibe 5,4 en contra (C=1), en sus últimos 9 y 10 partidos oficiales. Se esperan 10,3 corners en el partido (D=0) y el ritmo es de 25,3 tiros frente a un umbral de 28,9 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
+    }
+   ],
+   "balance": {
+    "resueltas": 117,
+    "aciertos": 76,
+    "errores": 41,
+    "pct": 64.96,
+    "unidades": 4.7,
+    "roi": 4.02,
+    "cuota_media": 1.6,
+    "total": 131,
+    "pendientes": 13,
+    "otros": 1,
+    "anulados": 1
+   }
+  },
+  {
+   "bot": "corners_10min",
+   "nombre": "Bot Corners 10 Minutos",
+   "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
+   "link": "bot-10-minutos.html",
+   "pendientes": [
     {
      "fecha": "2026-10-24",
      "hora": "16:30",
@@ -677,7 +514,7 @@
      "cuota": "mín. 1,70",
      "sin_apuesta": false,
      "reportada": "2026-10-23 18:00",
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -700,7 +537,7 @@
      "cuota": "sin apuesta (solo seguimiento)",
      "sin_apuesta": true,
      "reportada": "2026-10-23 18:00",
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -723,7 +560,7 @@
      "cuota": "mín. 1,70",
      "sin_apuesta": false,
      "reportada": "2026-10-23 18:00",
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -752,6 +589,76 @@
      "detalle": "",
      "argumento": {
       "texto": "Santos es favorito local pero paga 1,87, por encima de 1,60, así que no suma por cuota (A=0). Santos promedia 5,0 corners a favor (B=0) y Bahia recibe 6,4 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,1 corners en el partido (D=1) y el ritmo es de 28,8 tiros frente a un umbral de 28,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-25",
+     "hora": "08:00",
+     "iso": "2026-10-25T08:00:00-05:00",
+     "partido": "Athletic Club vs Getafe",
+     "competencia": "LaLiga",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-24 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Athletic Club es favorito local con cuota 1,59 (A=1). Athletic Club promedia 6,5 corners a favor (B=2) y Getafe recibe 5,3 en contra (C=1), en sus últimos 8 y 10 partidos oficiales. Se esperan 10,7 corners en el partido (D=1) y el ritmo es de 27,1 tiros frente a un umbral de 28,9 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-25",
+     "hora": "09:00",
+     "iso": "2026-10-25T09:00:00-05:00",
+     "partido": "Atalanta vs Frosinone",
+     "competencia": "Serie A",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-24 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Atalanta es favorito local pero paga 1,80, por encima de 1,60, así que no suma por cuota (A=0). Atalanta promedia 4,5 corners a favor (B=0) y Frosinone recibe 6,2 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 10,6 corners en el partido (D=1) y el ritmo es de 33,2 tiros frente a un umbral de 28,9 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-25",
+     "hora": "10:45",
+     "iso": "2026-10-25T10:45:00-05:00",
+     "partido": "Sparta Rotterdam vs Ajax",
+     "competencia": "Eredivisie",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-24 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,44), así que no suma por cuota (A=0). Ajax promedia 6,5 corners a favor (B=2) y Sparta Rotterdam recibe 6,9 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 32,3 tiros frente a un umbral de 33,3 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
       "detalle": "",
       "origen": "bot"
      }
@@ -829,17 +736,182 @@
      }
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-10-24",
+     "hora": "06:30",
+     "iso": "2026-10-24T06:30:00-05:00",
+     "partido": "Portsmouth vs Millwall",
+     "competencia": "Championship",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-23 06:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "25:11 (26')",
+     "argumento": {
+      "texto": "Portsmouth es favorito local pero paga 2,50, por encima de 1,60, así que no suma por cuota (A=0). Portsmouth promedia 6,0 corners a favor (B=1) y Millwall recibe 7,3 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 27,0 tiros frente a un umbral de 29,7 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "08:00",
+     "iso": "2026-10-24T08:00:00-05:00",
+     "partido": "Como vs Sassuolo",
+     "competencia": "Serie A",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "4:48 (5')",
+     "argumento": {
+      "texto": "Como es favorito local con cuota 1,46 (A=1). Como promedia 5,4 corners a favor (B=0) y Sassuolo recibe 6,0 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 10,2 corners en el partido (D=0) y el ritmo es de 31,6 tiros frente a un umbral de 28,9 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "08:30",
+     "iso": "2026-10-24T08:30:00-05:00",
+     "partido": "Augsburg vs Union Berlin",
+     "competencia": "Bundesliga",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "5:40 (6')",
+     "argumento": {
+      "texto": "Augsburg es favorito local pero paga 1,83, por encima de 1,60, así que no suma por cuota (A=0). Augsburg promedia 6,0 corners a favor (B=1) y Union Berlin recibe 6,0 en contra (C=2), en sus últimos 7 partidos oficiales. Se esperan 11,9 corners en el partido (D=1) y el ritmo es de 33,7 tiros frente a un umbral de 31,2 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "08:30",
+     "iso": "2026-10-24T08:30:00-05:00",
+     "partido": "RB Leipzig vs Elversberg",
+     "competencia": "Bundesliga",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "6 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "7:50 (8')",
+     "argumento": {
+      "texto": "RB Leipzig es favorito local con cuota 1,41 (A=1). RB Leipzig promedia 5,6 corners a favor (B=1) y Elversberg recibe 7,3 en contra (C=2), en sus últimos 7 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 32,9 tiros frente a un umbral de 31,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "09:00",
+     "iso": "2026-10-24T09:00:00-05:00",
+     "partido": "Lincoln City vs Burnley",
+     "competencia": "Championship",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "23:19 (24')",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 2,45), así que no suma por cuota (A=0). Burnley promedia 5,5 corners a favor (B=1) y Lincoln City recibe 9,2 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,2 corners en el partido (D=1) y el ritmo es de 29,2 tiros frente a un umbral de 29,7 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "11:30",
+     "iso": "2026-10-24T11:30:00-05:00",
+     "partido": "Borussia Dortmund vs Eintracht Frankfurt",
+     "competencia": "Bundesliga",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "8:09 (9')",
+     "argumento": {
+      "texto": "Borussia Dortmund es favorito local con cuota 1,47 (A=1). Borussia Dortmund promedia 7,3 corners a favor (B=2) y Eintracht Frankfurt recibe 3,7 en contra (C=0), en sus últimos 7 y 10 partidos oficiales. Se esperan 10,6 corners en el partido (D=1) y el ritmo es de 30,2 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "14:00",
+     "iso": "2026-10-24T14:00:00-05:00",
+     "partido": "Atlético Madrid vs Deportivo A Coruña",
+     "competencia": "LaLiga",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-23 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "4:30 (5')",
+     "argumento": {
+      "texto": "Atlético Madrid es favorito local con cuota 1,29 (A=2). Atlético Madrid promedia 5,7 corners a favor (B=1) y Deportivo A Coruña recibe 5,4 en contra (C=1), en sus últimos 9 y 10 partidos oficiales. Se esperan 10,3 corners en el partido (D=0) y el ritmo es de 25,3 tiros frente a un umbral de 28,9 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
    "balance": {
-    "resueltas": 106,
-    "aciertos": 58,
-    "errores": 48,
-    "pct": 54.72,
-    "unidades": -7.95,
-    "roi": -7.5,
+    "resueltas": 113,
+    "aciertos": 63,
+    "errores": 50,
+    "pct": 55.75,
+    "unidades": -6.39,
+    "roi": -5.65,
     "cuota_media": 1.69,
-    "total": 117,
-    "pendientes": 11,
+    "total": 120,
+    "pendientes": 7,
     "otros": 0
    }
   },
@@ -849,7 +921,208 @@
    "mercado": "Total de córners MÁS o MENOS que la línea en vivo",
    "link": "cornes-en-vivo.html",
    "vivo": true,
-   "pendientes": [],
+   "pendientes": [
+    {
+     "fecha": "2026-10-24",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "descanso",
+     "partido": "Aston Villa vs Manchester City",
+     "competencia": "Premier League",
+     "nivel": null,
+     "marcas": [
+      "MÁS",
+      "v3-HT",
+      "experimental"
+     ],
+     "senal": "MÁS",
+     "linea": "14,0",
+     "respaldo": "MÁS 14,0 · proyección 15,8 · marcador 1-0, 8 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "11 córners",
+     "argumento": {
+      "texto": "descanso 1-0 (gol Nicolas Jackson 6'); favorito Man City (ML una casa de apuestas -160; Villa +380, empate +350) PIERDE; córners 1T ESPN 3-5 = TC 3-5 (Villa 3, City 5); tiros 6-6, a puerta 1-3, bloqueados 2-2.",
+      "detalle": "posesión 41.3-58.7; TC ataques 14-38 / 14-38; sin rojas (amarillas Guéhi 32', Cherki 38'); Base 8 + 8/45*45*0.85 = 14.80; sin +1 presión: 3 tiros fuera/bloqueados últimos 15' (34', 36', 40'); +1 contexto: favorito pierde por 1; ajustada 15.80 vs línea 14.0 (umbrales 15.5/12.5) = MÁS (margen 0.30; regla margen 0.5 no aplica a v3-HT); línea TotalCorner texto crudo: \"9.5 (14.0)\" -> en vivo 14.0, prepartido 9.5; Expectativa 2T: City debe empujar (58.7% posesión, 5 córners, palo de Ndiaye 28'), córners sobre todo para City; riesgo de contra de Villa (gol de Jackson y tiro tras contra 19'); Fuente ESPN marcador/córners/tiros/posesión/commentary/cuotas; línea/ataques TotalCorner (corrida 07:26)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 2-1, córners 4-7 = 11 (= ESPN commentary 11); favorito Man City NO remontó (perdió 2-1); córners 2T de Man City: 2 (56', 65'); córners 2T totales: 3"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "descanso",
+     "partido": "Rayo Vallecano vs Elche",
+     "competencia": "LaLiga",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-HT",
+      "experimental"
+     ],
+     "senal": "MENOS",
+     "linea": "6,0",
+     "respaldo": "MENOS 6,0 · proyección 1 · marcador 0-2, 0 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "nulo",
+     "detalle": "6 córners",
+     "argumento": {
+      "texto": "45+2' (ESPN 1T 45'+2', TC 46') 0-2 (penaltis Redondo 23', Fer Niño 36'; Pathé Ciss falló penalti al larguero 39'); favorito Rayo (ML una casa de apuestas -125; Elche +340, empate +280) PIERDE por 2; córners 1T ESPN 0-0 = TC 0-0.",
+      "detalle": "tiros 7-8, a puerta 2-6, bloqueados 0-0; posesión 47.2-52.8; TC ataques 20-20; sin rojas (amarillas Morcillo, Villar, Redondo, Ciss); Base 0 + 0/45*45*0.85 = 0.00 (proyección degenerada: 0 córners en el 1T); sin +1 presión: 3 tiros fuera/larguero últimos 15' (32', 39' penalti al larguero, 44'); +1 contexto: favorito pierde; sin −1: Elche gana por 2 pero el partido no está cerrado (Rayo atacando, penalti fallado); ajustada 1.00 vs línea 6.0 (umbrales 7.5/4.5) = MENOS (regla margen 0.5 no aplica a v3-HT); línea TotalCorner texto crudo: \"9.5 (6.0)\" -> en vivo 6.0, prepartido 9.5; Expectativa 2T: Rayo debe volcarse (0-2 en casa), córners sobre todo para Rayo; riesgo alto de contra de Elche (6 tiros a puerta en el 1T); ojo: con 0 córners la fórmula no capta el empuje del 2T, señal orientativa; Fuente ESPN marcador/córners/tiros/posesión/commentary/cuotas; línea/ataques TotalCorner (corrida 07:48)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 0-3, córners 3-3 = 6 (= ESPN commentary 6); favorito Rayo NO remontó (perdió 0-3); córners 2T de Rayo: 3 (50', 52', 90'+4'); córners 2T totales: 5 (el córner de Elche 45'+3' fue del 1T)"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "67'",
+     "partido": "Rayo Vallecano vs Elche",
+     "competencia": "LaLiga",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "7,5",
+     "respaldo": "MENOS 7,5 · proyección 5,2 · marcador 0-2, 4 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "6 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; regla MENOS≥0.5; minuto 67 (ESPN 67', TC 66); Base 4 + 4/67*23*0.85 = 5.17; córners ESPN 2-2 = TC 2-2 (1T 0-1, 2T Rayo 2 (50', 52'), Elche 1 (57')).",
+      "detalle": "tiros 12-12, a puerta 3-8, bloqueados 2-2; posesión 53.9-46.1; TC ataques 46-30 / 24-23; sin rojas; goles Redondo 23' (pen), Fer Niño 36' (pen); Ciss falló penalti 39'; sin +1 presión: 2 tiros bloqueados últimos 15' (57' Fer Niño y Lemar, ambos Elche); +1 contexto: favorito Rayo (ML una casa de apuestas -125) pierde por 2; −1: Elche gana por exactamente 2 y el partido se cerró (sin tiros desde el 57', solo faltas, lesión y cambios; cuota en vivo Elche -900); ajustada 5.17 vs línea 7.5 (umbrales 9.0/6.0; MENOS válido ≤5.5, margen 0.83 sobre el umbral) = MENOS; ojo: sin el −1 la ajustada sería 6.17 = descartado (no llega a MENOS); ya registrado como v3-HT (MENOS línea 6.0); línea TotalCorner texto crudo: \"9.5 (7.5)\" -> en vivo 7.5, prepartido 9.5; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 08:33); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 0-3, córners 3-3 = 6 (= ESPN commentary 6)"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "52'",
+     "partido": "Coventry City vs Fulham",
+     "competencia": "Premier League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "8,5",
+     "respaldo": "MENOS 8,5 · proyección 5,86 · marcador 0-0, 3 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "10 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; regla MENOS≥0.5; minuto 52 (ESPN 52', TC 51); Base 3 + 3/52*38*0.85 = 4.86; córners ESPN 1-2 (Coventry 2'.",
+      "detalle": "Fulham 42', 45+1') vs TC 2-2 (HT 1-2): DISCREPANCIA, se usa ESPN; tiros 8-6, a puerta 1-1, bloqueados 1-3; posesión 33.7-66.3; TC ataques 25-32 / 24-30; sin rojas; sin goles; sin +1 presión: 1 tiro fuera últimos 15' (46' Cherif); +1 contexto: favorito Fulham (ML una casa de apuestas +110; Coventry +240, empate +265) empata; ajustada 5.86 vs línea 8.5 (umbrales 10.0/7.0; MENOS válido ≤6.5, margen 0.64 sobre el umbral) = MENOS; ojo: con los 4 córners de TC la ajustada sería 7.48 = descartado; línea TotalCorner texto crudo: \"9.5 (8.5)\" -> en vivo 8.5, prepartido 9.5; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 10:10); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 0-1, córners 4-6 = 10 (= ESPN commentary 10)"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "descanso",
+     "partido": "Valencia vs Villarreal",
+     "competencia": "LaLiga",
+     "nivel": null,
+     "marcas": [
+      "MÁS",
+      "v3-HT",
+      "experimental"
+     ],
+     "senal": "MÁS",
+     "linea": "13,5",
+     "respaldo": "MÁS 13,5 · proyección 15,8 · marcador 1-0, 8 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "15 córners",
+     "argumento": {
+      "texto": "descanso 45'+6' (ESPN HT, TC HT) 1-0 (penalti Pepelu 38'); favorito Villarreal (ML una casa de apuestas +105; Valencia +250, empate +260) PIERDE por 1; córners 1T ESPN 1-7 = TC 1-7 (Villarreal 11', 18', 19', 29', 29', 45', 45+1'; Valencia 45+5').",
+      "detalle": "tiros 1-9, a puerta 1-1, bloqueados 0-1; posesión 34-66; TC ataques 10-33 / 10-33; sin rojas (amarillas Dani Raba 34', Veiga 37', Ayoze 43'); Base 8 + 8/45*45*0.85 = 14.80; sin +1 presión: 2 tiros fuera últimos 15' (30' Gueye, 45' Ayoze); +1 contexto: favorito pierde por 1; ajustada 15.80 vs línea 13.5 (umbrales 15.0/12.0) = MÁS (margen 0.80; regla margen 0.5 no aplica a v3-HT); línea TotalCorner texto crudo: \"9.5 (13.5)\" -> en vivo 13.5, prepartido 9.5; Expectativa 2T: Villarreal debe seguir empujando (66% posesión, 7 córners, 9 tiros pero solo 1 a puerta), córners sobre todo para Villarreal; riesgo de contra de Valencia (1 tiro en todo el 1T, gol de penalti); Fuente ESPN marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 12:27); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 1-2, córners 6-9 = 15 (= ESPN commentary 15); favorito Villarreal SÍ remontó (ganó 1-2); córners 2T de Villarreal: 2 (49', 50'); córners 2T totales: 7"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "descanso",
+     "partido": "Lens vs Paris FC",
+     "competencia": "Ligue 1",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-HT",
+      "experimental"
+     ],
+     "senal": "MENOS",
+     "linea": "6,0",
+     "respaldo": "MENOS 6,0 · proyección 2,85 · marcador 0-1, 1 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "7 córners",
+     "argumento": {
+      "texto": "descanso 45'+6' (ESPN HT, TC HT) 0-1 (gol Koleosho 45'+2'); favorito Lens (ML una casa de apuestas +135; Paris FC +200, empate +250; TC hándicap Lens -0.25) PIERDE por 1; córners 1T ESPN 1-0 = TC 1-0 (Lens 31').",
+      "detalle": "tiros 6-2, a puerta 0-1, bloqueados 0-1; posesión 55.3-44.7; TC ataques 27-5 / 27-5; sin rojas; Base 1 + 1/45*45*0.85 = 1.85 (proyección degenerada: solo 1 córner en el 1T); sin +1 presión: 3 tiros fuera últimos 15' (31' Thauvin, 33' Sotoca, 45+4' Sotoca); +1 contexto: favorito pierde por 1; ajustada 2.85 vs línea 6.0 (umbrales 7.5/4.5) = MENOS (regla margen 0.5 no aplica a v3-HT); línea TotalCorner texto crudo: \"9.5 (6.0)\" -> en vivo 6.0, prepartido 9.5; Expectativa 2T: Lens debe empujar en casa (55% posesión, 27-5 en ataques TC, 6 tiros pero 0 a puerta), córners sobre todo para Lens; riesgo de contra de Paris FC (gol al 45+2'); ojo: con 1 córner la fórmula no capta el empuje del 2T, señal orientativa; Fuente ESPN marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 14:44); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 2-1, córners 6-1 = 7 (= ESPN commentary 7); favorito Lens SÍ remontó (ganó 2-1); córners 2T de Lens: 5 (68', 79', 81' x2, 90'+6'); córners 2T totales: 6"
+     }
+    },
+    {
+     "fecha": "2026-10-24",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "69'",
+     "partido": "Lazio vs Parma",
+     "competencia": "Serie A",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "11,5",
+     "respaldo": "MENOS 11,5 · proyección 9,07 · marcador 2-0, 8 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "11 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; regla MENOS≥0.5; minuto 69 (ESPN 69', TC 69); Base 8 + 8/69*21*0.85 = 10.07; córners ESPN 6-2 (Lazio 11', 18', 20', 39', 43', 49'.",
+      "detalle": "Parma 6', 9') vs TC 7-2 (HT 5-2): DISCREPANCIA, se usa ESPN; tiros 17-6, a puerta 5-3, bloqueados 2-0; posesión 70.5-29.5; TC ataques 69-19 / 50-15; sin rojas; goles Taylor 50', autogol Diego Carlos 58'; sin +1 presión: 1 tiro fuera últimos 15' (54' Zaccagni; 69' parada no cuenta); sin +1 contexto: favorito Lazio (ML una casa de apuestas -245; Parma +650, empate +330) gana por 2; −1: Lazio gana por exactamente 2 y el partido se cerró (desde el 58' solo lesión, cambios y faltas, un tiro en 15'; cuota en vivo Parma +5000); ajustada 9.07 vs línea 11.5 (umbrales 13.0/10.0; MENOS válido ≤9.5, margen 0.93 sobre el umbral) = MENOS; ojo: sin el −1 la ajustada sería 10.07 = descartado, y con los 9 córners de TC sería 10.33 = descartado; línea TotalCorner texto crudo: \"9.0 (11.5)\" -> en vivo 11.5, prepartido 9.0; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:12); ataques peligrosos últimos 15' no disponibles por tramo, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 2-1, córners 8-3 = 11 (= ESPN commentary 11)"
+     }
+    }
+   ],
    "ayer": [
     {
      "fecha": "2026-10-23",
@@ -882,17 +1155,17 @@
    ],
    "hoy_cerradas": [],
    "balance": {
-    "resueltas": 51,
-    "aciertos": 31,
-    "errores": 20,
-    "pct": 60.78,
-    "unidades": 7.9,
-    "roi": 15.49,
+    "resueltas": 57,
+    "aciertos": 34,
+    "errores": 23,
+    "pct": 59.65,
+    "unidades": 7.6,
+    "roi": 13.33,
     "cuota_media": 1.9,
-    "total": 56,
+    "total": 63,
     "pendientes": 0,
-    "otros": 5,
-    "nulos": 5
+    "otros": 6,
+    "nulos": 6
    }
   }
  ]

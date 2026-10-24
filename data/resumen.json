@@ -1,21 +1,21 @@
 {
- "generado": "2026-10-24 06:31",
- "generado_iso": "2026-10-24T06:31:00-05:00",
+ "generado": "2026-10-24 18:31",
+ "generado_iso": "2026-10-24T18:31:00-05:00",
  "bots": [
   {
    "bot": "corners_10min",
    "nombre": "Bot Corners 10 Minutos",
    "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
    "resumen": {
-    "resueltas": 106,
-    "aciertos": 58,
-    "errores": 48,
-    "pct": 54.72,
-    "unidades": -7.95,
-    "roi": -7.5,
+    "resueltas": 113,
+    "aciertos": 63,
+    "errores": 50,
+    "pct": 55.75,
+    "unidades": -6.39,
+    "roi": -5.65,
     "cuota_media": 1.69,
-    "total": 117,
-    "pendientes": 11,
+    "total": 120,
+    "pendientes": 7,
     "otros": 0
    },
    "serie": [
@@ -178,25 +178,35 @@
      "acum_aciertos": 58,
      "acum_pct": 54.72,
      "acum_unidades": -7.95
+    },
+    {
+     "fecha": "2026-10-24",
+     "dia_picks": 7,
+     "dia_aciertos": 5,
+     "dia_unidades": 1.56,
+     "acum_resueltas": 113,
+     "acum_aciertos": 63,
+     "acum_pct": 55.75,
+     "acum_unidades": -6.39
     }
    ],
    "desde": "2026-10-08",
-   "hasta": "2026-10-23"
+   "hasta": "2026-10-24"
   },
   {
    "bot": "over_corners",
    "nombre": "Picksters Over Córners",
    "mercado": "Más de 9,5 córners totales en el partido",
    "resumen": {
-    "resueltas": 111,
-    "aciertos": 72,
-    "errores": 39,
-    "pct": 64.86,
-    "unidades": 4.3,
-    "roi": 3.87,
+    "resueltas": 117,
+    "aciertos": 76,
+    "errores": 41,
+    "pct": 64.96,
+    "unidades": 4.7,
+    "roi": 4.02,
     "cuota_media": 1.6,
     "total": 131,
-    "pendientes": 19,
+    "pendientes": 13,
     "otros": 1,
     "anulados": 1
    },
@@ -370,27 +380,37 @@
      "acum_aciertos": 72,
      "acum_pct": 64.86,
      "acum_unidades": 4.3
+    },
+    {
+     "fecha": "2026-10-24",
+     "dia_picks": 6,
+     "dia_aciertos": 4,
+     "dia_unidades": 0.4,
+     "acum_resueltas": 117,
+     "acum_aciertos": 76,
+     "acum_pct": 64.96,
+     "acum_unidades": 4.7
     }
    ],
    "desde": "2026-10-07",
-   "hasta": "2026-10-23"
+   "hasta": "2026-10-24"
   },
   {
    "bot": "corners_vivo",
    "nombre": "Cornes en Vivo",
    "mercado": "Total de córners del partido MÁS o MENOS que la línea en vivo",
    "resumen": {
-    "resueltas": 51,
-    "aciertos": 31,
-    "errores": 20,
-    "pct": 60.78,
-    "unidades": 7.9,
-    "roi": 15.49,
+    "resueltas": 57,
+    "aciertos": 34,
+    "errores": 23,
+    "pct": 59.65,
+    "unidades": 7.6,
+    "roi": 13.33,
     "cuota_media": 1.9,
-    "total": 56,
+    "total": 63,
     "pendientes": 0,
-    "otros": 5,
-    "nulos": 5
+    "otros": 6,
+    "nulos": 6
    },
    "serie": [
     {
@@ -492,10 +512,20 @@
      "acum_aciertos": 31,
      "acum_pct": 60.78,
      "acum_unidades": 7.9
+    },
+    {
+     "fecha": "2026-10-24",
+     "dia_picks": 6,
+     "dia_aciertos": 3,
+     "dia_unidades": -0.3,
+     "acum_resueltas": 57,
+     "acum_aciertos": 34,
+     "acum_pct": 59.65,
+     "acum_unidades": 7.6
     }
    ],
    "desde": "2026-10-13",
-   "hasta": "2026-10-23"
+   "hasta": "2026-10-24"
   }
  ]
 }
