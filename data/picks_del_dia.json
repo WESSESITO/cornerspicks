@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-25 06:35",
- "generado_iso": "2026-10-25T06:35:00-05:00",
+ "generado": "2026-10-25 18:40",
+ "generado_iso": "2026-10-25T18:40:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-10-25",
  "ayer": "2026-10-24",
@@ -13,132 +13,6 @@
    "pendientes": [
     {
      "fecha": "2026-10-25",
-     "hora": "08:00",
-     "iso": "2026-10-25T08:00:00-05:00",
-     "partido": "Athletic Club vs Getafe",
-     "competencia": "LaLiga",
-     "nivel": null,
-     "marcas": [
-      "ajustada"
-     ],
-     "respaldo": "promedio 10,68-10,73",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,68-10,73 córners (umbral: 10 o más de forma clara). ESPN (Athletic Club 6,5/4,25 en 8; Getafe 5,4/5,3) 10,73; FotMob (Athletic Club 6,5/4,25 en 8; Getafe 5,3/5,3) 10,68. Athletic Club genera 6,5 corners por partido y Getafe concede 5,3, así que pasa el corte de 10,5 del fin de semana en ambas fuentes aunque ajustado. Athletic Club es favorito, pero no muy claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-25",
-     "hora": "09:00",
-     "iso": "2026-10-25T09:00:00-05:00",
-     "partido": "Liverpool vs Brighton & Hove Albion",
-     "competencia": "Premier League",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 10,50-10,65",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,50-10,65 córners (umbral: 10 o más de forma clara). ESPN (Liverpool 5,9/4,8; Brighton & Hove Albion 6,5/4,1) 10,65; FotMob (Liverpool 5,8/4,8; Brighton & Hove Albion 6,5/3,9) 10,5. Brighton & Hove Albion genera 6,5 corners por partido y Liverpool 5,9, si bien Liverpool concede poco (4,8); así que pasa el corte de 10,5 del fin de semana en ambas fuentes aunque muy justo, en el corte exacto. Sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-25",
-     "hora": "09:00",
-     "iso": "2026-10-25T09:00:00-05:00",
-     "partido": "Atalanta vs Frosinone",
-     "competencia": "Serie A",
-     "nivel": null,
-     "marcas": [
-      "ajustada"
-     ],
-     "respaldo": "promedio 10,57-10,57",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,57-10,57 córners (umbral: 10 o más de forma clara). ESPN (Atalanta 4,5/5,2; Frosinone 5,22/6,22 en 9) 10,57; FotMob (Atalanta 4,5/5,2; Frosinone 5,22/6,22 en 9) 10,57. Frosinone genera 5,22 corners por partido y Atalanta concede 5,2, así que pasa el corte de 10,5 del fin de semana en ambas fuentes aunque ajustado. Atalanta es favorito, pero no muy claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-25",
-     "hora": "09:30",
-     "iso": "2026-10-25T09:30:00-05:00",
-     "partido": "TSG Hoffenheim vs Bayer Leverkusen",
-     "competencia": "Bundesliga",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 11,60-11,60",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,60-11,60 córners (umbral: 10 o más de forma clara). ESPN (TSG Hoffenheim 8,1/4,8; Bayer Leverkusen 6,8/3,5) 11,6; FotMob (TSG Hoffenheim 8,1/4,8; Bayer Leverkusen 6,8/3,5) 11,6. TSG Hoffenheim genera 8,1 corners por partido y Bayer Leverkusen 6,8, si bien Bayer Leverkusen concede poco (3,5); así que pasa el corte de 10,5 del fin de semana en ambas fuentes con margen holgado. Sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-25",
-     "hora": "11:15",
-     "iso": "2026-10-25T11:15:00-05:00",
-     "partido": "AJ Auxerre vs Le Mans",
-     "competencia": "Ligue 1",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 10,86-10,86",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,86-10,86 córners (umbral: 10 o más de forma clara). ESPN (AJ Auxerre 5,57/7,57 en 7; Le Mans 2,71/5,86 en 7) 10,86; FotMob (AJ Auxerre 5,57/7,57 en 7; Le Mans 2,71/5,86 en 7) 10,86. AJ Auxerre genera 5,57 corners por partido y Le Mans concede 5,86, así que pasa el corte de 10,5 del fin de semana en ambas fuentes con algo de margen. Sin favorito claro. La muestra es corta: algún equipo solo tiene 7 partidos con dato de corners.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-25",
-     "hora": "11:30",
-     "iso": "2026-10-25T11:30:00-05:00",
-     "partido": "SC Freiburg vs Bayern Munich",
-     "competencia": "Bundesliga",
-     "nivel": null,
-     "marcas": [
-      "favorito claro"
-     ],
-     "respaldo": "promedio 10,80-10,80",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,80-10,80 córners (umbral: 10 o más de forma clara). ESPN (SC Freiburg 6,3/3,2; Bayern Munich 9/3,1) 10,8; FotMob (SC Freiburg 6,3/3,2; Bayern Munich 9/3,1) 10,8. Bayern Munich genera 9 corners por partido y SC Freiburg 6,3, si bien SC Freiburg concede poco (3,2); así que pasa el corte de 10,5 del fin de semana en ambas fuentes con algo de margen. Bayern Munich es favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-25",
      "hora": "18:00",
      "iso": "2026-10-25T18:00:00-05:00",
      "partido": "Atlas vs Puebla",
@@ -148,7 +22,7 @@
      "respaldo": "promedio 12,30-12,30",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -642,46 +516,45 @@
      }
     }
    ],
-   "hoy_cerradas": [],
-   "balance": {
-    "resueltas": 130,
-    "aciertos": 83,
-    "errores": 47,
-    "pct": 63.85,
-    "unidades": 2.9,
-    "roi": 2.23,
-    "cuota_media": 1.6,
-    "total": 142,
-    "pendientes": 11,
-    "otros": 1,
-    "anulados": 1
-   }
-  },
-  {
-   "bot": "corners_10min",
-   "nombre": "Bot Corners 10 Minutos",
-   "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
-   "link": "bot-10-minutos.html",
-   "pendientes": [
+   "hoy_cerradas": [
     {
      "fecha": "2026-10-25",
      "hora": "08:00",
      "iso": "2026-10-25T08:00:00-05:00",
      "partido": "Athletic Club vs Getafe",
      "competencia": "LaLiga",
-     "nivel": "fuerte",
+     "nivel": null,
      "marcas": [
-      "fuerte"
+      "ajustada"
      ],
-     "respaldo": "5 puntos",
-     "cuota": "mín. 1,70",
+     "respaldo": "promedio 10,68-10,73",
+     "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "reportada": "2026-10-24 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "6 (2-4) córners",
      "argumento": {
-      "texto": "Athletic Club es favorito local con cuota 1,59 (A=1). Athletic Club promedia 6,5 corners a favor (B=2) y Getafe recibe 5,3 en contra (C=1), en sus últimos 8 y 10 partidos oficiales. Se esperan 10,7 corners en el partido (D=1) y el ritmo es de 27,1 tiros frente a un umbral de 28,9 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "texto": "Promedio combinado del filtro: 10,68-10,73 córners (umbral: 10 o más de forma clara). ESPN (Athletic Club 6,5/4,25 en 8; Getafe 5,4/5,3) 10,73; FotMob (Athletic Club 6,5/4,25 en 8; Getafe 5,3/5,3) 10,68. Athletic Club genera 6,5 corners por partido y Getafe concede 5,3, así que pasa el corte de 10,5 del fin de semana en ambas fuentes aunque ajustado. Athletic Club es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-25",
+     "hora": "09:00",
+     "iso": "2026-10-25T09:00:00-05:00",
+     "partido": "Liverpool vs Brighton & Hove Albion",
+     "competencia": "Premier League",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,50-10,65",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "6 (4-2) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,50-10,65 córners (umbral: 10 o más de forma clara). ESPN (Liverpool 5,9/4,8; Brighton & Hove Albion 6,5/4,1) 10,65; FotMob (Liverpool 5,8/4,8; Brighton & Hove Albion 6,5/3,9) 10,5. Brighton & Hove Albion genera 6,5 corners por partido y Liverpool 5,9, si bien Liverpool concede poco (4,8); así que pasa el corte de 10,5 del fin de semana en ambas fuentes aunque muy justo, en el corte exacto. Sin favorito claro.",
       "detalle": "",
       "origen": "bot"
      }
@@ -692,47 +565,105 @@
      "iso": "2026-10-25T09:00:00-05:00",
      "partido": "Atalanta vs Frosinone",
      "competencia": "Serie A",
-     "nivel": "media",
+     "nivel": null,
      "marcas": [
-      "media",
-      "C2"
+      "ajustada"
      ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-24 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
+     "respaldo": "promedio 10,57-10,57",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "17 (8-9) córners",
      "argumento": {
-      "texto": "Atalanta es favorito local pero paga 1,80, por encima de 1,60, así que no suma por cuota (A=0). Atalanta promedia 4,5 corners a favor (B=0) y Frosinone recibe 6,2 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 10,6 corners en el partido (D=1) y el ritmo es de 33,2 tiros frente a un umbral de 28,9 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "texto": "Promedio combinado del filtro: 10,57-10,57 córners (umbral: 10 o más de forma clara). ESPN (Atalanta 4,5/5,2; Frosinone 5,22/6,22 en 9) 10,57; FotMob (Atalanta 4,5/5,2; Frosinone 5,22/6,22 en 9) 10,57. Frosinone genera 5,22 corners por partido y Atalanta concede 5,2, así que pasa el corte de 10,5 del fin de semana en ambas fuentes aunque ajustado. Atalanta es favorito, pero no muy claro.",
       "detalle": "",
       "origen": "bot"
      }
     },
     {
      "fecha": "2026-10-25",
-     "hora": "10:45",
-     "iso": "2026-10-25T10:45:00-05:00",
-     "partido": "Sparta Rotterdam vs Ajax",
-     "competencia": "Eredivisie",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "5 puntos",
-     "cuota": "mín. 1,70",
+     "hora": "09:30",
+     "iso": "2026-10-25T09:30:00-05:00",
+     "partido": "TSG Hoffenheim vs Bayer Leverkusen",
+     "competencia": "Bundesliga",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,60-11,60",
+     "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "reportada": "2026-10-24 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "8 (5-3) córners",
      "argumento": {
-      "texto": "El favorito no juega de local (cuota 1,44), así que no suma por cuota (A=0). Ajax promedia 6,5 corners a favor (B=2) y Sparta Rotterdam recibe 6,9 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 32,3 tiros frente a un umbral de 33,3 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "texto": "Promedio combinado del filtro: 11,60-11,60 córners (umbral: 10 o más de forma clara). ESPN (TSG Hoffenheim 8,1/4,8; Bayer Leverkusen 6,8/3,5) 11,6; FotMob (TSG Hoffenheim 8,1/4,8; Bayer Leverkusen 6,8/3,5) 11,6. TSG Hoffenheim genera 8,1 corners por partido y Bayer Leverkusen 6,8, si bien Bayer Leverkusen concede poco (3,5); así que pasa el corte de 10,5 del fin de semana en ambas fuentes con margen holgado. Sin favorito claro.",
       "detalle": "",
       "origen": "bot"
      }
     },
+    {
+     "fecha": "2026-10-25",
+     "hora": "11:15",
+     "iso": "2026-10-25T11:15:00-05:00",
+     "partido": "AJ Auxerre vs Le Mans",
+     "competencia": "Ligue 1",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,86-10,86",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "8 (7-1) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,86-10,86 córners (umbral: 10 o más de forma clara). ESPN (AJ Auxerre 5,57/7,57 en 7; Le Mans 2,71/5,86 en 7) 10,86; FotMob (AJ Auxerre 5,57/7,57 en 7; Le Mans 2,71/5,86 en 7) 10,86. AJ Auxerre genera 5,57 corners por partido y Le Mans concede 5,86, así que pasa el corte de 10,5 del fin de semana en ambas fuentes con algo de margen. Sin favorito claro. La muestra es corta: algún equipo solo tiene 7 partidos con dato de corners.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-25",
+     "hora": "11:30",
+     "iso": "2026-10-25T11:30:00-05:00",
+     "partido": "SC Freiburg vs Bayern Munich",
+     "competencia": "Bundesliga",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 10,80-10,80",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "11 (5-6) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,80-10,80 córners (umbral: 10 o más de forma clara). ESPN (SC Freiburg 6,3/3,2; Bayern Munich 9/3,1) 10,8; FotMob (SC Freiburg 6,3/3,2; Bayern Munich 9/3,1) 10,8. Bayern Munich genera 9 corners por partido y SC Freiburg 6,3, si bien SC Freiburg concede poco (3,2); así que pasa el corte de 10,5 del fin de semana en ambas fuentes con algo de margen. Bayern Munich es favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
+   "balance": {
+    "resueltas": 136,
+    "aciertos": 85,
+    "errores": 51,
+    "pct": 62.5,
+    "unidades": 0.1,
+    "roi": 0.07,
+    "cuota_media": 1.6,
+    "total": 142,
+    "pendientes": 5,
+    "otros": 1,
+    "anulados": 1
+   }
+  },
+  {
+   "bot": "corners_10min",
+   "nombre": "Bot Corners 10 Minutos",
+   "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
+   "link": "bot-10-minutos.html",
+   "pendientes": [
     {
      "fecha": "2026-10-25",
      "hora": "20:00",
@@ -752,6 +683,77 @@
      "detalle": "",
      "argumento": {
       "texto": "Los Angeles FC es favorito local con cuota 1,53 (A=1). Los Angeles FC promedia 6,9 corners a favor (B=2) y LA Galaxy recibe 4,7 en contra (C=0), en sus últimos 10 partidos oficiales. Se esperan 11,1 corners en el partido (D=1) y el ritmo es de 30,1 tiros frente a un umbral de 30,0 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-26",
+     "hora": "14:30",
+     "iso": "2026-10-26T14:30:00-05:00",
+     "partido": "Paris Saint-Germain vs Lyon",
+     "competencia": "Ligue 1",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-25 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Paris Saint-Germain es favorito local con cuota 1,38 (A=1). Paris Saint-Germain promedia 5,1 corners a favor (B=0) y Lyon recibe 6,5 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 9,7 corners en el partido (D=0) y el ritmo es de 30,2 tiros frente a un umbral de 29,1 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-26",
+     "hora": "17:30",
+     "iso": "2026-10-26T17:30:00-05:00",
+     "partido": "Coritiba vs Grêmio",
+     "competencia": "Brasileirão",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-25 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Coritiba es favorito local pero paga 2,15, por encima de 1,60, así que no suma por cuota (A=0). Coritiba promedia 4,6 corners a favor (B=0) y Grêmio recibe 7,3 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 32,9 tiros frente a un umbral de 28,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-26",
+     "hora": "18:00",
+     "iso": "2026-10-26T18:00:00-05:00",
+     "partido": "Flamengo vs Atlético-MG",
+     "competencia": "Brasileirão",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "6 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-25 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Flamengo es favorito local con cuota 1,30 (A=1). Flamengo promedia 7,2 corners a favor (B=2) y Atlético-MG recibe 5,7 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 28,7 tiros frente a un umbral de 28,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuota Flamengo 1,303 (-330), A=1 por quedar sobre 1,30.",
       "detalle": "",
       "origen": "bot"
      }
@@ -1016,16 +1018,87 @@
      }
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-10-25",
+     "hora": "08:00",
+     "iso": "2026-10-25T08:00:00-05:00",
+     "partido": "Athletic Club vs Getafe",
+     "competencia": "LaLiga",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-24 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "8:06 (9')",
+     "argumento": {
+      "texto": "Athletic Club es favorito local con cuota 1,59 (A=1). Athletic Club promedia 6,5 corners a favor (B=2) y Getafe recibe 5,3 en contra (C=1), en sus últimos 8 y 10 partidos oficiales. Se esperan 10,7 corners en el partido (D=1) y el ritmo es de 27,1 tiros frente a un umbral de 28,9 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-25",
+     "hora": "09:00",
+     "iso": "2026-10-25T09:00:00-05:00",
+     "partido": "Atalanta vs Frosinone",
+     "competencia": "Serie A",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-24 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "2:05 (3')",
+     "argumento": {
+      "texto": "Atalanta es favorito local pero paga 1,80, por encima de 1,60, así que no suma por cuota (A=0). Atalanta promedia 4,5 corners a favor (B=0) y Frosinone recibe 6,2 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 10,6 corners en el partido (D=1) y el ritmo es de 33,2 tiros frente a un umbral de 28,9 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-25",
+     "hora": "10:45",
+     "iso": "2026-10-25T10:45:00-05:00",
+     "partido": "Sparta Rotterdam vs Ajax",
+     "competencia": "Eredivisie",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-24 18:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "15:01 (16')",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,44), así que no suma por cuota (A=0). Ajax promedia 6,5 corners a favor (B=2) y Sparta Rotterdam recibe 6,9 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 32,3 tiros frente a un umbral de 33,3 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
    "balance": {
-    "resueltas": 117,
-    "aciertos": 66,
-    "errores": 51,
-    "pct": 56.41,
-    "unidades": -5.25,
-    "roi": -4.49,
+    "resueltas": 120,
+    "aciertos": 68,
+    "errores": 52,
+    "pct": 56.67,
+    "unidades": -4.83,
+    "roi": -4.03,
     "cuota_media": 1.7,
-    "total": 121,
+    "total": 124,
     "pendientes": 4,
     "otros": 0
    }
@@ -1036,7 +1109,149 @@
    "mercado": "Total de córners MÁS o MENOS que la línea en vivo",
    "link": "cornes-en-vivo.html",
    "vivo": true,
-   "pendientes": [],
+   "pendientes": [
+    {
+     "fecha": "2026-10-25",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "descanso",
+     "partido": "AS Monaco vs Lille",
+     "competencia": "Ligue 1",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-HT",
+      "experimental"
+     ],
+     "senal": "MENOS",
+     "linea": "6,5",
+     "respaldo": "MENOS 6,5 · proyección 2,85 · marcador 0-1, 1 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "7 córners",
+     "argumento": {
+      "texto": "minuto 45 (ESPN 45'+3', TC HT); HT 0-1 (Ethan Mbappé 24'); favorito Monaco (ML una casa de apuestas -110; Lille +310; empate +260) PIERDE.",
+      "detalle": "córners 1T Monaco 0 - Lille 1 (TC 0-1); tiros 3-3, a puerta 0-2, bloqueados 2-1; posesión 55.2-44.8; TC ataques texto crudo \"33 - 8 33 - 8\"; sin rojas; Base 1 + 1/45*45*0.85 = 1.85; sin +1 presión (últimos 15': sin tiros fuera/bloqueados, 45' atajado Ngoy de Lille); +1 contexto: favorito pierde; ajustada 2.85 vs línea 6.5 (umbrales 8.0/5.0) = MENOS (regla margen 0.5 no aplica a v3-HT); línea TotalCorner texto crudo: \"9.5 (6.5)\" -> en vivo 6.5, prepartido 9.5; 2T esperado: Monaco empujando con más volumen de ataque (TC 33-8) pero 0 córners y 0 tiros a puerta en 1T; córners del favorito deberían aparecer, riesgo principal para el MENOS si Monaco carga mucho; riesgo de contra de Lille; Fuente ESPN marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas prepartido; línea/ataques TotalCorner (corrida 09:47); ataques peligrosos por tramo no disponibles, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 1-1, córners 6-1 = 7 (= ESPN commentary 7); favorito Monaco SÍ remontó (empató 1-1); córners 2T de Monaco: 6 (47' x2, 50', 59', 76', 90'+5'); córners 2T totales: 6"
+     }
+    },
+    {
+     "fecha": "2026-10-25",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "50'",
+     "partido": "Crystal Palace vs Newcastle United",
+     "competencia": "Premier League",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "6,5",
+     "respaldo": "MENOS 6,5 · proyección 4,36 · marcador 0-1, 2 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "11 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; regla MENOS≥0.5; minuto 50 (ESPN 50', TC 49); Base 2 + 2/50*40*0.85 = 3.36; córners ESPN Palace 1 - Newcastle 1 (TC 2 total, HT 1-1).",
+      "detalle": "tiros 8-5, a puerta 2-1, bloqueados 3-3; posesión 45.4-54.6; TC ataques texto crudo \"20 - 31 19 - 29\"; sin rojas; sin +1 presión (últimos 15': ningún tiro fuera/bloqueado en commentary ESPN, solo gol de Osula 47'); +1 contexto: favorito Crystal Palace (ML una casa de apuestas +160; Newcastle +165; empate +250; hándicap TC 0.0) pierde 0-1; ajustada 4.36 vs línea 6.5 (umbrales 8.0/5.0; MENOS válido si ≤4.5) = MENOS (margen 0.64); HT 0-0 (favorito no perdía: sin v3-HT); línea TotalCorner texto crudo: \"9.5 (6.5)\" -> en vivo 6.5, prepartido 9.5; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 10:06); ataques peligrosos por tramo no disponibles, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 0-2, córners 7-4 = 11 (= ESPN commentary 11)"
+     }
+    },
+    {
+     "fecha": "2026-10-25",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "51'",
+     "partido": "AJ Auxerre vs Le Mans",
+     "competencia": "Ligue 1",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "5,5",
+     "respaldo": "MENOS 5,5 · proyección 2,65 · marcador 0-1, 1 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "8 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; regla MENOS≥0.5; minuto 51 (ESPN 51', TC 49); gol Le Mans 48' (Buadés); Base 1 + 1/51*39*0.85 = 1.65.",
+      "detalle": "+1 favorito Auxerre (ML una casa de apuestas +115) pierde = 2.65; sin +1 presión (2 tiros fuera 36-51'; ataques peligrosos últimos 15 sin dato, TC acumulado 25-14 / 25-12); córners ESPN Auxerre 1 - Le Mans 0 = TC 1-0; tiros 3-5, a puerta 1-2, posesión 59-41; sin rojas; línea TC cruda \"9.5 (5.5)\" -> en vivo 5.5; MENOS válido con margen 1.35 sobre umbral 4.0 (cumple ≤ 3.5)",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 1-1, córners 7-1 = 8 (= ESPN commentary 8)"
+     }
+    },
+    {
+     "fecha": "2026-10-25",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "58'",
+     "partido": "SC Freiburg vs Bayern Munich",
+     "competencia": "Bundesliga",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "8,5",
+     "respaldo": "MENOS 8,5 · proyección 6,34 · marcador 0-2, 5 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "11 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; regla MENOS≥0.5; minuto 58 (ESPN 58', TC 57); Base 5 + 5/58*32*0.85 = 7.34; córners ESPN Freiburg 2 - Bayern 3 = TC 2-3 (HT TC 1-2).",
+      "detalle": "tiros 8-7, a puerta 1-4, bloqueados 3-0; posesión 36.2-63.8; TC ataques texto crudo \"8 - 21 6 - 17\"; sin rojas; goles Upamecano 16', Gnabry 42'; sin +1 presión (últimos 15': 2 tiros fuera, 45+3' Höler, 53' Beste); sin +1 contexto: favorito Bayern (ML una casa de apuestas -260; Freiburg +500) gana 0-2; −1: ventaja de 2 y partido cerrado (Bayern 63.8% posesión, Freiburg solo 1 tiro a puerta y 6 ataques peligrosos vs 17; DK en vivo Bayern -3500); ajustada 6.34 vs línea 8.5 (umbrales 10.0/7.0; MENOS válido si ≤6.5) = MENOS (margen 0.66; sin el −1 sería 7.34 = descartado); HT 0-2 (favorito ganaba: sin v3-HT); línea TotalCorner texto crudo: \"9.0 (8.5)\" -> en vivo 8.5, prepartido 9.0; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 12:47); ataques peligrosos por tramo no disponibles, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 1-3, córners 5-6 = 11 (= ESPN commentary 11)"
+     }
+    },
+    {
+     "fecha": "2026-10-25",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "65'",
+     "partido": "Real Sociedad vs Levante",
+     "competencia": "LaLiga",
+     "nivel": null,
+     "marcas": [
+      "MENOS",
+      "v3-60"
+     ],
+     "senal": "MENOS",
+     "linea": "6,0",
+     "respaldo": "MENOS 6,0 · proyección 3,98 · marcador 2-1, 3 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "5 córners",
+     "argumento": {
+      "texto": "regla MÁS≥60; regla MENOS≥0.5; minuto 65 (ESPN 65', TC 65); Base 3 + 3/65*25*0.85 = 3.98; córners ESPN Real Sociedad 1 - Levante 2 = TC 1-2.",
+      "detalle": "tiros 12-6, a puerta 3-2, bloqueados 2-0; posesión 59.4-40.6; TC ataques texto crudo \"27 - 23 17 - 19\"; sin rojas; goles Óskarsson 6', Nacho Pérez 22', Turrientes 27'; sin +1 presión (últimos 15': 2 tiros fuera, 50' Requena, 64' Etta Eyong); sin +1 contexto: favorito Real Sociedad (ML una casa de apuestas -190; Levante +450; empate +380) gana 2-1; sin rojas ni ventaja de 2 (sin −1); ajustada 3.98 vs línea 6.0 (umbrales 7.5/4.5; MENOS válido si ≤4.0) = MENOS (margen 0.52, justo en el límite); HT 2-1 (favorito ganaba: sin v3-HT); línea TotalCorner texto crudo: \"10.0 (6.0)\" -> en vivo 6.0, prepartido 10.0; Fuente ESPN min/marcador/córners/tiros/posesión/commentary/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 13:54); ataques peligrosos por tramo no disponibles, presión medida con tiros fuera/bloqueados del commentary ESPN",
+      "origen": "bot",
+      "despues": "Final: ESPN boxscore (FT) 2-1, córners 2-3 = 5 (= ESPN commentary 5)"
+     }
+    }
+   ],
    "ayer": [
     {
      "fecha": "2026-10-24",
@@ -1241,14 +1456,14 @@
    ],
    "hoy_cerradas": [],
    "balance": {
-    "resueltas": 57,
-    "aciertos": 34,
-    "errores": 23,
-    "pct": 59.65,
-    "unidades": 7.6,
-    "roi": 13.33,
+    "resueltas": 62,
+    "aciertos": 35,
+    "errores": 27,
+    "pct": 56.45,
+    "unidades": 4.5,
+    "roi": 7.26,
     "cuota_media": 1.9,
-    "total": 63,
+    "total": 68,
     "pendientes": 0,
     "otros": 6,
     "nulos": 6
