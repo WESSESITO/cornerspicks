@@ -1,21 +1,21 @@
 {
- "generado": "2026-10-24 18:31",
- "generado_iso": "2026-10-24T18:31:00-05:00",
+ "generado": "2026-10-25 06:35",
+ "generado_iso": "2026-10-25T06:35:00-05:00",
  "bots": [
   {
    "bot": "corners_10min",
    "nombre": "Bot Corners 10 Minutos",
    "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
    "resumen": {
-    "resueltas": 113,
-    "aciertos": 63,
-    "errores": 50,
-    "pct": 55.75,
-    "unidades": -6.39,
-    "roi": -5.65,
-    "cuota_media": 1.69,
-    "total": 120,
-    "pendientes": 7,
+    "resueltas": 117,
+    "aciertos": 66,
+    "errores": 51,
+    "pct": 56.41,
+    "unidades": -5.25,
+    "roi": -4.49,
+    "cuota_media": 1.7,
+    "total": 121,
+    "pendientes": 4,
     "otros": 0
    },
    "serie": [
@@ -181,13 +181,13 @@
     },
     {
      "fecha": "2026-10-24",
-     "dia_picks": 7,
-     "dia_aciertos": 5,
-     "dia_unidades": 1.56,
-     "acum_resueltas": 113,
-     "acum_aciertos": 63,
-     "acum_pct": 55.75,
-     "acum_unidades": -6.39
+     "dia_picks": 11,
+     "dia_aciertos": 8,
+     "dia_unidades": 2.7,
+     "acum_resueltas": 117,
+     "acum_aciertos": 66,
+     "acum_pct": 56.41,
+     "acum_unidades": -5.25
     }
    ],
    "desde": "2026-10-08",
@@ -198,15 +198,15 @@
    "nombre": "Picksters Over Córners",
    "mercado": "Más de 9,5 córners totales en el partido",
    "resumen": {
-    "resueltas": 117,
-    "aciertos": 76,
-    "errores": 41,
-    "pct": 64.96,
-    "unidades": 4.7,
-    "roi": 4.02,
+    "resueltas": 130,
+    "aciertos": 83,
+    "errores": 47,
+    "pct": 63.85,
+    "unidades": 2.9,
+    "roi": 2.23,
     "cuota_media": 1.6,
-    "total": 131,
-    "pendientes": 13,
+    "total": 142,
+    "pendientes": 11,
     "otros": 1,
     "anulados": 1
    },
@@ -383,13 +383,13 @@
     },
     {
      "fecha": "2026-10-24",
-     "dia_picks": 6,
-     "dia_aciertos": 4,
-     "dia_unidades": 0.4,
-     "acum_resueltas": 117,
-     "acum_aciertos": 76,
-     "acum_pct": 64.96,
-     "acum_unidades": 4.7
+     "dia_picks": 19,
+     "dia_aciertos": 11,
+     "dia_unidades": -1.4,
+     "acum_resueltas": 130,
+     "acum_aciertos": 83,
+     "acum_pct": 63.85,
+     "acum_unidades": 2.9
     }
    ],
    "desde": "2026-10-07",
