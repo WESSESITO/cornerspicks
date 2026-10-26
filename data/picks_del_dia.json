@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-26 08:06",
- "generado_iso": "2026-10-26T08:06:00-05:00",
+ "generado": "2026-10-26 18:37",
+ "generado_iso": "2026-10-26T18:37:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-10-26",
  "ayer": "2026-10-25",
@@ -22,7 +22,7 @@
      "respaldo": "promedio 11,75-11,80",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -44,7 +44,7 @@
      "respaldo": "promedio 12,15-12,30",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -307,31 +307,6 @@
    "pendientes": [
     {
      "fecha": "2026-10-26",
-     "hora": "14:30",
-     "iso": "2026-10-26T14:30:00-05:00",
-     "partido": "Paris Saint-Germain vs Lyon",
-     "competencia": "Ligue 1",
-     "nivel": "media",
-     "marcas": [
-      "media",
-      "C2"
-     ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-25 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Paris Saint-Germain es favorito local con cuota 1,38 (A=1). Paris Saint-Germain promedia 5,1 corners a favor (B=0) y Lyon recibe 6,5 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 9,7 corners en el partido (D=0) y el ritmo es de 30,2 tiros frente a un umbral de 29,1 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
-      "detalle": "",
-      "origen": "bot"
-     },
-     "espn_id": "401876422"
-    },
-    {
-     "fecha": "2026-10-26",
      "hora": "17:30",
      "iso": "2026-10-26T17:30:00-05:00",
      "partido": "Coritiba vs Grêmio",
@@ -345,7 +320,7 @@
      "cuota": "sin apuesta (solo seguimiento)",
      "sin_apuesta": true,
      "reportada": "2026-10-25 18:00",
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -369,7 +344,7 @@
      "cuota": "mín. 1,70",
      "sin_apuesta": false,
      "reportada": "2026-10-25 18:00",
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -378,6 +353,103 @@
       "origen": "bot"
      },
      "espn_id": "401841286"
+    },
+    {
+     "fecha": "2026-10-27",
+     "hora": "12:00",
+     "iso": "2026-10-27T12:00:00-05:00",
+     "partido": "Sonnenhof Großaspach vs Augsburg",
+     "competencia": "DFB-Pokal",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-26 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,40), así que no suma por cuota (A=0). Augsburg promedia 5,9 corners a favor (B=1) y Sonnenhof Großaspach recibe 5,4 en contra (C=1), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 34,7 tiros frente a un umbral de 31,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 de OddsPortal (ESPN sin cuotas para DFB-Pokal); Großaspach es de Regionalliga (4.ª división), su historial FotMob mezcla competencias de menor nivel.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917028"
+    },
+    {
+     "fecha": "2026-10-27",
+     "hora": "14:45",
+     "iso": "2026-10-27T14:45:00-05:00",
+     "partido": "Borussia Dortmund vs Werder Bremen",
+     "competencia": "DFB-Pokal",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-26 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Borussia Dortmund es favorito local con cuota 1,33 (A=1). Borussia Dortmund promedia 8,3 corners a favor (B=2) y Werder Bremen recibe 5,2 en contra (C=1), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 28,9 tiros frente a un umbral de 31,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 de OddsPortal (ESPN sin cuotas para DFB-Pokal).",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917030"
+    },
+    {
+     "fecha": "2026-10-27",
+     "hora": "14:45",
+     "iso": "2026-10-27T14:45:00-05:00",
+     "partido": "Borussia Mönchengladbach vs Karlsruher SC",
+     "competencia": "DFB-Pokal",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-26 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Borussia Mönchengladbach es favorito local con cuota 1,44 (A=1). Borussia Mönchengladbach promedia 6,1 corners a favor (B=1) y Karlsruher SC recibe 4,8 en contra (C=0), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,2 corners en el partido (D=1) y el ritmo es de 31,6 tiros frente a un umbral de 31,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 de OddsPortal (ESPN sin cuotas para DFB-Pokal).",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917031"
+    },
+    {
+     "fecha": "2026-10-27",
+     "hora": "14:45",
+     "iso": "2026-10-27T14:45:00-05:00",
+     "partido": "Elversberg vs Darmstadt",
+     "competencia": "DFB-Pokal",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-26 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Elversberg es favorito local con cuota 1,47 (A=1). Elversberg promedia 3,9 corners a favor (B=0) y Darmstadt recibe 7,0 en contra (C=2), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,1 corners en el partido (D=1) y el ritmo es de 29,0 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob; cuotas 1X2 de OddsPortal (ESPN sin cuotas para DFB-Pokal).",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401916923"
     }
    ],
    "ayer": [
@@ -479,17 +551,43 @@
      "espn_id": "761904"
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-10-26",
+     "hora": "14:30",
+     "iso": "2026-10-26T14:30:00-05:00",
+     "partido": "Paris Saint-Germain vs Lyon",
+     "competencia": "Ligue 1",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-25 18:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "26:46 (27')",
+     "argumento": {
+      "texto": "Paris Saint-Germain es favorito local con cuota 1,38 (A=1). Paris Saint-Germain promedia 5,1 corners a favor (B=0) y Lyon recibe 6,5 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 9,7 corners en el partido (D=0) y el ritmo es de 30,2 tiros frente a un umbral de 29,1 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401876422"
+    }
+   ],
    "balance": {
-    "resueltas": 121,
+    "resueltas": 122,
     "aciertos": 68,
-    "errores": 53,
-    "pct": 56.2,
-    "unidades": -5.83,
-    "roi": -4.82,
+    "errores": 54,
+    "pct": 55.74,
+    "unidades": -6.83,
+    "roi": -5.6,
     "cuota_media": 1.7,
-    "total": 124,
-    "pendientes": 3,
+    "total": 128,
+    "pendientes": 6,
     "otros": 0
    }
   },

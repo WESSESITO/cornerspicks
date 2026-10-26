@@ -1,21 +1,21 @@
 {
- "generado": "2026-10-26 08:06",
- "generado_iso": "2026-10-26T08:06:00-05:00",
+ "generado": "2026-10-26 18:37",
+ "generado_iso": "2026-10-26T18:37:00-05:00",
  "bots": [
   {
    "bot": "corners_10min",
    "nombre": "Bot Corners 10 Minutos",
    "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
    "resumen": {
-    "resueltas": 121,
+    "resueltas": 122,
     "aciertos": 68,
-    "errores": 53,
-    "pct": 56.2,
-    "unidades": -5.83,
-    "roi": -4.82,
+    "errores": 54,
+    "pct": 55.74,
+    "unidades": -6.83,
+    "roi": -5.6,
     "cuota_media": 1.7,
-    "total": 124,
-    "pendientes": 3,
+    "total": 128,
+    "pendientes": 6,
     "otros": 0
    },
    "serie": [
@@ -198,10 +198,20 @@
      "acum_aciertos": 68,
      "acum_pct": 56.2,
      "acum_unidades": -5.83
+    },
+    {
+     "fecha": "2026-10-26",
+     "dia_picks": 1,
+     "dia_aciertos": 0,
+     "dia_unidades": -1.0,
+     "acum_resueltas": 122,
+     "acum_aciertos": 68,
+     "acum_pct": 55.74,
+     "acum_unidades": -6.83
     }
    ],
    "desde": "2026-10-08",
-   "hasta": "2026-10-25"
+   "hasta": "2026-10-26"
   },
   {
    "bot": "over_corners",
