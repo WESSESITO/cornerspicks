@@ -5,7 +5,7 @@ HERE = os.path.dirname(os.path.abspath(__file__)); os.chdir(HERE)
 F = json.load(open('data/fondos.json', encoding='utf-8'))
 E = lambda s: html.escape(s or '', quote=True)
 PN = {'index': 'Inicio', 'picks-del-dia': 'Picks del día', 'bot-10-minutos': '10 Minutos', 'picksters-over-corners': 'Over Córners',
-      'cornes-en-vivo': 'En Vivo', 'metodologia': 'Metodología', 'comunidad': 'Comentarios'}
+      'cornes-en-vivo': 'En Vivo', 'en-juego': 'En juego', 'metodologia': 'Metodología', 'comunidad': 'Comentarios'}
 pages = {}
 for f in F:
     pages.setdefault(f['pagina'], []).append(f)

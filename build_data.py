@@ -439,7 +439,13 @@ def build_picks_del_dia(b10, over, vivo=None):
             bots.append({'bot': b['bot'], 'nombre': b['nombre'], 'mercado': mercado, 'link': link,
                          'pendientes': [], 'ayer': [], 'hoy_cerradas': [], 'sin_datos': True})
             continue
-        ps = [fn(p) for p in b['picks'] if ok(p)]
+        def _eid(c, p):
+            # id del partido en ESPN (si el registro del bot lo trae) para que la página En juego lo empareje exacto
+            e = str(p.get('espn_id') or '').strip() if hasattr(p, 'get') else ''
+            if e:
+                c['espn_id'] = e
+            return c
+        ps = [_eid(fn(p), p) for p in b['picks'] if ok(p)]
         if b['bot'] == 'corners_vivo':
             # En vivo: se muestran las señales del día (con o sin resultado), no hay picks "por adelantado".
             bots.append({'bot': b['bot'], 'nombre': b['nombre'], 'mercado': mercado, 'link': link, 'vivo': True,
