@@ -1,0 +1,39 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><script>document.documentElement.classList.add('js')</script><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>En juego · CórnersPicks</title><meta name="description" content="Los partidos de las picks del día en juego, en tiempo real: marcador, minuto y córners. Con pitido y banderín cada vez que hay un córner."><meta name="cp-live-src" content="espn">
+<link rel="icon" href="assets/favicon.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,800;0,900;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css?v=20"><script src="js/app.js?v=19" defer></script><script src="js/en-juego.js?v=1" defer></script></head>
+<body data-page="juego"><div class="bgfx" aria-hidden="true"><div class="bgl on" style="background-image:url('assets/fondos/maradona-1986-belgica.webp')"></div><div class="bgl" data-src="assets/fondos/kempes-1978-gol.webp"></div></div>
+<header class="top"><div class="wrap"><a class="brand" href="index.html"><img src="assets/logo-square.png" alt="Logo CórnersPicks"><span>Córners<b>Picks</b></span></a>
+<button class="navbtn" type="button" aria-expanded="false" aria-controls="menu" aria-label="Abrir menú"><span aria-hidden="true">☰</span></button><nav class="main" id="menu" aria-label="Menú principal"><a href="index.html" title="Inicio">Inicio</a><a href="picks-del-dia.html" class="hot" title="Picks del día">🔥 Picks del día</a><a href="en-juego.html" class="live on" aria-current="page" title="Partidos de las picks en juego, en tiempo real">📡 En juego</a><a href="bot-10-minutos.html" title="Bot Corners 10 Minutos">10 Minutos</a><a href="picksters-over-corners.html" title="Picksters Over Córners">Over Córners</a><a href="cornes-en-vivo.html" title="Cornes en Vivo">En Vivo</a><a href="metodologia.html" title="Metodología y glosario">Metodología</a><a href="comunidad.html" title="Comentarios y sugerencias">💬 Comentarios</a></nav></div></header><main class="wrap">
+<h1>📡 Partidos <span class="neon">en juego</span></h1>
+<p class="muted">Los partidos de las picks del día mientras se juegan: marcador, minuto y córners, actualizados cada 30 segundos. Cada vez que cae un córner suena el pitido del árbitro y aparece el banderín. Deja esta pestaña abierta y te avisamos.</p>
+<div class="liveBar card">
+ <button type="button" id="sndBtn" class="sndbtn" aria-pressed="false">🔊 Activar sonido</button>
+ <button type="button" id="testBtn" class="sndbtn ghost">🚩 Probar alerta</button>
+ <div class="livestat" id="liveStat" aria-live="polite">Cargando…</div>
+</div>
+<div id="sndHint" class="notice small" hidden>Toca o haz clic en cualquier parte de la página una vez para que el navegador deje sonar el pitido.</div>
+<div id="demoBanner" class="notice demo" hidden><b>🧪 SIMULACIÓN</b> · Partidos y córners inventados para mostrar cómo funciona esta ventana. <b>No son datos reales.</b> <a href="en-juego.html">Ver los partidos reales →</a></div>
+<h2>En juego ahora</h2>
+<div id="liveList" class="grid g2" data-needs-data></div>
+<h2>Más tarde hoy</h2>
+<div id="nextList" class="grid g2"></div>
+<h2>Últimos córners</h2>
+<div id="cornerLog" class="card small"><div class="empty">Todavía no hay córners en esta sesión.</div></div>
+<p class="muted small"><b>Cómo funciona:</b> el sitio toma los partidos de las <a href="picks-del-dia.html">picks del día</a> y consulta un marcador en vivo público mientras se juegan (desde unos minutos antes del inicio hasta el final). Los datos pueden llegar entre 30 segundos y un par de minutos después de lo que ves en TV, y algunas ligas pequeñas no traen el conteo de córners en vivo. Las horas se muestran en la zona de tu dispositivo: <b data-tz>UTC-5</b>.</p>
+<div class="rg"><b>🔞 Juego responsable · solo mayores de 18 años.</b> Estas picks son el resultado de unos bots de análisis; no son asesoría financiera ni garantizan resultados. Apuesta solo lo que puedas permitirte perder, gestiona tu stake y no persigas pérdidas. Si sientes que el juego dejó de ser entretenimiento, busca ayuda.</div></main>
+<div id="cornerFx" class="cornerfx" role="alert" aria-live="assertive" hidden>
+ <div class="fxbox">
+  <svg class="flag" viewBox="0 0 120 160" aria-hidden="true">
+   <rect x="16" y="8" width="7" height="148" rx="3.5" fill="#f4f4f4"/><circle cx="19.5" cy="8" r="6" fill="#ffc542"/>
+   <g class="cloth"><path d="M23 14 C48 6 70 24 108 14 L108 66 C70 76 48 58 23 66 Z" fill="#ffdd00"/><path d="M23 14 C48 6 70 24 108 14 L108 40 C70 50 48 32 23 40 Z" fill="#ff2e2e"/></g>
+   <ellipse cx="19.5" cy="156" rx="18" ry="4" fill="rgba(0,0,0,.35)"/>
+  </svg>
+  <div class="fxtxt"><div class="fxbig">¡CÓRNER!</div><div class="fxteam" id="fxTeam"></div><div class="fxmatch" id="fxMatch"></div><div class="fxcount" id="fxCount"></div><div class="fxpick" id="fxPick"></div></div>
+  <button type="button" class="fxclose" id="fxClose" aria-label="Cerrar aviso">✕</button>
+  <div class="fxbar"><i></i></div>
+ </div>
+</div>
+<footer><div class="wrap">CórnersPicks · Picks del día generadas el <span id="generado">—</span> a partir de los registros de cada bot. Marcador y córners en vivo: <span id="srcName">fuente pública</span>. Las horas se muestran en la zona horaria de tu dispositivo (<span data-tz>UTC-5</span>).<div class="fotocred">Fotos de fondo: Diego Maradona (Argentina–Bélgica, Mundial 1986) y Mario Kempes (gol en la final del Mundial 1978) · <a href="metodologia.html#creditos">créditos de las imágenes</a></div></div></footer>  <script data-goatcounter="https://cornerspicks.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body></html>

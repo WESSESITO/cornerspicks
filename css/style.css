@@ -138,3 +138,65 @@ table.cred td{white-space:normal!important;min-width:110px}
 table.cred td:nth-child(3){min-width:220px;word-break:break-word}
 /* .muted suelto sobre la foto: un tono más claro para AA */
 .muted:not(.card *):not(.kpi *):not(.pick *):not(.tablewrap *):not(header *){color:#c3d6c7}
+/* ---------- En juego: partidos de las picks en tiempo real ---------- */
+nav.main a.live{color:#ff6b6b}
+nav.main a.live:hover,nav.main a.live.on{color:#06110a;background:var(--neon)}
+.liveBar{display:flex;flex-wrap:wrap;align-items:center;gap:10px 12px;margin:10px 0 6px}
+.sndbtn{font:inherit;font-weight:800;border:2px solid var(--neon);background:var(--neon);color:#06110a;border-radius:10px;padding:10px 16px;cursor:pointer;min-height:44px}
+.sndbtn.on{background:transparent;color:var(--neon)}
+.sndbtn.ghost{background:transparent;color:var(--txt);border-color:var(--line)}
+.sndbtn:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
+.livestat{font-size:.88rem;color:var(--muted);margin-left:auto}
+.livestat b{color:var(--txt)}
+.livestat .dot,.match .vivo::first-letter{color:#ff4d4d}
+.livestat .dot{display:inline-block;width:9px;height:9px;border-radius:50%;background:#ff4d4d;box-shadow:0 0 8px #ff4d4d;animation:blink 1.2s infinite}
+@keyframes blink{50%{opacity:.25}}
+.notice.demo{border-color:var(--amber);background:rgba(255,197,66,.14);font-size:.95rem}
+.match{position:relative;transition:box-shadow .3s}
+.match .row1{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;margin-bottom:8px}
+.match .row1 .comp{color:var(--muted);font-size:.8rem;margin-left:auto}
+.match .vivo{font-weight:900;color:var(--amber);font-size:.9rem;white-space:nowrap}
+.match .sb{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:10px}
+.match .tm{font-weight:800;font-size:1.02rem;line-height:1.25}
+.match .tm.r{text-align:right}
+.match .sc{font-weight:900;font-size:1.9rem;color:var(--txt);background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:2px 14px;white-space:nowrap}
+.match .sc i{font-style:normal;color:var(--muted);margin:0 6px}
+.match .cn{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:10px;margin:12px 0 6px;padding:8px 12px;border-radius:12px;background:rgba(124,255,46,.07);border:1px solid var(--line)}
+.match .cn .cl{font-weight:900;font-size:1.5rem;color:var(--neon);min-width:1.4em;text-align:center}
+.match .cn .ci{text-align:center;font-size:.85rem;color:var(--muted);font-weight:700}
+.match .cn .ci b{color:var(--neon);font-size:1.05rem}
+.match .pk{display:flex;flex-direction:column;gap:6px;margin-top:8px;font-size:.86rem}
+.match .prog{height:6px;border-radius:6px;background:#1c3a22;margin-top:4px;overflow:hidden}
+.match .prog i{display:block;height:100%;background:linear-gradient(90deg,var(--grass),var(--neon));border-radius:6px;transition:width .6s}
+.match.flash{animation:cardflash 10s ease-out}
+@keyframes cardflash{0%,8%{box-shadow:0 0 0 3px var(--amber),0 0 40px rgba(255,197,66,.6)}100%{box-shadow:0 6px 24px rgba(0,0,0,.35)}}
+#cornerLog .lg{padding:6px 0;border-bottom:1px solid var(--line)}#cornerLog .lg:last-child{border:0}
+/* Aviso de córner: banderín 10 s */
+.cornerfx{position:fixed;inset:0;z-index:100;display:flex;align-items:center;justify-content:center;padding:16px;background:radial-gradient(circle at 50% 45%,rgba(255,221,0,.22),rgba(5,12,7,.78) 60%);backdrop-filter:blur(2px)}
+.cornerfx[hidden]{display:none}
+.cornerfx .fxbox{position:relative;display:flex;align-items:center;gap:22px;max-width:640px;width:100%;background:linear-gradient(135deg,#123a1b,#08160d);border:3px solid #ffdd00;border-radius:22px;padding:22px 26px 28px;box-shadow:0 0 60px rgba(255,221,0,.45),0 20px 60px rgba(0,0,0,.6);overflow:hidden}
+.cornerfx.go .fxbox{animation:fxin .45s cubic-bezier(.2,1.6,.4,1)}
+@keyframes fxin{0%{transform:scale(.4) rotate(-6deg);opacity:0}100%{transform:none;opacity:1}}
+.cornerfx .flag{width:130px;height:auto;flex:0 0 auto;transform-origin:20% 95%}
+.cornerfx.go .flag{animation:flagpop .6s cubic-bezier(.2,1.8,.4,1),flagsway 1.6s ease-in-out .6s infinite}
+@keyframes flagpop{0%{transform:translateY(60px) rotate(-30deg) scale(.5)}100%{transform:none}}
+@keyframes flagsway{50%{transform:rotate(-4deg)}}
+.cornerfx .cloth{transform-origin:23px 40px;animation:wave .7s ease-in-out infinite alternate}
+@keyframes wave{0%{transform:skewY(-4deg) scaleX(.96)}100%{transform:skewY(5deg) scaleX(1.03)}}
+.cornerfx .fxtxt{min-width:0}
+.cornerfx .fxbig{font-weight:900;font-style:italic;font-size:clamp(2.2rem,8vw,3.6rem);line-height:1;color:#ffdd00;text-shadow:0 0 18px rgba(255,221,0,.6),0 3px 0 #7a5d00}
+.cornerfx .fxteam{font-weight:800;font-size:1.15rem;margin-top:6px}
+.cornerfx .fxmatch{font-weight:700;color:var(--txt);font-size:1rem;margin-top:2px}
+.cornerfx .fxcount{margin-top:8px;font-size:1rem;color:var(--muted)}
+.cornerfx .fxcount b{color:var(--neon);font-size:1.15rem}
+.cornerfx .fxpick{margin-top:8px;font-size:.88rem;color:var(--txt)}
+.cornerfx.sim .fxbox::before{content:"SIMULACIÓN";position:absolute;top:10px;right:46px;font-size:.7rem;font-weight:900;letter-spacing:.06em;color:#06110a;background:var(--amber);padding:2px 8px;border-radius:999px}
+.cornerfx .fxclose{position:absolute;top:8px;right:8px;width:36px;height:36px;border-radius:50%;border:1px solid var(--line);background:rgba(0,0,0,.35);color:var(--txt);font-size:1rem;cursor:pointer}
+.cornerfx .fxbar{position:absolute;left:0;right:0;bottom:0;height:6px;background:rgba(255,255,255,.08)}
+.cornerfx .fxbar i{display:block;height:100%;width:100%;background:#ffdd00;transform-origin:left}
+.cornerfx.go .fxbar i{animation:fxbar 10s linear forwards}
+@keyframes fxbar{to{transform:scaleX(0)}}
+@media(max-width:640px){.cornerfx .fxbox{flex-direction:column;text-align:center;gap:10px;padding:20px 16px 26px}.cornerfx .flag{width:96px}.match .sc{font-size:1.5rem;padding:2px 10px}.match .tm{font-size:.92rem}.livestat{margin-left:0;width:100%}.sndbtn{flex:1}}
+@media(prefers-reduced-motion:reduce){.cornerfx.go .fxbox,.cornerfx.go .flag,.cornerfx .cloth,.match.flash,.livestat .dot{animation:none}}
+/* Menú con 8 enlaces: en tabletas/ventanas angostas solo el logo y enlaces más compactos */
+@media(max-width:1000px) and (min-width:821px){.brand span{display:none}nav.main a{padding:6px 6px;font-size:.78rem}}
