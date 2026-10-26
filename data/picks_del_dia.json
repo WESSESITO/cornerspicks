@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-26 06:38",
- "generado_iso": "2026-10-26T06:38:00-05:00",
+ "generado": "2026-10-26 08:06",
+ "generado_iso": "2026-10-26T08:06:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-10-26",
  "ayer": "2026-10-25",
@@ -327,7 +327,8 @@
       "texto": "Paris Saint-Germain es favorito local con cuota 1,38 (A=1). Paris Saint-Germain promedia 5,1 corners a favor (B=0) y Lyon recibe 6,5 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 9,7 corners en el partido (D=0) y el ritmo es de 30,2 tiros frente a un umbral de 29,1 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
       "detalle": "",
       "origen": "bot"
-     }
+     },
+     "espn_id": "401876422"
     },
     {
      "fecha": "2026-10-26",
@@ -351,7 +352,8 @@
       "texto": "Coritiba es favorito local pero paga 2,15, por encima de 1,60, así que no suma por cuota (A=0). Coritiba promedia 4,6 corners a favor (B=0) y Grêmio recibe 7,3 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 32,9 tiros frente a un umbral de 28,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
       "detalle": "",
       "origen": "bot"
-     }
+     },
+     "espn_id": "401841279"
     },
     {
      "fecha": "2026-10-26",
@@ -374,7 +376,8 @@
       "texto": "Flamengo es favorito local con cuota 1,30 (A=1). Flamengo promedia 7,2 corners a favor (B=2) y Atlético-MG recibe 5,7 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 28,7 tiros frente a un umbral de 28,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuota Flamengo 1,303 (-330), A=1 por quedar sobre 1,30.",
       "detalle": "",
       "origen": "bot"
-     }
+     },
+     "espn_id": "401841286"
     }
    ],
    "ayer": [
@@ -399,7 +402,8 @@
       "texto": "Athletic Club es favorito local con cuota 1,59 (A=1). Athletic Club promedia 6,5 corners a favor (B=2) y Getafe recibe 5,3 en contra (C=1), en sus últimos 8 y 10 partidos oficiales. Se esperan 10,7 corners en el partido (D=1) y el ritmo es de 27,1 tiros frente a un umbral de 28,9 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
       "detalle": "",
       "origen": "bot"
-     }
+     },
+     "espn_id": "401882835"
     },
     {
      "fecha": "2026-10-25",
@@ -423,7 +427,8 @@
       "texto": "Atalanta es favorito local pero paga 1,80, por encima de 1,60, así que no suma por cuota (A=0). Atalanta promedia 4,5 corners a favor (B=0) y Frosinone recibe 6,2 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 10,6 corners en el partido (D=1) y el ritmo es de 33,2 tiros frente a un umbral de 28,9 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
       "detalle": "",
       "origen": "bot"
-     }
+     },
+     "espn_id": "401874972"
     },
     {
      "fecha": "2026-10-25",
@@ -446,7 +451,8 @@
       "texto": "El favorito no juega de local (cuota 1,44), así que no suma por cuota (A=0). Ajax promedia 6,5 corners a favor (B=2) y Sparta Rotterdam recibe 6,9 en contra (C=2), en sus últimos 9 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 32,3 tiros frente a un umbral de 33,3 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
       "detalle": "",
       "origen": "bot"
-     }
+     },
+     "espn_id": "401875567"
     },
     {
      "fecha": "2026-10-25",
@@ -469,7 +475,8 @@
       "texto": "Los Angeles FC es favorito local con cuota 1,53 (A=1). Los Angeles FC promedia 6,9 corners a favor (B=2) y LA Galaxy recibe 4,7 en contra (C=0), en sus últimos 10 partidos oficiales. Se esperan 11,1 corners en el partido (D=1) y el ritmo es de 30,1 tiros frente a un umbral de 30,0 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob.",
       "detalle": "",
       "origen": "bot"
-     }
+     },
+     "espn_id": "761904"
     }
    ],
    "hoy_cerradas": [],
