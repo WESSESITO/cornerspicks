@@ -1,21 +1,21 @@
 {
- "generado": "2026-10-26 18:37",
- "generado_iso": "2026-10-26T18:37:00-05:00",
+ "generado": "2026-10-27 06:34",
+ "generado_iso": "2026-10-27T06:34:00-05:00",
  "bots": [
   {
    "bot": "corners_10min",
    "nombre": "Bot Corners 10 Minutos",
    "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
    "resumen": {
-    "resueltas": 122,
-    "aciertos": 68,
+    "resueltas": 124,
+    "aciertos": 70,
     "errores": 54,
-    "pct": 55.74,
-    "unidades": -6.83,
-    "roi": -5.6,
+    "pct": 56.45,
+    "unidades": -5.41,
+    "roi": -4.36,
     "cuota_media": 1.7,
     "total": 128,
-    "pendientes": 6,
+    "pendientes": 4,
     "otros": 0
    },
    "serie": [
@@ -201,13 +201,13 @@
     },
     {
      "fecha": "2026-10-26",
-     "dia_picks": 1,
-     "dia_aciertos": 0,
-     "dia_unidades": -1.0,
-     "acum_resueltas": 122,
-     "acum_aciertos": 68,
-     "acum_pct": 55.74,
-     "acum_unidades": -6.83
+     "dia_picks": 3,
+     "dia_aciertos": 2,
+     "dia_unidades": 0.42,
+     "acum_resueltas": 124,
+     "acum_aciertos": 70,
+     "acum_pct": 56.45,
+     "acum_unidades": -5.41
     }
    ],
    "desde": "2026-10-08",
@@ -218,15 +218,15 @@
    "nombre": "Picksters Over Córners",
    "mercado": "Más de 9,5 córners totales en el partido",
    "resumen": {
-    "resueltas": 141,
-    "aciertos": 89,
+    "resueltas": 143,
+    "aciertos": 91,
     "errores": 52,
-    "pct": 63.12,
-    "unidades": 1.5,
-    "roi": 1.06,
+    "pct": 63.64,
+    "unidades": 2.7,
+    "roi": 1.89,
     "cuota_media": 1.6,
-    "total": 144,
-    "pendientes": 2,
+    "total": 145,
+    "pendientes": 1,
     "otros": 1,
     "anulados": 1
    },
@@ -420,10 +420,20 @@
      "acum_aciertos": 89,
      "acum_pct": 63.12,
      "acum_unidades": 1.5
+    },
+    {
+     "fecha": "2026-10-26",
+     "dia_picks": 2,
+     "dia_aciertos": 2,
+     "dia_unidades": 1.2,
+     "acum_resueltas": 143,
+     "acum_aciertos": 91,
+     "acum_pct": 63.64,
+     "acum_unidades": 2.7
     }
    ],
    "desde": "2026-10-07",
-   "hasta": "2026-10-25"
+   "hasta": "2026-10-26"
   },
   {
    "bot": "corners_vivo",

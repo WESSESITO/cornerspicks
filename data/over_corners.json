@@ -2,8 +2,8 @@
  "bot": "over_corners",
  "nombre": "Picksters Over Córners",
  "mercado": "Más de 9,5 córners totales en el partido",
- "generado": "2026-10-26 18:37",
- "generado_iso": "2026-10-26T18:37:00-05:00",
+ "generado": "2026-10-27 06:34",
+ "generado_iso": "2026-10-27T06:34:00-05:00",
  "fuente_csv": "site-data/over_corners.csv",
  "breakeven": 62.5,
  "vigilancia": [
@@ -11,30 +11,30 @@
   "Liga Argentina"
  ],
  "resumen": {
-  "resueltas": 141,
-  "aciertos": 89,
+  "resueltas": 143,
+  "aciertos": 91,
   "errores": 52,
-  "pct": 63.12,
-  "unidades": 1.5,
-  "roi": 1.06,
+  "pct": 63.64,
+  "unidades": 2.7,
+  "roi": 1.89,
   "cuota_media": 1.6,
-  "total": 144,
-  "pendientes": 2,
+  "total": 145,
+  "pendientes": 1,
   "otros": 1,
   "anulados": 1
  },
  "por_liga": [
   {
    "grupo": "Brasileirão",
-   "resueltas": 32,
-   "aciertos": 24,
+   "resueltas": 34,
+   "aciertos": 26,
    "errores": 8,
-   "pct": 75.0,
-   "unidades": 6.4,
-   "roi": 20.0,
+   "pct": 76.47,
+   "unidades": 7.6,
+   "roi": 22.35,
    "cuota_media": 1.6,
    "total": 34,
-   "pendientes": 2,
+   "pendientes": 0,
    "otros": 0,
    "vigilancia": false
   },
@@ -173,8 +173,8 @@
    "unidades": 0.2,
    "roi": 6.67,
    "cuota_media": 1.6,
-   "total": 3,
-   "pendientes": 0,
+   "total": 4,
+   "pendientes": 1,
    "otros": 0,
    "vigilancia": false
   }
@@ -182,27 +182,27 @@
  "por_favorito": [
   {
    "grupo": "sí",
-   "resueltas": 20,
-   "aciertos": 17,
+   "resueltas": 21,
+   "aciertos": 18,
    "errores": 3,
-   "pct": 85.0,
-   "unidades": 7.2,
-   "roi": 36.0,
+   "pct": 85.71,
+   "unidades": 7.8,
+   "roi": 37.14,
    "cuota_media": 1.6,
    "total": 21,
-   "pendientes": 1,
+   "pendientes": 0,
    "otros": 0
   },
   {
    "grupo": "no",
-   "resueltas": 64,
-   "aciertos": 35,
+   "resueltas": 65,
+   "aciertos": 36,
    "errores": 29,
-   "pct": 54.69,
-   "unidades": -8.0,
-   "roi": -12.5,
+   "pct": 55.38,
+   "unidades": -7.4,
+   "roi": -11.38,
    "cuota_media": 1.6,
-   "total": 65,
+   "total": 66,
    "pendientes": 1,
    "otros": 0
   },
@@ -410,11 +410,20 @@
    "acum_aciertos": 89,
    "acum_pct": 63.12,
    "acum_unidades": 1.5
+  },
+  {
+   "fecha": "2026-10-26",
+   "dia_picks": 2,
+   "dia_aciertos": 2,
+   "dia_unidades": 1.2,
+   "acum_resueltas": 143,
+   "acum_aciertos": 91,
+   "acum_pct": 63.64,
+   "acum_unidades": 2.7
   }
  ],
  "pendientes_lista": [
-  "Coritiba vs Grêmio",
-  "Flamengo vs Atlético-MG"
+  "Sassuolo vs Lazio"
  ],
  "avisos": [],
  "picks": [
@@ -3124,16 +3133,16 @@
    "competencia": "Brasileirão",
    "promedio": "11.75-11.80",
    "linea": "Más de 9.5 corners",
-   "corners": "",
-   "corners_total": null,
-   "resultado": "pendiente",
+   "corners": "15 (5-10)",
+   "corners_total": 15,
+   "resultado": "acierto",
    "cuota": 1.6,
    "cuota_estimada": true,
-   "unidades": null,
+   "unidades": 0.6,
    "favorito_claro": "no",
    "vigilancia": false,
    "resumen": "ESPN (Coritiba 4,6/7,7; Grêmio 4,3/7) 11,8; FotMob (Coritiba 4,6/7,7; Grêmio 4,3/6,9) 11,75. Los dos conceden mucho (Coritiba 7,7 y Grêmio cerca de 7 corners por partido), así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen holgado. Sin favorito claro.",
-   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales de Brasileirão (sin amistosos); contrastado ESPN y FotMob (2026-10-26 06:00). Lunes: corte general piso ≥ 10. Favorito muy claro: no (Coritiba 2.20 / Grêmio 3.25, una casa de apuestas)."
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales de Brasileirão (sin amistosos); contrastado ESPN y FotMob (2026-10-26 06:00). Lunes: corte general piso ≥ 10. Favorito muy claro: no (Coritiba 2.20 / Grêmio 3.25, una casa de apuestas). | Cerrado 06:00 27-oct: final 0-1; corners 5-10=15 según ESPN y FotMob (coinciden)."
   },
   {
    "fecha": "2026-10-26",
@@ -3143,16 +3152,35 @@
    "competencia": "Brasileirão",
    "promedio": "12.15-12.30",
    "linea": "Más de 9.5 corners",
+   "corners": "14 (14-0)",
+   "corners_total": 14,
+   "resultado": "acierto",
+   "cuota": 1.6,
+   "cuota_estimada": true,
+   "unidades": 0.6,
+   "favorito_claro": "sí",
+   "vigilancia": false,
+   "resumen": "ESPN (Flamengo 7,4/4,1; Atlético-MG 6,6/6,5) 12,3; FotMob (Flamengo 7,4/4; Atlético-MG 6,4/6,5) 12,15. Flamengo genera 7,4 corners por partido y Atlético-MG concede 6,5, así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen holgado. Flamengo es favorito claro.",
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales de Brasileirão (sin amistosos); contrastado ESPN y FotMob (2026-10-26 06:00). Lunes: corte general piso ≥ 10. Favorito muy claro: sí (Flamengo 1.26 / Atlético-MG 10.50, una casa de apuestas). | Cerrado 06:00 27-oct: final 3-2; corners 14-0=14 según ESPN y FotMob (coinciden)."
+  },
+  {
+   "fecha": "2026-10-27",
+   "hora": "12:30",
+   "iso": "2026-10-27T12:30:00-05:00",
+   "partido": "Sassuolo vs Lazio",
+   "competencia": "Serie A",
+   "promedio": "10.32-10.32",
+   "linea": "Más de 9.5 corners",
    "corners": "",
    "corners_total": null,
    "resultado": "pendiente",
    "cuota": 1.6,
    "cuota_estimada": true,
    "unidades": null,
-   "favorito_claro": "sí",
+   "favorito_claro": "no",
    "vigilancia": false,
-   "resumen": "ESPN (Flamengo 7,4/4,1; Atlético-MG 6,6/6,5) 12,3; FotMob (Flamengo 7,4/4; Atlético-MG 6,4/6,5) 12,15. Flamengo genera 7,4 corners por partido y Atlético-MG concede 6,5, así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen holgado. Flamengo es favorito claro.",
-   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales de Brasileirão (sin amistosos); contrastado ESPN y FotMob (2026-10-26 06:00). Lunes: corte general piso ≥ 10. Favorito muy claro: sí (Flamengo 1.26 / Atlético-MG 10.50, una casa de apuestas)."
+   "resumen": "ESPN (Sassuolo 4,4/6; Lazio 5,67/4,56 en 9) 10,32; FotMob (Sassuolo 4,4/6; Lazio 5,67/4,56 en 9) 10,32. Sassuolo concede 6 corners por partido y Lazio genera 5,67, así que pasa el corte general de 10 de la Serie A en ambas fuentes, pero muy ajustado (solo 0,32 por encima). Sin favorito claro.",
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas (sin amistosos); contrastado ESPN y FotMob (2026-10-27 06:00). Martes: corte general piso ≥ 10. Favorito muy claro: no (Sassuolo 3.30 / empate 3.50 / Lazio 2.05, una casa de apuestas)."
   }
  ]
 }
