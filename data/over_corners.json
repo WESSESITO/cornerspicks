@@ -2,8 +2,8 @@
  "bot": "over_corners",
  "nombre": "Picksters Over Córners",
  "mercado": "Más de 9,5 córners totales en el partido",
- "generado": "2026-10-27 06:34",
- "generado_iso": "2026-10-27T06:34:00-05:00",
+ "generado": "2026-10-27 18:35",
+ "generado_iso": "2026-10-27T18:35:00-05:00",
  "fuente_csv": "site-data/over_corners.csv",
  "breakeven": 62.5,
  "vigilancia": [
@@ -11,15 +11,15 @@
   "Liga Argentina"
  ],
  "resumen": {
-  "resueltas": 143,
+  "resueltas": 144,
   "aciertos": 91,
-  "errores": 52,
-  "pct": 63.64,
-  "unidades": 2.7,
-  "roi": 1.89,
+  "errores": 53,
+  "pct": 63.19,
+  "unidades": 1.7,
+  "roi": 1.18,
   "cuota_media": 1.6,
   "total": 145,
-  "pendientes": 1,
+  "pendientes": 0,
   "otros": 1,
   "anulados": 1
  },
@@ -166,15 +166,15 @@
   },
   {
    "grupo": "Serie A",
-   "resueltas": 3,
+   "resueltas": 4,
    "aciertos": 2,
-   "errores": 1,
-   "pct": 66.67,
-   "unidades": 0.2,
-   "roi": 6.67,
+   "errores": 2,
+   "pct": 50.0,
+   "unidades": -0.8,
+   "roi": -20.0,
    "cuota_media": 1.6,
    "total": 4,
-   "pendientes": 1,
+   "pendientes": 0,
    "otros": 0,
    "vigilancia": false
   }
@@ -195,15 +195,15 @@
   },
   {
    "grupo": "no",
-   "resueltas": 65,
+   "resueltas": 66,
    "aciertos": 36,
-   "errores": 29,
-   "pct": 55.38,
-   "unidades": -7.4,
-   "roi": -11.38,
+   "errores": 30,
+   "pct": 54.55,
+   "unidades": -8.4,
+   "roi": -12.73,
    "cuota_media": 1.6,
    "total": 66,
-   "pendientes": 1,
+   "pendientes": 0,
    "otros": 0
   },
   {
@@ -420,11 +420,19 @@
    "acum_aciertos": 91,
    "acum_pct": 63.64,
    "acum_unidades": 2.7
+  },
+  {
+   "fecha": "2026-10-27",
+   "dia_picks": 1,
+   "dia_aciertos": 0,
+   "dia_unidades": -1.0,
+   "acum_resueltas": 144,
+   "acum_aciertos": 91,
+   "acum_pct": 63.19,
+   "acum_unidades": 1.7
   }
  ],
- "pendientes_lista": [
-  "Sassuolo vs Lazio"
- ],
+ "pendientes_lista": [],
  "avisos": [],
  "picks": [
   {
@@ -3171,16 +3179,16 @@
    "competencia": "Serie A",
    "promedio": "10.32-10.32",
    "linea": "Más de 9.5 corners",
-   "corners": "",
-   "corners_total": null,
-   "resultado": "pendiente",
+   "corners": "3 (2-1)",
+   "corners_total": 3,
+   "resultado": "error",
    "cuota": 1.6,
    "cuota_estimada": true,
-   "unidades": null,
+   "unidades": -1.0,
    "favorito_claro": "no",
    "vigilancia": false,
    "resumen": "ESPN (Sassuolo 4,4/6; Lazio 5,67/4,56 en 9) 10,32; FotMob (Sassuolo 4,4/6; Lazio 5,67/4,56 en 9) 10,32. Sassuolo concede 6 corners por partido y Lazio genera 5,67, así que pasa el corte general de 10 de la Serie A en ambas fuentes, pero muy ajustado (solo 0,32 por encima). Sin favorito claro.",
-   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas (sin amistosos); contrastado ESPN y FotMob (2026-10-27 06:00). Martes: corte general piso ≥ 10. Favorito muy claro: no (Sassuolo 3.30 / empate 3.50 / Lazio 2.05, una casa de apuestas)."
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos hasta 10 partidos oficiales liga + copas (sin amistosos); contrastado ESPN y FotMob (2026-10-27 06:00). Martes: corte general piso ≥ 10. Favorito muy claro: no (Sassuolo 3.30 / empate 3.50 / Lazio 2.05, una casa de apuestas). | Cerrado 16:00 27-oct: final 2-6; corners 2-1=3 según ESPN y FotMob (coinciden)."
   }
  ]
 }

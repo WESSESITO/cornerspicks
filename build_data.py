@@ -156,7 +156,7 @@ def load_args_10min():
         for r in csv.DictReader(open(path, encoding='utf-8')):
             k = ((r.get('partido') or '').strip().lower(), (r.get('fecha_hora_bogota') or '').strip())
             if (r.get('argumento') or '').strip():
-                out[k] = r['argumento'].strip()
+                out[k] = neutro(r['argumento'].strip())
     return out
 
 

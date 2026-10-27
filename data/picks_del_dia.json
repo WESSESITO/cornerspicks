@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-27 06:34",
- "generado_iso": "2026-10-27T06:34:00-05:00",
+ "generado": "2026-10-27 18:35",
+ "generado_iso": "2026-10-27T18:35:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-10-27",
  "ayer": "2026-10-26",
@@ -10,30 +10,7 @@
    "nombre": "Picksters Over Córners",
    "mercado": "Más de 9,5 córners totales",
    "link": "picksters-over-corners.html",
-   "pendientes": [
-    {
-     "fecha": "2026-10-27",
-     "hora": "12:30",
-     "iso": "2026-10-27T12:30:00-05:00",
-     "partido": "Sassuolo vs Lazio",
-     "competencia": "Serie A",
-     "nivel": null,
-     "marcas": [
-      "ajustada"
-     ],
-     "respaldo": "promedio 10,32-10,32",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,32-10,32 córners (umbral: 10 o más de forma clara). ESPN (Sassuolo 4,4/6; Lazio 5,67/4,56 en 9) 10,32; FotMob (Sassuolo 4,4/6; Lazio 5,67/4,56 en 9) 10,32. Sassuolo concede 6 corners por partido y Lazio genera 5,67, así que pasa el corte general de 10 de la Serie A en ambas fuentes, pero muy ajustado (solo 0,32 por encima). Sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    }
-   ],
+   "pendientes": [],
    "ayer": [
     {
      "fecha": "2026-10-26",
@@ -78,17 +55,40 @@
      }
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-10-27",
+     "hora": "12:30",
+     "iso": "2026-10-27T12:30:00-05:00",
+     "partido": "Sassuolo vs Lazio",
+     "competencia": "Serie A",
+     "nivel": null,
+     "marcas": [
+      "ajustada"
+     ],
+     "respaldo": "promedio 10,32-10,32",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "3 (2-1) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,32-10,32 córners (umbral: 10 o más de forma clara). ESPN (Sassuolo 4,4/6; Lazio 5,67/4,56 en 9) 10,32; FotMob (Sassuolo 4,4/6; Lazio 5,67/4,56 en 9) 10,32. Sassuolo concede 6 corners por partido y Lazio genera 5,67, así que pasa el corte general de 10 de la Serie A en ambas fuentes, pero muy ajustado (solo 0,32 por encima). Sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
    "balance": {
-    "resueltas": 143,
+    "resueltas": 144,
     "aciertos": 91,
-    "errores": 52,
-    "pct": 63.64,
-    "unidades": 2.7,
-    "roi": 1.89,
+    "errores": 53,
+    "pct": 63.19,
+    "unidades": 1.7,
+    "roi": 1.18,
     "cuota_media": 1.6,
     "total": 145,
-    "pendientes": 1,
+    "pendientes": 0,
     "otros": 1,
     "anulados": 1
    }
@@ -100,10 +100,82 @@
    "link": "bot-10-minutos.html",
    "pendientes": [
     {
-     "fecha": "2026-10-27",
+     "fecha": "2026-10-28",
      "hora": "12:00",
-     "iso": "2026-10-27T12:00:00-05:00",
-     "partido": "Sonnenhof Großaspach vs Augsburg",
+     "iso": "2026-10-28T12:00:00-05:00",
+     "partido": "Freiburg vs Wolfsburg",
+     "competencia": "DFB-Pokal",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "6 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-27 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Freiburg es favorito local con cuota 1,53 (A=1). Freiburg promedia 5,9 corners a favor (B=1) y Wolfsburg recibe 6,5 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,8 corners en el partido (D=1) y el ritmo es de 32,0 tiros frente a un umbral de 31,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917036"
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "12:00",
+     "iso": "2026-10-28T12:00:00-05:00",
+     "partido": "Paderborn vs VfB Stuttgart",
+     "competencia": "DFB-Pokal",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "6 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-27 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,54), así que no suma por cuota (A=0). VfB Stuttgart promedia 6,6 corners a favor (B=2) y Paderborn recibe 6,0 en contra (C=2), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 32,3 tiros frente a un umbral de 31,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917032"
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "14:45",
+     "iso": "2026-10-28T14:45:00-05:00",
+     "partido": "Bayer Leverkusen vs 1. FC Nürnberg",
+     "competencia": "DFB-Pokal",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "7 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-27 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Bayer Leverkusen es favorito local con cuota 1,15 (A=2). Bayer Leverkusen promedia 6,8 corners a favor (B=2) y 1. FC Nürnberg recibe 5,2 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 10,9 corners en el partido (D=1) y el ritmo es de 31,9 tiros frente a un umbral de 31,2 (E=1). Total 7 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917033"
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "14:45",
+     "iso": "2026-10-28T14:45:00-05:00",
+     "partido": "Bayern München vs Magdeburg",
      "competencia": "DFB-Pokal",
      "nivel": "media",
      "marcas": [
@@ -112,22 +184,22 @@
      "respaldo": "4 puntos",
      "cuota": "sin apuesta (solo seguimiento)",
      "sin_apuesta": true,
-     "reportada": "2026-10-26 18:00",
+     "reportada": "2026-10-27 18:00",
      "ya_empezo": false,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
-      "texto": "El favorito no juega de local (cuota 1,40), así que no suma por cuota (A=0). Augsburg promedia 5,9 corners a favor (B=1) y Sonnenhof Großaspach recibe 5,4 en contra (C=1), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 34,7 tiros frente a un umbral de 31,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 de OddsPortal (ESPN sin cuotas para DFB-Pokal); Großaspach es de Regionalliga (4.ª división), su historial FotMob mezcla competencias de menor nivel.",
+      "texto": "Bayern München es favorito local con cuota 1,03 (A=2). Bayern München promedia 8,7 corners a favor (B=2) y Magdeburg recibe 3,8 en contra (C=0), en sus últimos 10 partidos oficiales. Se esperan 10,4 corners en el partido (D=0) y el ritmo es de 29,8 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
       "detalle": "",
       "origen": "bot"
      },
-     "espn_id": "401917028"
+     "espn_id": "401917035"
     },
     {
-     "fecha": "2026-10-27",
+     "fecha": "2026-10-28",
      "hora": "14:45",
-     "iso": "2026-10-27T14:45:00-05:00",
-     "partido": "Borussia Dortmund vs Werder Bremen",
+     "iso": "2026-10-28T14:45:00-05:00",
+     "partido": "Hannover 96 vs Kaiserslautern",
      "competencia": "DFB-Pokal",
      "nivel": "fuerte",
      "marcas": [
@@ -136,22 +208,22 @@
      "respaldo": "5 puntos",
      "cuota": "mín. 1,70",
      "sin_apuesta": false,
-     "reportada": "2026-10-26 18:00",
+     "reportada": "2026-10-27 18:00",
      "ya_empezo": false,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
-      "texto": "Borussia Dortmund es favorito local con cuota 1,33 (A=1). Borussia Dortmund promedia 8,3 corners a favor (B=2) y Werder Bremen recibe 5,2 en contra (C=1), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 28,9 tiros frente a un umbral de 31,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 de OddsPortal (ESPN sin cuotas para DFB-Pokal).",
+      "texto": "Hannover 96 es favorito local pero paga 2,30, por encima de 1,60, así que no suma por cuota (A=0). Hannover 96 promedia 5,8 corners a favor (B=1) y Kaiserslautern recibe 6,3 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,8 corners en el partido (D=1) y el ritmo es de 34,1 tiros frente a un umbral de 31,2 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
       "detalle": "",
       "origen": "bot"
      },
-     "espn_id": "401917030"
+     "espn_id": "401916922"
     },
     {
-     "fecha": "2026-10-27",
+     "fecha": "2026-10-28",
      "hora": "14:45",
-     "iso": "2026-10-27T14:45:00-05:00",
-     "partido": "Borussia Mönchengladbach vs Karlsruher SC",
+     "iso": "2026-10-28T14:45:00-05:00",
+     "partido": "Holstein Kiel vs Hoffenheim",
      "competencia": "DFB-Pokal",
      "nivel": "media",
      "marcas": [
@@ -160,41 +232,64 @@
      "respaldo": "4 puntos",
      "cuota": "sin apuesta (solo seguimiento)",
      "sin_apuesta": true,
-     "reportada": "2026-10-26 18:00",
+     "reportada": "2026-10-27 18:00",
      "ya_empezo": false,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
-      "texto": "Borussia Mönchengladbach es favorito local con cuota 1,44 (A=1). Borussia Mönchengladbach promedia 6,1 corners a favor (B=1) y Karlsruher SC recibe 4,8 en contra (C=0), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,2 corners en el partido (D=1) y el ritmo es de 31,6 tiros frente a un umbral de 31,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 de OddsPortal (ESPN sin cuotas para DFB-Pokal).",
+      "texto": "El favorito no juega de local (cuota 1,46), así que no suma por cuota (A=0). Hoffenheim promedia 7,1 corners a favor (B=2) y Holstein Kiel recibe 5,5 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 29,1 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
       "detalle": "",
       "origen": "bot"
      },
-     "espn_id": "401917031"
+     "espn_id": "401917034"
     },
     {
-     "fecha": "2026-10-27",
-     "hora": "14:45",
-     "iso": "2026-10-27T14:45:00-05:00",
-     "partido": "Elversberg vs Darmstadt",
-     "competencia": "DFB-Pokal",
-     "nivel": "media",
+     "fecha": "2026-10-28",
+     "hora": "17:30",
+     "iso": "2026-10-28T17:30:00-05:00",
+     "partido": "RB Bragantino vs Chapecoense",
+     "competencia": "Brasileirão",
+     "nivel": "fuerte",
      "marcas": [
-      "media",
-      "C2"
+      "fuerte"
      ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-26 18:00",
+     "respaldo": "7 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-27 18:00",
      "ya_empezo": false,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
-      "texto": "Elversberg es favorito local con cuota 1,47 (A=1). Elversberg promedia 3,9 corners a favor (B=0) y Darmstadt recibe 7,0 en contra (C=2), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,1 corners en el partido (D=1) y el ritmo es de 29,0 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob; cuotas 1X2 de OddsPortal (ESPN sin cuotas para DFB-Pokal).",
+      "texto": "RB Bragantino es favorito local con cuota 1,29 (A=2). RB Bragantino promedia 7,4 corners a favor (B=2) y Chapecoense recibe 5,0 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 32,7 tiros frente a un umbral de 28,2 (E=1). Total 7 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
       "detalle": "",
       "origen": "bot"
      },
-     "espn_id": "401916923"
+     "espn_id": "401841291"
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "17:30",
+     "iso": "2026-10-28T17:30:00-05:00",
+     "partido": "Santos vs Palmeiras",
+     "competencia": "Brasileirão",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-27 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 2,25), así que no suma por cuota (A=0). Palmeiras promedia 5,8 corners a favor (B=1) y Santos recibe 6,4 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 12,1 corners en el partido (D=1) y el ritmo es de 29,1 tiros frente a un umbral de 28,2 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401841293"
     }
    ],
    "ayer": [
@@ -273,17 +368,115 @@
      "espn_id": "401841286"
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-10-27",
+     "hora": "12:00",
+     "iso": "2026-10-27T12:00:00-05:00",
+     "partido": "Sonnenhof Großaspach vs Augsburg",
+     "competencia": "DFB-Pokal",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-26 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "5'",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,40), así que no suma por cuota (A=0). Augsburg promedia 5,9 corners a favor (B=1) y Sonnenhof Großaspach recibe 5,4 en contra (C=1), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 34,7 tiros frente a un umbral de 31,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 de OddsPortal (ESPN sin cuotas para DFB-Pokal); Großaspach es de Regionalliga (4.ª división), su historial FotMob mezcla competencias de menor nivel.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917028"
+    },
+    {
+     "fecha": "2026-10-27",
+     "hora": "14:45",
+     "iso": "2026-10-27T14:45:00-05:00",
+     "partido": "Borussia Dortmund vs Werder Bremen",
+     "competencia": "DFB-Pokal",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-26 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "8'",
+     "argumento": {
+      "texto": "Borussia Dortmund es favorito local con cuota 1,33 (A=1). Borussia Dortmund promedia 8,3 corners a favor (B=2) y Werder Bremen recibe 5,2 en contra (C=1), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 28,9 tiros frente a un umbral de 31,2 (E=0). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 de OddsPortal (ESPN sin cuotas para DFB-Pokal).",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917030"
+    },
+    {
+     "fecha": "2026-10-27",
+     "hora": "14:45",
+     "iso": "2026-10-27T14:45:00-05:00",
+     "partido": "Borussia Mönchengladbach vs Karlsruher SC",
+     "competencia": "DFB-Pokal",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-26 18:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "42'",
+     "argumento": {
+      "texto": "Borussia Mönchengladbach es favorito local con cuota 1,44 (A=1). Borussia Mönchengladbach promedia 6,1 corners a favor (B=1) y Karlsruher SC recibe 4,8 en contra (C=0), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,2 corners en el partido (D=1) y el ritmo es de 31,6 tiros frente a un umbral de 31,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 de OddsPortal (ESPN sin cuotas para DFB-Pokal).",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917031"
+    },
+    {
+     "fecha": "2026-10-27",
+     "hora": "14:45",
+     "iso": "2026-10-27T14:45:00-05:00",
+     "partido": "Elversberg vs Darmstadt",
+     "competencia": "DFB-Pokal",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-26 18:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "12'",
+     "argumento": {
+      "texto": "Elversberg es favorito local con cuota 1,47 (A=1). Elversberg promedia 3,9 corners a favor (B=0) y Darmstadt recibe 7,0 en contra (C=2), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,1 corners en el partido (D=1) y el ritmo es de 29,0 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob; cuotas 1X2 de OddsPortal (ESPN sin cuotas para DFB-Pokal).",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401916923"
+    }
+   ],
    "balance": {
-    "resueltas": 124,
-    "aciertos": 70,
-    "errores": 54,
-    "pct": 56.45,
-    "unidades": -5.41,
-    "roi": -4.36,
+    "resueltas": 128,
+    "aciertos": 72,
+    "errores": 56,
+    "pct": 56.25,
+    "unidades": -5.99,
+    "roi": -4.68,
     "cuota_media": 1.7,
-    "total": 128,
-    "pendientes": 4,
+    "total": 136,
+    "pendientes": 8,
     "otros": 0
    }
   },
