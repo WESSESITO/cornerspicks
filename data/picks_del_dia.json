@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-28 06:33",
- "generado_iso": "2026-10-28T06:33:00-05:00",
+ "generado": "2026-10-28 18:32",
+ "generado_iso": "2026-10-28T18:32:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-10-28",
  "ayer": "2026-10-27",
@@ -24,7 +24,7 @@
      "respaldo": "promedio 11,70-11,75",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -44,7 +44,7 @@
      "respaldo": "promedio 12,05-12,35",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -66,7 +66,7 @@
      "respaldo": "promedio 11,30-11,45",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -88,7 +88,7 @@
      "respaldo": "promedio 11,45-11,45",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -110,7 +110,7 @@
      "respaldo": "promedio 10,50-10,55",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -133,7 +133,7 @@
      "respaldo": "promedio 10,65-10,65",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -275,150 +275,6 @@
    "pendientes": [
     {
      "fecha": "2026-10-28",
-     "hora": "12:00",
-     "iso": "2026-10-28T12:00:00-05:00",
-     "partido": "Freiburg vs Wolfsburg",
-     "competencia": "DFB-Pokal",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "6 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-27 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Freiburg es favorito local con cuota 1,53 (A=1). Freiburg promedia 5,9 corners a favor (B=1) y Wolfsburg recibe 6,5 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,8 corners en el partido (D=1) y el ritmo es de 32,0 tiros frente a un umbral de 31,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
-      "detalle": "",
-      "origen": "bot"
-     },
-     "espn_id": "401917036"
-    },
-    {
-     "fecha": "2026-10-28",
-     "hora": "12:00",
-     "iso": "2026-10-28T12:00:00-05:00",
-     "partido": "Paderborn vs VfB Stuttgart",
-     "competencia": "DFB-Pokal",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "6 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-27 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "El favorito no juega de local (cuota 1,54), así que no suma por cuota (A=0). VfB Stuttgart promedia 6,6 corners a favor (B=2) y Paderborn recibe 6,0 en contra (C=2), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 32,3 tiros frente a un umbral de 31,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
-      "detalle": "",
-      "origen": "bot"
-     },
-     "espn_id": "401917032"
-    },
-    {
-     "fecha": "2026-10-28",
-     "hora": "14:45",
-     "iso": "2026-10-28T14:45:00-05:00",
-     "partido": "Bayer Leverkusen vs 1. FC Nürnberg",
-     "competencia": "DFB-Pokal",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "7 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-27 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Bayer Leverkusen es favorito local con cuota 1,15 (A=2). Bayer Leverkusen promedia 6,8 corners a favor (B=2) y 1. FC Nürnberg recibe 5,2 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 10,9 corners en el partido (D=1) y el ritmo es de 31,9 tiros frente a un umbral de 31,2 (E=1). Total 7 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
-      "detalle": "",
-      "origen": "bot"
-     },
-     "espn_id": "401917033"
-    },
-    {
-     "fecha": "2026-10-28",
-     "hora": "14:45",
-     "iso": "2026-10-28T14:45:00-05:00",
-     "partido": "Bayern München vs Magdeburg",
-     "competencia": "DFB-Pokal",
-     "nivel": "media",
-     "marcas": [
-      "media"
-     ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-27 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Bayern München es favorito local con cuota 1,03 (A=2). Bayern München promedia 8,7 corners a favor (B=2) y Magdeburg recibe 3,8 en contra (C=0), en sus últimos 10 partidos oficiales. Se esperan 10,4 corners en el partido (D=0) y el ritmo es de 29,8 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
-      "detalle": "",
-      "origen": "bot"
-     },
-     "espn_id": "401917035"
-    },
-    {
-     "fecha": "2026-10-28",
-     "hora": "14:45",
-     "iso": "2026-10-28T14:45:00-05:00",
-     "partido": "Hannover 96 vs Kaiserslautern",
-     "competencia": "DFB-Pokal",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "5 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-27 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Hannover 96 es favorito local pero paga 2,30, por encima de 1,60, así que no suma por cuota (A=0). Hannover 96 promedia 5,8 corners a favor (B=1) y Kaiserslautern recibe 6,3 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,8 corners en el partido (D=1) y el ritmo es de 34,1 tiros frente a un umbral de 31,2 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
-      "detalle": "",
-      "origen": "bot"
-     },
-     "espn_id": "401916922"
-    },
-    {
-     "fecha": "2026-10-28",
-     "hora": "14:45",
-     "iso": "2026-10-28T14:45:00-05:00",
-     "partido": "Holstein Kiel vs Hoffenheim",
-     "competencia": "DFB-Pokal",
-     "nivel": "media",
-     "marcas": [
-      "media"
-     ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-27 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "El favorito no juega de local (cuota 1,46), así que no suma por cuota (A=0). Hoffenheim promedia 7,1 corners a favor (B=2) y Holstein Kiel recibe 5,5 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 29,1 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
-      "detalle": "",
-      "origen": "bot"
-     },
-     "espn_id": "401917034"
-    },
-    {
-     "fecha": "2026-10-28",
      "hora": "17:30",
      "iso": "2026-10-28T17:30:00-05:00",
      "partido": "RB Bragantino vs Chapecoense",
@@ -431,7 +287,7 @@
      "cuota": "mín. 1,70",
      "sin_apuesta": false,
      "reportada": "2026-10-27 18:00",
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -455,7 +311,7 @@
      "cuota": "mín. 1,70",
      "sin_apuesta": false,
      "reportada": "2026-10-27 18:00",
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -512,6 +368,30 @@
       "origen": "bot"
      },
      "espn_id": "761916"
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "17:30",
+     "iso": "2026-10-29T17:30:00-05:00",
+     "partido": "Atlético-MG vs Cruzeiro",
+     "competencia": "Brasileirão",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-28 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Atlético-MG es favorito local pero paga 2,45, por encima de 1,60, así que no suma por cuota (A=0). Atlético-MG promedia 5,6 corners a favor (B=1) y Cruzeiro recibe 7,4 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 12,2 corners en el partido (D=1) y el ritmo es de 33,2 tiros frente a un umbral de 28,2 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401841288"
     }
    ],
    "ayer": [
@@ -613,18 +493,163 @@
      "espn_id": "401916923"
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-10-28",
+     "hora": "12:00",
+     "iso": "2026-10-28T12:00:00-05:00",
+     "partido": "Freiburg vs Wolfsburg",
+     "competencia": "DFB-Pokal",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "6 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-27 18:00",
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "13'",
+     "argumento": {
+      "texto": "Freiburg es favorito local con cuota 1,53 (A=1). Freiburg promedia 5,9 corners a favor (B=1) y Wolfsburg recibe 6,5 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,8 corners en el partido (D=1) y el ritmo es de 32,0 tiros frente a un umbral de 31,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917036"
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "12:00",
+     "iso": "2026-10-28T12:00:00-05:00",
+     "partido": "Paderborn vs VfB Stuttgart",
+     "competencia": "DFB-Pokal",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "6 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-27 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "10'",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,54), así que no suma por cuota (A=0). VfB Stuttgart promedia 6,6 corners a favor (B=2) y Paderborn recibe 6,0 en contra (C=2), en sus últimos 8 y 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 32,3 tiros frente a un umbral de 31,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917032"
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "14:45",
+     "iso": "2026-10-28T14:45:00-05:00",
+     "partido": "Bayer Leverkusen vs 1. FC Nürnberg",
+     "competencia": "DFB-Pokal",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "7 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-27 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "8'",
+     "argumento": {
+      "texto": "Bayer Leverkusen es favorito local con cuota 1,15 (A=2). Bayer Leverkusen promedia 6,8 corners a favor (B=2) y 1. FC Nürnberg recibe 5,2 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 10,9 corners en el partido (D=1) y el ritmo es de 31,9 tiros frente a un umbral de 31,2 (E=1). Total 7 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917033"
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "14:45",
+     "iso": "2026-10-28T14:45:00-05:00",
+     "partido": "Bayern München vs Magdeburg",
+     "competencia": "DFB-Pokal",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-27 18:00",
+     "ya_empezo": true,
+     "resultado": "sin_dato",
+     "detalle": "",
+     "argumento": {
+      "texto": "Bayern München es favorito local con cuota 1,03 (A=2). Bayern München promedia 8,7 corners a favor (B=2) y Magdeburg recibe 3,8 en contra (C=0), en sus últimos 10 partidos oficiales. Se esperan 10,4 corners en el partido (D=0) y el ritmo es de 29,8 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917035"
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "14:45",
+     "iso": "2026-10-28T14:45:00-05:00",
+     "partido": "Hannover 96 vs Kaiserslautern",
+     "competencia": "DFB-Pokal",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-27 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "2'",
+     "argumento": {
+      "texto": "Hannover 96 es favorito local pero paga 2,30, por encima de 1,60, así que no suma por cuota (A=0). Hannover 96 promedia 5,8 corners a favor (B=1) y Kaiserslautern recibe 6,3 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,8 corners en el partido (D=1) y el ritmo es de 34,1 tiros frente a un umbral de 31,2 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401916922"
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "14:45",
+     "iso": "2026-10-28T14:45:00-05:00",
+     "partido": "Holstein Kiel vs Hoffenheim",
+     "competencia": "DFB-Pokal",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-27 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "1'",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,46), así que no suma por cuota (A=0). Hoffenheim promedia 7,1 corners a favor (B=2) y Holstein Kiel recibe 5,5 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 29,1 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401917034"
+    }
+   ],
    "balance": {
-    "resueltas": 128,
-    "aciertos": 72,
-    "errores": 56,
-    "pct": 56.25,
-    "unidades": -5.99,
-    "roi": -4.68,
+    "resueltas": 133,
+    "aciertos": 76,
+    "errores": 57,
+    "pct": 57.14,
+    "unidades": -4.17,
+    "roi": -3.14,
     "cuota_media": 1.7,
-    "total": 138,
-    "pendientes": 10,
-    "otros": 0
+    "total": 139,
+    "pendientes": 5,
+    "otros": 1
    }
   },
   {
@@ -633,18 +658,48 @@
    "mercado": "Total de córners MÁS o MENOS que la línea en vivo",
    "link": "cornes-en-vivo.html",
    "vivo": true,
-   "pendientes": [],
+   "pendientes": [
+    {
+     "fecha": "2026-10-28",
+     "hora": "",
+     "iso": null,
+     "vivo": true,
+     "minuto": "descanso",
+     "partido": "Genoa vs Juventus",
+     "competencia": "Serie A",
+     "nivel": null,
+     "marcas": [
+      "MÁS",
+      "v3-HT",
+      "experimental"
+     ],
+     "senal": "MÁS",
+     "linea": "15,5",
+     "respaldo": "MÁS 15,5 · proyección 19,5 · marcador 2-0, 10 córners",
+     "cuota": "1,90 (supuesta)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "15 córners",
+     "argumento": {
+      "texto": "minuto 45+2 (HT ESPN; TC HT); marcador HT Genoa 2-0 Juventus (Ehizibue 12', Baldanzi 28'); favorito prepartido Juventus ML una casa de apuestas -150 (Genoa +425, empate +235) PIERDE; córners 1T ESPN Genoa 4 - Juventus 6 = 10 (= TC \"4 - 6 (4-6)\".",
+      "detalle": "Juve 6 córners entre 18' y 28', ninguno de ningún equipo desde el 28'); tiros 9-6, a puerta 2-1, bloqueados 4-2; posesión 47-53; centros 11-11; TC ataques texto crudo \"25 - 22\"; sin rojas; Genoa cambio por lesión 41' (Mitaj por Ellertsson); Base 10 + 10/45*45*0.85 = 18.50; sin +1 presión (30-45': 3 tiros bloqueados/fuera: 32' bloq Vítinha, 35' fuera Frendrup, 45+2 fuera Kalulu); +1 favorito Juventus pierde; sin −1 (Genoa gana por 2 pero Juve tendrá que volcarse, partido no cerrado); ajustada 19.50 vs línea 15.5 = MÁS (pedía ≥17.0); línea TotalCorner texto crudo: \"9.0 (15.5)\" -> en vivo 15.5, prepartido 9.0; 2T esperado: Juve empujando con centros y córners a favor, Genoa replegado; riesgo de contragolpe de Genoa y de que un 3-0 cierre el partido; ojo: el ritmo de córners se frenó (0 desde el 28'); Fuente ESPN marcador/córners/tiros/posesión/comentario/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 15:38); FT (ESPN): Genoa 2-0 Juventus; córners Genoa 6 - Juventus 9 = 15 (2T: Genoa 2, Juve 3); favorito Juventus no remontó; MÁS 15.5 falló por medio córner",
+      "origen": "bot",
+      "despues": ""
+     }
+    }
+   ],
    "ayer": [],
    "hoy_cerradas": [],
    "balance": {
-    "resueltas": 62,
+    "resueltas": 63,
     "aciertos": 35,
-    "errores": 27,
-    "pct": 56.45,
-    "unidades": 4.5,
-    "roi": 7.26,
+    "errores": 28,
+    "pct": 55.56,
+    "unidades": 3.5,
+    "roi": 5.56,
     "cuota_media": 1.9,
-    "total": 68,
+    "total": 69,
     "pendientes": 0,
     "otros": 6,
     "nulos": 6
