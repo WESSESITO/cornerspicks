@@ -2,8 +2,8 @@
  "bot": "corners_10min",
  "nombre": "Bot Corners 10 Minutos",
  "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
- "generado": "2026-10-27 18:35",
- "generado_iso": "2026-10-27T18:35:00-05:00",
+ "generado": "2026-10-28 06:33",
+ "generado_iso": "2026-10-28T06:33:00-05:00",
  "fuente_csv": "site-data/corners_10min.csv",
  "resumen": {
   "resueltas": 128,
@@ -13,8 +13,8 @@
   "unidades": -5.99,
   "roi": -4.68,
   "cuota_media": 1.7,
-  "total": 136,
-  "pendientes": 8,
+  "total": 138,
+  "pendientes": 10,
   "otros": 0
  },
  "resumen_solo_apostadas": {
@@ -52,8 +52,8 @@
    "unidades": -6.24,
    "roi": -9.9,
    "cuota_media": 1.72,
-   "total": 65,
-   "pendientes": 2,
+   "total": 67,
+   "pendientes": 4,
    "otros": 0
   }
  ],
@@ -79,8 +79,8 @@
    "unidades": 1.07,
    "roi": 5.1,
    "cuota_media": 1.69,
-   "total": 23,
-   "pendientes": 2,
+   "total": 24,
+   "pendientes": 3,
    "otros": 0
   },
   {
@@ -92,8 +92,8 @@
    "unidades": -2.82,
    "roi": -15.67,
    "cuota_media": 1.7,
-   "total": 18,
-   "pendientes": 0,
+   "total": 19,
+   "pendientes": 1,
    "otros": 0
   },
   {
@@ -3572,6 +3572,46 @@
    "tipo": "pick",
    "fuente": "",
    "espn_id": "401841293"
+  },
+  {
+   "fecha": "2026-10-28",
+   "fecha_hora": "2026-10-28 19:30",
+   "iso": "2026-10-28T19:30:00-05:00",
+   "fecha_reporte": "2026-10-28 06:00",
+   "partido": "Remo vs Botafogo",
+   "competencia": "Brasileirão",
+   "nivel": "media",
+   "puntos": 4,
+   "cuota": 1.72,
+   "cuota_origen": "regla",
+   "sin_apuesta": true,
+   "c2": false,
+   "minuto": "",
+   "resultado": "pendiente",
+   "unidades": null,
+   "tipo": "pick",
+   "fuente": "",
+   "espn_id": "401841297"
+  },
+  {
+   "fecha": "2026-10-28",
+   "fecha_hora": "2026-10-28 21:30",
+   "iso": "2026-10-28T21:30:00-05:00",
+   "fecha_reporte": "2026-10-28 06:00",
+   "partido": "Seattle Sounders FC vs Houston Dynamo FC",
+   "competencia": "MLS",
+   "nivel": "media",
+   "puntos": 4,
+   "cuota": 1.72,
+   "cuota_origen": "regla",
+   "sin_apuesta": true,
+   "c2": false,
+   "minuto": "",
+   "resultado": "pendiente",
+   "unidades": null,
+   "tipo": "pick",
+   "fuente": "",
+   "espn_id": "761916"
   },
   {
    "fecha": "2026-10-09",

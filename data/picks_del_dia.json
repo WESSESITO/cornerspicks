@@ -1,61 +1,234 @@
 {
- "generado": "2026-10-27 18:35",
- "generado_iso": "2026-10-27T18:35:00-05:00",
+ "generado": "2026-10-28 06:33",
+ "generado_iso": "2026-10-28T06:33:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
- "hoy": "2026-10-27",
- "ayer": "2026-10-26",
+ "hoy": "2026-10-28",
+ "ayer": "2026-10-27",
  "bots": [
   {
    "bot": "over_corners",
    "nombre": "Picksters Over Córners",
    "mercado": "Más de 9,5 córners totales",
    "link": "picksters-over-corners.html",
-   "pendientes": [],
-   "ayer": [
+   "pendientes": [
     {
-     "fecha": "2026-10-26",
+     "fecha": "2026-10-28",
      "hora": "17:30",
-     "iso": "2026-10-26T17:30:00-05:00",
-     "partido": "Coritiba vs Grêmio",
-     "competencia": "Brasileirão",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 11,75-11,80",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "15 (5-10) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,75-11,80 córners (umbral: 10 o más de forma clara). ESPN (Coritiba 4,6/7,7; Grêmio 4,3/7) 11,8; FotMob (Coritiba 4,6/7,7; Grêmio 4,3/6,9) 11,75. Los dos conceden mucho (Coritiba 7,7 y Grêmio cerca de 7 corners por partido), así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen holgado. Sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-26",
-     "hora": "18:00",
-     "iso": "2026-10-26T18:00:00-05:00",
-     "partido": "Flamengo vs Atlético-MG",
+     "iso": "2026-10-28T17:30:00-05:00",
+     "partido": "Bragantino vs Chapecoense",
      "competencia": "Brasileirão",
      "nivel": null,
      "marcas": [
       "favorito claro"
      ],
-     "respaldo": "promedio 12,15-12,30",
+     "respaldo": "promedio 11,70-11,75",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "14 (14-0) córners",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
      "argumento": {
-      "texto": "Promedio combinado del filtro: 12,15-12,30 córners (umbral: 10 o más de forma clara). ESPN (Flamengo 7,4/4,1; Atlético-MG 6,6/6,5) 12,3; FotMob (Flamengo 7,4/4; Atlético-MG 6,4/6,5) 12,15. Flamengo genera 7,4 corners por partido y Atlético-MG concede 6,5, así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen holgado. Flamengo es favorito claro.",
+      "texto": "Promedio combinado del filtro: 11,70-11,75 córners (umbral: 10 o más de forma clara). ESPN (Bragantino 7,3/6,7; Chapecoense 4,4/5,1) 11,75; FotMob (Bragantino 7,4/6,6; Chapecoense 4,4/5) 11,7. Bragantino genera más de 7 corners por partido y también concede 6,6, así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen holgado. Bragantino es favorito muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "17:30",
+     "iso": "2026-10-28T17:30:00-05:00",
+     "partido": "Santos vs Palmeiras",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 12,05-12,35",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 12,05-12,35 córners (umbral: 10 o más de forma clara). ESPN (Santos 5,8/6,8; Palmeiras 6,6/5,5) 12,35; FotMob (Santos 5,9/6,4; Palmeiras 5,8/6) 12,05. Los dos generan y conceden cerca de 6 corners por partido, así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen holgado. Palmeiras es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "18:30",
+     "iso": "2026-10-28T18:30:00-05:00",
+     "partido": "Charlotte vs Montréal",
+     "competencia": "MLS",
+     "nivel": null,
+     "marcas": [
+      "en vigilancia"
+     ],
+     "respaldo": "promedio 11,30-11,45",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,30-11,45 córners (umbral: 10 o más de forma clara). ESPN (Charlotte 5/7,9; Montréal 4,9/5,1) 11,45; FotMob (Charlotte 5/7,9; Montréal 4,8/4,9) 11,3. Charlotte concede 7,9 corners por partido y genera 5, así que pasa el corte de 10,5 de la MLS en ambas fuentes con algo de margen. Charlotte es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "18:30",
+     "iso": "2026-10-28T18:30:00-05:00",
+     "partido": "New England vs Red Bull New York",
+     "competencia": "MLS",
+     "nivel": null,
+     "marcas": [
+      "en vigilancia"
+     ],
+     "respaldo": "promedio 11,45-11,45",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,45-11,45 córners (umbral: 10 o más de forma clara). ESPN (New England 5,2/7; Red Bull New York 5,3/5,4) 11,45; FotMob (New England 5,2/7; Red Bull New York 5,3/5,4) 11,45. New England concede 7 corners por partido y Red Bull New York genera 5,3, así que pasa el corte de 10,5 de la MLS en ambas fuentes con algo de margen. Sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "18:30",
+     "iso": "2026-10-28T18:30:00-05:00",
+     "partido": "NYCFC vs Atlanta United",
+     "competencia": "MLS",
+     "nivel": null,
+     "marcas": [
+      "en vigilancia"
+     ],
+     "respaldo": "promedio 10,50-10,55",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,50-10,55 córners (umbral: 10 o más de forma clara). ESPN (NYCFC 5,5/4,9; Atlanta United 5,9/4,8) 10,55; FotMob (NYCFC 5,4/4,9; Atlanta United 5,9/4,8) 10,5. Los dos generan entre 5,4 y 5,9 corners por partido y conceden menos de 5, así que pasa el corte de 10,5 de la MLS en ambas fuentes, pero muy justo, en el corte exacto. NYCFC es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "18:30",
+     "iso": "2026-10-28T18:30:00-05:00",
+     "partido": "Toronto vs D.C. United",
+     "competencia": "MLS",
+     "nivel": null,
+     "marcas": [
+      "ajustada",
+      "en vigilancia"
+     ],
+     "respaldo": "promedio 10,65-10,65",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,65-10,65 córners (umbral: 10 o más de forma clara). ESPN (Toronto 4,5/5,6; D.C. United 5,6/5,6) 10,65; FotMob (Toronto 4,5/5,6; D.C. United 5,6/5,6) 10,65. D.C. United genera y concede 5,6 corners por partido y Toronto concede otros 5,6, así que pasa el corte de 10,5 de la MLS en ambas fuentes, aunque ajustado. Sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "19:30",
+     "iso": "2026-10-28T19:30:00-05:00",
+     "partido": "Bahia vs São Paulo",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,80-12,55",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,80-12,55 córners (umbral: 10 o más de forma clara). ESPN (Bahia 5,4/7,2; São Paulo 7,5/5) 12,55; FotMob (Bahia 5,4/7,2; São Paulo 6,9/4,1) 11,8. Bahia concede más de 7 corners por partido y São Paulo genera cerca de 7, así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen holgado, aunque las fuentes difieren en los corners que concede São Paulo. Bahia es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "19:30",
+     "iso": "2026-10-28T19:30:00-05:00",
+     "partido": "Remo vs Botafogo",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 12,35-12,35",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 12,35-12,35 córners (umbral: 10 o más de forma clara). ESPN (Remo 7/5,9; Botafogo 5,8/6) 12,35; FotMob (Remo 6,9/5,9; Botafogo 5,8/6,1) 12,35. Remo genera 7 corners por partido y los dos conceden cerca de 6, así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen holgado. Sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "21:30",
+     "iso": "2026-10-28T21:30:00-05:00",
+     "partido": "Seattle vs Houston",
+     "competencia": "MLS",
+     "nivel": null,
+     "marcas": [
+      "ajustada",
+      "en vigilancia"
+     ],
+     "respaldo": "promedio 10,85-10,90",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,85-10,90 córners (umbral: 10 o más de forma clara). ESPN (Seattle 6,5/5,7; Houston 4,5/5,1) 10,9; FotMob (Seattle 6,5/5,7; Houston 4,5/5) 10,85. Seattle genera 6,5 corners por partido y concede 5,7, así que pasa el corte de 10,5 de la MLS en ambas fuentes, aunque ajustado. Seattle es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "22:00",
+     "iso": "2026-10-28T22:00:00-05:00",
+     "partido": "América vs Tijuana",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 12,25-12,30",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 12,25-12,30 córners (umbral: 10 o más de forma clara). ESPN (América 5,6/5,9; Tijuana 5,7/7,4) 12,3; FotMob (América 6,1/5,4; Tijuana 5,6/7,4) 12,25. Tijuana concede 7,4 corners por partido y América genera cerca de 6, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes con margen holgado. América es favorito muy claro.",
       "detalle": "",
       "origen": "bot"
      }
     }
    ],
-   "hoy_cerradas": [
+   "ayer": [
     {
      "fecha": "2026-10-27",
      "hora": "12:30",
@@ -79,6 +252,7 @@
      }
     }
    ],
+   "hoy_cerradas": [],
    "balance": {
     "resueltas": 144,
     "aciertos": 91,
@@ -87,8 +261,8 @@
     "unidades": 1.7,
     "roi": 1.18,
     "cuota_media": 1.6,
-    "total": 145,
-    "pendientes": 0,
+    "total": 155,
+    "pendientes": 10,
     "otros": 1,
     "anulados": 1
    }
@@ -290,85 +464,57 @@
       "origen": "bot"
      },
      "espn_id": "401841293"
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "19:30",
+     "iso": "2026-10-28T19:30:00-05:00",
+     "partido": "Remo vs Botafogo",
+     "competencia": "Brasileirão",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-28 06:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 2,45), así que no suma por cuota (A=0). Botafogo promedia 5,8 corners a favor (B=1) y Remo recibe 5,9 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 12,3 corners en el partido (D=1) y el ritmo es de 30,2 tiros frente a un umbral de 28,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401841297"
+    },
+    {
+     "fecha": "2026-10-28",
+     "hora": "21:30",
+     "iso": "2026-10-28T21:30:00-05:00",
+     "partido": "Seattle Sounders FC vs Houston Dynamo FC",
+     "competencia": "MLS",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-28 06:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Seattle Sounders FC es favorito local pero paga 1,77, por encima de 1,60, así que no suma por cuota (A=0). Seattle Sounders FC promedia 6,5 corners a favor (B=2) y Houston Dynamo FC recibe 5,0 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 10,8 corners en el partido (D=1) y el ritmo es de 28,1 tiros frente a un umbral de 30,0 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "761916"
     }
    ],
    "ayer": [
-    {
-     "fecha": "2026-10-26",
-     "hora": "14:30",
-     "iso": "2026-10-26T14:30:00-05:00",
-     "partido": "Paris Saint-Germain vs Lyon",
-     "competencia": "Ligue 1",
-     "nivel": "media",
-     "marcas": [
-      "media",
-      "C2"
-     ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-25 18:00",
-     "ya_empezo": true,
-     "resultado": "error",
-     "detalle": "26:46 (27')",
-     "argumento": {
-      "texto": "Paris Saint-Germain es favorito local con cuota 1,38 (A=1). Paris Saint-Germain promedia 5,1 corners a favor (B=0) y Lyon recibe 6,5 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 9,7 corners en el partido (D=0) y el ritmo es de 30,2 tiros frente a un umbral de 29,1 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
-      "detalle": "",
-      "origen": "bot"
-     },
-     "espn_id": "401876422"
-    },
-    {
-     "fecha": "2026-10-26",
-     "hora": "17:30",
-     "iso": "2026-10-26T17:30:00-05:00",
-     "partido": "Coritiba vs Grêmio",
-     "competencia": "Brasileirão",
-     "nivel": "media",
-     "marcas": [
-      "media",
-      "C2"
-     ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-25 18:00",
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "4:54 (5')",
-     "argumento": {
-      "texto": "Coritiba es favorito local pero paga 2,15, por encima de 1,60, así que no suma por cuota (A=0). Coritiba promedia 4,6 corners a favor (B=0) y Grêmio recibe 7,3 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 32,9 tiros frente a un umbral de 28,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob.",
-      "detalle": "",
-      "origen": "bot"
-     },
-     "espn_id": "401841279"
-    },
-    {
-     "fecha": "2026-10-26",
-     "hora": "18:00",
-     "iso": "2026-10-26T18:00:00-05:00",
-     "partido": "Flamengo vs Atlético-MG",
-     "competencia": "Brasileirão",
-     "nivel": "fuerte",
-     "marcas": [
-      "fuerte"
-     ],
-     "respaldo": "6 puntos",
-     "cuota": "mín. 1,70",
-     "sin_apuesta": false,
-     "reportada": "2026-10-25 18:00",
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "1:58 (2')",
-     "argumento": {
-      "texto": "Flamengo es favorito local con cuota 1,30 (A=1). Flamengo promedia 7,2 corners a favor (B=2) y Atlético-MG recibe 5,7 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 28,7 tiros frente a un umbral de 28,2 (E=1). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuota Flamengo 1,303 (-330), A=1 por quedar sobre 1,30.",
-      "detalle": "",
-      "origen": "bot"
-     },
-     "espn_id": "401841286"
-    }
-   ],
-   "hoy_cerradas": [
     {
      "fecha": "2026-10-27",
      "hora": "12:00",
@@ -467,6 +613,7 @@
      "espn_id": "401916923"
     }
    ],
+   "hoy_cerradas": [],
    "balance": {
     "resueltas": 128,
     "aciertos": 72,
@@ -475,8 +622,8 @@
     "unidades": -5.99,
     "roi": -4.68,
     "cuota_media": 1.7,
-    "total": 136,
-    "pendientes": 8,
+    "total": 138,
+    "pendientes": 10,
     "otros": 0
    }
   },
