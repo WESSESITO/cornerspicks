@@ -1,21 +1,21 @@
 {
- "generado": "2026-10-28 18:32",
- "generado_iso": "2026-10-28T18:32:00-05:00",
+ "generado": "2026-10-29 06:32",
+ "generado_iso": "2026-10-29T06:32:00-05:00",
  "bots": [
   {
    "bot": "corners_10min",
    "nombre": "Bot Corners 10 Minutos",
    "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
    "resumen": {
-    "resueltas": 133,
-    "aciertos": 76,
-    "errores": 57,
-    "pct": 57.14,
-    "unidades": -4.17,
-    "roi": -3.14,
+    "resueltas": 137,
+    "aciertos": 77,
+    "errores": 60,
+    "pct": 56.2,
+    "unidades": -6.47,
+    "roi": -4.72,
     "cuota_media": 1.7,
     "total": 139,
-    "pendientes": 5,
+    "pendientes": 1,
     "otros": 1
    },
    "serie": [
@@ -221,13 +221,13 @@
     },
     {
      "fecha": "2026-10-28",
-     "dia_picks": 5,
-     "dia_aciertos": 4,
-     "dia_unidades": 1.82,
-     "acum_resueltas": 133,
-     "acum_aciertos": 76,
-     "acum_pct": 57.14,
-     "acum_unidades": -4.17
+     "dia_picks": 9,
+     "dia_aciertos": 5,
+     "dia_unidades": -0.48,
+     "acum_resueltas": 137,
+     "acum_aciertos": 77,
+     "acum_pct": 56.2,
+     "acum_unidades": -6.47
     }
    ],
    "desde": "2026-10-08",
@@ -238,15 +238,15 @@
    "nombre": "Picksters Over Córners",
    "mercado": "Más de 9,5 córners totales en el partido",
    "resumen": {
-    "resueltas": 144,
-    "aciertos": 91,
-    "errores": 53,
-    "pct": 63.19,
-    "unidades": 1.7,
-    "roi": 1.18,
+    "resueltas": 154,
+    "aciertos": 98,
+    "errores": 56,
+    "pct": 63.64,
+    "unidades": 2.9,
+    "roi": 1.88,
     "cuota_media": 1.6,
-    "total": 155,
-    "pendientes": 10,
+    "total": 159,
+    "pendientes": 4,
     "otros": 1,
     "anulados": 1
    },
@@ -460,10 +460,20 @@
      "acum_aciertos": 91,
      "acum_pct": 63.19,
      "acum_unidades": 1.7
+    },
+    {
+     "fecha": "2026-10-28",
+     "dia_picks": 10,
+     "dia_aciertos": 7,
+     "dia_unidades": 1.2,
+     "acum_resueltas": 154,
+     "acum_aciertos": 98,
+     "acum_pct": 63.64,
+     "acum_unidades": 2.9
     }
    ],
    "desde": "2026-10-07",
-   "hasta": "2026-10-27"
+   "hasta": "2026-10-28"
   },
   {
    "bot": "corners_vivo",
