@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-30 14:46",
- "generado_iso": "2026-10-30T14:46:00-05:00",
+ "generado": "2026-10-30 18:36",
+ "generado_iso": "2026-10-30T18:36:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-10-30",
  "ayer": "2026-10-29",
@@ -24,7 +24,7 @@
      "respaldo": "promedio 10,15-10,85",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -44,7 +44,7 @@
      "respaldo": "promedio 10,80-11,60",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
+     "ya_empezo": true,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
@@ -220,7 +220,325 @@
    "nombre": "Bot Corners 10 Minutos",
    "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
    "link": "bot-10-minutos.html",
-   "pendientes": [],
+   "pendientes": [
+    {
+     "fecha": "2026-10-30",
+     "hora": "19:15",
+     "iso": "2026-10-30T19:15:00-05:00",
+     "partido": "Sarmiento vs Rosario Central",
+     "competencia": "Liga Profesional Argentina",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,83), así que no suma por cuota (A=0). Rosario Central promedia 6,7 corners a favor (B=2) y Sarmiento recibe 6,1 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 10,4 corners en el partido (D=0) y el ritmo es de 27,2 tiros frente a un umbral de 28,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401841647"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "09:30",
+     "iso": "2026-10-31T09:30:00-05:00",
+     "partido": "Augsburg vs Freiburg",
+     "competencia": "Bundesliga",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 2,15), así que no suma por cuota (A=0). Freiburg promedia 5,9 corners a favor (B=1) y Augsburg recibe 5,8 en contra (C=1), en sus últimos 9 y 10 partidos oficiales. Se esperan 10,5 corners en el partido (D=1) y el ritmo es de 31,8 tiros frente a un umbral de 31,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401884751"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "09:30",
+     "iso": "2026-10-31T09:30:00-05:00",
+     "partido": "Bayer Leverkusen vs VfB Stuttgart",
+     "competencia": "Bundesliga",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Bayer Leverkusen es favorito local pero paga 1,77, por encima de 1,60, así que no suma por cuota (A=0). Bayer Leverkusen promedia 7,8 corners a favor (B=2) y VfB Stuttgart recibe 4,6 en contra (C=0), en sus últimos 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 32,0 tiros frente a un umbral de 31,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401884753"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "09:30",
+     "iso": "2026-10-31T09:30:00-05:00",
+     "partido": "Borussia Mönchengladbach vs Paderborn",
+     "competencia": "Bundesliga",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Borussia Mönchengladbach es favorito local pero paga 1,95, por encima de 1,60, así que no suma por cuota (A=0). Borussia Mönchengladbach promedia 5,6 corners a favor (B=1) y Paderborn recibe 6,0 en contra (C=2), en sus últimos 9 partidos oficiales. Se esperan 10,8 corners en el partido (D=1) y el ritmo es de 31,9 tiros frente a un umbral de 31,2 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401884749"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "09:30",
+     "iso": "2026-10-31T09:30:00-05:00",
+     "partido": "Werder Bremen vs Hoffenheim",
+     "competencia": "Bundesliga",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 2,30), así que no suma por cuota (A=0). Hoffenheim promedia 7,4 corners a favor (B=2) y Werder Bremen recibe 5,1 en contra (C=1), en sus últimos 9 y 10 partidos oficiales. Se esperan 11,0 corners en el partido (D=1) y el ritmo es de 29,8 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401884748"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "10:00",
+     "iso": "2026-10-31T10:00:00-05:00",
+     "partido": "Middlesbrough vs Charlton Athletic",
+     "competencia": "Championship",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "6 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Middlesbrough es favorito local con cuota 1,27 (A=2). Middlesbrough promedia 6,0 corners a favor (B=1) y Charlton Athletic recibe 6,3 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 10,6 corners en el partido (D=1) y el ritmo es de 28,7 tiros frente a un umbral de 29,7 (E=0). Total 6 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401880193"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "10:30",
+     "iso": "2026-10-31T10:30:00-05:00",
+     "partido": "Feyenoord vs Fortuna Sittard",
+     "competencia": "Eredivisie",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Feyenoord es favorito local con cuota 1,15 (A=2). Feyenoord promedia 5,3 corners a favor (B=0) y Fortuna Sittard recibe 7,6 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 10,2 corners en el partido (D=0) y el ritmo es de 30,0 tiros frente a un umbral de 33,3 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401875565"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "12:00",
+     "iso": "2026-10-31T12:00:00-05:00",
+     "partido": "Charlotte FC vs Orlando City",
+     "competencia": "MLS",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Charlotte FC es favorito local pero paga 1,83, por encima de 1,60, así que no suma por cuota (A=0). Charlotte FC promedia 5,1 corners a favor (B=0) y Orlando City recibe 7,5 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,8 corners en el partido (D=1) y el ritmo es de 31,9 tiros frente a un umbral de 30,0 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "761922"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "12:30",
+     "iso": "2026-10-31T12:30:00-05:00",
+     "partido": "Bayern München vs Borussia Dortmund",
+     "competencia": "Bundesliga",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Bayern München es favorito local con cuota 1,32 (A=1). Bayern München promedia 8,5 corners a favor (B=2) y Borussia Dortmund recibe 4,6 en contra (C=0), en sus últimos 10 partidos oficiales. Se esperan 11,7 corners en el partido (D=1) y el ritmo es de 28,9 tiros frente a un umbral de 31,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401884754"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "12:30",
+     "iso": "2026-10-31T12:30:00-05:00",
+     "partido": "Tottenham Hotspur vs Crystal Palace",
+     "competencia": "Premier League",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Tottenham Hotspur es favorito local pero paga 1,61, por encima de 1,60, así que no suma por cuota (A=0). Tottenham Hotspur promedia 7,2 corners a favor (B=2) y Crystal Palace recibe 5,3 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 10,5 corners en el partido (D=1) y el ritmo es de 26,1 tiros frente a un umbral de 29,3 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401878761"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "12:45",
+     "iso": "2026-10-31T12:45:00-05:00",
+     "partido": "PSV Eindhoven vs Willem II",
+     "competencia": "Eredivisie",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "PSV Eindhoven es favorito local con cuota 1,07 (A=2). PSV Eindhoven promedia 5,8 corners a favor (B=1) y Willem II recibe 5,9 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 10,1 corners en el partido (D=0) y el ritmo es de 31,1 tiros frente a un umbral de 33,3 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401875564"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "14:00",
+     "iso": "2026-10-31T14:00:00-05:00",
+     "partido": "Sporting Kansas City vs FC Dallas",
+     "competencia": "MLS",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,77), así que no suma por cuota (A=0). FC Dallas promedia 5,5 corners a favor (B=1) y Sporting Kansas City recibe 6,5 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,2 corners en el partido (D=1) y el ritmo es de 28,7 tiros frente a un umbral de 30,0 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "761928"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "14:45",
+     "iso": "2026-10-31T14:45:00-05:00",
+     "partido": "Troyes vs Le Mans",
+     "competencia": "Ligue 1",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Troyes es favorito local pero paga 2,35, por encima de 1,60, así que no suma por cuota (A=0). Troyes promedia 6,5 corners a favor (B=2) y Le Mans recibe 6,0 en contra (C=2), en sus últimos 8 partidos oficiales. Se esperan 8,7 corners en el partido (D=0) y el ritmo es de 26,0 tiros frente a un umbral de 29,1 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401876413"
+    }
+   ],
    "ayer": [
     {
      "fecha": "2026-10-29",
@@ -257,8 +575,8 @@
     "unidades": -6.75,
     "roi": -4.86,
     "cuota_media": 1.7,
-    "total": 139,
-    "pendientes": 0,
+    "total": 152,
+    "pendientes": 13,
     "otros": 0
    }
   },
@@ -289,11 +607,11 @@
      "cuota": "1,90 (supuesta)",
      "sin_apuesta": false,
      "ya_empezo": true,
-     "resultado": "pendiente",
-     "detalle": "",
+     "resultado": "error",
+     "detalle": "11 córners",
      "argumento": {
       "texto": "minuto 45+3 (HT ESPN; TC HT); marcador HT Nice 3-1 Rennes (Wahi pen 12', Szymanski 15', Wahi pen 34', Clauss 45+2'); favorito prepartido Rennes ML una casa de apuestas +160 (Nice +170, empate +250) PIERDE (favorito por margen mínimo); córners 1T ESPN Nice 3 - Rennes 4 = 7 (= TC \"3 - 4 (3-4)\").",
-      "detalle": "tiros 10-10, a puerta 4-4, bloqueados 2-2; posesión 51.3-48.7; centros 8-7; TC ataques texto crudo \"24 - 21\"; sin rojas (ESPN 0-0); Base 7 + 7/45*45*0.85 = 12.95; +1 presión (30-45': 5 tiros bloqueados/fuera: 30' bloq Boudaoui, 30' fuera Amoura, 31' fuera Al Tamari, 40' fuera Nagida, 40' bloq Wahi); +1 favorito Rennes pierde; sin −1 (Nice gana por 2 pero partido abierto, 4 goles y 20 tiros en el 1T); ajustada 14.95 vs línea 12.5 = MÁS (pedía ≥14.0); línea TotalCorner texto crudo: \"10.0 (12.5)\" -> en vivo 12.5, prepartido 10.0; 2T esperado: Rennes obligado a volcarse con centros y córners a favor (ya 4 en el 1T), Nice cómodo para replegarse; riesgo de contragolpe de Nice y de que un 4-1 cierre el partido; Fuente ESPN marcador/córners/tiros/posesión/comentario/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 13:55)",
+      "detalle": "tiros 10-10, a puerta 4-4, bloqueados 2-2; posesión 51.3-48.7; centros 8-7; TC ataques texto crudo \"24 - 21\"; sin rojas (ESPN 0-0); Base 7 + 7/45*45*0.85 = 12.95; +1 presión (30-45': 5 tiros bloqueados/fuera: 30' bloq Boudaoui, 30' fuera Amoura, 31' fuera Al Tamari, 40' fuera Nagida, 40' bloq Wahi); +1 favorito Rennes pierde; sin −1 (Nice gana por 2 pero partido abierto, 4 goles y 20 tiros en el 1T); ajustada 14.95 vs línea 12.5 = MÁS (pedía ≥14.0); línea TotalCorner texto crudo: \"10.0 (12.5)\" -> en vivo 12.5, prepartido 10.0; 2T esperado: Rennes obligado a volcarse con centros y córners a favor (ya 4 en el 1T), Nice cómodo para replegarse; riesgo de contragolpe de Nice y de que un 4-1 cierre el partido; Fuente ESPN marcador/córners/tiros/posesión/comentario/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 13:55); FT (ESPN): Nice 5-2 Rennes; córners Nice 4 - Rennes 7 = 11 (2T: Nice 1, Rennes 3); favorito Rennes NO remontó (perdió); MÁS 12.5 falló",
       "origen": "bot",
       "despues": ""
      }
@@ -302,15 +620,15 @@
    "ayer": [],
    "hoy_cerradas": [],
    "balance": {
-    "resueltas": 63,
+    "resueltas": 64,
     "aciertos": 35,
-    "errores": 28,
-    "pct": 55.56,
-    "unidades": 3.5,
-    "roi": 5.56,
+    "errores": 29,
+    "pct": 54.69,
+    "unidades": 2.5,
+    "roi": 3.91,
     "cuota_media": 1.9,
     "total": 70,
-    "pendientes": 1,
+    "pendientes": 0,
     "otros": 6,
     "nulos": 6
    }

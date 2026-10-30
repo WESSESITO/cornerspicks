@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-30 14:46",
- "generado_iso": "2026-10-30T14:46:00-05:00",
+ "generado": "2026-10-30 18:36",
+ "generado_iso": "2026-10-30T18:36:00-05:00",
  "bots": [
   {
    "bot": "corners_10min",
@@ -14,8 +14,8 @@
     "unidades": -6.75,
     "roi": -4.86,
     "cuota_media": 1.7,
-    "total": 139,
-    "pendientes": 0,
+    "total": 152,
+    "pendientes": 13,
     "otros": 0
    },
    "serie": [
@@ -500,15 +500,15 @@
    "nombre": "Cornes en Vivo",
    "mercado": "Total de córners del partido MÁS o MENOS que la línea en vivo",
    "resumen": {
-    "resueltas": 63,
+    "resueltas": 64,
     "aciertos": 35,
-    "errores": 28,
-    "pct": 55.56,
-    "unidades": 3.5,
-    "roi": 5.56,
+    "errores": 29,
+    "pct": 54.69,
+    "unidades": 2.5,
+    "roi": 3.91,
     "cuota_media": 1.9,
     "total": 70,
-    "pendientes": 1,
+    "pendientes": 0,
     "otros": 6,
     "nulos": 6
    },
@@ -642,10 +642,20 @@
      "acum_aciertos": 35,
      "acum_pct": 55.56,
      "acum_unidades": 3.5
+    },
+    {
+     "fecha": "2026-10-30",
+     "dia_picks": 1,
+     "dia_aciertos": 0,
+     "dia_unidades": -1.0,
+     "acum_resueltas": 64,
+     "acum_aciertos": 35,
+     "acum_pct": 54.69,
+     "acum_unidades": 2.5
     }
    ],
    "desde": "2026-10-13",
-   "hasta": "2026-10-28"
+   "hasta": "2026-10-30"
   }
  ]
 }
