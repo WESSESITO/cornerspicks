@@ -2,8 +2,8 @@
  "bot": "corners_vivo",
  "nombre": "Cornes en Vivo",
  "mercado": "Total de córners del partido MÁS o MENOS que la línea en vivo",
- "generado": "2026-10-29 06:32",
- "generado_iso": "2026-10-29T06:32:00-05:00",
+ "generado": "2026-10-30 14:46",
+ "generado_iso": "2026-10-30T14:46:00-05:00",
  "fuente_csv": "site-data/corners_vivo.csv",
  "cuota_supuesta": 1.9,
  "breakeven": 52.6,
@@ -15,15 +15,15 @@
   "unidades": 3.5,
   "roi": 5.56,
   "cuota_media": 1.9,
-  "total": 69,
-  "pendientes": 0,
+  "total": 70,
+  "pendientes": 1,
   "otros": 6,
   "nulos": 6
  },
- "lecturas": 239,
- "descartados": 170,
+ "lecturas": 242,
+ "descartados": 172,
  "senales": {
-  "MÁS": 30,
+  "MÁS": 31,
   "MENOS": 39
  },
  "resumen_v3": {
@@ -34,8 +34,8 @@
   "unidades": 7.2,
   "roi": 15.65,
   "cuota_media": 1.9,
-  "total": 51,
-  "pendientes": 0,
+  "total": 52,
+  "pendientes": 1,
   "otros": 5,
   "nulos": 5
  },
@@ -62,8 +62,8 @@
    "unidades": 7.2,
    "roi": 15.65,
    "cuota_media": 1.9,
-   "total": 51,
-   "pendientes": 0,
+   "total": 52,
+   "pendientes": 1,
    "otros": 5,
    "nulos": 5
   },
@@ -106,8 +106,8 @@
    "unidades": -0.7,
    "roi": -5.0,
    "cuota_media": 1.9,
-   "total": 16,
-   "pendientes": 0,
+   "total": 17,
+   "pendientes": 1,
    "otros": 2,
    "nulos": 2
   }
@@ -122,8 +122,8 @@
    "unidades": 4.7,
    "roi": 23.5,
    "cuota_media": 1.9,
-   "total": 20,
-   "pendientes": 0,
+   "total": 21,
+   "pendientes": 1,
    "otros": 0,
    "nulos": 0
   },
@@ -152,8 +152,8 @@
    "unidades": 0.4,
    "roi": 1.33,
    "cuota_media": 1.9,
-   "total": 30,
-   "pendientes": 0,
+   "total": 31,
+   "pendientes": 1,
    "otros": 0,
    "nulos": 0
   },
@@ -264,8 +264,8 @@
    "unidades": -3.2,
    "roi": -45.71,
    "cuota_media": 1.9,
-   "total": 7,
-   "pendientes": 0,
+   "total": 8,
+   "pendientes": 1,
    "otros": 0
   },
   {
@@ -5897,6 +5897,74 @@
     "origen": "bot",
     "despues": ""
    }
+  },
+  {
+   "fecha": "2026-10-30",
+   "partido": "Nice vs Stade Rennais",
+   "competencia": "Ligue 1",
+   "minuto": "45",
+   "ht": true,
+   "marcador": "3-1",
+   "corners_lectura": "7",
+   "proyeccion": 14.95,
+   "linea": 12.5,
+   "senal": "MÁS",
+   "corners_finales": null,
+   "resultado": "pendiente",
+   "es_pick": true,
+   "version": "v3-HT",
+   "familia": "v3",
+   "cuota": 1.9,
+   "cuota_estimada": true,
+   "unidades": null,
+   "argumento": {
+    "texto": "minuto 45+3 (HT ESPN; TC HT); marcador HT Nice 3-1 Rennes (Wahi pen 12', Szymanski 15', Wahi pen 34', Clauss 45+2'); favorito prepartido Rennes ML una casa de apuestas +160 (Nice +170, empate +250) PIERDE (favorito por margen mínimo); córners 1T ESPN Nice 3 - Rennes 4 = 7 (= TC \"3 - 4 (3-4)\").",
+    "detalle": "tiros 10-10, a puerta 4-4, bloqueados 2-2; posesión 51.3-48.7; centros 8-7; TC ataques texto crudo \"24 - 21\"; sin rojas (ESPN 0-0); Base 7 + 7/45*45*0.85 = 12.95; +1 presión (30-45': 5 tiros bloqueados/fuera: 30' bloq Boudaoui, 30' fuera Amoura, 31' fuera Al Tamari, 40' fuera Nagida, 40' bloq Wahi); +1 favorito Rennes pierde; sin −1 (Nice gana por 2 pero partido abierto, 4 goles y 20 tiros en el 1T); ajustada 14.95 vs línea 12.5 = MÁS (pedía ≥14.0); línea TotalCorner texto crudo: \"10.0 (12.5)\" -> en vivo 12.5, prepartido 10.0; 2T esperado: Rennes obligado a volcarse con centros y córners a favor (ya 4 en el 1T), Nice cómodo para replegarse; riesgo de contragolpe de Nice y de que un 4-1 cierre el partido; Fuente ESPN marcador/córners/tiros/posesión/comentario/cuotas una casa de apuestas; línea/ataques TotalCorner (corrida 13:55)",
+    "origen": "bot",
+    "despues": ""
+   }
+  },
+  {
+   "fecha": "2026-10-30",
+   "partido": "Le Havre vs Paris Saint-Germain",
+   "competencia": "Ligue 1",
+   "minuto": "65",
+   "ht": false,
+   "marcador": "1-4",
+   "corners_lectura": "4",
+   "proyeccion": 5.31,
+   "linea": 6.5,
+   "senal": "descartado",
+   "corners_finales": null,
+   "resultado": "descartado",
+   "es_pick": false,
+   "version": "v3-60",
+   "familia": "v3",
+   "cuota": null,
+   "cuota_estimada": true,
+   "unidades": null,
+   "argumento": null
+  },
+  {
+   "fecha": "2026-10-30",
+   "partido": "Nice vs Stade Rennais",
+   "competencia": "Ligue 1",
+   "minuto": "65",
+   "ht": false,
+   "marcador": "4-2",
+   "corners_lectura": "8",
+   "proyeccion": 11.62,
+   "linea": 12.0,
+   "senal": "descartado",
+   "corners_finales": null,
+   "resultado": "descartado",
+   "es_pick": false,
+   "version": "v3-60",
+   "familia": "v3",
+   "cuota": null,
+   "cuota_estimada": true,
+   "unidades": null,
+   "argumento": null
   }
  ]
 }
