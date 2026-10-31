@@ -1,9 +1,9 @@
 {
- "generado": "2026-10-30 18:36",
- "generado_iso": "2026-10-30T18:36:00-05:00",
+ "generado": "2026-10-31 06:32",
+ "generado_iso": "2026-10-31T06:32:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
- "hoy": "2026-10-30",
- "ayer": "2026-10-29",
+ "hoy": "2026-10-31",
+ "ayer": "2026-10-30",
  "bots": [
   {
    "bot": "over_corners",
@@ -11,6 +11,258 @@
    "mercado": "Más de 9,5 córners totales",
    "link": "picksters-over-corners.html",
    "pendientes": [
+    {
+     "fecha": "2026-10-31",
+     "hora": "09:30",
+     "iso": "2026-10-31T09:30:00-05:00",
+     "partido": "Bayer Leverkusen vs VfB Stuttgart",
+     "competencia": "Bundesliga",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,40-11,45",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,40-11,45 córners (umbral: 10 o más de forma clara). ESPN (Bayer Leverkusen 7,8/3,5; VfB Stuttgart 7/4,6) 11,45; FotMob (Bayer Leverkusen 7,8/3,5; VfB Stuttgart 6,9/4,6) 11,4. Los dos generan cerca de 7 u 8 corners por partido (Leverkusen 7,8 y Stuttgart cerca de 7), así que pasa el corte de fin de semana de 10,5 en ambas fuentes con margen holgado. Leverkusen es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "09:30",
+     "iso": "2026-10-31T09:30:00-05:00",
+     "partido": "Borussia Mönchengladbach vs SC Paderborn 07",
+     "competencia": "Bundesliga",
+     "nivel": null,
+     "marcas": [
+      "ajustada"
+     ],
+     "respaldo": "promedio 10,83-10,84",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,83-10,84 córners (umbral: 10 o más de forma clara). ESPN (Borussia Mönchengladbach 5,56/5,11; SC Paderborn 07 5/6) 10,83; FotMob (Borussia Mönchengladbach 5,56/5,11; SC Paderborn 07 5/6) 10,84. Paderborn concede 6 corners por partido y Gladbach genera 5,6, así que pasa el corte de fin de semana de 10,5 en ambas fuentes, aunque ajustado. Sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "09:30",
+     "iso": "2026-10-31T09:30:00-05:00",
+     "partido": "FC Augsburg vs SC Freiburg",
+     "competencia": "Bundesliga",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,53-10,53",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,53-10,53 córners (umbral: 10 o más de forma clara). ESPN (FC Augsburg 5,78/5,78; SC Freiburg 5,9/3,6) 10,53; FotMob (FC Augsburg 5,78/5,78; SC Freiburg 5,9/3,6) 10,53. Augsburg genera y concede 5,8 corners por partido y Freiburg genera 5,9, así que pasa el corte de fin de semana de 10,5 en ambas fuentes, pero muy justo (10,53). Sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "09:30",
+     "iso": "2026-10-31T09:30:00-05:00",
+     "partido": "Werder Bremen vs TSG Hoffenheim",
+     "competencia": "Bundesliga",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,99-11,04",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,99-11,04 córners (umbral: 10 o más de forma clara). ESPN (Werder Bremen 4,67/5,11; TSG Hoffenheim 7,4/4,9) 11,04; FotMob (Werder Bremen 4,56/5,11; TSG Hoffenheim 7,4/4,9) 10,99. Hoffenheim genera 7,4 corners por partido y Bremen concede 5,1, así que pasa el corte de fin de semana de 10,5 en ambas fuentes con algo de margen. Sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "12:00",
+     "iso": "2026-10-31T12:00:00-05:00",
+     "partido": "Charlotte vs Orlando City",
+     "competencia": "MLS",
+     "nivel": null,
+     "marcas": [
+      "en vigilancia"
+     ],
+     "respaldo": "promedio 11,85-11,90",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,85-11,90 córners (umbral: 10 o más de forma clara). ESPN (Charlotte 5,1/7,4; Orlando City 3,7/7,6) 11,9; FotMob (Charlotte 5,1/7,4; Orlando City 3,7/7,5) 11,85. Los dos conceden cerca de 7,5 corners por partido, así que pasa el corte de 10,5 de la MLS y del fin de semana en ambas fuentes con margen holgado. Charlotte es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "12:30",
+     "iso": "2026-10-31T12:30:00-05:00",
+     "partido": "Tottenham Hotspur vs Crystal Palace",
+     "competencia": "Premier League",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,50-10,50",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,50-10,50 córners (umbral: 10 o más de forma clara). ESPN (Tottenham Hotspur 7,2/4,6; Crystal Palace 3,9/5,3) 10,5; FotMob (Tottenham Hotspur 7,2/4,6; Crystal Palace 3,9/5,3) 10,5. Tottenham genera 7,2 corners por partido y Crystal Palace concede 5,3, así que llega al corte de fin de semana de 10,5 en ambas fuentes, pero en el corte exacto (10,5). Tottenham es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "12:30",
+     "iso": "2026-10-31T12:30:00-05:00",
+     "partido": "Bayern Munich vs Borussia Dortmund",
+     "competencia": "Bundesliga",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 11,70-11,75",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,70-11,75 córners (umbral: 10 o más de forma clara). ESPN (Bayern Munich 8,5/3,3; Borussia Dortmund 7,1/4,6) 11,75; FotMob (Bayern Munich 8,5/3,3; Borussia Dortmund 7/4,6) 11,7. Bayern genera 8,5 corners por partido y Dortmund cerca de 7, así que pasa el corte de fin de semana de 10,5 en ambas fuentes con margen holgado. Bayern es favorito muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "14:00",
+     "iso": "2026-10-31T14:00:00-05:00",
+     "partido": "Coritiba vs Vitória",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,70-11,55",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,70-11,55 córners (umbral: 10 o más de forma clara). ESPN (Coritiba 4,6/8,1; Vitória 4,8/5,6) 11,55; FotMob (Coritiba 4,6/8,1; Vitória 3,8/4,9) 10,7. Coritiba concede 8,1 corners por partido y Vitória concede cerca de 5, así que pasa el corte de fin de semana de 10,5 en ambas fuentes, aunque FotMob da casi un corner menos que ESPN. Sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "14:00",
+     "iso": "2026-10-31T14:00:00-05:00",
+     "partido": "Sporting Kansas City vs FC Dallas",
+     "competencia": "MLS",
+     "nivel": null,
+     "marcas": [
+      "en vigilancia"
+     ],
+     "respaldo": "promedio 11,15-11,25",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,15-11,25 córners (umbral: 10 o más de forma clara). ESPN (Sporting Kansas City 4,8/6,5; FC Dallas 5,6/5,6) 11,25; FotMob (Sporting Kansas City 4,7/6,5; FC Dallas 5,5/5,6) 11,15. Sporting Kansas City concede 6,5 corners por partido y Dallas genera y concede cerca de 5,6, así que pasa el corte de 10,5 de la MLS y del fin de semana en ambas fuentes con algo de margen. Dallas es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "20:05",
+     "iso": "2026-10-31T20:05:00-05:00",
+     "partido": "Monterrey vs Tijuana",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,85-12,25",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,85-12,25 córners (umbral: 10 o más de forma clara). ESPN (Monterrey 7,6/3; Tijuana 5,4/7,7) 11,85; FotMob (Monterrey 7,3/4,2; Tijuana 5,3/7,7) 12,25. Tijuana concede 7,7 corners por partido y Monterrey genera entre 7,3 y 7,6, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes con margen holgado. Monterrey es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "20:07",
+     "iso": "2026-10-31T20:07:00-05:00",
+     "partido": "Guadalajara vs Atlante",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 11,10-11,15",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,10-11,15 córners (umbral: 10 o más de forma clara). ESPN (Guadalajara 6,6/5,5; Atlante 5,7/4,4) 11,1; FotMob (Guadalajara 6,7/5,5; Atlante 5,7/4,4) 11,15. Guadalajara genera 6,6 corners por partido y concede 5,5, y Atlante genera 5,7, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes con margen. Guadalajara es favorito muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "22:10",
+     "iso": "2026-10-31T22:10:00-05:00",
+     "partido": "América vs Toluca",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,90-12,35",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,90-12,35 córners (umbral: 10 o más de forma clara). ESPN (América 5,5/5,6; Toluca 7,7/5) 11,9; FotMob (América 6,7/4,8; Toluca 7,2/6) 12,35. Toluca genera entre 7,2 y 7,7 corners por partido y concede 5 o 6, y América concede más de 5, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes con margen holgado. Sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
+   "ayer": [
     {
      "fecha": "2026-10-30",
      "hora": "15:00",
@@ -25,8 +277,8 @@
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
      "ya_empezo": true,
-     "resultado": "pendiente",
-     "detalle": "",
+     "resultado": "acierto",
+     "detalle": "10 (7-3) córners",
      "argumento": {
       "texto": "Promedio combinado del filtro: 10,15-10,85 córners (umbral: 10 o más de forma clara). ESPN (Villarreal 7,3/4,6; Espanyol 2,6/5,8) 10,15; FotMob (Villarreal 6,2/5,4; Espanyol 3,7/6,4) 10,85. Villarreal genera entre 6,2 y 7,3 corners por partido y Espanyol concede entre 5,8 y 6,4, así que pasa el corte general de 10 de LaLiga en ambas fuentes, aunque ESPN queda justo por encima (10,15). Villarreal es favorito muy claro.",
       "detalle": "",
@@ -45,8 +297,8 @@
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
      "ya_empezo": true,
-     "resultado": "pendiente",
-     "detalle": "",
+     "resultado": "error",
+     "detalle": "6 (4-2) córners",
      "argumento": {
       "texto": "Promedio combinado del filtro: 10,80-11,60 córners (umbral: 10 o más de forma clara). ESPN (Corinthians 6,8/5; Mirassol 5,1/6,3) 11,6; FotMob (Corinthians 5,5/4,7; Mirassol 5,1/6,3) 10,8. Corinthians genera entre 5,5 y 6,8 corners por partido y Mirassol concede 6,3, así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen. Corinthians es favorito, pero no muy claro.",
       "detalle": "",
@@ -66,9 +318,9 @@
      "respaldo": "promedio 10,85-10,90",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "11 (7-4) córners",
      "argumento": {
       "texto": "Promedio combinado del filtro: 10,85-10,90 córners (umbral: 10 o más de forma clara). ESPN (Atlético de San Luis 2,6/6,9; Atlas 6,9/5,3) 10,85; FotMob (Atlético de San Luis 2,6/6,9; Atlas 7/5,3) 10,9. San Luis concede 6,9 corners por partido y Atlas genera cerca de 7, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes, aunque ajustado. Sin favorito claro.",
       "detalle": "",
@@ -86,9 +338,9 @@
      "respaldo": "promedio 11,15-11,20",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "12 (2-10) córners",
      "argumento": {
       "texto": "Promedio combinado del filtro: 11,15-11,20 córners (umbral: 10 o más de forma clara). ESPN (FC Juárez 5,1/6,1; Querétaro 4,5/6,6) 11,15; FotMob (FC Juárez 5,1/6,1; Querétaro 4,5/6,7) 11,2. Juárez concede 6,1 corners por partido y Querétaro concede cerca de 6,6, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes con margen. Querétaro es favorito, pero no muy claro.",
       "detalle": "",
@@ -106,9 +358,9 @@
      "respaldo": "promedio 11,20-11,30",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "10 (7-3) córners",
      "argumento": {
       "texto": "Promedio combinado del filtro: 11,20-11,30 córners (umbral: 10 o más de forma clara). ESPN (Puebla 4,5/7,3; Pumas UNAM 5,6/5,2) 11,3; FotMob (Puebla 4,5/7,2; Pumas UNAM 5,6/5,1) 11,2. Puebla concede cerca de 7,2–7,3 corners por partido y Pumas genera 5,6, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes con margen. Pumas es favorito, pero no muy claro.",
       "detalle": "",
@@ -116,101 +368,17 @@
      }
     }
    ],
-   "ayer": [
-    {
-     "fecha": "2026-10-29",
-     "hora": "12:30",
-     "iso": "2026-10-29T12:30:00-05:00",
-     "partido": "Frosinone vs Lecce",
-     "competencia": "Serie A",
-     "nivel": null,
-     "marcas": [
-      "ajustada"
-     ],
-     "respaldo": "promedio 10,11-10,11",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "13 (10-3) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,11-10,11 córners (umbral: 10 o más de forma clara). ESPN (Frosinone 5,6/6,4; Lecce 4,89/3,33) 10,11; FotMob (Frosinone 5,6/6,4; Lecce 4,89/3,33) 10,11. Frosinone genera 5,6 corners por partido y concede 6,4, mientras que Lecce concede solo 3,3, así que pasa el corte general de 10 de la Serie A en ambas fuentes, pero muy ajustado (solo 0,11 por encima). Frosinone es favorito, pero no muy claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-29",
-     "hora": "17:30",
-     "iso": "2026-10-29T17:30:00-05:00",
-     "partido": "Atlético-MG vs Cruzeiro",
-     "competencia": "Brasileirão",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 12,25-12,80",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "error",
-     "detalle": "9 (7-2) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 12,25-12,80 córners (umbral: 10 o más de forma clara). ESPN (Atlético-MG 5,8/7,3; Cruzeiro 5,6/6,9) 12,8; FotMob (Atlético-MG 5,6/6,5; Cruzeiro 5/7,4) 12,25. Los dos conceden entre 6,5 y 7,4 corners por partido y generan más de 5, así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen holgado, aunque ESPN da medio corner más que FotMob. Sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-29",
-     "hora": "18:00",
-     "iso": "2026-10-29T18:00:00-05:00",
-     "partido": "Vasco vs Flamengo",
-     "competencia": "Brasileirão",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 11,10-11,45",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "10 (6-4) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,10-11,45 córners (umbral: 10 o más de forma clara). ESPN (Vasco 6,8/3,9; Flamengo 8,5/3,7) 11,45; FotMob (Vasco 5,8/4,7; Flamengo 7,7/4) 11,1. Flamengo genera entre 7,7 y 8,5 corners por partido y Vasco genera cerca de 6, así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen holgado. Flamengo es favorito, pero no muy claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-10-29",
-     "hora": "19:30",
-     "iso": "2026-10-29T19:30:00-05:00",
-     "partido": "Grêmio vs Athletico Paranaense",
-     "competencia": "Brasileirão",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 11,70-11,80",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "14 (6-8) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,70-11,80 córners (umbral: 10 o más de forma clara). ESPN (Grêmio 4,7/6,7; Athletico Paranaense 6,7/5,3) 11,7; FotMob (Grêmio 4,6/7,1; Athletico Paranaense 6,7/5,2) 11,8. Grêmio concede cerca de 7 corners por partido y Athletico Paranaense genera 6,7, así que pasa el corte general de 10 del Brasileirão en ambas fuentes con margen holgado. Sin favorito claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    }
-   ],
    "hoy_cerradas": [],
    "balance": {
-    "resueltas": 158,
-    "aciertos": 101,
-    "errores": 57,
-    "pct": 63.92,
-    "unidades": 3.7,
-    "roi": 2.34,
+    "resueltas": 163,
+    "aciertos": 105,
+    "errores": 58,
+    "pct": 64.42,
+    "unidades": 5.1,
+    "roi": 3.13,
     "cuota_media": 1.6,
-    "total": 164,
-    "pendientes": 5,
+    "total": 176,
+    "pendientes": 12,
     "otros": 1,
     "anulados": 1
    }
@@ -221,31 +389,6 @@
    "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
    "link": "bot-10-minutos.html",
    "pendientes": [
-    {
-     "fecha": "2026-10-30",
-     "hora": "19:15",
-     "iso": "2026-10-30T19:15:00-05:00",
-     "partido": "Sarmiento vs Rosario Central",
-     "competencia": "Liga Profesional Argentina",
-     "nivel": "media",
-     "marcas": [
-      "media",
-      "C2"
-     ],
-     "respaldo": "4 puntos",
-     "cuota": "sin apuesta (solo seguimiento)",
-     "sin_apuesta": true,
-     "reportada": "2026-10-30 18:00",
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "El favorito no juega de local (cuota 1,83), así que no suma por cuota (A=0). Rosario Central promedia 6,7 corners a favor (B=2) y Sarmiento recibe 6,1 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 10,4 corners en el partido (D=0) y el ritmo es de 27,2 tiros frente a un umbral de 28,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
-      "detalle": "",
-      "origen": "bot"
-     },
-     "espn_id": "401841647"
-    },
     {
      "fecha": "2026-10-31",
      "hora": "09:30",
@@ -365,6 +508,30 @@
       "origen": "bot"
      },
      "espn_id": "401880193"
+    },
+    {
+     "fecha": "2026-10-31",
+     "hora": "10:00",
+     "iso": "2026-10-31T10:00:00-05:00",
+     "partido": "Wolverhampton Wanderers vs Cardiff City",
+     "competencia": "Championship",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-31 06:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Wolverhampton Wanderers es favorito local con cuota 1,59 (A=1). Wolverhampton Wanderers promedia 7,1 corners a favor (B=2) y Cardiff City recibe 4,4 en contra (C=0), en sus últimos 10 partidos oficiales. Se esperan 11,1 corners en el partido (D=1) y el ritmo es de 29,0 tiros frente a un umbral de 29,7 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401880185"
     },
     {
      "fecha": "2026-10-31",
@@ -537,15 +704,85 @@
       "origen": "bot"
      },
      "espn_id": "401876413"
-    }
-   ],
-   "ayer": [
+    },
     {
-     "fecha": "2026-10-29",
-     "hora": "17:30",
-     "iso": "2026-10-29T17:30:00-05:00",
-     "partido": "Atlético-MG vs Cruzeiro",
-     "competencia": "Brasileirão",
+     "fecha": "2026-11-01",
+     "hora": "06:30",
+     "iso": "2026-11-01T06:30:00-05:00",
+     "partido": "Como vs Venezia",
+     "competencia": "Serie A",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-31 06:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Como es favorito local con cuota 1,28 (A=2). Como promedia 4,9 corners a favor (B=0) y Venezia recibe 5,2 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 9,7 corners en el partido (D=0) y el ritmo es de 30,6 tiros frente a un umbral de 28,9 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401875002"
+    },
+    {
+     "fecha": "2026-11-01",
+     "hora": "10:15",
+     "iso": "2026-11-01T10:15:00-05:00",
+     "partido": "Racing Santander vs Real Madrid",
+     "competencia": "LaLiga",
+     "nivel": "fuerte",
+     "marcas": [
+      "fuerte"
+     ],
+     "respaldo": "5 puntos",
+     "cuota": "mín. 1,70",
+     "sin_apuesta": false,
+     "reportada": "2026-10-31 06:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,22), así que no suma por cuota (A=0). Real Madrid promedia 6,3 corners a favor (B=1) y Racing Santander recibe 6,8 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 11,4 corners en el partido (D=1) y el ritmo es de 29,5 tiros frente a un umbral de 28,9 (E=1). Total 5 puntos: alerta fuerte, se toma solo con cuota de 1,70 o más. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401882819"
+    },
+    {
+     "fecha": "2026-11-01",
+     "hora": "15:30",
+     "iso": "2026-11-01T15:30:00-05:00",
+     "partido": "Vancouver Whitecaps vs Seattle Sounders FC",
+     "competencia": "MLS",
+     "nivel": "media",
+     "marcas": [
+      "media"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-31 06:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Vancouver Whitecaps es favorito local con cuota 1,59 (A=1). Vancouver Whitecaps promedia 6,2 corners a favor (B=1) y Seattle Sounders FC recibe 5,1 en contra (C=1), en sus últimos 10 partidos oficiales. Se esperan 10,9 corners en el partido (D=1) y el ritmo es de 28,5 tiros frente a un umbral de 30,0 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento. Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "761927"
+    },
+    {
+     "fecha": "2026-11-01",
+     "hora": "16:30",
+     "iso": "2026-11-01T16:30:00-05:00",
+     "partido": "Grêmio vs Atlético-MG",
+     "competencia": "bra.copa_do_brazil",
      "nivel": "media",
      "marcas": [
       "media",
@@ -554,29 +791,56 @@
      "respaldo": "4 puntos",
      "cuota": "sin apuesta (solo seguimiento)",
      "sin_apuesta": true,
-     "reportada": "2026-10-29 06:00",
-     "ya_empezo": true,
-     "resultado": "error",
-     "detalle": "14'",
+     "reportada": "2026-10-31 06:00",
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
      "argumento": {
-      "texto": "El favorito no juega de local (cuota 2,50), así que no suma por cuota (A=0). Cruzeiro promedia 5,0 corners a favor (B=0) y Atlético-MG recibe 6,5 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 12,2 corners en el partido (D=1) y el ritmo es de 33,2 tiros frente a un umbral de 28,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN; bajó de fuerte (5) a media (4): el favorito pasó a ser Cruzeiro (visitante), B=0.",
+      "texto": "Grêmio es favorito local pero paga 2,60, por encima de 1,60, así que no suma por cuota (A=0). Grêmio promedia 4,7 corners a favor (B=0) y Atlético-MG recibe 6,5 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 12,1 corners en el partido (D=1) y el ritmo es de 32,5 tiros frente a un umbral de 28,2 (E=1). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
       "detalle": "",
       "origen": "bot"
      },
-     "espn_id": "401841288"
+     "espn_id": "401913109"
+    }
+   ],
+   "ayer": [
+    {
+     "fecha": "2026-10-30",
+     "hora": "19:15",
+     "iso": "2026-10-30T19:15:00-05:00",
+     "partido": "Sarmiento vs Rosario Central",
+     "competencia": "Liga Profesional Argentina",
+     "nivel": "media",
+     "marcas": [
+      "media",
+      "C2"
+     ],
+     "respaldo": "4 puntos",
+     "cuota": "sin apuesta (solo seguimiento)",
+     "sin_apuesta": true,
+     "reportada": "2026-10-30 18:00",
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "0:29 (1')",
+     "argumento": {
+      "texto": "El favorito no juega de local (cuota 1,83), así que no suma por cuota (A=0). Rosario Central promedia 6,7 corners a favor (B=2) y Sarmiento recibe 6,1 en contra (C=2), en sus últimos 10 partidos oficiales. Se esperan 10,4 corners en el partido (D=0) y el ritmo es de 27,2 tiros frente a un umbral de 28,2 (E=0). Total 4 puntos: alerta media, sin apuesta, solo seguimiento (media C2). Nota: historial FotMob; cuotas 1X2 una casa de apuestas vía ESPN.",
+      "detalle": "",
+      "origen": "bot"
+     },
+     "espn_id": "401841647"
     }
    ],
    "hoy_cerradas": [],
    "balance": {
-    "resueltas": 139,
-    "aciertos": 78,
+    "resueltas": 140,
+    "aciertos": 79,
     "errores": 61,
-    "pct": 56.12,
-    "unidades": -6.75,
-    "roi": -4.86,
+    "pct": 56.43,
+    "unidades": -6.03,
+    "roi": -4.31,
     "cuota_media": 1.7,
-    "total": 152,
-    "pendientes": 13,
+    "total": 157,
+    "pendientes": 17,
     "otros": 0
    }
   },
@@ -586,7 +850,8 @@
    "mercado": "Total de córners MÁS o MENOS que la línea en vivo",
    "link": "cornes-en-vivo.html",
    "vivo": true,
-   "pendientes": [
+   "pendientes": [],
+   "ayer": [
     {
      "fecha": "2026-10-30",
      "hora": "",
@@ -617,7 +882,6 @@
      }
     }
    ],
-   "ayer": [],
    "hoy_cerradas": [],
    "balance": {
     "resueltas": 64,

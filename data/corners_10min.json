@@ -2,19 +2,19 @@
  "bot": "corners_10min",
  "nombre": "Bot Corners 10 Minutos",
  "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
- "generado": "2026-10-30 18:36",
- "generado_iso": "2026-10-30T18:36:00-05:00",
+ "generado": "2026-10-31 06:32",
+ "generado_iso": "2026-10-31T06:32:00-05:00",
  "fuente_csv": "site-data/corners_10min.csv",
  "resumen": {
-  "resueltas": 139,
-  "aciertos": 78,
+  "resueltas": 140,
+  "aciertos": 79,
   "errores": 61,
-  "pct": 56.12,
-  "unidades": -6.75,
-  "roi": -4.86,
+  "pct": 56.43,
+  "unidades": -6.03,
+  "roi": -4.31,
   "cuota_media": 1.7,
-  "total": 152,
-  "pendientes": 13,
+  "total": 157,
+  "pendientes": 17,
   "otros": 0
  },
  "resumen_solo_apostadas": {
@@ -25,8 +25,8 @@
   "unidades": -5.59,
   "roi": -5.59,
   "cuota_media": 1.69,
-  "total": 102,
-  "pendientes": 2,
+  "total": 103,
+  "pendientes": 3,
   "otros": 0
  },
  "por_nivel": [
@@ -39,33 +39,33 @@
    "unidades": 1.05,
    "roi": 1.48,
    "cuota_media": 1.68,
-   "total": 73,
-   "pendientes": 2,
+   "total": 74,
+   "pendientes": 3,
    "otros": 0
   },
   {
    "grupo": "media",
-   "resueltas": 68,
-   "aciertos": 35,
+   "resueltas": 69,
+   "aciertos": 36,
    "errores": 33,
-   "pct": 51.47,
-   "unidades": -7.8,
-   "roi": -11.47,
+   "pct": 52.17,
+   "unidades": -7.08,
+   "roi": -10.26,
    "cuota_media": 1.72,
-   "total": 79,
-   "pendientes": 11,
+   "total": 83,
+   "pendientes": 14,
    "otros": 0
   }
  ],
  "medias_c2": {
-  "resueltas": 20,
-  "aciertos": 12,
+  "resueltas": 21,
+  "aciertos": 13,
   "errores": 8,
-  "pct": 60.0,
-  "unidades": 0.64,
-  "roi": 3.2,
+  "pct": 61.9,
+  "unidades": 1.36,
+  "roi": 6.48,
   "cuota_media": 1.72,
-  "total": 25,
+  "total": 26,
   "pendientes": 5,
   "otros": 0
  },
@@ -92,8 +92,8 @@
    "unidades": -3.82,
    "roi": -20.11,
    "cuota_media": 1.7,
-   "total": 21,
-   "pendientes": 2,
+   "total": 22,
+   "pendientes": 3,
    "otros": 0
   },
   {
@@ -118,8 +118,8 @@
    "unidades": -7.12,
    "roi": -50.86,
    "cuota_media": 1.71,
-   "total": 15,
-   "pendientes": 1,
+   "total": 16,
+   "pendientes": 2,
    "otros": 0
   },
   {
@@ -157,8 +157,8 @@
    "unidades": -1.28,
    "roi": -16.0,
    "cuota_media": 1.69,
-   "total": 8,
-   "pendientes": 0,
+   "total": 9,
+   "pendientes": 1,
    "otros": 0
   },
   {
@@ -196,8 +196,8 @@
    "unidades": 3.25,
    "roi": 46.43,
    "cuota_media": 1.7,
-   "total": 7,
-   "pendientes": 0,
+   "total": 8,
+   "pendientes": 1,
    "otros": 0
   },
   {
@@ -227,6 +227,19 @@
    "otros": 0
   },
   {
+   "grupo": "Liga Profesional Argentina",
+   "resueltas": 3,
+   "aciertos": 3,
+   "errores": 0,
+   "pct": 100.0,
+   "unidades": 2.16,
+   "roi": 72.0,
+   "cuota_media": 1.72,
+   "total": 3,
+   "pendientes": 0,
+   "otros": 0
+  },
+  {
    "grupo": "Premier League",
    "resueltas": 3,
    "aciertos": 1,
@@ -236,19 +249,6 @@
    "roi": -43.33,
    "cuota_media": 1.71,
    "total": 4,
-   "pendientes": 1,
-   "otros": 0
-  },
-  {
-   "grupo": "Liga Profesional Argentina",
-   "resueltas": 2,
-   "aciertos": 2,
-   "errores": 0,
-   "pct": 100.0,
-   "unidades": 1.44,
-   "roi": 72.0,
-   "cuota_media": 1.72,
-   "total": 3,
    "pendientes": 1,
    "otros": 0
   },
@@ -263,6 +263,19 @@
    "cuota_media": 1.65,
    "total": 1,
    "pendientes": 0,
+   "otros": 0
+  },
+  {
+   "grupo": "bra.copa_do_brazil",
+   "resueltas": 0,
+   "aciertos": 0,
+   "errores": 0,
+   "pct": null,
+   "unidades": 0.0,
+   "roi": null,
+   "cuota_media": null,
+   "total": 1,
+   "pendientes": 1,
    "otros": 0
   }
  ],
@@ -486,6 +499,16 @@
    "acum_aciertos": 78,
    "acum_pct": 56.12,
    "acum_unidades": -6.75
+  },
+  {
+   "fecha": "2026-10-30",
+   "dia_picks": 1,
+   "dia_aciertos": 1,
+   "dia_unidades": 0.72,
+   "acum_resueltas": 140,
+   "acum_aciertos": 79,
+   "acum_pct": 56.43,
+   "acum_unidades": -6.03
   }
  ],
  "serie_por_nivel": {
@@ -891,6 +914,16 @@
     "acum_aciertos": 35,
     "acum_pct": 51.47,
     "acum_unidades": -7.8
+   },
+   {
+    "fecha": "2026-10-30",
+    "dia_picks": 1,
+    "dia_aciertos": 1,
+    "dia_unidades": 0.72,
+    "acum_resueltas": 69,
+    "acum_aciertos": 36,
+    "acum_pct": 52.17,
+    "acum_unidades": -7.08
    }
   ]
  },
@@ -3696,11 +3729,11 @@
    "cuota_origen": "regla",
    "sin_apuesta": true,
    "c2": true,
-   "minuto": "",
-   "resultado": "pendiente",
-   "unidades": null,
+   "minuto": "0:29 (1')",
+   "resultado": "acierto",
+   "unidades": 0.72,
    "tipo": "pick",
-   "fuente": "",
+   "fuente": "ESPN comentario (Corner, Sarmiento. Conceded by Emanuel Coronel.)",
    "espn_id": "401841647"
   },
   {
@@ -3802,6 +3835,26 @@
    "tipo": "pick",
    "fuente": "",
    "espn_id": "401880193"
+  },
+  {
+   "fecha": "2026-10-31",
+   "fecha_hora": "2026-10-31 10:00",
+   "iso": "2026-10-31T10:00:00-05:00",
+   "fecha_reporte": "2026-10-31 06:00",
+   "partido": "Wolverhampton Wanderers vs Cardiff City",
+   "competencia": "Championship",
+   "nivel": "media",
+   "puntos": 4,
+   "cuota": 1.72,
+   "cuota_origen": "regla",
+   "sin_apuesta": true,
+   "c2": false,
+   "minuto": "",
+   "resultado": "pendiente",
+   "unidades": null,
+   "tipo": "pick",
+   "fuente": "",
+   "espn_id": "401880185"
   },
   {
    "fecha": "2026-10-31",
@@ -3942,6 +3995,86 @@
    "tipo": "pick",
    "fuente": "",
    "espn_id": "401876413"
+  },
+  {
+   "fecha": "2026-11-01",
+   "fecha_hora": "2026-11-01 06:30",
+   "iso": "2026-11-01T06:30:00-05:00",
+   "fecha_reporte": "2026-10-31 06:00",
+   "partido": "Como vs Venezia",
+   "competencia": "Serie A",
+   "nivel": "media",
+   "puntos": 4,
+   "cuota": 1.72,
+   "cuota_origen": "regla",
+   "sin_apuesta": true,
+   "c2": false,
+   "minuto": "",
+   "resultado": "pendiente",
+   "unidades": null,
+   "tipo": "pick",
+   "fuente": "",
+   "espn_id": "401875002"
+  },
+  {
+   "fecha": "2026-11-01",
+   "fecha_hora": "2026-11-01 10:15",
+   "iso": "2026-11-01T10:15:00-05:00",
+   "fecha_reporte": "2026-10-31 06:00",
+   "partido": "Racing Santander vs Real Madrid",
+   "competencia": "LaLiga",
+   "nivel": "fuerte",
+   "puntos": 5,
+   "cuota": 1.7,
+   "cuota_origen": "cuota_min",
+   "sin_apuesta": false,
+   "c2": false,
+   "minuto": "",
+   "resultado": "pendiente",
+   "unidades": null,
+   "tipo": "pick",
+   "fuente": "",
+   "espn_id": "401882819"
+  },
+  {
+   "fecha": "2026-11-01",
+   "fecha_hora": "2026-11-01 15:30",
+   "iso": "2026-11-01T15:30:00-05:00",
+   "fecha_reporte": "2026-10-31 06:00",
+   "partido": "Vancouver Whitecaps vs Seattle Sounders FC",
+   "competencia": "MLS",
+   "nivel": "media",
+   "puntos": 4,
+   "cuota": 1.72,
+   "cuota_origen": "regla",
+   "sin_apuesta": true,
+   "c2": false,
+   "minuto": "",
+   "resultado": "pendiente",
+   "unidades": null,
+   "tipo": "pick",
+   "fuente": "",
+   "espn_id": "761927"
+  },
+  {
+   "fecha": "2026-11-01",
+   "fecha_hora": "2026-11-01 16:30",
+   "iso": "2026-11-01T16:30:00-05:00",
+   "fecha_reporte": "2026-10-31 06:00",
+   "partido": "Grêmio vs Atlético-MG",
+   "competencia": "bra.copa_do_brazil",
+   "nivel": "media",
+   "puntos": 4,
+   "cuota": 1.72,
+   "cuota_origen": "regla",
+   "sin_apuesta": true,
+   "c2": true,
+   "minuto": "",
+   "resultado": "pendiente",
+   "unidades": null,
+   "tipo": "pick",
+   "fuente": "",
+   "espn_id": "401913109"
   },
   {
    "fecha": "2026-10-09",
