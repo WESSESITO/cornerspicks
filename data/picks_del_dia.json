@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-04 06:05",
- "generado_iso": "2026-11-04T06:05:00-05:00",
+ "generado": "2026-11-04 16:07",
+ "generado_iso": "2026-11-04T16:07:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-11-04",
  "ayer": "2026-11-03",
@@ -11,48 +11,6 @@
    "mercado": "Más de 9,5 córners totales",
    "link": "picksters-over-corners.html",
    "pendientes": [
-    {
-     "fecha": "2026-11-04",
-     "hora": "10:30",
-     "iso": "2026-11-04T10:30:00-05:00",
-     "partido": "Stade Rennais vs Olympiacos",
-     "competencia": "Europa League",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 11,50-11,50",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,50-11,50 córners (umbral: 10 o más de forma clara). ESPN (Rennes 6,4/5,2; Olympiacos 7,1/4,3) 11,5; FotMob (Rennes 6,4/5,1; Olympiacos 7,1/4,4) 11,5. Los dos generan más de 6 corners por partido, así que pasa el corte de 10 en ambas fuentes con margen holgado. Sin favorito muy claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-11-04",
-     "hora": "12:45",
-     "iso": "2026-11-04T12:45:00-05:00",
-     "partido": "Fenerbahce vs Liverpool",
-     "competencia": "Champions League",
-     "nivel": null,
-     "marcas": [
-      "favorito claro"
-     ],
-     "respaldo": "promedio 10,27-10,78",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,27-10,78 córners (umbral: 10 o más de forma clara). ESPN (Fenerbahce 4,77/5,09 en 22 partidos europeos; Liverpool 7/3,67 en 15) 10,27; FotMob (Fenerbahce 5,22/4,67 en 9; Liverpool 8,33/3,33 en 3) 10,78. Liverpool genera 7 u 8 corners por partido en Europa, así que pasa el corte de 10 en ambas fuentes, pero justo (10,27). Liverpool es favorito muy claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
     {
      "fecha": "2026-11-04",
      "hora": "17:30",
@@ -180,17 +138,60 @@
      }
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-11-04",
+     "hora": "10:30",
+     "iso": "2026-11-04T10:30:00-05:00",
+     "partido": "Stade Rennais vs Olympiacos",
+     "competencia": "Europa League",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,50-11,50",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "6 (3-3) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,50-11,50 córners (umbral: 10 o más de forma clara). ESPN (Rennes 6,4/5,2; Olympiacos 7,1/4,3) 11,5; FotMob (Rennes 6,4/5,1; Olympiacos 7,1/4,4) 11,5. Los dos generan más de 6 corners por partido, así que pasa el corte de 10 en ambas fuentes con margen holgado. Sin favorito muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-11-04",
+     "hora": "12:45",
+     "iso": "2026-11-04T12:45:00-05:00",
+     "partido": "Fenerbahce vs Liverpool",
+     "competencia": "Champions League",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 10,27-10,78",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "16 (4-12) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,27-10,78 córners (umbral: 10 o más de forma clara). ESPN (Fenerbahce 4,77/5,09 en 22 partidos europeos; Liverpool 7/3,67 en 15) 10,27; FotMob (Fenerbahce 5,22/4,67 en 9; Liverpool 8,33/3,33 en 3) 10,78. Liverpool genera 7 u 8 corners por partido en Europa, así que pasa el corte de 10 en ambas fuentes, pero justo (10,27). Liverpool es favorito muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
    "balance": {
-    "resueltas": 190,
-    "aciertos": 123,
-    "errores": 67,
-    "pct": 64.74,
-    "unidades": 6.9,
-    "roi": 3.63,
+    "resueltas": 192,
+    "aciertos": 124,
+    "errores": 68,
+    "pct": 64.58,
+    "unidades": 6.5,
+    "roi": 3.39,
     "cuota_media": 1.6,
     "total": 197,
-    "pendientes": 6,
+    "pendientes": 4,
     "otros": 1,
     "anulados": 1
    }
