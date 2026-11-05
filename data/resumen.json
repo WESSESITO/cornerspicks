@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-04 16:07",
- "generado_iso": "2026-11-04T16:07:00-05:00",
+ "generado": "2026-11-05 16:08",
+ "generado_iso": "2026-11-05T16:08:00-05:00",
  "bots": [
   {
    "bot": "corners_10min",
@@ -278,15 +278,15 @@
    "nombre": "Picksters Over Córners",
    "mercado": "Más de 9,5 córners totales en el partido",
    "resumen": {
-    "resueltas": 192,
-    "aciertos": 124,
-    "errores": 68,
-    "pct": 64.58,
-    "unidades": 6.5,
-    "roi": 3.39,
+    "resueltas": 198,
+    "aciertos": 128,
+    "errores": 70,
+    "pct": 64.65,
+    "unidades": 6.9,
+    "roi": 3.48,
     "cuota_media": 1.6,
-    "total": 197,
-    "pendientes": 4,
+    "total": 204,
+    "pendientes": 5,
     "otros": 1,
     "anulados": 1
    },
@@ -573,17 +573,27 @@
     },
     {
      "fecha": "2026-11-04",
+     "dia_picks": 6,
+     "dia_aciertos": 3,
+     "dia_unidades": -1.2,
+     "acum_resueltas": 196,
+     "acum_aciertos": 126,
+     "acum_pct": 64.29,
+     "acum_unidades": 5.7
+    },
+    {
+     "fecha": "2026-11-05",
      "dia_picks": 2,
-     "dia_aciertos": 1,
-     "dia_unidades": -0.4,
-     "acum_resueltas": 192,
-     "acum_aciertos": 124,
-     "acum_pct": 64.58,
-     "acum_unidades": 6.5
+     "dia_aciertos": 2,
+     "dia_unidades": 1.2,
+     "acum_resueltas": 198,
+     "acum_aciertos": 128,
+     "acum_pct": 64.65,
+     "acum_unidades": 6.9
     }
    ],
    "desde": "2026-10-07",
-   "hasta": "2026-11-04"
+   "hasta": "2026-11-05"
   },
   {
    "bot": "corners_vivo",
