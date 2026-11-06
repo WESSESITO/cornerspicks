@@ -2,8 +2,8 @@
  "bot": "corners_10min",
  "nombre": "Bot Corners 10 Minutos",
  "mercado": "Al menos 1 córner antes del minuto 10 (0:00–9:59)",
- "generado": "2026-11-06 10:51",
- "generado_iso": "2026-11-06T10:51:00-05:00",
+ "generado": "2026-11-06 16:09",
+ "generado_iso": "2026-11-06T16:09:00-05:00",
  "fuente_csv": "site-data/corners_10min.csv",
  "resumen": {
   "resueltas": 156,

@@ -2,8 +2,8 @@
  "bot": "over_corners",
  "nombre": "Picksters Over Córners",
  "mercado": "Más de 9,5 córners totales en el partido",
- "generado": "2026-11-06 10:51",
- "generado_iso": "2026-11-06T10:51:00-05:00",
+ "generado": "2026-11-06 16:09",
+ "generado_iso": "2026-11-06T16:09:00-05:00",
  "fuente_csv": "site-data/over_corners.csv",
  "breakeven": 62.5,
  "vigilancia": [
@@ -18,8 +18,8 @@
   "unidades": 5.1,
   "roi": 2.51,
   "cuota_media": 1.6,
-  "total": 207,
-  "pendientes": 3,
+  "total": 211,
+  "pendientes": 7,
   "otros": 1,
   "anulados": 1
  },
@@ -75,8 +75,8 @@
    "unidades": 1.2,
    "roi": 4.62,
    "cuota_media": 1.6,
-   "total": 26,
-   "pendientes": 0,
+   "total": 28,
+   "pendientes": 2,
    "otros": 0,
    "vigilancia": false
   },
@@ -117,8 +117,8 @@
    "unidades": 1.2,
    "roi": 12.0,
    "cuota_media": 1.6,
-   "total": 11,
-   "pendientes": 0,
+   "total": 12,
+   "pendientes": 1,
    "otros": 1,
    "vigilancia": false
   },
@@ -145,8 +145,8 @@
    "unidades": 1.0,
    "roi": 14.29,
    "cuota_media": 1.6,
-   "total": 7,
-   "pendientes": 0,
+   "total": 8,
+   "pendientes": 1,
    "otros": 0,
    "vigilancia": false
   },
@@ -189,8 +189,8 @@
    "unidades": 8.6,
    "roi": 26.06,
    "cuota_media": 1.6,
-   "total": 33,
-   "pendientes": 0,
+   "total": 35,
+   "pendientes": 2,
    "otros": 0
   },
   {
@@ -202,8 +202,8 @@
    "unidades": -5.8,
    "roi": -5.13,
    "cuota_media": 1.6,
-   "total": 116,
-   "pendientes": 3,
+   "total": 118,
+   "pendientes": 5,
    "otros": 0
   },
   {
@@ -525,7 +525,11 @@
  "pendientes_lista": [
   "Atlético de San Luis vs FC Juárez",
   "Necaxa vs Tijuana",
-  "Atlante vs Santos"
+  "Atlante vs Santos",
+  "Málaga vs Racing Santander",
+  "Cagliari vs Frosinone",
+  "Borussia Dortmund vs SV Elversberg",
+  "RB Leipzig vs FC Augsburg"
  ],
  "avisos": [],
  "picks": [
@@ -4461,6 +4465,82 @@
    "vigilancia": false,
    "resumen": "ESPN (Atlante 6/4,5; Santos 7,7/4,8) 11,5; FotMob (Atlante 6/4,5; Santos 7,6/4,8) 11,45. Santos genera 7,6 a 7,7 corners por partido y Atlante genera 6, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes con margen holgado. Sin favorito muy claro.",
    "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos 10 partidos oficiales (sin amistosos) de Liga MX; contrastado ESPN y FotMob (2026-11-06 06:00). Viernes: regla general (Liga MX piso ≥ 10,5). Stake sugerido: 1,5 u (piso 11,0–11,49). Favorito muy claro: no (Atlante 2.15 / empate 3.75 / Santos 3.05, una casa de apuestas)."
+  },
+  {
+   "fecha": "2026-11-07",
+   "hora": "08:00",
+   "iso": "2026-11-07T08:00:00-05:00",
+   "partido": "Málaga vs Racing Santander",
+   "competencia": "LaLiga",
+   "promedio": "11.15-11.15",
+   "linea": "Más de 9.5 corners",
+   "corners": "",
+   "corners_total": null,
+   "resultado": "pendiente",
+   "cuota": 1.6,
+   "cuota_estimada": true,
+   "unidades": null,
+   "favorito_claro": "no",
+   "vigilancia": false,
+   "resumen": "ESPN (Málaga 5,4/5,1; Racing 5,2/6,6) 11,15; FotMob (mismos valores) 11,15. Racing concede 6,6 corners por partido y Málaga genera y concede más de 5, así que pasa el corte de sábado (≥ 11) en ambas fuentes con margen justo. Sin favorito muy claro.",
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos 10 partidos oficiales (sin amistosos) liga + copas + Europa; contrastado ESPN y FotMob (2026-11-06 16:00). Sábado: piso ≥ 11 en todas las ligas. Stake sugerido: 1,5 u (piso 11,0–11,49). Favorito muy claro: no (Málaga 2.40 / empate 3.55 / Racing 2.85, una casa de apuestas)."
+  },
+  {
+   "fecha": "2026-11-07",
+   "hora": "09:00",
+   "iso": "2026-11-07T09:00:00-05:00",
+   "partido": "Cagliari vs Frosinone",
+   "competencia": "Serie A",
+   "promedio": "11.35-11.35",
+   "linea": "Más de 9.5 corners",
+   "corners": "",
+   "corners_total": null,
+   "resultado": "pendiente",
+   "cuota": 1.6,
+   "cuota_estimada": true,
+   "unidades": null,
+   "favorito_claro": "no",
+   "vigilancia": false,
+   "resumen": "ESPN (Cagliari 4,3/5,8; Frosinone 6,6/6,0) 11,35; FotMob (mismos valores) 11,35. Frosinone genera 6,6 y concede 6 corners por partido, y Cagliari concede 5,8, así que pasa el corte de sábado (≥ 11) en ambas fuentes con margen holgado. Sin favorito muy claro.",
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos 10 partidos oficiales (sin amistosos) liga + copas + Europa; contrastado ESPN y FotMob (2026-11-06 16:00). Sábado: piso ≥ 11 en todas las ligas. Stake sugerido: 1,5 u (piso 11,0–11,49). Favorito muy claro: no (Cagliari 2.70 / empate 3.60 / Frosinone 2.30, una casa de apuestas)."
+  },
+  {
+   "fecha": "2026-11-07",
+   "hora": "09:30",
+   "iso": "2026-11-07T09:30:00-05:00",
+   "partido": "Borussia Dortmund vs SV Elversberg",
+   "competencia": "Bundesliga",
+   "promedio": "11.15-11.20",
+   "linea": "Más de 9.5 corners",
+   "corners": "",
+   "corners_total": null,
+   "resultado": "pendiente",
+   "cuota": 1.6,
+   "cuota_estimada": true,
+   "unidades": null,
+   "favorito_claro": "sí",
+   "vigilancia": false,
+   "resumen": "ESPN (Dortmund 6,3/3,9; Elversberg 5,4/6,8) 11,2; FotMob (Dortmund 6,2/3,9; Elversberg 5,4/6,8) 11,15. Elversberg concede 6,8 corners por partido y Dortmund genera más de 6, así que pasa el corte de sábado (≥ 11) en ambas fuentes con margen justo. Dortmund es favorito muy claro.",
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos 10 partidos oficiales (sin amistosos) liga + copas + Europa; contrastado ESPN y FotMob (2026-11-06 16:00). Sábado: piso ≥ 11 en todas las ligas. Stake sugerido: 1,5 u (piso 11,0–11,49). Favorito muy claro: sí (Dortmund 1.29 / empate 5.75 / Elversberg 7.50, una casa de apuestas)."
+  },
+  {
+   "fecha": "2026-11-07",
+   "hora": "09:30",
+   "iso": "2026-11-07T09:30:00-05:00",
+   "partido": "RB Leipzig vs FC Augsburg",
+   "competencia": "Bundesliga",
+   "promedio": "11.25-11.35",
+   "linea": "Más de 9.5 corners",
+   "corners": "",
+   "corners_total": null,
+   "resultado": "pendiente",
+   "cuota": 1.6,
+   "cuota_estimada": true,
+   "unidades": null,
+   "favorito_claro": "sí",
+   "vigilancia": false,
+   "resumen": "ESPN (Leipzig 5,0/7,0; Augsburg 5,3/5,4) 11,35; FotMob (Leipzig 4,9/6,9; Augsburg 5,3/5,4) 11,25. Leipzig concede cerca de 7 corners por partido y ambos generan más de 4,9, así que pasa el corte de sábado (≥ 11) en ambas fuentes con margen holgado. Leipzig es favorito muy claro.",
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos 10 partidos oficiales (sin amistosos) liga + copas + Europa; contrastado ESPN y FotMob (2026-11-06 16:00). Sábado: piso ≥ 11 en todas las ligas. Stake sugerido: 1,5 u (piso 11,0–11,49). Favorito muy claro: sí (Leipzig 1.44 / empate 5.00 / Augsburg 5.25, una casa de apuestas)."
   }
  ]
 }
