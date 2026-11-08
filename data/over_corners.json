@@ -2,8 +2,8 @@
  "bot": "over_corners",
  "nombre": "Picksters Over Córners",
  "mercado": "Más de 9,5 córners totales en el partido",
- "generado": "2026-11-08 06:12",
- "generado_iso": "2026-11-08T06:12:00-05:00",
+ "generado": "2026-11-08 16:02",
+ "generado_iso": "2026-11-08T16:02:00-05:00",
  "fuente_csv": "site-data/over_corners.csv",
  "breakeven": 62.5,
  "vigilancia": [
@@ -11,15 +11,15 @@
   "Liga Argentina"
  ],
  "resumen": {
-  "resueltas": 214,
-  "aciertos": 136,
+  "resueltas": 215,
+  "aciertos": 137,
   "errores": 78,
-  "pct": 63.55,
-  "unidades": 3.7,
-  "roi": 1.73,
+  "pct": 63.72,
+  "unidades": 4.3,
+  "roi": 2.0,
   "cuota_media": 1.6,
   "total": 218,
-  "pendientes": 3,
+  "pendientes": 2,
   "otros": 1,
   "anulados": 1
  },
@@ -110,15 +110,15 @@
   },
   {
    "grupo": "LaLiga",
-   "resueltas": 11,
-   "aciertos": 7,
+   "resueltas": 12,
+   "aciertos": 8,
    "errores": 4,
-   "pct": 63.64,
-   "unidades": 0.2,
-   "roi": 1.82,
+   "pct": 66.67,
+   "unidades": 0.8,
+   "roi": 6.67,
    "cuota_media": 1.6,
    "total": 13,
-   "pendientes": 1,
+   "pendientes": 0,
    "otros": 1,
    "vigilancia": false
   },
@@ -195,15 +195,15 @@
   },
   {
    "grupo": "no",
-   "resueltas": 122,
-   "aciertos": 72,
+   "resueltas": 123,
+   "aciertos": 73,
    "errores": 50,
-   "pct": 59.02,
-   "unidades": -6.8,
-   "roi": -5.57,
+   "pct": 59.35,
+   "unidades": -6.2,
+   "roi": -5.04,
    "cuota_media": 1.6,
    "total": 125,
-   "pendientes": 3,
+   "pendientes": 2,
    "otros": 0
   },
   {
@@ -540,10 +540,19 @@
    "acum_aciertos": 136,
    "acum_pct": 63.55,
    "acum_unidades": 3.7
+  },
+  {
+   "fecha": "2026-11-08",
+   "dia_picks": 1,
+   "dia_aciertos": 1,
+   "dia_unidades": 0.6,
+   "acum_resueltas": 215,
+   "acum_aciertos": 137,
+   "acum_pct": 63.72,
+   "acum_unidades": 4.3
   }
  ],
  "pendientes_lista": [
-  "Real Sociedad vs Rayo Vallecano",
   "Querétaro vs Puebla",
   "León vs Guadalajara"
  ],
@@ -4642,16 +4651,16 @@
    "competencia": "LaLiga",
    "promedio": "11.25-11.30",
    "linea": "Más de 9.5 corners",
-   "corners": "",
-   "corners_total": null,
-   "resultado": "pendiente",
+   "corners": "13 (7-6)",
+   "corners_total": 13,
+   "resultado": "acierto",
    "cuota": 1.6,
    "cuota_estimada": true,
-   "unidades": null,
+   "unidades": 0.6,
    "favorito_claro": "no",
    "vigilancia": false,
    "resumen": "ESPN (Real Sociedad 5,7/4,8; Rayo 6,5/5,6) 11,30; FotMob (Real Sociedad 5,6/4,8; Rayo 6,5/5,6) 11,25. Rayo genera 6,5 y concede 5,6 corners por partido, y la Real Sociedad genera más de 5,5, así que pasa el corte de domingo (≥ 11) en ambas fuentes con margen justo. Real Sociedad es favorita, pero no muy clara.",
-   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos 10 partidos oficiales (sin amistosos) liga + copas + Europa; contrastado ESPN y FotMob (2026-11-08 06:00). Domingo: piso ≥ 11 en todas las ligas. Stake sugerido: 1,5 u (piso 11,0–11,49). Favorito muy claro: no (Real Sociedad 1.80 / empate 4.00 / Rayo 4.10, una casa de apuestas)."
+   "notas": "Promedio = esperado combinado (corners a favor + concedidos de ambos), últimos 10 partidos oficiales (sin amistosos) liga + copas + Europa; contrastado ESPN y FotMob (2026-11-08 06:00). Domingo: piso ≥ 11 en todas las ligas. Stake sugerido: 1,5 u (piso 11,0–11,49). Favorito muy claro: no (Real Sociedad 1.80 / empate 4.00 / Rayo 4.10, una casa de apuestas). | Cerrado 16:00 08-nov: final 1-0; corners 7-6=13 según ESPN y FotMob (coinciden)."
   },
   {
    "fecha": "2026-11-08",

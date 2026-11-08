@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-08 06:12",
- "generado_iso": "2026-11-08T06:12:00-05:00",
+ "generado": "2026-11-08 16:02",
+ "generado_iso": "2026-11-08T16:02:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-11-08",
  "ayer": "2026-11-07",
@@ -11,26 +11,6 @@
    "mercado": "Más de 9,5 córners totales",
    "link": "picksters-over-corners.html",
    "pendientes": [
-    {
-     "fecha": "2026-11-08",
-     "hora": "10:15",
-     "iso": "2026-11-08T10:15:00-05:00",
-     "partido": "Real Sociedad vs Rayo Vallecano",
-     "competencia": "LaLiga",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 11,25-11,30",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,25-11,30 córners (umbral: 10 o más de forma clara). ESPN (Real Sociedad 5,7/4,8; Rayo 6,5/5,6) 11,30; FotMob (Real Sociedad 5,6/4,8; Rayo 6,5/5,6) 11,25. Rayo genera 6,5 y concede 5,6 corners por partido, y la Real Sociedad genera más de 5,5, así que pasa el corte de domingo (≥ 11) en ambas fuentes con margen justo. Real Sociedad es favorita, pero no muy clara.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
     {
      "fecha": "2026-11-08",
      "hora": "19:00",
@@ -238,17 +218,38 @@
      }
     }
    ],
-   "hoy_cerradas": [],
+   "hoy_cerradas": [
+    {
+     "fecha": "2026-11-08",
+     "hora": "10:15",
+     "iso": "2026-11-08T10:15:00-05:00",
+     "partido": "Real Sociedad vs Rayo Vallecano",
+     "competencia": "LaLiga",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,25-11,30",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "13 (7-6) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,25-11,30 córners (umbral: 10 o más de forma clara). ESPN (Real Sociedad 5,7/4,8; Rayo 6,5/5,6) 11,30; FotMob (Real Sociedad 5,6/4,8; Rayo 6,5/5,6) 11,25. Rayo genera 6,5 y concede 5,6 corners por partido, y la Real Sociedad genera más de 5,5, así que pasa el corte de domingo (≥ 11) en ambas fuentes con margen justo. Real Sociedad es favorita, pero no muy clara.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
    "balance": {
-    "resueltas": 214,
-    "aciertos": 136,
+    "resueltas": 215,
+    "aciertos": 137,
     "errores": 78,
-    "pct": 63.55,
-    "unidades": 3.7,
-    "roi": 1.73,
+    "pct": 63.72,
+    "unidades": 4.3,
+    "roi": 2.0,
     "cuota_media": 1.6,
     "total": 218,
-    "pendientes": 3,
+    "pendientes": 2,
     "otros": 1,
     "anulados": 1
    }
