@@ -1,9 +1,9 @@
 {
- "generado": "2026-11-07 16:12",
- "generado_iso": "2026-11-07T16:12:00-05:00",
+ "generado": "2026-11-08 06:12",
+ "generado_iso": "2026-11-08T06:12:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
- "hoy": "2026-11-07",
- "ayer": "2026-11-06",
+ "hoy": "2026-11-08",
+ "ayer": "2026-11-07",
  "bots": [
   {
    "bot": "over_corners",
@@ -12,109 +12,67 @@
    "link": "picksters-over-corners.html",
    "pendientes": [
     {
-     "fecha": "2026-11-07",
-     "hora": "20:00",
-     "iso": "2026-11-07T20:00:00-05:00",
-     "partido": "Tigres UANL vs Cruz Azul",
-     "competencia": "Liga MX",
+     "fecha": "2026-11-08",
+     "hora": "10:15",
+     "iso": "2026-11-08T10:15:00-05:00",
+     "partido": "Real Sociedad vs Rayo Vallecano",
+     "competencia": "LaLiga",
      "nivel": null,
      "marcas": [],
-     "respaldo": "promedio 11,14-11,35",
+     "respaldo": "promedio 11,25-11,30",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
      "ya_empezo": false,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
-      "texto": "Promedio combinado del filtro: 11,14-11,35 córners (umbral: 10 o más de forma clara). QueroStats (Tigres 7,2/4,8; Cruz Azul 5,9/5,6) 11,35; Futbor (Tigres 6,73/4,4; Cruz Azul 5,87/5,27) 11,14; APWin totales 11,13–11,14. Ambos equipos promedian más de 11 corners por partido, así que pasa el corte de sábado (≥ 11) con margen justo. Sin favorito muy claro.",
+      "texto": "Promedio combinado del filtro: 11,25-11,30 córners (umbral: 10 o más de forma clara). ESPN (Real Sociedad 5,7/4,8; Rayo 6,5/5,6) 11,30; FotMob (Real Sociedad 5,6/4,8; Rayo 6,5/5,6) 11,25. Rayo genera 6,5 y concede 5,6 corners por partido, y la Real Sociedad genera más de 5,5, así que pasa el corte de domingo (≥ 11) en ambas fuentes con margen justo. Real Sociedad es favorita, pero no muy clara.",
       "detalle": "",
       "origen": "bot"
      }
     },
     {
-     "fecha": "2026-11-07",
-     "hora": "20:00",
-     "iso": "2026-11-07T20:00:00-05:00",
-     "partido": "Toluca vs Monterrey",
+     "fecha": "2026-11-08",
+     "hora": "19:00",
+     "iso": "2026-11-08T19:00:00-05:00",
+     "partido": "Querétaro vs Puebla",
      "competencia": "Liga MX",
      "nivel": null,
      "marcas": [],
-     "respaldo": "promedio 11,04-11,05",
+     "respaldo": "promedio 11,55-11,55",
      "cuota": "1,60 (promedio)",
      "sin_apuesta": false,
      "ya_empezo": false,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
-      "texto": "Promedio combinado del filtro: 11,04-11,05 córners (umbral: 10 o más de forma clara). QueroStats (Toluca 7,1/5,1; Monterrey 6,6/3,6) 11,05; APWin (Toluca 12,14; Monterrey 9,93) combina 11,04. Toluca genera 7,1 corners y Monterrey concede poco (3,6), pero el total combinado aún supera el corte de sábado (≥ 11) con margen mínimo. Toluca es favorito, pero no muy claro.",
+      "texto": "Promedio combinado del filtro: 11,55-11,55 córners (umbral: 10 o más de forma clara). ESPN (Querétaro 5,4/6,2; Puebla 4,6/6,9) 11,55; FotMob (Querétaro 5,4/6,3; Puebla 4,6/6,8) 11,55. Los dos conceden más de 6 corners por partido (Puebla 6,9), así que pasa el corte de domingo (≥ 11) en ambas fuentes con margen holgado. Querétaro es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-11-08",
+     "hora": "21:10",
+     "iso": "2026-11-08T21:10:00-05:00",
+     "partido": "León vs Guadalajara",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,05-11,30",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,05-11,30 córners (umbral: 10 o más de forma clara). ESPN (León 3,9/5,9; Chivas 6,8/5,5) 11,05; FotMob (León 3,8/6,4; Chivas 6,9/5,5) 11,30. Chivas genera cerca de 7 corners por partido y León concede alrededor de 6, así que pasa el corte de domingo (≥ 11) con margen mínimo en ESPN. Sin favorito muy claro (Chivas leve).",
       "detalle": "",
       "origen": "bot"
      }
     }
    ],
    "ayer": [
-    {
-     "fecha": "2026-11-06",
-     "hora": "20:00",
-     "iso": "2026-11-06T20:00:00-05:00",
-     "partido": "Atlético de San Luis vs FC Juárez",
-     "competencia": "Liga MX",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 10,65-10,65",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "11 (8-3) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 10,65-10,65 córners (umbral: 10 o más de forma clara). ESPN (San Luis 3,2/6,9; Juárez 4,8/6,4) 10,65; FotMob (mismos valores) 10,65. Los dos conceden más de 6 corners por partido, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes, con margen justo. San Luis es favorito, pero no muy claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-11-06",
-     "hora": "20:00",
-     "iso": "2026-11-06T20:00:00-05:00",
-     "partido": "Necaxa vs Tijuana",
-     "competencia": "Liga MX",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 12,60-12,65",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "acierto",
-     "detalle": "11 (5-6) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 12,60-12,65 córners (umbral: 10 o más de forma clara). ESPN (Necaxa 5,7/6,2; Tijuana 5,2/8,2) 12,65; FotMob (Necaxa 5,7/6,2; Tijuana 5,1/8,2) 12,6. Tijuana concede 8,2 corners por partido y Necaxa genera y concede más de 5, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes con margen muy holgado. Sin favorito muy claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    },
-    {
-     "fecha": "2026-11-06",
-     "hora": "22:00",
-     "iso": "2026-11-06T22:00:00-05:00",
-     "partido": "Atlante vs Santos",
-     "competencia": "Liga MX",
-     "nivel": null,
-     "marcas": [],
-     "respaldo": "promedio 11,45-11,50",
-     "cuota": "1,60 (promedio)",
-     "sin_apuesta": false,
-     "ya_empezo": true,
-     "resultado": "error",
-     "detalle": "9 (3-6) córners",
-     "argumento": {
-      "texto": "Promedio combinado del filtro: 11,45-11,50 córners (umbral: 10 o más de forma clara). ESPN (Atlante 6/4,5; Santos 7,7/4,8) 11,5; FotMob (Atlante 6/4,5; Santos 7,6/4,8) 11,45. Santos genera 7,6 a 7,7 corners por partido y Atlante genera 6, así que pasa el corte de 10,5 de la Liga MX en ambas fuentes con margen holgado. Sin favorito muy claro.",
-      "detalle": "",
-      "origen": "bot"
-     }
-    }
-   ],
-   "hoy_cerradas": [
     {
      "fecha": "2026-11-07",
      "hora": "08:00",
@@ -238,18 +196,59 @@
       "detalle": "",
       "origen": "bot"
      }
+    },
+    {
+     "fecha": "2026-11-07",
+     "hora": "20:00",
+     "iso": "2026-11-07T20:00:00-05:00",
+     "partido": "Tigres UANL vs Cruz Azul",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,14-11,35",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "14 (10-4) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,14-11,35 córners (umbral: 10 o más de forma clara). QueroStats (Tigres 7,2/4,8; Cruz Azul 5,9/5,6) 11,35; Futbor (Tigres 6,73/4,4; Cruz Azul 5,87/5,27) 11,14; APWin totales 11,13–11,14. Ambos equipos promedian más de 11 corners por partido, así que pasa el corte de sábado (≥ 11) con margen justo. Sin favorito muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-11-07",
+     "hora": "20:00",
+     "iso": "2026-11-07T20:00:00-05:00",
+     "partido": "Toluca vs Monterrey",
+     "competencia": "Liga MX",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 11,04-11,05",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "12 (6-6) córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,04-11,05 córners (umbral: 10 o más de forma clara). QueroStats (Toluca 7,1/5,1; Monterrey 6,6/3,6) 11,05; APWin (Toluca 12,14; Monterrey 9,93) combina 11,04. Toluca genera 7,1 corners y Monterrey concede poco (3,6), pero el total combinado aún supera el corte de sábado (≥ 11) con margen mínimo. Toluca es favorito, pero no muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
     }
    ],
+   "hoy_cerradas": [],
    "balance": {
-    "resueltas": 212,
-    "aciertos": 134,
+    "resueltas": 214,
+    "aciertos": 136,
     "errores": 78,
-    "pct": 63.21,
-    "unidades": 2.5,
-    "roi": 1.18,
+    "pct": 63.55,
+    "unidades": 3.7,
+    "roi": 1.73,
     "cuota_media": 1.6,
-    "total": 215,
-    "pendientes": 2,
+    "total": 218,
+    "pendientes": 3,
     "otros": 1,
     "anulados": 1
    }
