@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-09 16:54",
- "generado_iso": "2026-11-09T16:54:00-05:00",
+ "generado": "2026-11-09 17:05",
+ "generado_iso": "2026-11-09T17:05:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
  "hoy": "2026-11-09",
  "ayer": "2026-11-08",
@@ -230,14 +230,14 @@
     "aciertos": 15,
     "errores": 8,
     "pct": 65.22,
-    "unidades": 4.46,
-    "roi": 21.24,
-    "cuota_media": 2.08,
+    "unidades": 6.91,
+    "roi": 30.04,
+    "cuota_media": 2.09,
     "total": 23,
     "pendientes": 0,
     "otros": 0,
-    "con_cuota": 21,
-    "sin_cuota": 2
+    "con_cuota": 23,
+    "sin_cuota": 0
    }
   }
  ]

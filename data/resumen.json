@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-09 16:54",
- "generado_iso": "2026-11-09T16:54:00-05:00",
+ "generado": "2026-11-09 17:05",
+ "generado_iso": "2026-11-09T17:05:00-05:00",
  "bots": [
   {
    "bot": "over_corners",
@@ -365,14 +365,14 @@
     "aciertos": 15,
     "errores": 8,
     "pct": 65.22,
-    "unidades": 4.46,
-    "roi": 21.24,
-    "cuota_media": 2.08,
+    "unidades": 6.91,
+    "roi": 30.04,
+    "cuota_media": 2.09,
     "total": 23,
     "pendientes": 0,
     "otros": 0,
-    "con_cuota": 21,
-    "sin_cuota": 2
+    "con_cuota": 23,
+    "sin_cuota": 0
    },
    "serie": [
     {
@@ -449,11 +449,11 @@
      "fecha": "2026-11-04",
      "dia_picks": 2,
      "dia_aciertos": 2,
-     "dia_unidades": 0.0,
+     "dia_unidades": 2.45,
      "acum_resueltas": 17,
      "acum_aciertos": 11,
      "acum_pct": 64.71,
-     "acum_unidades": 3.37
+     "acum_unidades": 5.82
     },
     {
      "fecha": "2026-11-05",
@@ -463,7 +463,7 @@
      "acum_resueltas": 19,
      "acum_aciertos": 11,
      "acum_pct": 57.89,
-     "acum_unidades": 1.37
+     "acum_unidades": 3.82
     },
     {
      "fecha": "2026-11-07",
@@ -473,7 +473,7 @@
      "acum_resueltas": 21,
      "acum_aciertos": 13,
      "acum_pct": 61.9,
-     "acum_unidades": 2.89
+     "acum_unidades": 5.34
     },
     {
      "fecha": "2026-11-08",
@@ -483,7 +483,7 @@
      "acum_resueltas": 23,
      "acum_aciertos": 15,
      "acum_pct": 65.22,
-     "acum_unidades": 4.46
+     "acum_unidades": 6.91
     }
    ],
    "desde": "2026-10-27",
