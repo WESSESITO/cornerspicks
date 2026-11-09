@@ -2,8 +2,8 @@
  "bot": "parley_picks",
  "nombre": "Parley Picks",
  "mercado": "Parley diario de fútbol (3 a 4 selecciones): resultado, ambos marcan, doble oportunidad o total de goles",
- "generado": "2026-11-09 17:05",
- "generado_iso": "2026-11-09T17:05:00-05:00",
+ "generado": "2026-11-09 17:13",
+ "generado_iso": "2026-11-09T17:13:00-05:00",
  "fuente_csv": "site-data/parley_picks.csv",
  "fuente_drive": "site-data/parley_picks_drive.csv",
  "resumen": {
@@ -11,9 +11,9 @@
   "aciertos": 15,
   "errores": 8,
   "pct": 65.22,
-  "unidades": 6.91,
-  "roi": 30.04,
-  "cuota_media": 2.09,
+  "unidades": 7.36,
+  "roi": 32.0,
+  "cuota_media": 2.11,
   "total": 23,
   "pendientes": 0,
   "otros": 0,
@@ -27,7 +27,7 @@
   "pct": 83.33,
   "unidades": 0.0,
   "roi": null,
-  "cuota_media": 1.3,
+  "cuota_media": 1.32,
   "total": 60,
   "pendientes": 0,
   "otros": 0,
@@ -41,9 +41,9 @@
    "aciertos": 6,
    "errores": 5,
    "pct": 54.55,
-   "unidades": 5.26,
-   "roi": 47.82,
-   "cuota_media": 2.72,
+   "unidades": 5.58,
+   "roi": 50.73,
+   "cuota_media": 2.75,
    "total": 11,
    "pendientes": 0,
    "otros": 0,
@@ -56,9 +56,9 @@
    "aciertos": 8,
    "errores": 3,
    "pct": 72.73,
-   "unidades": 0.9,
-   "roi": 8.18,
-   "cuota_media": 1.5,
+   "unidades": 1.03,
+   "roi": 9.36,
+   "cuota_media": 1.51,
    "total": 11,
    "pendientes": 0,
    "otros": 0,
@@ -90,7 +90,7 @@
    "pct": 86.96,
    "unidades": 0.0,
    "roi": null,
-   "cuota_media": 1.26,
+   "cuota_media": 1.28,
    "total": 23,
    "pendientes": 0,
    "otros": 0,
@@ -120,7 +120,7 @@
    "pct": 91.67,
    "unidades": 0.0,
    "roi": null,
-   "cuota_media": 1.21,
+   "cuota_media": 1.23,
    "total": 12,
    "pendientes": 0,
    "otros": 0,
@@ -135,7 +135,7 @@
    "pct": 63.64,
    "unidades": 0.0,
    "roi": null,
-   "cuota_media": 1.48,
+   "cuota_media": 1.5,
    "total": 11,
    "pendientes": 0,
    "otros": 0,
@@ -148,11 +148,11 @@
    "fecha": "2026-10-27",
    "dia_picks": 2,
    "dia_aciertos": 2,
-   "dia_unidades": 2.6,
+   "dia_unidades": 3.05,
    "acum_resueltas": 2,
    "acum_aciertos": 2,
    "acum_pct": 100.0,
-   "acum_unidades": 2.6
+   "acum_unidades": 3.05
   },
   {
    "fecha": "2026-10-28",
@@ -162,7 +162,7 @@
    "acum_resueltas": 4,
    "acum_aciertos": 4,
    "acum_pct": 100.0,
-   "acum_unidades": 5.68
+   "acum_unidades": 6.13
   },
   {
    "fecha": "2026-10-29",
@@ -172,7 +172,7 @@
    "acum_resueltas": 6,
    "acum_aciertos": 6,
    "acum_pct": 100.0,
-   "acum_unidades": 7.84
+   "acum_unidades": 8.29
   },
   {
    "fecha": "2026-10-31",
@@ -182,7 +182,7 @@
    "acum_resueltas": 8,
    "acum_aciertos": 7,
    "acum_pct": 87.5,
-   "acum_unidades": 7.25
+   "acum_unidades": 7.7
   },
   {
    "fecha": "2026-11-01",
@@ -192,7 +192,7 @@
    "acum_resueltas": 10,
    "acum_aciertos": 8,
    "acum_pct": 80.0,
-   "acum_unidades": 6.62
+   "acum_unidades": 7.07
   },
   {
    "fecha": "2026-11-02",
@@ -202,7 +202,7 @@
    "acum_resueltas": 12,
    "acum_aciertos": 8,
    "acum_pct": 66.67,
-   "acum_unidades": 4.62
+   "acum_unidades": 5.07
   },
   {
    "fecha": "2026-11-03",
@@ -212,7 +212,7 @@
    "acum_resueltas": 15,
    "acum_aciertos": 9,
    "acum_pct": 60.0,
-   "acum_unidades": 3.37
+   "acum_unidades": 3.82
   },
   {
    "fecha": "2026-11-04",
@@ -222,7 +222,7 @@
    "acum_resueltas": 17,
    "acum_aciertos": 11,
    "acum_pct": 64.71,
-   "acum_unidades": 5.82
+   "acum_unidades": 6.27
   },
   {
    "fecha": "2026-11-05",
@@ -232,7 +232,7 @@
    "acum_resueltas": 19,
    "acum_aciertos": 11,
    "acum_pct": 57.89,
-   "acum_unidades": 3.82
+   "acum_unidades": 4.27
   },
   {
    "fecha": "2026-11-07",
@@ -242,7 +242,7 @@
    "acum_resueltas": 21,
    "acum_aciertos": 13,
    "acum_pct": 61.9,
-   "acum_unidades": 5.34
+   "acum_unidades": 5.79
   },
   {
    "fecha": "2026-11-08",
@@ -252,13 +252,13 @@
    "acum_resueltas": 23,
    "acum_aciertos": 15,
    "acum_pct": 65.22,
-   "acum_unidades": 6.91
+   "acum_unidades": 7.36
   }
  ],
  "pendientes_lista": [],
  "avisos": [
-  "2026-10-27 P1 (principal): sin cuota combinada en el CSV del bot; se usa 2,85 de la hoja de Drive (límite inferior del rango aproximado que documenta esa hoja)",
-  "2026-10-27 P2 (conservador): sin cuota combinada en el CSV del bot; se usa 1,75 de la hoja de Drive (límite inferior del rango aproximado que documenta esa hoja)"
+  "2026-10-27 P1: cuota del CSV 3.17 ≠ Drive 2.85; se usa el CSV",
+  "2026-10-27 P2: cuota del CSV 1.88 ≠ Drive 1.75; se usa el CSV"
  ],
  "picks": [
   {
@@ -271,53 +271,53 @@
    "partido": "Parley principal (P1) · 3 selecciones",
    "competencia": "Serie A",
    "n_selecciones": 3,
-   "cuota": 2.85,
+   "cuota": 3.17,
    "cuota_registrada": true,
-   "cuota_origen": "drive_limite_inferior",
+   "cuota_origen": "csv",
    "resultado": "acierto",
-   "unidades": 1.85,
+   "unidades": 2.17,
    "selecciones": [
     {
      "partido": "Roma vs Cagliari",
      "competencia": "Serie A",
      "seleccion": "Roma gana",
      "mercado": "1X2",
-     "cuota": 1.22,
+     "cuota": 1.41,
      "resultado_partido": "4-2",
      "estado": "acierto",
      "hora": null,
      "iso": null,
-     "notas": "cuota total aprox 2.85-3.00 (cuotas individuales no registradas salvo Roma)"
+     "notas": "dicha 1.22 una casa de apuestas NO verificada (mercado real ~1.36-1.45). Verificado: una casa de apuestas 1.41 https://verdict.football/predictions/italy/serie-a/as-roma-vs-cagliari-2026-10-27/ ; una casa de apuestas (IT) 1.43 https://sportspicklab.com/football/serie-a/as-roma-vs-cagliari-calcio-2026-10-28 ; una casa de apuestas cierre 1.42 https://betarchives.com/match/roma-vs-cagliari-2026-10-27 ; una casa de apuestas cierre 1.45 (Oddsbunch) https://oddsbunch.com/en/match/1552312 ; odds.directory cierre 1.36 https://odds.directory/en/football/italy/serie-a/as-roma-vs-cagliari-calcio-2026-10-27/ . Resultado 4-2. Combinada P1=3.17 P2=1.88 con BTTS una casa de apuestas 1.69 y X2 OddStorm mejor 1.33. Drive mín. 2.85/1.75 usaba la 1.22 errónea."
     },
     {
      "partido": "Torino vs Como",
      "competencia": "Serie A",
      "seleccion": "Ambos marcan: Sí",
      "mercado": "BTTS",
-     "cuota": null,
+     "cuota": 1.69,
      "resultado_partido": "1-3",
      "estado": "acierto",
      "hora": null,
      "iso": null,
-     "notas": ""
+     "notas": "verificado una casa de apuestas BTTS Sí 1.69 https://verdict.football/predictions/italy/serie-a/torino-vs-como-2026-10-27/ ; odds.directory cierre 1.70 https://odds.directory/en/football/italy/serie-a/torino-fc-vs-como-1907-2026-10-27/ ; bookmakers.market cierre ~1.68 (una casa de apuestas) https://bookmakers.market/football/italy/serie-a/torino-vs-como-2026-10-27/ . Resultado 1-3 BTTS sí."
     },
     {
      "partido": "Sassuolo vs Lazio",
      "competencia": "Serie A",
      "seleccion": "Lazio o empate (X2)",
      "mercado": "Doble oportunidad",
-     "cuota": null,
+     "cuota": 1.33,
      "resultado_partido": "2-6",
      "estado": "acierto",
      "hora": null,
      "iso": null,
-     "notas": ""
+     "notas": "verificado OddStorm mejor X2 1.33 una casa de apuestas https://www.oddstorm.com/zh/odds/match/13644237-sassuolo-vs-lazio ; tabla OddStorm DC: una casa de apuestas 1.34 una casa de apuestas 1.40 una casa de apuestas 1.44 una casa de apuestas 1.30 https://www.oddstorm.com/zh/odds/match/13644237-sassuolo-vs-lazio/double-chance ; odds.directory cierre Draw or Away 1.41 https://odds.directory/en/football/italy/serie-a/sassuolo-calcio-vs-lazio-rome-2026-10-27/ . una casa de apuestas/una casa de apuestas/una casa de apuestas/una casa de apuestas X2: no reconfirmado directo (OddStorm live gated al reconsultar). Resultado 2-6 X2 sí."
     }
    ],
    "argumento": {
-    "texto": "Argumento pendiente.",
+    "texto": "Roma vs Cagliari: Roma gana — dicha 1.22 una casa de apuestas NO verificada (mercado real ~1.36-1.45). Verificado: una casa de apuestas 1.41 https://verdict.football/predictions/italy/serie-a/as-roma-vs-cagliari-2026-10-27/ ; una casa de apuestas (IT) 1.43 https://sportspicklab.com/football/serie-a/as-roma-vs-cagliari-calcio-2026-10-28 ; una casa de apuestas cierre 1.42 https://betarchives.com/match/roma-vs-cagliari-2026-10-27 ; una casa de apuestas cierre 1.45 (Oddsbunch) https://oddsbunch.com/en/match/1552312 ; odds.directory cierre 1.36 https://odds.directory/en/football/italy/serie-a/as-roma-vs-cagliari-calcio-2026-10-27/ . Resultado 4-2. Combinada P1=3.17 P2=1.88 con BTTS una casa de apuestas 1.69 y X2 OddStorm mejor 1.33. Drive mín. 2.85/1.75 usaba la 1.22 errónea. Torino vs Como: Ambos marcan: Sí — verificado una casa de apuestas BTTS Sí 1.69 https://verdict.football/predictions/italy/serie-a/torino-vs-como-2026-10-27/ ; odds.directory cierre 1.70 https://odds.directory/en/football/italy/serie-a/torino-fc-vs-como-1907-2026-10-27/ ; bookmakers.market cierre ~1.68 (una casa de apuestas) https://bookmakers.market/football/italy/serie-a/torino-vs-como-2026-10-27/ . Resultado 1-3 BTTS sí. Sassuolo vs Lazio: Lazio o empate (X2) — verificado OddStorm mejor X2 1.33 una casa de apuestas https://www.oddstorm.com/zh/odds/match/13644237-sassuolo-vs-lazio ; tabla OddStorm DC: una casa de apuestas 1.34 una casa de apuestas 1.40 una casa de apuestas 1.44 una casa de apuestas 1.30 https://www.oddstorm.com/zh/odds/match/13644237-sassuolo-vs-lazio/double-chance ; odds.directory cierre Draw or Away 1.41 https://odds.directory/en/football/italy/serie-a/sassuolo-calcio-vs-lazio-rome-2026-10-27/ . una casa de apuestas/una casa de apuestas/una casa de apuestas/una casa de apuestas X2: no reconfirmado directo (OddStorm live gated al reconsultar). Resultado 2-6 X2 sí.",
     "detalle": "",
-    "origen": "pendiente"
+    "origen": "bot"
    }
   },
   {
@@ -330,41 +330,41 @@
    "partido": "Parley conservador (P2) · 2 selecciones",
    "competencia": "Serie A",
    "n_selecciones": 2,
-   "cuota": 1.75,
+   "cuota": 1.88,
    "cuota_registrada": true,
-   "cuota_origen": "drive_limite_inferior",
+   "cuota_origen": "csv",
    "resultado": "acierto",
-   "unidades": 0.75,
+   "unidades": 0.88,
    "selecciones": [
     {
      "partido": "Roma vs Cagliari",
      "competencia": "Serie A",
      "seleccion": "Roma gana",
      "mercado": "1X2",
-     "cuota": 1.22,
+     "cuota": 1.41,
      "resultado_partido": "4-2",
      "estado": "acierto",
      "hora": null,
      "iso": null,
-     "notas": "cuota total aprox 1.75-1.80"
+     "notas": "misma Roma una casa de apuestas 1.41 (dicha 1.22 una casa de apuestas falsa). Combinada P2=1.88 = 1.41×1.33. Drive mín. 1.75 usaba 1.22 errónea. Fuentes Roma: verdict.football una casa de apuestas 1.41; sportspicklab una casa de apuestas IT 1.43; betarchives una casa de apuestas 1.42."
     },
     {
      "partido": "Sassuolo vs Lazio",
      "competencia": "Serie A",
      "seleccion": "Lazio o empate (X2)",
      "mercado": "Doble oportunidad",
-     "cuota": null,
+     "cuota": 1.33,
      "resultado_partido": "2-6",
      "estado": "acierto",
      "hora": null,
      "iso": null,
-     "notas": ""
+     "notas": "verificado OddStorm mejor X2 1.33 una casa de apuestas https://www.oddstorm.com/zh/odds/match/13644237-sassuolo-vs-lazio ; tabla OddStorm DC: una casa de apuestas 1.34 una casa de apuestas 1.40 una casa de apuestas 1.44 una casa de apuestas 1.30 https://www.oddstorm.com/zh/odds/match/13644237-sassuolo-vs-lazio/double-chance ; odds.directory cierre Draw or Away 1.41 https://odds.directory/en/football/italy/serie-a/sassuolo-calcio-vs-lazio-rome-2026-10-27/ . una casa de apuestas/una casa de apuestas/una casa de apuestas/una casa de apuestas X2: no reconfirmado directo (OddStorm live gated al reconsultar). Resultado 2-6 X2 sí. Combinada P2=1.88."
     }
    ],
    "argumento": {
-    "texto": "Argumento pendiente.",
+    "texto": "Roma vs Cagliari: Roma gana — misma Roma una casa de apuestas 1.41 (dicha 1.22 una casa de apuestas falsa). Combinada P2=1.88 = 1.41×1.33. Drive mín. 1.75 usaba 1.22 errónea. Fuentes Roma: verdict.football una casa de apuestas 1.41; sportspicklab una casa de apuestas IT 1.43; betarchives una casa de apuestas 1.42. Sassuolo vs Lazio: Lazio o empate (X2) — verificado OddStorm mejor X2 1.33 una casa de apuestas https://www.oddstorm.com/zh/odds/match/13644237-sassuolo-vs-lazio ; tabla OddStorm DC: una casa de apuestas 1.34 una casa de apuestas 1.40 una casa de apuestas 1.44 una casa de apuestas 1.30 https://www.oddstorm.com/zh/odds/match/13644237-sassuolo-vs-lazio/double-chance ; odds.directory cierre Draw or Away 1.41 https://odds.directory/en/football/italy/serie-a/sassuolo-calcio-vs-lazio-rome-2026-10-27/ . una casa de apuestas/una casa de apuestas/una casa de apuestas/una casa de apuestas X2: no reconfirmado directo (OddStorm live gated al reconsultar). Resultado 2-6 X2 sí. Combinada P2=1.88.",
     "detalle": "",
-    "origen": "pendiente"
+    "origen": "bot"
    }
   },
   {

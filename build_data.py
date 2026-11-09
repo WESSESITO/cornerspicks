@@ -281,7 +281,8 @@ def cuota_desde_drive(drv):
     """Usa la cuota de Drive solo si las notas no dicen que no hay cuota total.
 
     El 4 nov la columna tiene 1,75 pero las notas dicen «Sin cuota total»; eso no se usa.
-    El 27 oct las notas documentan que se usó el límite inferior del rango aproximado.
+    El 27 oct las notas de Drive documentan un límite inferior; si el CSV del bot
+    ya trae cuota combinada, esa cifra gana.
     """
     if not drv:
         return None, None, None
