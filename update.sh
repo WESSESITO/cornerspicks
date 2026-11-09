@@ -14,6 +14,13 @@ fi
 git config --get credential.https://github.com.helper >/dev/null 2>&1 || gh auth setup-git
 [[ -f ../site-data/over_corners.csv ]] || echo "AVISO: falta ../site-data/over_corners.csv (Picksters Over Córners)"
 [[ -f ../site-data/parley_picks.csv ]] || echo "AVISO: falta ../site-data/parley_picks.csv (Parley Picks)"
+# La pestaña "Parley Picks" de Drive (hoja "Registro filtro de corners") no se puede
+# refrescar desde este script: hace falta el conector de Google Sheets, que no está
+# disponible aquí. Se usa la última copia en ../site-data/parley_picks_drive.csv
+# (un agente con el conector puede volver a exportarla). No se toca el CSV del bot.
+if [[ ! -f ../site-data/parley_picks_drive.csv ]]; then
+  echo "AVISO: falta ../site-data/parley_picks_drive.csv (copia de la pestaña Parley Picks de Drive)"
+fi
 python3 build_data.py
 if [[ -n "$(git status --porcelain)" ]]; then
   STAMP="$(date '+%Y-%m-%d %H:%M') (hora Bogotá)"

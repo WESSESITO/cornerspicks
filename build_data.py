@@ -264,6 +264,38 @@ def _hora_de_nota(notas):
     return f"{int(m.group(1)):02d}:{m.group(2)}" if m else None
 
 
+def load_drive_parley():
+    """Copia de la pestaña Parley Picks de Drive (site-data/parley_picks_drive.csv)."""
+    path = os.path.join(SRC, 'parley_picks_drive.csv')
+    if not os.path.exists(path):
+        return {}
+    out = {}
+    for r in csv.DictReader(open(path, encoding='utf-8')):
+        key = ((r.get('fecha') or '').strip(), (r.get('parley') or '').strip())
+        if key[0] and key[1]:
+            out[key] = r
+    return out
+
+
+def cuota_desde_drive(drv):
+    """Usa la cuota de Drive solo si las notas no dicen que no hay cuota total.
+
+    El 4 nov la columna tiene 1,75 pero las notas dicen «Sin cuota total»; eso no se usa.
+    El 27 oct las notas documentan que se usó el límite inferior del rango aproximado.
+    """
+    if not drv:
+        return None, None, None
+    cuota = num(drv.get('cuota'))
+    notas = drv.get('notas') or ''
+    if cuota is None:
+        return None, None, notas
+    if re.search(r'sin cuota total', notas, re.I):
+        return None, 'drive_sin_cuota', notas
+    if re.search(r'l[ií]mite inferior', notas, re.I):
+        return cuota, 'drive_limite_inferior', notas
+    return cuota, 'drive', notas
+
+
 def build_parley():
     path = os.path.join(SRC, 'parley_picks.csv')
     if not os.path.exists(path):
@@ -273,37 +305,58 @@ def build_parley():
     for r in rows:
         key = ((r.get('fecha') or '').strip(), (r.get('parley') or '').strip())
         grupos.setdefault(key, []).append(r)
+    drive = load_drive_parley()
+    if drive:
+        print(f"Parley Picks: fusionando {len(drive)} filas de site-data/parley_picks_drive.csv")
 
     picks, avisos, sels_flat = [], [], []
+    for key, drv in drive.items():
+        if key not in grupos:
+            avisos.append(f"{key[0]} {key[1]}: está en la hoja de Drive y no en el CSV del bot; no se añade (no se mezclan fuentes de selecciones)")
     for (fecha, pid), legs in grupos.items():
         tipo = (legs[0].get('tipo') or '').strip().lower()
         tipo_nom = TIPO_LABEL.get(tipo, tipo or 'parley')
         estado_raw = (legs[0].get('estado_parley') or '').strip().lower()
         res = EST_PARLEY.get(estado_raw, estado_raw or 'pendiente')
-        # La cuota combinada solo se toma de la columna registrada, nunca de aproximaciones en notas
-        # ni del producto de las cuotas individuales.
+        # Cuota combinada: primero la columna del CSV del bot; si falta, la de Drive
+        # solo cuando las notas de Drive no dicen «Sin cuota total». No se multiplica
+        # cuotas individuales ni se inventa a partir de un rango, salvo el límite
+        # inferior que la propia hoja documenta haber usado.
         cuotas_tot = []
         for r in legs:
             ct = num(r.get('cuota_total_parley'))
             if ct is not None:
                 cuotas_tot.append(ct)
         cuota = cuotas_tot[0] if cuotas_tot else None
+        cuota_origen = 'csv' if cuota is not None else None
         if len(set(cuotas_tot)) > 1:
             avisos.append(f"{fecha} {pid}: cuota_total_parley distinta entre filas ({cuotas_tot}); se usa {cuota}")
-        if cuota is None and res in ('acierto', 'error'):
-            aprox = None
-            for r in legs:
-                m = re.search(r'cuota total aprox[^\d]*(\d+[.,]\d+)(?:\s*[-–]\s*(\d+[.,]\d+))?', (r.get('notas') or ''), re.I)
-                if m:
-                    aprox = m.group(0).strip()
-                    break
-            extra = f' (en notas aparece «{aprox}», no se usa)' if aprox else ''
-            avisos.append(f"{fecha} {pid} ({tipo_nom}): sin cuota combinada registrada{extra}; el resultado cuenta en el % de acierto, no en las unidades")
+        drv = drive.get((fecha, pid))
+        d_cuota, d_origen, d_notas = cuota_desde_drive(drv)
+        if drv:
+            d_res = EST_PARLEY.get((drv.get('estado') or '').strip().lower(), (drv.get('resultado') or '').strip().lower())
+            if d_res in ('acierto', 'error') and res in ('acierto', 'error') and d_res != res:
+                avisos.append(f"{fecha} {pid}: el CSV del bot dice {res} y Drive dice {d_res}; se mantiene el CSV")
+        if cuota is not None and d_cuota is not None and abs(cuota - d_cuota) > 0.005:
+            avisos.append(f"{fecha} {pid}: cuota del CSV {cuota} ≠ Drive {d_cuota}; se usa el CSV")
+        if cuota is None and d_cuota is not None:
+            cuota, cuota_origen = d_cuota, d_origen
+            if d_origen == 'drive_limite_inferior':
+                avisos.append(f"{fecha} {pid} ({tipo_nom}): sin cuota combinada en el CSV del bot; se usa {str(cuota).replace('.', ',')} de la hoja de Drive (límite inferior del rango aproximado que documenta esa hoja)")
+            else:
+                avisos.append(f"{fecha} {pid} ({tipo_nom}): sin cuota combinada en el CSV del bot; se usa {str(cuota).replace('.', ',')} de la hoja de Drive")
+        elif cuota is None and d_origen == 'drive_sin_cuota':
+            avisos.append(f"{fecha} {pid} ({tipo_nom}): la hoja de Drive tiene {str(num(drv.get('cuota'))).replace('.', ',')} en la columna de cuota, pero sus notas dicen que no hay cuota total; no se usa. El resultado cuenta en el % de acierto, no en las unidades")
+        elif cuota is None and res in ('acierto', 'error'):
+            avisos.append(f"{fecha} {pid} ({tipo_nom}): sin cuota combinada registrada; el resultado cuenta en el % de acierto, no en las unidades")
 
+        stake = 1.0
+        if drv and num(drv.get('stake')):
+            stake = num(drv.get('stake'))
         if res == 'acierto' and cuota is not None:
-            u = cuota - 1
+            u = (cuota - 1) * stake
         elif res == 'error' and cuota is not None:
-            u = -1.0
+            u = -stake
         elif res == 'anulado' and cuota is not None:
             u = 0.0
         else:
@@ -363,6 +416,7 @@ def build_parley():
             n_selecciones=n,
             cuota=cuota,
             cuota_registrada=cuota is not None,
+            cuota_origen=cuota_origen,
             resultado=res,
             unidades=r2(u) if u is not None else None,
             selecciones=selecciones,
@@ -376,6 +430,7 @@ def build_parley():
         'mercado': 'Parley diario de fútbol (3 a 4 selecciones): resultado, ambos marcan, doble oportunidad o total de goles',
         'generado': datetime.datetime.now().strftime('%Y-%m-%d %H:%M'), 'generado_iso': now_iso(),
         'fuente_csv': 'site-data/parley_picks.csv',
+        'fuente_drive': 'site-data/parley_picks_drive.csv' if drive else None,
         'resumen': s,
         'resumen_selecciones': s_sel,
         'por_tipo': group(picks, 'tipo', ['principal', 'conservador', 'conservador_alt']),
