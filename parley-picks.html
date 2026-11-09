@@ -1,0 +1,59 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><script>document.documentElement.classList.add('js')</script><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Parley Picks · CórnersPicks</title><meta name="description" content="Reglas, historial y estadísticas de Parley Picks: parley diario de fútbol (principal y conservador).">
+<link rel="icon" href="assets/favicon.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,800;0,900;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css?v=21"><script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js" defer></script><script src="js/app.js?v=20" defer></script></head>
+<body data-page="parley"><div class="bgfx" aria-hidden="true"><div class="bgl on" style="background-image:url('assets/fondos/cruyff-1974-uruguay.webp')"></div><div class="bgl" data-src="assets/fondos/cruyff-1974-final.webp"></div></div>
+<header class="top"><div class="wrap"><a class="brand" href="index.html"><img src="assets/logo-square.png" alt="Logo CórnersPicks"><span>Córners<b>Picks</b></span></a>
+<button class="navbtn" type="button" aria-expanded="false" aria-controls="menu" aria-label="Abrir menú"><span aria-hidden="true">☰</span></button><nav class="main" id="menu" aria-label="Menú principal"><a href="index.html" title="Inicio">Inicio</a><a href="picks-del-dia.html" class="hot" title="Picks del día">🔥 Picks del día</a><a href="en-juego.html" class="live" title="Partidos de las picks en juego, en tiempo real">📡 En juego</a><a href="picksters-over-corners.html" title="Picksters Over Córners">Over Córners</a><a href="parley-picks.html" class="on" aria-current="page" title="Parley Picks">Parley Picks</a><a href="metodologia.html" title="Metodología y glosario">Metodología</a><a href="comunidad.html" title="Comentarios y sugerencias">💬 Comentarios</a></nav></div></header><main class="wrap">
+<h1>Parley <span class="neon">Picks</span></h1>
+<p class="muted">Arma un parley de fútbol cada día, con una versión principal y otra conservadora. Cada pick de esta página es un parley completo, no una selección suelta.</p>
+<h2>El mercado</h2>
+<div class="card"><p>Un <b>parley diario de 3 a 4 selecciones</b> de fútbol, más una <b>alternativa conservadora</b> (menos selecciones o mercados más suaves). En algunos días el bot ha registrado también una segunda alternativa conservadora (P3).</p>
+<p>Los mercados que ha usado hasta ahora son: <b>ganador del partido (1X2)</b>, <b>ambos marcan</b>, <b>doble oportunidad</b> y <b>total de goles</b>.</p>
+<p><b>Entrega:</b> alrededor de las <time class="lt" datetime="2026-10-20T07:00:00-05:00">07:00 (UTC-5)</time> (hora de tu zona), también los fines de semana. La rutina actualiza primero los resultados del día anterior y después anota el parley nuevo.</p></div>
+<h2>Parámetros y reglas</h2>
+<ul class="rules">
+<li>Combina los mercados donde vea más valor cada día. No elige una selección solo porque paga bien.</li>
+<li>Solo mete picks respaldados por datos reales. Si una cuota se ve inflada o no cuadra con las estadísticas, la deja fuera.</li>
+<li>Compara cuotas entre varias casas y, cuando hay dato, contrapone la probabilidad que implica la cuota con la que estima a partir de las estadísticas.</li>
+<li>Si no hay suficientes selecciones bien respaldadas (por ejemplo, en una fecha FIFA con partidos sueltos), ese día no publica parley.</li>
+</ul>
+<h3>Cuotas y unidades</h3>
+<ul class="rules">
+<li>El sitio cuenta <b>1 unidad por cada parley</b>. El principal (P1) y el conservador (P2, y a veces P3) se cuentan por separado, porque el bot los registra como apuestas distintas.</li>
+<li>Acierto = cuota combinada − 1; error = −1. <b>Solo se usan las cuotas combinadas que el bot anotó en su registro</b> (columna de cuota total del parley). No se inventa una combinada multiplicando las cuotas de cada selección, ni se usan las cifras aproximadas que a veces aparecen en las notas.</li>
+<li>Si un parley no trae cuota combinada, el resultado sí entra en el porcentaje de acierto y las unidades de ese parley quedan sin calcular.</li>
+</ul>
+<h3>Registro</h3>
+<ul class="rules">
+<li>Empezó el 27 oct 2026. El bot guarda una fila por selección; el sitio las agrupa por fecha y código de parley (P1, P2 o P3).</li>
+<li>El nombre comercial de la liga colombiana incluye el de una casa de apuestas, así que en el sitio se muestra como <b>Primera A Colombia</b>.</li>
+</ul>
+<h2>Cómo llegamos aquí</h2>
+<div class="timeline">
+<div class="ev"><div class="d">27 oct</div>Empieza el registro, con un parley principal de tres selecciones de Serie A y una alternativa conservadora de dos. De ese día el bot no dejó cuota combinada registrada (solo una aproximación en las notas), así que esos dos parleys no entran en las unidades.</div>
+<div class="ev"><div class="d">Desde el 27 oct</div>Entrega diaria alrededor de las <time class="lt" datetime="2026-10-20T07:00:00-05:00">07:00 (UTC-5)</time>: primero se actualizan los resultados pendientes y después se anota el parley nuevo.</div>
+<div class="ev"><div class="d">3 nov</div>Además del principal y del conservador, se registró una <b>segunda alternativa conservadora (P3)</b> en la jornada de Champions.</div>
+<div class="ev"><div class="d">4 nov</div>Los dos parleys del día se ganaron, pero el registro no trajo cuota combinada, así que tampoco entran en las unidades.</div>
+<div class="ev"><div class="d">9 nov</div>No hubo parley: arrancaba la fecha FIFA y no alcanzó para 3 o 4 selecciones bien respaldadas.</div>
+</div>
+<h2>Estadísticas</h2>
+<div id="kpis" class="kpis" data-needs-data></div>
+<p class="muted small" id="pendTxt"></p>
+<div id="avisos"></div>
+<div class="grid g2">
+<div class="card"><h3>% de acierto acumulado</h3><div class="chart"><canvas id="pctChart"></canvas></div></div>
+<div class="card"><h3>Unidades acumuladas</h3><div class="chart"><canvas id="uChart"></canvas></div></div>
+</div>
+<h2>Desglose por tipo de parley</h2>
+<p class="muted small">Principal, conservador y, cuando existe, la alternativa conservadora extra. Las unidades de cada grupo solo incluyen los parleys que sí tienen cuota combinada registrada.</p>
+<div class="grid g2"><div class="card"><div class="chart"><canvas id="tipoChart"></canvas></div></div><div class="card" id="tipoTbl"></div></div>
+<h2>Selecciones sueltas, por mercado</h2>
+<p class="muted small" id="selTxt">Estas cifras miran cada pierna por separado, solo para ver qué mercados se están dando. No se apuestan aparte y no suman unidades.</p>
+<div class="grid g2"><div class="card"><div class="chart" style="height:320px"><canvas id="mktChart"></canvas></div></div><div class="card" id="mktTbl"></div></div>
+<h2>Historial de parleys</h2>
+<div id="tabla" data-needs-data></div>
+<div class="rg"><b>🔞 Juego responsable · solo mayores de 18 años.</b> Este sitio documenta el trabajo de unos bots de análisis; no es asesoría financiera ni garantiza resultados. Las apuestas implican riesgo de pérdida: apuesta solo lo que puedas permitirte perder, gestiona tu stake y no persigas pérdidas. Si sientes que el juego dejó de ser entretenimiento, busca ayuda.</div></main>
+<footer><div class="wrap">CórnersPicks · Datos generados el <span id="generado">—</span> a partir de los registros de cada bot. Las horas se muestran en la zona horaria de tu dispositivo (<span data-tz>UTC-5</span>).<div class="fotocred">Fotos de fondo: Johan Cruyff (Países Bajos–Uruguay, Mundial 1974) y Johan Cruyff (final del Mundial 1974) · <a href="metodologia.html#creditos">créditos de las imágenes</a></div></div></footer>  <script data-goatcounter="https://cornerspicks.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body></html>

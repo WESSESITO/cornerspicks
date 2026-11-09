@@ -18,7 +18,8 @@ async function cached(req,ctx,ttl,make){const cache=caches.default,key=new Reque
   ctx.waitUntil(cache.put(key,r.clone()));return r;}
 
 async function picks(){const r=await fetch(SITE,{cf:{cacheTtl:300,cacheEverything:true}});const d=await r.json();
-  return d.bots.flatMap(b=>[...b.pendientes,...(b.hoy_cerradas||[])]).filter(p=>p.iso).map(p=>Date.parse(p.iso));}
+  const times=p=>{const xs=[];if(p.iso)xs.push(Date.parse(p.iso));for(const s of (p.selecciones||[]))if(s.iso)xs.push(Date.parse(s.iso));return xs.filter(t=>!isNaN(t));};
+  return d.bots.flatMap(b=>[...b.pendientes,...(b.hoy_cerradas||[])]).flatMap(times);}
 
 async function live(){const now=Date.now(),ts=(await picks()).filter(t=>now>=t-PRE&&now<=t+POST);
   if(!ts.length)return{generado:new Date().toISOString(),fuente:'ESPN (marcador público) vía caché',partidos:[],nota:'sin partidos de las picks en ventana'};

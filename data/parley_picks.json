@@ -1,0 +1,1492 @@
+{
+ "bot": "parley_picks",
+ "nombre": "Parley Picks",
+ "mercado": "Parley diario de fútbol (3 a 4 selecciones): resultado, ambos marcan, doble oportunidad o total de goles",
+ "generado": "2026-11-09 16:44",
+ "generado_iso": "2026-11-09T16:44:00-05:00",
+ "fuente_csv": "site-data/parley_picks.csv",
+ "resumen": {
+  "resueltas": 23,
+  "aciertos": 15,
+  "errores": 8,
+  "pct": 65.22,
+  "unidades": 1.86,
+  "roi": 9.79,
+  "cuota_media": 2.06,
+  "total": 23,
+  "pendientes": 0,
+  "otros": 0,
+  "con_cuota": 19,
+  "sin_cuota": 4
+ },
+ "resumen_selecciones": {
+  "resueltas": 60,
+  "aciertos": 50,
+  "errores": 10,
+  "pct": 83.33,
+  "unidades": 0.0,
+  "roi": null,
+  "cuota_media": 1.3,
+  "total": 60,
+  "pendientes": 0,
+  "otros": 0,
+  "con_cuota": 0,
+  "sin_cuota": 60
+ },
+ "por_tipo": [
+  {
+   "grupo": "principal",
+   "resueltas": 11,
+   "aciertos": 6,
+   "errores": 5,
+   "pct": 54.55,
+   "unidades": 1.27,
+   "roi": 14.11,
+   "cuota_media": 2.66,
+   "total": 11,
+   "pendientes": 0,
+   "otros": 0,
+   "con_cuota": 9,
+   "sin_cuota": 2
+  },
+  {
+   "grupo": "conservador",
+   "resueltas": 11,
+   "aciertos": 8,
+   "errores": 3,
+   "pct": 72.73,
+   "unidades": -0.16,
+   "roi": -1.78,
+   "cuota_media": 1.49,
+   "total": 11,
+   "pendientes": 0,
+   "otros": 0,
+   "con_cuota": 9,
+   "sin_cuota": 2
+  },
+  {
+   "grupo": "conservador_alt",
+   "resueltas": 1,
+   "aciertos": 1,
+   "errores": 0,
+   "pct": 100.0,
+   "unidades": 0.75,
+   "roi": 75.0,
+   "cuota_media": 1.75,
+   "total": 1,
+   "pendientes": 0,
+   "otros": 0,
+   "con_cuota": 1,
+   "sin_cuota": 0
+  }
+ ],
+ "por_mercado": [
+  {
+   "grupo": "1X2",
+   "resueltas": 23,
+   "aciertos": 20,
+   "errores": 3,
+   "pct": 86.96,
+   "unidades": 0.0,
+   "roi": null,
+   "cuota_media": 1.26,
+   "total": 23,
+   "pendientes": 0,
+   "otros": 0,
+   "con_cuota": 0,
+   "sin_cuota": 23
+  },
+  {
+   "grupo": "Total goles",
+   "resueltas": 14,
+   "aciertos": 12,
+   "errores": 2,
+   "pct": 85.71,
+   "unidades": 0.0,
+   "roi": null,
+   "cuota_media": 1.3,
+   "total": 14,
+   "pendientes": 0,
+   "otros": 0,
+   "con_cuota": 0,
+   "sin_cuota": 14
+  },
+  {
+   "grupo": "Doble oportunidad",
+   "resueltas": 12,
+   "aciertos": 11,
+   "errores": 1,
+   "pct": 91.67,
+   "unidades": 0.0,
+   "roi": null,
+   "cuota_media": 1.23,
+   "total": 12,
+   "pendientes": 0,
+   "otros": 0,
+   "con_cuota": 0,
+   "sin_cuota": 12
+  },
+  {
+   "grupo": "BTTS",
+   "resueltas": 11,
+   "aciertos": 7,
+   "errores": 4,
+   "pct": 63.64,
+   "unidades": 0.0,
+   "roi": null,
+   "cuota_media": 1.46,
+   "total": 11,
+   "pendientes": 0,
+   "otros": 0,
+   "con_cuota": 0,
+   "sin_cuota": 11
+  }
+ ],
+ "serie": [
+  {
+   "fecha": "2026-10-27",
+   "dia_picks": 2,
+   "dia_aciertos": 2,
+   "dia_unidades": 0.0,
+   "acum_resueltas": 2,
+   "acum_aciertos": 2,
+   "acum_pct": 100.0,
+   "acum_unidades": 0.0
+  },
+  {
+   "fecha": "2026-10-28",
+   "dia_picks": 2,
+   "dia_aciertos": 2,
+   "dia_unidades": 3.08,
+   "acum_resueltas": 4,
+   "acum_aciertos": 4,
+   "acum_pct": 100.0,
+   "acum_unidades": 3.08
+  },
+  {
+   "fecha": "2026-10-29",
+   "dia_picks": 2,
+   "dia_aciertos": 2,
+   "dia_unidades": 2.16,
+   "acum_resueltas": 6,
+   "acum_aciertos": 6,
+   "acum_pct": 100.0,
+   "acum_unidades": 5.24
+  },
+  {
+   "fecha": "2026-10-31",
+   "dia_picks": 2,
+   "dia_aciertos": 1,
+   "dia_unidades": -0.59,
+   "acum_resueltas": 8,
+   "acum_aciertos": 7,
+   "acum_pct": 87.5,
+   "acum_unidades": 4.65
+  },
+  {
+   "fecha": "2026-11-01",
+   "dia_picks": 2,
+   "dia_aciertos": 1,
+   "dia_unidades": -0.63,
+   "acum_resueltas": 10,
+   "acum_aciertos": 8,
+   "acum_pct": 80.0,
+   "acum_unidades": 4.02
+  },
+  {
+   "fecha": "2026-11-02",
+   "dia_picks": 2,
+   "dia_aciertos": 0,
+   "dia_unidades": -2.0,
+   "acum_resueltas": 12,
+   "acum_aciertos": 8,
+   "acum_pct": 66.67,
+   "acum_unidades": 2.02
+  },
+  {
+   "fecha": "2026-11-03",
+   "dia_picks": 3,
+   "dia_aciertos": 1,
+   "dia_unidades": -1.25,
+   "acum_resueltas": 15,
+   "acum_aciertos": 9,
+   "acum_pct": 60.0,
+   "acum_unidades": 0.77
+  },
+  {
+   "fecha": "2026-11-04",
+   "dia_picks": 2,
+   "dia_aciertos": 2,
+   "dia_unidades": 0.0,
+   "acum_resueltas": 17,
+   "acum_aciertos": 11,
+   "acum_pct": 64.71,
+   "acum_unidades": 0.77
+  },
+  {
+   "fecha": "2026-11-05",
+   "dia_picks": 2,
+   "dia_aciertos": 0,
+   "dia_unidades": -2.0,
+   "acum_resueltas": 19,
+   "acum_aciertos": 11,
+   "acum_pct": 57.89,
+   "acum_unidades": -1.23
+  },
+  {
+   "fecha": "2026-11-07",
+   "dia_picks": 2,
+   "dia_aciertos": 2,
+   "dia_unidades": 1.52,
+   "acum_resueltas": 21,
+   "acum_aciertos": 13,
+   "acum_pct": 61.9,
+   "acum_unidades": 0.29
+  },
+  {
+   "fecha": "2026-11-08",
+   "dia_picks": 2,
+   "dia_aciertos": 2,
+   "dia_unidades": 1.57,
+   "acum_resueltas": 23,
+   "acum_aciertos": 15,
+   "acum_pct": 65.22,
+   "acum_unidades": 1.86
+  }
+ ],
+ "pendientes_lista": [],
+ "avisos": [
+  "2026-10-27 P1 (principal): sin cuota combinada registrada (en notas aparece «cuota total aprox 2.85-3.00», no se usa); el resultado cuenta en el % de acierto, no en las unidades",
+  "2026-10-27 P2 (conservador): sin cuota combinada registrada (en notas aparece «cuota total aprox 1.75-1.80», no se usa); el resultado cuenta en el % de acierto, no en las unidades",
+  "2026-11-04 P1 (principal): sin cuota combinada registrada; el resultado cuenta en el % de acierto, no en las unidades",
+  "2026-11-04 P2 (conservador): sin cuota combinada registrada; el resultado cuenta en el % de acierto, no en las unidades"
+ ],
+ "picks": [
+  {
+   "fecha": "2026-10-27",
+   "hora": "",
+   "iso": null,
+   "parley": "P1",
+   "tipo": "principal",
+   "tipo_nombre": "principal",
+   "partido": "Parley principal (P1) · 3 selecciones",
+   "competencia": "Serie A",
+   "n_selecciones": 3,
+   "cuota": null,
+   "cuota_registrada": false,
+   "resultado": "acierto",
+   "unidades": null,
+   "selecciones": [
+    {
+     "partido": "Roma vs Cagliari",
+     "competencia": "Serie A",
+     "seleccion": "Roma gana",
+     "mercado": "1X2",
+     "cuota": 1.22,
+     "resultado_partido": "4-2",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": "cuota total aprox 2.85-3.00 (cuotas individuales no registradas salvo Roma)"
+    },
+    {
+     "partido": "Torino vs Como",
+     "competencia": "Serie A",
+     "seleccion": "Ambos marcan: Sí",
+     "mercado": "BTTS",
+     "cuota": null,
+     "resultado_partido": "1-3",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": ""
+    },
+    {
+     "partido": "Sassuolo vs Lazio",
+     "competencia": "Serie A",
+     "seleccion": "Lazio o empate (X2)",
+     "mercado": "Doble oportunidad",
+     "cuota": null,
+     "resultado_partido": "2-6",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": ""
+    }
+   ],
+   "argumento": {
+    "texto": "Argumento pendiente.",
+    "detalle": "",
+    "origen": "pendiente"
+   }
+  },
+  {
+   "fecha": "2026-10-27",
+   "hora": "",
+   "iso": null,
+   "parley": "P2",
+   "tipo": "conservador",
+   "tipo_nombre": "conservador",
+   "partido": "Parley conservador (P2) · 2 selecciones",
+   "competencia": "Serie A",
+   "n_selecciones": 2,
+   "cuota": null,
+   "cuota_registrada": false,
+   "resultado": "acierto",
+   "unidades": null,
+   "selecciones": [
+    {
+     "partido": "Roma vs Cagliari",
+     "competencia": "Serie A",
+     "seleccion": "Roma gana",
+     "mercado": "1X2",
+     "cuota": 1.22,
+     "resultado_partido": "4-2",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": "cuota total aprox 1.75-1.80"
+    },
+    {
+     "partido": "Sassuolo vs Lazio",
+     "competencia": "Serie A",
+     "seleccion": "Lazio o empate (X2)",
+     "mercado": "Doble oportunidad",
+     "cuota": null,
+     "resultado_partido": "2-6",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": ""
+    }
+   ],
+   "argumento": {
+    "texto": "Argumento pendiente.",
+    "detalle": "",
+    "origen": "pendiente"
+   }
+  },
+  {
+   "fecha": "2026-10-28",
+   "hora": "12:30",
+   "iso": "2026-10-28T12:30:00-05:00",
+   "parley": "P1",
+   "tipo": "principal",
+   "tipo_nombre": "principal",
+   "partido": "Parley principal (P1) · 3 selecciones",
+   "competencia": "Serie A · DFB Pokal · Primera A Colombia",
+   "n_selecciones": 3,
+   "cuota": 3.51,
+   "cuota_registrada": true,
+   "resultado": "acierto",
+   "unidades": 2.51,
+   "selecciones": [
+    {
+     "partido": "Venezia vs Inter",
+     "competencia": "Serie A",
+     "seleccion": "Inter gana",
+     "mercado": "1X2",
+     "cuota": 1.38,
+     "resultado_partido": "0-2",
+     "estado": "acierto",
+     "hora": "12:30",
+     "iso": "2026-10-28T12:30:00-05:00",
+     "notas": "una casa de apuestas internacional (footbello); 12:30 COT"
+    },
+    {
+     "partido": "Bayern Múnich vs Magdeburg",
+     "competencia": "DFB Pokal",
+     "seleccion": "Más de 3.5 goles",
+     "mercado": "Total goles",
+     "cuota": 1.36,
+     "resultado_partido": "6-1",
+     "estado": "acierto",
+     "hora": "14:45",
+     "iso": "2026-10-28T14:45:00-05:00",
+     "notas": "mejor cuota una casa de apuestas (oddstorm); no verificada en casas de Wesley; 14:45 COT"
+    },
+    {
+     "partido": "Once Caldas vs Alianza FC",
+     "competencia": "Primera A Colombia",
+     "seleccion": "Menos de 2.5 goles",
+     "mercado": "Total goles",
+     "cuota": 1.87,
+     "resultado_partido": "1-0",
+     "estado": "acierto",
+     "hora": "18:00",
+     "iso": "2026-10-28T18:00:00-05:00",
+     "notas": "cuota de comparador wincomparator (casa no identificada); 18:00 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Argumento pendiente.",
+    "detalle": "",
+    "origen": "pendiente"
+   }
+  },
+  {
+   "fecha": "2026-10-28",
+   "hora": "",
+   "iso": null,
+   "parley": "P2",
+   "tipo": "conservador",
+   "tipo_nombre": "conservador",
+   "partido": "Parley conservador (P2) · 2 selecciones",
+   "competencia": "Serie A · DFB Pokal",
+   "n_selecciones": 2,
+   "cuota": 1.57,
+   "cuota_registrada": true,
+   "resultado": "acierto",
+   "unidades": 0.57,
+   "selecciones": [
+    {
+     "partido": "Venezia vs Inter",
+     "competencia": "Serie A",
+     "seleccion": "Inter gana",
+     "mercado": "1X2",
+     "cuota": 1.38,
+     "resultado_partido": "0-2",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": ""
+    },
+    {
+     "partido": "Bayern Múnich vs Magdeburg",
+     "competencia": "DFB Pokal",
+     "seleccion": "Más de 2.5 goles",
+     "mercado": "Total goles",
+     "cuota": 1.14,
+     "resultado_partido": "6-1",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": "cuota citada por telecomasia; casa no identificada"
+    }
+   ],
+   "argumento": {
+    "texto": "Bayern Múnich vs Magdeburg: Más de 2.5 goles — cuota citada por telecomasia; casa no identificada",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-10-29",
+   "hora": "12:30",
+   "iso": "2026-10-29T12:30:00-05:00",
+   "parley": "P1",
+   "tipo": "principal",
+   "tipo_nombre": "principal",
+   "partido": "Parley principal (P1) · 3 selecciones",
+   "competencia": "Serie A · Primera A Colombia",
+   "n_selecciones": 3,
+   "cuota": 2.45,
+   "cuota_registrada": true,
+   "resultado": "acierto",
+   "unidades": 1.45,
+   "selecciones": [
+    {
+     "partido": "Frosinone vs Lecce",
+     "competencia": "Serie A",
+     "seleccion": "Más de 2.5 goles",
+     "mercado": "Total goles",
+     "cuota": 1.43,
+     "resultado_partido": "5-1",
+     "estado": "acierto",
+     "hora": "12:30",
+     "iso": "2026-10-29T12:30:00-05:00",
+     "notas": "cuota una casa de apuestas.it (no es casa de Wesley); 12:30 COT"
+    },
+    {
+     "partido": "Fiorentina vs Atalanta",
+     "competencia": "Serie A",
+     "seleccion": "Ambos marcan: Sí",
+     "mercado": "BTTS",
+     "cuota": 1.5,
+     "resultado_partido": "2-2",
+     "estado": "acierto",
+     "hora": "14:45",
+     "iso": "2026-10-29T14:45:00-05:00",
+     "notas": "una casa de apuestas vía comparador ohmytip (rango 1.44-1.59); 14:45 COT"
+    },
+    {
+     "partido": "Atlético Nacional vs Santa Fe",
+     "competencia": "Primera A Colombia",
+     "seleccion": "Nacional o empate (1X)",
+     "mercado": "Doble oportunidad",
+     "cuota": 1.14,
+     "resultado_partido": "2-0",
+     "estado": "acierto",
+     "hora": "20:30",
+     "iso": "2026-10-29T20:30:00-05:00",
+     "notas": "cuota una casa de apuestas.co (no es casa de Wesley); 20:30 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Frosinone vs Lecce: Más de 2.5 goles — cuota una casa de apuestas.it (no es casa de Wesley); 12:30 COT Fiorentina vs Atalanta: Ambos marcan: Sí — una casa de apuestas vía comparador ohmytip (rango 1.44-1.59); 14:45 COT Atlético Nacional vs Santa Fe: Nacional o empate (1X) — cuota una casa de apuestas.co (no es casa de Wesley); 20:30 COT",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-10-29",
+   "hora": "",
+   "iso": null,
+   "parley": "P2",
+   "tipo": "conservador",
+   "tipo_nombre": "conservador",
+   "partido": "Parley conservador (P2) · 2 selecciones",
+   "competencia": "Serie A · Primera A Colombia",
+   "n_selecciones": 2,
+   "cuota": 1.71,
+   "cuota_registrada": true,
+   "resultado": "acierto",
+   "unidades": 0.71,
+   "selecciones": [
+    {
+     "partido": "Fiorentina vs Atalanta",
+     "competencia": "Serie A",
+     "seleccion": "Ambos marcan: Sí",
+     "mercado": "BTTS",
+     "cuota": 1.5,
+     "resultado_partido": "2-2",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": ""
+    },
+    {
+     "partido": "Atlético Nacional vs Santa Fe",
+     "competencia": "Primera A Colombia",
+     "seleccion": "Nacional o empate (1X)",
+     "mercado": "Doble oportunidad",
+     "cuota": 1.14,
+     "resultado_partido": "2-0",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": ""
+    }
+   ],
+   "argumento": {
+    "texto": "Argumento pendiente.",
+    "detalle": "",
+    "origen": "pendiente"
+   }
+  },
+  {
+   "fecha": "2026-10-31",
+   "hora": "10:00",
+   "iso": "2026-10-31T10:00:00-05:00",
+   "parley": "P1",
+   "tipo": "principal",
+   "tipo_nombre": "principal",
+   "partido": "Parley principal (P1) · 3 selecciones",
+   "competencia": "Premier League · Bundesliga · LaLiga",
+   "n_selecciones": 3,
+   "cuota": 2.12,
+   "cuota_registrada": true,
+   "resultado": "error",
+   "unidades": -1.0,
+   "selecciones": [
+    {
+     "partido": "Manchester City vs Brighton",
+     "competencia": "Premier League",
+     "seleccion": "Ambos marcan: Sí",
+     "mercado": "BTTS",
+     "cuota": 1.51,
+     "resultado_partido": "0-1",
+     "estado": "error",
+     "hora": "10:00",
+     "iso": "2026-10-31T10:00:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm (mejor 1.55 una casa de apuestas Exchange); 10:00 COT"
+    },
+    {
+     "partido": "Bayern Múnich vs Borussia Dortmund",
+     "competencia": "Bundesliga",
+     "seleccion": "Más de 2.5 goles",
+     "mercado": "Total goles",
+     "cuota": 1.29,
+     "resultado_partido": "2-2",
+     "estado": "acierto",
+     "hora": "12:30",
+     "iso": "2026-10-31T12:30:00-05:00",
+     "notas": "promedio de mercado scanodds (10 casas); casa no identificada; 12:30 COT"
+    },
+    {
+     "partido": "Barcelona vs Alavés",
+     "competencia": "LaLiga",
+     "seleccion": "Barcelona gana",
+     "mercado": "1X2",
+     "cuota": 1.09,
+     "resultado_partido": "6-1",
+     "estado": "acierto",
+     "hora": "15:00",
+     "iso": "2026-10-31T15:00:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm (mejor 1.14 una casa de apuestas); 15:00 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Argumento pendiente.",
+    "detalle": "",
+    "origen": "pendiente"
+   }
+  },
+  {
+   "fecha": "2026-10-31",
+   "hora": "",
+   "iso": null,
+   "parley": "P2",
+   "tipo": "conservador",
+   "tipo_nombre": "conservador",
+   "partido": "Parley conservador (P2) · 2 selecciones",
+   "competencia": "Bundesliga · LaLiga",
+   "n_selecciones": 2,
+   "cuota": 1.41,
+   "cuota_registrada": true,
+   "resultado": "acierto",
+   "unidades": 0.41,
+   "selecciones": [
+    {
+     "partido": "Bayern Múnich vs Borussia Dortmund",
+     "competencia": "Bundesliga",
+     "seleccion": "Más de 2.5 goles",
+     "mercado": "Total goles",
+     "cuota": 1.29,
+     "resultado_partido": "2-2",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": ""
+    },
+    {
+     "partido": "Barcelona vs Alavés",
+     "competencia": "LaLiga",
+     "seleccion": "Barcelona gana",
+     "mercado": "1X2",
+     "cuota": 1.09,
+     "resultado_partido": "6-1",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": ""
+    }
+   ],
+   "argumento": {
+    "texto": "Argumento pendiente.",
+    "detalle": "",
+    "origen": "pendiente"
+   }
+  },
+  {
+   "fecha": "2026-11-01",
+   "hora": "09:00",
+   "iso": "2026-11-01T09:00:00-05:00",
+   "parley": "P1",
+   "tipo": "principal",
+   "tipo_nombre": "principal",
+   "partido": "Parley principal (P1) · 3 selecciones",
+   "competencia": "Serie A · LaLiga · Primera A Colombia",
+   "n_selecciones": 3,
+   "cuota": 3.6,
+   "cuota_registrada": true,
+   "resultado": "error",
+   "unidades": -1.0,
+   "selecciones": [
+    {
+     "partido": "Lazio vs Cagliari",
+     "competencia": "Serie A",
+     "seleccion": "Lazio gana",
+     "mercado": "1X2",
+     "cuota": 1.45,
+     "resultado_partido": "2-1",
+     "estado": "acierto",
+     "hora": "09:00",
+     "iso": "2026-11-01T09:00:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm; una casa de apuestas 1.50 según Oddsbunch (no verificada directo); 09:00 COT"
+    },
+    {
+     "partido": "Racing Santander vs Real Madrid",
+     "competencia": "LaLiga",
+     "seleccion": "Ambos marcan: Sí",
+     "mercado": "BTTS",
+     "cuota": 1.59,
+     "resultado_partido": "0-3",
+     "estado": "error",
+     "hora": "10:15",
+     "iso": "2026-11-01T10:15:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm (mejor 1.64 una casa de apuestas); 10:15 COT"
+    },
+    {
+     "partido": "Deportivo Cali vs Boyacá Chicó",
+     "competencia": "Primera A Colombia",
+     "seleccion": "Ambos marcan: No",
+     "mercado": "BTTS",
+     "cuota": 1.56,
+     "resultado_partido": "2-0",
+     "estado": "acierto",
+     "hora": "16:05",
+     "iso": "2026-11-01T16:05:00-05:00",
+     "notas": "cuota una casa de apuestas vía livetipsportal (no es casa de Wesley); 16:05 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Lazio vs Cagliari: Lazio gana — una casa de apuestas vía oddstorm; una casa de apuestas 1.50 según Oddsbunch (no verificada directo); 09:00 COT Deportivo Cali vs Boyacá Chicó: Ambos marcan: No — cuota una casa de apuestas vía livetipsportal (no es casa de Wesley); 16:05 COT",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-01",
+   "hora": "",
+   "iso": null,
+   "parley": "P2",
+   "tipo": "conservador",
+   "tipo_nombre": "conservador",
+   "partido": "Parley conservador (P2) · 2 selecciones",
+   "competencia": "LaLiga · Serie A",
+   "n_selecciones": 2,
+   "cuota": 1.37,
+   "cuota_registrada": true,
+   "resultado": "acierto",
+   "unidades": 0.37,
+   "selecciones": [
+    {
+     "partido": "Racing Santander vs Real Madrid",
+     "competencia": "LaLiga",
+     "seleccion": "Real Madrid gana",
+     "mercado": "1X2",
+     "cuota": 1.2,
+     "resultado_partido": "0-3",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": "una casa de apuestas vía oddstorm; una casa de apuestas 1.27 según Oddsbunch"
+    },
+    {
+     "partido": "Lazio vs Cagliari",
+     "competencia": "Serie A",
+     "seleccion": "Lazio o empate (1X)",
+     "mercado": "Doble oportunidad",
+     "cuota": 1.14,
+     "resultado_partido": "2-1",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": "una casa de apuestas vía oddstorm"
+    }
+   ],
+   "argumento": {
+    "texto": "Racing Santander vs Real Madrid: Real Madrid gana — una casa de apuestas vía oddstorm; una casa de apuestas 1.27 según Oddsbunch",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-02",
+   "hora": "12:30",
+   "iso": "2026-11-02T12:30:00-05:00",
+   "parley": "P1",
+   "tipo": "principal",
+   "tipo_nombre": "principal",
+   "partido": "Parley principal (P1) · 3 selecciones",
+   "competencia": "Serie A · Primera A Colombia",
+   "n_selecciones": 3,
+   "cuota": 3.13,
+   "cuota_registrada": true,
+   "resultado": "error",
+   "unidades": -1.0,
+   "selecciones": [
+    {
+     "partido": "Sassuolo vs Fiorentina",
+     "competencia": "Serie A",
+     "seleccion": "Ambos marcan: Sí",
+     "mercado": "BTTS",
+     "cuota": 1.44,
+     "resultado_partido": "2-4",
+     "estado": "acierto",
+     "hora": "12:30",
+     "iso": "2026-11-02T12:30:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm (mejor 1.50 una casa de apuestas/una casa de apuestas); BTTS en 9 de los últimos 10 de ambos; 12:30 COT"
+    },
+    {
+     "partido": "Atalanta vs Parma",
+     "competencia": "Serie A",
+     "seleccion": "Atalanta gana",
+     "mercado": "1X2",
+     "cuota": 1.46,
+     "resultado_partido": "0-3",
+     "estado": "error",
+     "hora": "14:45",
+     "iso": "2026-11-02T14:45:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm (mejor 1.56 una casa de apuestas); una casa de apuestas 1.55 según Oddsbunch (no verificada directo); 14:45 COT"
+    },
+    {
+     "partido": "Atlético Bucaramanga vs Atlético Nacional",
+     "competencia": "Primera A Colombia",
+     "seleccion": "Bucaramanga o empate (1X)",
+     "mercado": "Doble oportunidad",
+     "cuota": 1.49,
+     "resultado_partido": "1-1",
+     "estado": "acierto",
+     "hora": "20:15",
+     "iso": "2026-11-02T20:15:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm (rango 1.47-1.55; no es casa de Wesley); 20:15 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Sassuolo vs Fiorentina: Ambos marcan: Sí — una casa de apuestas vía oddstorm (mejor 1.50 una casa de apuestas/una casa de apuestas); BTTS en 9 de los últimos 10 de ambos; 12:30 COT Atalanta vs Parma: Atalanta gana — una casa de apuestas vía oddstorm (mejor 1.56 una casa de apuestas); una casa de apuestas 1.55 según Oddsbunch (no verificada directo); 14:45 COT Atlético Bucaramanga vs Atlético Nacional: Bucaramanga o empate (1X) — una casa de apuestas vía oddstorm (rango 1.47-1.55; no es casa de Wesley); 20:15 COT",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-02",
+   "hora": "",
+   "iso": null,
+   "parley": "P2",
+   "tipo": "conservador",
+   "tipo_nombre": "conservador",
+   "partido": "Parley conservador (P2) · 2 selecciones",
+   "competencia": "Serie A",
+   "n_selecciones": 2,
+   "cuota": 1.33,
+   "cuota_registrada": true,
+   "resultado": "error",
+   "unidades": -1.0,
+   "selecciones": [
+    {
+     "partido": "Atalanta vs Parma",
+     "competencia": "Serie A",
+     "seleccion": "Atalanta o empate (1X)",
+     "mercado": "Doble oportunidad",
+     "cuota": 1.15,
+     "resultado_partido": "0-3",
+     "estado": "error",
+     "hora": null,
+     "iso": null,
+     "notas": "una casa de apuestas vía oddstorm"
+    },
+    {
+     "partido": "Sassuolo vs Fiorentina",
+     "competencia": "Serie A",
+     "seleccion": "Más de 1.5 goles",
+     "mercado": "Total goles",
+     "cuota": 1.16,
+     "resultado_partido": "2-4",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": "promedio de mercado calciostats (mejor 1.20); casa no identificada"
+    }
+   ],
+   "argumento": {
+    "texto": "Argumento pendiente.",
+    "detalle": "",
+    "origen": "pendiente"
+   }
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "12:45",
+   "iso": "2026-11-03T12:45:00-05:00",
+   "parley": "P1",
+   "tipo": "principal",
+   "tipo_nombre": "principal",
+   "partido": "Parley principal (P1) · 3 selecciones",
+   "competencia": "Champions League",
+   "n_selecciones": 3,
+   "cuota": 2.54,
+   "cuota_registrada": true,
+   "resultado": "error",
+   "unidades": -1.0,
+   "selecciones": [
+    {
+     "partido": "Barcelona vs Aston Villa",
+     "competencia": "Champions League",
+     "seleccion": "Barcelona gana",
+     "mercado": "1X2",
+     "cuota": 1.26,
+     "resultado_partido": "3-0",
+     "estado": "acierto",
+     "hora": "15:00",
+     "iso": "2026-11-03T15:00:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm; una casa de apuestas 1.30-1.33 según goralbet/ohmytip (no verificada directo); 15:00 COT"
+    },
+    {
+     "partido": "Galatasaray vs VfB Stuttgart",
+     "competencia": "Champions League",
+     "seleccion": "Ambos marcan: Sí",
+     "mercado": "BTTS",
+     "cuota": 1.32,
+     "resultado_partido": "2-0",
+     "estado": "error",
+     "hora": "12:45",
+     "iso": "2026-11-03T12:45:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm (mejor 1.33); Galatasaray BTTS en sus 3 de UCL; 12:45 COT"
+    },
+    {
+     "partido": "Atlético Madrid vs Bayern Múnich",
+     "competencia": "Champions League",
+     "seleccion": "Más de 2.5 goles",
+     "mercado": "Total goles",
+     "cuota": null,
+     "resultado_partido": "0-2",
+     "estado": "error",
+     "hora": "15:00",
+     "iso": "2026-11-03T15:00:00-05:00",
+     "notas": "sin cuota verificada de casas de Wesley; mejor 1.53 una casa de apuestas vía oddstorm; Bayern over 2.5 en 12 de 13; 15:00 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Barcelona vs Aston Villa: Barcelona gana — una casa de apuestas vía oddstorm; una casa de apuestas 1.30-1.33 según goralbet/ohmytip (no verificada directo); 15:00 COT Galatasaray vs VfB Stuttgart: Ambos marcan: Sí — una casa de apuestas vía oddstorm (mejor 1.33); Galatasaray BTTS en sus 3 de UCL; 12:45 COT Atlético Madrid vs Bayern Múnich: Más de 2.5 goles — sin cuota verificada de casas de Wesley; mejor 1.53 una casa de apuestas vía oddstorm; Bayern over 2.5 en 12 de 13; 15:00 COT",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "",
+   "iso": null,
+   "parley": "P2",
+   "tipo": "conservador",
+   "tipo_nombre": "conservador",
+   "partido": "Parley conservador (P2) · 2 selecciones",
+   "competencia": "Champions League",
+   "n_selecciones": 2,
+   "cuota": 1.66,
+   "cuota_registrada": true,
+   "resultado": "error",
+   "unidades": -1.0,
+   "selecciones": [
+    {
+     "partido": "Barcelona vs Aston Villa",
+     "competencia": "Champions League",
+     "seleccion": "Barcelona gana",
+     "mercado": "1X2",
+     "cuota": 1.26,
+     "resultado_partido": "3-0",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": "una casa de apuestas vía oddstorm"
+    },
+    {
+     "partido": "Galatasaray vs VfB Stuttgart",
+     "competencia": "Champions League",
+     "seleccion": "Ambos marcan: Sí",
+     "mercado": "BTTS",
+     "cuota": 1.32,
+     "resultado_partido": "2-0",
+     "estado": "error",
+     "hora": null,
+     "iso": null,
+     "notas": "una casa de apuestas vía oddstorm"
+    }
+   ],
+   "argumento": {
+    "texto": "Argumento pendiente.",
+    "detalle": "",
+    "origen": "pendiente"
+   }
+  },
+  {
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "iso": "2026-11-03T15:00:00-05:00",
+   "parley": "P3",
+   "tipo": "conservador_alt",
+   "tipo_nombre": "conservador alternativo",
+   "partido": "Parley conservador alternativo (P3) · 2 selecciones",
+   "competencia": "Champions League",
+   "n_selecciones": 2,
+   "cuota": 1.75,
+   "cuota_registrada": true,
+   "resultado": "acierto",
+   "unidades": 0.75,
+   "selecciones": [
+    {
+     "partido": "Atlético Madrid vs Bayern Múnich",
+     "competencia": "Champions League",
+     "seleccion": "Bayern o empate (X2)",
+     "mercado": "Doble oportunidad",
+     "cuota": 1.45,
+     "resultado_partido": "0-2",
+     "estado": "acierto",
+     "hora": "15:00",
+     "iso": "2026-11-03T15:00:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm; 15:00 COT; impl 69% vs est ~71%"
+    },
+    {
+     "partido": "Villarreal vs Paris Saint-Germain",
+     "competencia": "Champions League",
+     "seleccion": "PSG o empate (X2)",
+     "mercado": "Doble oportunidad",
+     "cuota": 1.21,
+     "resultado_partido": "0-6",
+     "estado": "acierto",
+     "hora": "15:00",
+     "iso": "2026-11-03T15:00:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm; 15:00 COT; impl 83% vs est ~83% (racha 9 victorias; 3/3 UCL)"
+    }
+   ],
+   "argumento": {
+    "texto": "Atlético Madrid vs Bayern Múnich: Bayern o empate (X2) — una casa de apuestas vía oddstorm; 15:00 COT; impl 69% vs est ~71% Villarreal vs Paris Saint-Germain: PSG o empate (X2) — una casa de apuestas vía oddstorm; 15:00 COT; impl 83% vs est ~83% (racha 9 victorias; 3/3 UCL)",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-04",
+   "hora": "15:00",
+   "iso": "2026-11-04T15:00:00-05:00",
+   "parley": "P1",
+   "tipo": "principal",
+   "tipo_nombre": "principal",
+   "partido": "Parley principal (P1) · 3 selecciones",
+   "competencia": "Champions League",
+   "n_selecciones": 3,
+   "cuota": null,
+   "cuota_registrada": false,
+   "resultado": "acierto",
+   "unidades": null,
+   "selecciones": [
+    {
+     "partido": "Slavia Praga vs Arsenal",
+     "competencia": "Champions League",
+     "seleccion": "Arsenal gana",
+     "mercado": "1X2",
+     "cuota": 1.22,
+     "resultado_partido": "1-2",
+     "estado": "acierto",
+     "hora": "15:00",
+     "iso": "2026-11-04T15:00:00-05:00",
+     "notas": "2/9 bookie UK vía StatBetting (no casa de Wesley); 15:00 COT"
+    },
+    {
+     "partido": "RB Leipzig vs Manchester City",
+     "competencia": "Champions League",
+     "seleccion": "Manchester City gana",
+     "mercado": "1X2",
+     "cuota": 1.55,
+     "resultado_partido": "2-3",
+     "estado": "acierto",
+     "hora": "15:00",
+     "iso": "2026-11-04T15:00:00-05:00",
+     "notas": "11/20 bookie UK vía StatBetting (no casa de Wesley); 15:00 COT"
+    },
+    {
+     "partido": "Borussia Dortmund vs Real Betis",
+     "competencia": "Champions League",
+     "seleccion": "Ambos marcan: Sí",
+     "mercado": "BTTS",
+     "cuota": null,
+     "resultado_partido": "2-1",
+     "estado": "acierto",
+     "hora": "15:00",
+     "iso": "2026-11-04T15:00:00-05:00",
+     "notas": "sin cuota verificada; 15:00 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Borussia Dortmund vs Real Betis: Ambos marcan: Sí — sin cuota verificada; 15:00 COT",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-04",
+   "hora": "12:45",
+   "iso": "2026-11-04T12:45:00-05:00",
+   "parley": "P2",
+   "tipo": "conservador",
+   "tipo_nombre": "conservador",
+   "partido": "Parley conservador (P2) · 2 selecciones",
+   "competencia": "Champions League",
+   "n_selecciones": 2,
+   "cuota": null,
+   "cuota_registrada": false,
+   "resultado": "acierto",
+   "unidades": null,
+   "selecciones": [
+    {
+     "partido": "Slavia Praga vs Arsenal",
+     "competencia": "Champions League",
+     "seleccion": "Arsenal gana",
+     "mercado": "1X2",
+     "cuota": 1.22,
+     "resultado_partido": "1-2",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": "2/9 vía StatBetting"
+    },
+    {
+     "partido": "AEK Atenas vs Real Madrid",
+     "competencia": "Champions League",
+     "seleccion": "Real Madrid o empate (X2)",
+     "mercado": "Doble oportunidad",
+     "cuota": null,
+     "resultado_partido": "2-3",
+     "estado": "acierto",
+     "hora": "12:45",
+     "iso": "2026-11-04T12:45:00-05:00",
+     "notas": "sin cuota verificada; 12:45 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Slavia Praga vs Arsenal: Arsenal gana — 2/9 vía StatBetting AEK Atenas vs Real Madrid: Real Madrid o empate (X2) — sin cuota verificada; 12:45 COT",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-05",
+   "hora": "12:45",
+   "iso": "2026-11-05T12:45:00-05:00",
+   "parley": "P1",
+   "tipo": "principal",
+   "tipo_nombre": "principal",
+   "partido": "Parley principal (P1) · 4 selecciones",
+   "competencia": "Europa League",
+   "n_selecciones": 4,
+   "cuota": 2.25,
+   "cuota_registrada": true,
+   "resultado": "error",
+   "unidades": -1.0,
+   "selecciones": [
+    {
+     "partido": "Bayer Leverkusen vs Marseille",
+     "competencia": "Europa League",
+     "seleccion": "Leverkusen gana",
+     "mercado": "1X2",
+     "cuota": 1.33,
+     "resultado_partido": "0-1",
+     "estado": "error",
+     "hora": "15:00",
+     "iso": "2026-11-05T15:00:00-05:00",
+     "notas": "promedio de mercado oddsmath (no casa de Wesley); 15:00 COT"
+    },
+    {
+     "partido": "Sparta Praga vs Bournemouth",
+     "competencia": "Europa League",
+     "seleccion": "Bournemouth gana",
+     "mercado": "1X2",
+     "cuota": 1.46,
+     "resultado_partido": "1-3",
+     "estado": "acierto",
+     "hora": "12:45",
+     "iso": "2026-11-05T12:45:00-05:00",
+     "notas": "promedio oddsmath; 12:45 COT"
+    },
+    {
+     "partido": "Benfica vs Lech Poznan",
+     "competencia": "Europa League",
+     "seleccion": "Benfica gana",
+     "mercado": "1X2",
+     "cuota": 1.16,
+     "resultado_partido": "3-1",
+     "estado": "acierto",
+     "hora": "15:00",
+     "iso": "2026-11-05T15:00:00-05:00",
+     "notas": "promedio oddsmath; 15:00 COT"
+    },
+    {
+     "partido": "Crystal Palace vs Hoffenheim",
+     "competencia": "Europa League",
+     "seleccion": "Más de 2.5 goles",
+     "mercado": "Total goles",
+     "cuota": null,
+     "resultado_partido": "1-1",
+     "estado": "error",
+     "hora": "12:45",
+     "iso": "2026-11-05T12:45:00-05:00",
+     "notas": "sin cuota verificada; total sin esta selección; 12:45 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Bayer Leverkusen vs Marseille: Leverkusen gana — promedio de mercado oddsmath (no casa de Wesley); 15:00 COT Sparta Praga vs Bournemouth: Bournemouth gana — promedio oddsmath; 12:45 COT Benfica vs Lech Poznan: Benfica gana — promedio oddsmath; 15:00 COT Crystal Palace vs Hoffenheim: Más de 2.5 goles — sin cuota verificada; total sin esta selección; 12:45 COT",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-05",
+   "hora": "12:45",
+   "iso": "2026-11-05T12:45:00-05:00",
+   "parley": "P2",
+   "tipo": "conservador",
+   "tipo_nombre": "conservador",
+   "partido": "Parley conservador (P2) · 2 selecciones",
+   "competencia": "Europa League",
+   "n_selecciones": 2,
+   "cuota": 1.57,
+   "cuota_registrada": true,
+   "resultado": "error",
+   "unidades": -1.0,
+   "selecciones": [
+    {
+     "partido": "Benfica vs Lech Poznan",
+     "competencia": "Europa League",
+     "seleccion": "Benfica gana",
+     "mercado": "1X2",
+     "cuota": 1.16,
+     "resultado_partido": "3-1",
+     "estado": "acierto",
+     "hora": null,
+     "iso": null,
+     "notas": "promedio oddsmath"
+    },
+    {
+     "partido": "AC Milan vs Ferencvaros",
+     "competencia": "Europa League",
+     "seleccion": "Milan gana",
+     "mercado": "1X2",
+     "cuota": 1.35,
+     "resultado_partido": "0-2",
+     "estado": "error",
+     "hora": "12:45",
+     "iso": "2026-11-05T12:45:00-05:00",
+     "notas": "promedio oddsmath; 12:45 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Benfica vs Lech Poznan: Benfica gana — promedio oddsmath AC Milan vs Ferencvaros: Milan gana — promedio oddsmath; 12:45 COT",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-07",
+   "hora": "09:30",
+   "iso": "2026-11-07T09:30:00-05:00",
+   "parley": "P1",
+   "tipo": "principal",
+   "tipo_nombre": "principal",
+   "partido": "Parley principal (P1) · 4 selecciones",
+   "competencia": "Bundesliga · Premier League · Ligue 1 · Primera A Colombia",
+   "n_selecciones": 4,
+   "cuota": 2.06,
+   "cuota_registrada": true,
+   "resultado": "acierto",
+   "unidades": 1.06,
+   "selecciones": [
+    {
+     "partido": "Mainz vs Bayern Múnich",
+     "competencia": "Bundesliga",
+     "seleccion": "Ambos marcan: Sí",
+     "mercado": "BTTS",
+     "cuota": 1.4,
+     "resultado_partido": "1-2",
+     "estado": "acierto",
+     "hora": "09:30",
+     "iso": "2026-11-07T09:30:00-05:00",
+     "notas": "una casa de apuestas vía telecomasia (no casa de Wesley); BTTS 9 de 10 H2H; 09:30 COT"
+    },
+    {
+     "partido": "Arsenal vs Hull City",
+     "competencia": "Premier League",
+     "seleccion": "Arsenal gana",
+     "mercado": "1X2",
+     "cuota": 1.11,
+     "resultado_partido": "1-0",
+     "estado": "acierto",
+     "hora": "10:00",
+     "iso": "2026-11-07T10:00:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm; 10:00 COT"
+    },
+    {
+     "partido": "PSG vs Troyes",
+     "competencia": "Ligue 1",
+     "seleccion": "PSG gana",
+     "mercado": "1X2",
+     "cuota": 1.15,
+     "resultado_partido": "1-0",
+     "estado": "acierto",
+     "hora": "15:05",
+     "iso": "2026-11-07T15:05:00-05:00",
+     "notas": "una casa de apuestas vía telecomasia (no casa de Wesley); 15:05 COT"
+    },
+    {
+     "partido": "Atlético Nacional vs Deportivo Pereira",
+     "competencia": "Primera A Colombia",
+     "seleccion": "Nacional gana",
+     "mercado": "1X2",
+     "cuota": 1.15,
+     "resultado_partido": "4-3",
+     "estado": "acierto",
+     "hora": "18:10",
+     "iso": "2026-11-07T18:10:00-05:00",
+     "notas": "cuota wincomparator (casa no identificada); 18:10 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Mainz vs Bayern Múnich: Ambos marcan: Sí — una casa de apuestas vía telecomasia (no casa de Wesley); BTTS 9 de 10 H2H; 09:30 COT PSG vs Troyes: PSG gana — una casa de apuestas vía telecomasia (no casa de Wesley); 15:05 COT Atlético Nacional vs Deportivo Pereira: Nacional gana — cuota wincomparator (casa no identificada); 18:10 COT",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-07",
+   "hora": "09:30",
+   "iso": "2026-11-07T09:30:00-05:00",
+   "parley": "P2",
+   "tipo": "conservador",
+   "tipo_nombre": "conservador",
+   "partido": "Parley conservador (P2) · 2 selecciones",
+   "competencia": "Bundesliga · Ligue 1",
+   "n_selecciones": 2,
+   "cuota": 1.46,
+   "cuota_registrada": true,
+   "resultado": "acierto",
+   "unidades": 0.46,
+   "selecciones": [
+    {
+     "partido": "Mainz vs Bayern Múnich",
+     "competencia": "Bundesliga",
+     "seleccion": "Más de 2.5 goles",
+     "mercado": "Total goles",
+     "cuota": 1.27,
+     "resultado_partido": "1-2",
+     "estado": "acierto",
+     "hora": "09:30",
+     "iso": "2026-11-07T09:30:00-05:00",
+     "notas": "mejor cuota oddstorm (casa no identificada); 18 H2H seguidos con over; 09:30 COT"
+    },
+    {
+     "partido": "PSG vs Troyes",
+     "competencia": "Ligue 1",
+     "seleccion": "PSG gana",
+     "mercado": "1X2",
+     "cuota": 1.15,
+     "resultado_partido": "1-0",
+     "estado": "acierto",
+     "hora": "15:05",
+     "iso": "2026-11-07T15:05:00-05:00",
+     "notas": "una casa de apuestas vía telecomasia; 15:05 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Mainz vs Bayern Múnich: Más de 2.5 goles — mejor cuota oddstorm (casa no identificada); 18 H2H seguidos con over; 09:30 COT",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-08",
+   "hora": "09:00",
+   "iso": "2026-11-08T09:00:00-05:00",
+   "parley": "P1",
+   "tipo": "principal",
+   "tipo_nombre": "principal",
+   "partido": "Parley principal (P1) · 4 selecciones",
+   "competencia": "Premier League · Serie A · Bundesliga · LaLiga",
+   "n_selecciones": 4,
+   "cuota": 2.25,
+   "cuota_registrada": true,
+   "resultado": "acierto",
+   "unidades": 1.25,
+   "selecciones": [
+    {
+     "partido": "Crystal Palace vs Liverpool",
+     "competencia": "Premier League",
+     "seleccion": "Liverpool o empate (X2)",
+     "mercado": "Doble oportunidad",
+     "cuota": 1.16,
+     "resultado_partido": "1-3",
+     "estado": "acierto",
+     "hora": "09:00",
+     "iso": "2026-11-08T09:00:00-05:00",
+     "notas": "una casa de apuestas vía oddstorm (mejor 1.19 una casa de apuestas Exchange; una casa de apuestas/una casa de apuestas 1.18); Palace sin Mateta (sanción) ni Sarr; 09:00 COT"
+    },
+    {
+     "partido": "Inter vs Como",
+     "competencia": "Serie A",
+     "seleccion": "Más de 1.5 goles",
+     "mercado": "Total goles",
+     "cuota": 1.18,
+     "resultado_partido": "2-0",
+     "estado": "acierto",
+     "hora": "12:00",
+     "iso": "2026-11-08T12:00:00-05:00",
+     "notas": "mejor cuota una casa de apuestas/una casa de apuestas vía oddstorm (no casa de Wesley); Inter nunca en blanco en casa (0/9); 12:00 COT"
+    },
+    {
+     "partido": "Hoffenheim vs Schalke 04",
+     "competencia": "Bundesliga",
+     "seleccion": "Hoffenheim o empate (1X)",
+     "mercado": "Doble oportunidad",
+     "cuota": 1.2,
+     "resultado_partido": "2-1",
+     "estado": "acierto",
+     "hora": "13:30",
+     "iso": "2026-11-08T13:30:00-05:00",
+     "notas": "mejor cuota una casa de apuestas Exchange vía oddstorm (no casa de Wesley); Schalke 420 min sin marcar; 13:30 COT"
+    },
+    {
+     "partido": "Atlético de Madrid vs Barcelona",
+     "competencia": "LaLiga",
+     "seleccion": "Más de 2.5 goles",
+     "mercado": "Total goles",
+     "cuota": 1.37,
+     "resultado_partido": "1-2",
+     "estado": "acierto",
+     "hora": "15:00",
+     "iso": "2026-11-08T15:00:00-05:00",
+     "notas": "mejor cuota una casa de apuestas/una casa de apuestas vía oddstorm (una casa de apuestas no listada); 5 de últimos 6 H2H con over 2.5; 15:00 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Crystal Palace vs Liverpool: Liverpool o empate (X2) — una casa de apuestas vía oddstorm (mejor 1.19 una casa de apuestas Exchange; una casa de apuestas/una casa de apuestas 1.18); Palace sin Mateta (sanción) ni Sarr; 09:00 COT Inter vs Como: Más de 1.5 goles — mejor cuota una casa de apuestas/una casa de apuestas vía oddstorm (no casa de Wesley); Inter nunca en blanco en casa (0/9); 12:00 COT Hoffenheim vs Schalke 04: Hoffenheim o empate (1X) — mejor cuota una casa de apuestas Exchange vía oddstorm (no casa de Wesley); Schalke 420 min sin marcar; 13:30 COT Atlético de Madrid vs Barcelona: Más de 2.5 goles — mejor cuota una casa de apuestas/una casa de apuestas vía oddstorm (una casa de apuestas no listada); 5 de últimos 6 H2H con over 2.5; 15:00 COT",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-08",
+   "hora": "12:00",
+   "iso": "2026-11-08T12:00:00-05:00",
+   "parley": "P2",
+   "tipo": "conservador",
+   "tipo_nombre": "conservador",
+   "partido": "Parley conservador (P2) · 2 selecciones",
+   "competencia": "Serie A · LaLiga",
+   "n_selecciones": 2,
+   "cuota": 1.32,
+   "cuota_registrada": true,
+   "resultado": "acierto",
+   "unidades": 0.32,
+   "selecciones": [
+    {
+     "partido": "Inter vs Como",
+     "competencia": "Serie A",
+     "seleccion": "Más de 1.5 goles",
+     "mercado": "Total goles",
+     "cuota": 1.18,
+     "resultado_partido": "2-0",
+     "estado": "acierto",
+     "hora": "12:00",
+     "iso": "2026-11-08T12:00:00-05:00",
+     "notas": "mejor cuota oddstorm; 12:00 COT"
+    },
+    {
+     "partido": "Atlético de Madrid vs Barcelona",
+     "competencia": "LaLiga",
+     "seleccion": "Más de 1.5 goles",
+     "mercado": "Total goles",
+     "cuota": 1.12,
+     "resultado_partido": "1-2",
+     "estado": "acierto",
+     "hora": "15:00",
+     "iso": "2026-11-08T15:00:00-05:00",
+     "notas": "mejor cuota una casa de apuestas Exchange vía oddstorm (promedio mercado 1.08 soccerstat); 15:00 COT"
+    }
+   ],
+   "argumento": {
+    "texto": "Argumento pendiente.",
+    "detalle": "",
+    "origen": "pendiente"
+   }
+  }
+ ]
+}

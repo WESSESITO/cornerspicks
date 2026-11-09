@@ -49,14 +49,18 @@ const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLo
   .split(/\s+/).filter(w=>w&&!['fc','cf','sc','ac','cd','ca','club','de','la','el','the','afc','fk','sk','sv','ec','se','u'].includes(w));
 function sameTeam(a,b){const A=norm(a),B=norm(b);if(!A.length||!B.length)return false;const ja=A.join(' '),jb=B.join(' ');
   if(ja===jb||ja.includes(jb)||jb.includes(ja))return true;return A.some(w=>w.length>=4&&B.some(v=>v===w||(v.length>=5&&w.length>=5&&(v.startsWith(w.slice(0,5))))));}
-function linea(b,p){if(p.linea!=null&&p.senal)return{tipo:p.senal==='MENOS'?'menos':'mas',l:+String(p.linea).replace(',','.')};
-  const m=/más de (\d+)[,.](\d)/i.exec(b.mercado||'');if(m&&!/minuto/i.test(b.mercado))return{tipo:'mas',l:+(m[1]+'.'+m[2])};
-  if(/minuto 10|antes del minuto/i.test(b.mercado||''))return{tipo:'10min'};return null;}
-function collectPicks(d){const out=[],today=lDay(new Date().toISOString());
-  d.bots.forEach(b=>[...b.pendientes,...(b.hoy_cerradas||[])].forEach(p=>{if(!p.iso)return;
-    const t=Date.parse(p.iso);if(isNaN(t))return;if(Date.now()-t>POST+6*3600e3)return;
-    const [l,v]=String(p.partido).split(/\s+vs\.?\s+/i);
-    out.push({bot:b.nombre,botId:b.bot,mercado:b.mercado,partido:p.partido,local:l,visita:v||'',iso:p.iso,t,comp:p.competencia,espn:p.espn_id||null,ln:linea(b,p),marcas:p.marcas||[]});}));
+function linea(b,p){const src=(p.mercado||'')+' '+(b.mercado||'');
+  const m=/más de (\d+)[,.](\d)/i.exec(src);if(m)return{tipo:'mas',l:+(m[1]+'.'+m[2])};return null;}
+function collectPicks(d){const out=[];
+  const add=(b,p,partido,iso,extra={})=>{
+    if(!iso)return;const t=Date.parse(iso);if(isNaN(t))return;if(Date.now()-t>POST+6*3600e3)return;
+    const [l,v]=String(partido).split(/\s+vs\.?\s+/i);
+    out.push({bot:b.nombre,botId:b.bot,mercado:extra.mercado||b.mercado,partido,local:l,visita:v||'',iso,t,
+      comp:extra.comp||p.competencia,espn:extra.espn||p.espn_id||null,ln:linea(b,Object.assign({},p,extra)),marcas:p.marcas||[]});};
+  d.bots.forEach(b=>[...b.pendientes,...(b.hoy_cerradas||[])].forEach(p=>{
+    if(p.selecciones&&p.selecciones.length)p.selecciones.forEach(s=>add(b,p,s.partido,s.iso,{mercado:s.seleccion+(s.mercado?' · '+s.mercado:''),comp:s.competencia,espn:s.espn_id}));
+    else add(b,p,p.partido,p.iso);
+  }));
   return out.sort((a,b)=>a.t-b.t);}
 const inWindow=p=>{const n=Date.now();return n>=p.t-PRE&&n<=p.t+POST;};
 
@@ -82,7 +86,7 @@ const SIM={t0:Date.now(),m:[
 function simPicks(d){const b=Object.fromEntries(d.bots.map(x=>[x.bot,x]));const now=Date.now();
   const mk=(id,bot,i,mins)=>{const B=b[bot]||{nombre:bot,mercado:''},m=SIM.m[i];return{bot:B.nombre,botId:bot,mercado:B.mercado,partido:`${m.local.nombre} vs ${m.visita.nombre}`,local:m.local.nombre,visita:m.visita.nombre,
     iso:new Date(now-mins*60e3).toISOString(),t:now-mins*60e3,comp:'Liga de simulación',espn:id,ln:linea(B,{}),marcas:[],sim:true};};
-  return[mk('sim1','over_corners',0,52),mk('sim2','corners_10min',1,4),mk('sim3','over_corners',2,78),
+  return[mk('sim1','over_corners',0,52),mk('sim2','over_corners',1,4),mk('sim3','over_corners',2,78),
     {...mk('sim4','over_corners',0,-95),partido:'Equipo Uno Demo vs Equipo Dos Demo',local:'Equipo Uno Demo',visita:'Equipo Dos Demo',espn:'sim4'}];}
 let simTick=0;
 function fetchSim(){simTick++;const out=SIM.m.map((m,i)=>{m.min=Math.min(90,m.min+1);
@@ -98,12 +102,9 @@ function match(p,list){if(p.espn){const x=list.find(e=>String(e.id)===String(p.e
     if(sameTeam(p.local,e.visita.nombre)&&sameTeam(p.visita,e.local.nombre))return{e,inv:true};}
   return null;}
 function pickEstado(p,tot,e){const ln=p.ln;if(!ln)return esc(p.mercado);
-  if(ln.tipo==='10min'){const mi=e?parseInt(e.minuto,10):NaN;
-    if(e&&(e.estado==='post'||e.descanso||mi>=10))return 'Al menos 1 córner antes del minuto 10 · ventana cerrada (el resultado lo confirma el bot)';
-    return `Al menos 1 córner antes del minuto 10${tot!=null&&e&&e.estado==='in'?` · llevan ${tot}`:''}`;}
   const need=Math.floor(ln.l)+1;
   if(ln.tipo==='mas')return tot==null?`Más de ${nf(ln.l,1)} córners`:tot>ln.l?`Más de ${nf(ln.l,1)} · ✅ ya superó la línea (${tot})`:`Más de ${nf(ln.l,1)} · faltan <b>${need-tot}</b> (${tot} de ${need})`;
-  return tot==null?`Menos de ${nf(ln.l,1)} córners`:`Menos de ${nf(ln.l,1)} · llevan ${tot}`;}
+  return esc(p.mercado);}
 
 /* ---------- Pintar ---------- */
 function render(){const live=[],next=[];const groups={};

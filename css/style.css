@@ -200,3 +200,7 @@ nav.main a.live:hover,nav.main a.live.on{color:#06110a;background:var(--neon)}
 @media(prefers-reduced-motion:reduce){.cornerfx.go .fxbox,.cornerfx.go .flag,.cornerfx .cloth,.match.flash,.livestat .dot{animation:none}}
 /* Menú con 8 enlaces: en tabletas/ventanas angostas solo el logo y enlaces más compactos */
 @media(max-width:1000px) and (min-width:821px){.brand span{display:none}nav.main a{padding:6px 6px;font-size:.78rem}}
+
+.pick .legs{margin:8px 0 0;padding:0;list-style:none}
+.pick .legs li{padding:6px 0;border-top:1px solid var(--line);font-size:.86rem;line-height:1.4}
+.tablewrap td br{display:block;margin-top:2px}

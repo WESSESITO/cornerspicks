@@ -1,28 +1,19 @@
 #!/usr/bin/env bash
 # Actualización de un solo paso del sitio CórnersPicks.
-# 1) Copia el registro vivo del Bot Corners 10 Minutos (si es más reciente)
+# 1) Copia el registro vivo de Parley Picks (si es más reciente)
 # 2) Regenera data/*.json (incluye data/picks_del_dia.json)
 # 3) Si hay cambios: git add -A, commit "Actualización <fecha hora Bogotá>" y push (sin force)
 set -euo pipefail
 cd "$(dirname "$0")"
 export TZ=America/Bogota
-LIVE=/workspace/corners/picks_log.csv
-DST=../site-data/corners_10min.csv
-if [[ -f "$LIVE" && ( ! -f "$DST" || "$LIVE" -nt "$DST" ) ]]; then
-  cp -p "$LIVE" "$DST" && echo "Copiado $LIVE -> $DST"
+PARLEY=/workspace/parley_picks/registro_parleys.csv
+PDST=../site-data/parley_picks.csv
+if [[ -f "$PARLEY" && ( ! -f "$PDST" || "$PARLEY" -nt "$PDST" ) ]]; then
+  cp -p "$PARLEY" "$PDST" && echo "Copiado $PARLEY -> $PDST"
 fi
 git config --get credential.https://github.com.helper >/dev/null 2>&1 || gh auth setup-git
-VIVO=/workspace/corners/registro.csv          # Cornes en Vivo (no confundir con picks_log.csv ni registro_corners.csv)
-VDST=../site-data/corners_vivo.csv
-if [[ -f "$VIVO" && ( ! -f "$VDST" || "$VIVO" -nt "$VDST" ) ]]; then
-  cp -p "$VIVO" "$VDST" && echo "Copiado $VIVO -> $VDST"
-fi
-ARGS=/workspace/corners/picks_argumentos.csv
-ADST=../site-data/corners_10min_argumentos.csv
-if [[ -f "$ARGS" && ( ! -f "$ADST" || "$ARGS" -nt "$ADST" ) ]]; then
-  cp -p "$ARGS" "$ADST" && echo "Copiado $ARGS -> $ADST"
-fi
 [[ -f ../site-data/over_corners.csv ]] || echo "AVISO: falta ../site-data/over_corners.csv (Picksters Over Córners)"
+[[ -f ../site-data/parley_picks.csv ]] || echo "AVISO: falta ../site-data/parley_picks.csv (Parley Picks)"
 python3 build_data.py
 if [[ -n "$(git status --porcelain)" ]]; then
   STAMP="$(date '+%Y-%m-%d %H:%M') (hora Bogotá)"
