@@ -2,8 +2,8 @@
  "bot": "parley_picks",
  "nombre": "Parley Picks",
  "mercado": "Parley diario de fútbol (3 a 4 selecciones): resultado, ambos marcan, doble oportunidad o total de goles",
- "generado": "2026-11-09 17:13",
- "generado_iso": "2026-11-09T17:13:00-05:00",
+ "generado": "2026-11-09 17:14",
+ "generado_iso": "2026-11-09T17:14:00-05:00",
  "fuente_csv": "site-data/parley_picks.csv",
  "fuente_drive": "site-data/parley_picks_drive.csv",
  "resumen": {

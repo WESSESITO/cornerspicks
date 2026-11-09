@@ -280,9 +280,8 @@ def load_drive_parley():
 def cuota_desde_drive(drv):
     """Usa la cuota de Drive solo si las notas no dicen que no hay cuota total.
 
-    El 4 nov la columna tiene 1,75 pero las notas dicen «Sin cuota total»; eso no se usa.
-    El 27 oct las notas de Drive documentan un límite inferior; si el CSV del bot
-    ya trae cuota combinada, esa cifra gana.
+    Si las notas de Drive dicen «Sin cuota total», no se usa el número de la columna.
+    Si el CSV del bot ya trae cuota combinada, esa cifra gana (p. ej. el 27 oct).
     """
     if not drv:
         return None, None, None
