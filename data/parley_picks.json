@@ -2,37 +2,37 @@
  "bot": "parley_picks",
  "nombre": "Parley Picks",
  "mercado": "Parley diario de fútbol (3 a 4 selecciones): resultado, ambos marcan, doble oportunidad o total de goles",
- "generado": "2026-11-16 06:27",
- "generado_iso": "2026-11-16T06:27:00-05:00",
+ "generado": "2026-11-19 06:02",
+ "generado_iso": "2026-11-19T06:02:00-05:00",
  "fuente_csv": "site-data/parley_picks.csv",
  "fuente_drive": "site-data/parley_picks_drive.csv",
  "resumen": {
-  "resueltas": 34,
-  "aciertos": 22,
-  "errores": 12,
-  "pct": 64.71,
-  "unidades": 6.82,
-  "roi": 20.06,
-  "cuota_media": 2.04,
-  "total": 36,
-  "pendientes": 2,
+  "resueltas": 36,
+  "aciertos": 23,
+  "errores": 13,
+  "pct": 63.89,
+  "unidades": 6.87,
+  "roi": 19.08,
+  "cuota_media": 2.03,
+  "total": 37,
+  "pendientes": 1,
   "otros": 0,
-  "con_cuota": 34,
+  "con_cuota": 36,
   "sin_cuota": 0
  },
  "resumen_selecciones": {
-  "resueltas": 82,
-  "aciertos": 68,
-  "errores": 14,
-  "pct": 82.93,
+  "resueltas": 86,
+  "aciertos": 71,
+  "errores": 15,
+  "pct": 82.56,
   "unidades": 0.0,
   "roi": null,
   "cuota_media": 1.34,
-  "total": 86,
-  "pendientes": 4,
+  "total": 87,
+  "pendientes": 1,
   "otros": 0,
   "con_cuota": 0,
-  "sin_cuota": 82
+  "sin_cuota": 86
  },
  "por_tipo": [
   {
@@ -59,8 +59,8 @@
    "unidades": 0.4,
    "roi": 2.86,
    "cuota_media": 1.51,
-   "total": 15,
-   "pendientes": 1,
+   "total": 14,
+   "pendientes": 0,
    "otros": 0,
    "con_cuota": 14,
    "sin_cuota": 0
@@ -84,33 +84,33 @@
  "por_mercado": [
   {
    "grupo": "1X2",
-   "resueltas": 27,
-   "aciertos": 23,
+   "resueltas": 28,
+   "aciertos": 24,
    "errores": 4,
-   "pct": 85.19,
+   "pct": 85.71,
    "unidades": 0.0,
    "roi": null,
    "cuota_media": 1.28,
-   "total": 27,
+   "total": 28,
    "pendientes": 0,
    "otros": 0,
    "con_cuota": 0,
-   "sin_cuota": 27
+   "sin_cuota": 28
   },
   {
    "grupo": "Total goles",
-   "resueltas": 25,
-   "aciertos": 23,
+   "resueltas": 26,
+   "aciertos": 24,
    "errores": 2,
-   "pct": 92.0,
+   "pct": 92.31,
    "unidades": 0.0,
    "roi": null,
    "cuota_media": 1.26,
-   "total": 27,
-   "pendientes": 2,
+   "total": 26,
+   "pendientes": 0,
    "otros": 0,
    "con_cuota": 0,
-   "sin_cuota": 25
+   "sin_cuota": 26
   },
   {
    "grupo": "Doble oportunidad",
@@ -158,6 +158,21 @@
    "sin_cuota": 4
   },
   {
+   "grupo": "Ambos marcan",
+   "resueltas": 2,
+   "aciertos": 1,
+   "errores": 1,
+   "pct": 50.0,
+   "unidades": 0.0,
+   "roi": null,
+   "cuota_media": 1.28,
+   "total": 2,
+   "pendientes": 0,
+   "otros": 0,
+   "con_cuota": 0,
+   "sin_cuota": 2
+  },
+  {
    "grupo": "Apuesta sin empate",
    "resueltas": 1,
    "aciertos": 1,
@@ -173,7 +188,7 @@
    "sin_cuota": 1
   },
   {
-   "grupo": "Ambos marcan",
+   "grupo": "Resultado + total goles",
    "resueltas": 0,
    "aciertos": 0,
    "errores": 0,
@@ -181,8 +196,8 @@
    "unidades": 0.0,
    "roi": null,
    "cuota_media": null,
-   "total": 2,
-   "pendientes": 2,
+   "total": 1,
+   "pendientes": 1,
    "otros": 0,
    "con_cuota": 0,
    "sin_cuota": 0
@@ -358,11 +373,30 @@
    "acum_aciertos": 22,
    "acum_pct": 64.71,
    "acum_unidades": 6.82
+  },
+  {
+   "fecha": "2026-11-16",
+   "dia_picks": 1,
+   "dia_aciertos": 0,
+   "dia_unidades": -1.0,
+   "acum_resueltas": 35,
+   "acum_aciertos": 22,
+   "acum_pct": 62.86,
+   "acum_unidades": 5.82
+  },
+  {
+   "fecha": "2026-11-18",
+   "dia_picks": 1,
+   "dia_aciertos": 1,
+   "dia_unidades": 1.05,
+   "acum_resueltas": 36,
+   "acum_aciertos": 23,
+   "acum_pct": 63.89,
+   "acum_unidades": 6.87
   }
  ],
  "pendientes_lista": [
-  "Parley muy_conservador (P1) · 2 selecciones",
-  "Parley conservador (P2) · 2 selecciones"
+  "Parley muy_conservador (P1) · 1 selección"
  ],
  "avisos": [
   "2026-11-15 P2: está en la hoja de Drive y no en el CSV del bot; no se añade (no se mezclan fuentes de selecciones)",
@@ -2148,8 +2182,8 @@
    "cuota": 1.64,
    "cuota_registrada": true,
    "cuota_origen": "csv",
-   "resultado": "pendiente",
-   "unidades": null,
+   "resultado": "error",
+   "unidades": -1.0,
    "selecciones": [
     {
      "partido": "Somalia vs Ghana",
@@ -2157,11 +2191,11 @@
      "seleccion": "Ambos marcan: No",
      "mercado": "Ambos marcan",
      "cuota": 1.31,
-     "resultado_partido": "",
-     "estado": "pendiente",
+     "resultado_partido": "0-1",
+     "estado": "acierto",
      "hora": "10:00",
      "iso": "2026-11-16T10:00:00-05:00",
-     "notas": "una casa de apuestas 1.31 vía oddixo (08:09 UTC); 10:00 COT (Ghana, sede ghanesa); Somalia 4 goles en últimos 10 (7 sin marcar), 1 gol en 4 de clasificación, 1 tiro a puerta/partido; Ghana le ganó 2-0 el jueves; contra: Ghana recibió 4 de Gambia y rota (Partey y Yirenkyi en duda); impl 76% vs est ~83% (mín 1.20); una casa de apuestas P1 1.5u ($45.000)"
+     "notas": "una casa de apuestas 1.31 vía oddixo (08:09 UTC); 10:00 COT (Ghana, sede ghanesa); Somalia 4 goles en últimos 10 (7 sin marcar), 1 gol en 4 de clasificación, 1 tiro a puerta/partido; Ghana le ganó 2-0 el jueves; contra: Ghana recibió 4 de Gambia y rota (Partey y Yirenkyi en duda); impl 76% vs est ~83% (mín 1.20); una casa de apuestas P1 1.5u ($45.000). Cobertura no se colocó. P2 (Grecia–Serbia y Macedonia del Norte–Eslovenia @1.89, $20.100) no se jugó. Neto del día: −$45.000 (−1.5 u). El guardado se mantiene en $20.100."
     },
     {
      "partido": "Lituania vs Liechtenstein",
@@ -2169,62 +2203,97 @@
      "seleccion": "Ambos marcan: No",
      "mercado": "Ambos marcan",
      "cuota": 1.25,
-     "resultado_partido": "",
-     "estado": "pendiente",
+     "resultado_partido": "2-1",
+     "estado": "error",
      "hora": "12:00",
      "iso": "2026-11-16T12:00:00-05:00",
-     "notas": "1.25 una casa de apuestas vía oddixo, mejor 1.29-1.30 (Sky Bet); no verificada en sus casas; 12:00 COT; Liechtenstein sin marcar en sus últimos 5 (2 goles en 10) y 0 goles en la UNL; Lituania 5 porterías a cero en 10; contra: Lituania sin Kucys (sanción) y 0-0 con Surinam; impl 80% vs est ~85% (mín 1.18); una casa de apuestas 1.5u ($45.000); cobertura sugerida 0.45u ($13.500) a Ambos marcan Sí @3.50 de ejemplo (no verificada; mín 3.00), solo si Somalia-Ghana ya ganó y antes de las 12:00 COT"
+     "notas": "1.25 una casa de apuestas vía oddixo, mejor 1.29-1.30 (Sky Bet); no verificada en sus casas; 12:00 COT; Liechtenstein sin marcar en sus últimos 5 (2 goles en 10) y 0 goles en la UNL; Lituania 5 porterías a cero en 10; contra: Lituania sin Kucys (sanción) y 0-0 con Surinam; impl 80% vs est ~85% (mín 1.18); una casa de apuestas 1.5u ($45.000); cobertura sugerida 0.45u ($13.500) a Ambos marcan Sí @3.50 de ejemplo (no verificada; mín 3.00), solo si Somalia-Ghana ya ganó y antes de las 12:00 COT. Cobertura no se colocó. P2 (Grecia–Serbia y Macedonia del Norte–Eslovenia @1.89, $20.100) no se jugó. Neto del día: −$45.000 (−1.5 u). El guardado se mantiene en $20.100."
     }
    ],
    "argumento": {
-    "texto": "Somalia vs Ghana: Ambos marcan: No — una casa de apuestas 1.31 vía oddixo (08:09 UTC); 10:00 COT (Ghana, sede ghanesa); Somalia 4 goles en últimos 10 (7 sin marcar), 1 gol en 4 de clasificación, 1 tiro a puerta/partido; Ghana le ganó 2-0 el jueves; contra: Ghana recibió 4 de Gambia y rota (Partey y Yirenkyi en duda); impl 76% vs est ~83% (mín 1.20); una casa de apuestas P1 1.5u ($45.000) Lituania vs Liechtenstein: Ambos marcan: No — 1.25 una casa de apuestas vía oddixo, mejor 1.29-1.30 (Sky Bet); no verificada en sus casas; 12:00 COT; Liechtenstein sin marcar en sus últimos 5 (2 goles en 10) y 0 goles en la UNL; Lituania 5 porterías a cero en 10; contra: Lituania sin Kucys (sanción) y 0-0 con Surinam; impl 80% vs est ~85% (mín 1.18); una casa de apuestas 1.5u ($45.000); cobertura sugerida 0.45u ($13.500) a Ambos marcan Sí @3.50 de ejemplo (no verificada; mín 3.00), solo si Somalia-Ghana ya ganó y antes de las 12:00 COT",
+    "texto": "Somalia vs Ghana: Ambos marcan: No — una casa de apuestas 1.31 vía oddixo (08:09 UTC); 10:00 COT (Ghana, sede ghanesa); Somalia 4 goles en últimos 10 (7 sin marcar), 1 gol en 4 de clasificación, 1 tiro a puerta/partido; Ghana le ganó 2-0 el jueves; contra: Ghana recibió 4 de Gambia y rota (Partey y Yirenkyi en duda); impl 76% vs est ~83% (mín 1.20); una casa de apuestas P1 1.5u ($45.000). Cobertura no se colocó. P2 (Grecia–Serbia y Macedonia del Norte–Eslovenia @1.89, $20.100) no se jugó. Neto del día: −$45.000 (−1.5 u). El guardado se mantiene en $20.100. Lituania vs Liechtenstein: Ambos marcan: No — 1.25 una casa de apuestas vía oddixo, mejor 1.29-1.30 (Sky Bet); no verificada en sus casas; 12:00 COT; Liechtenstein sin marcar en sus últimos 5 (2 goles en 10) y 0 goles en la UNL; Lituania 5 porterías a cero en 10; contra: Lituania sin Kucys (sanción) y 0-0 con Surinam; impl 80% vs est ~85% (mín 1.18); una casa de apuestas 1.5u ($45.000); cobertura sugerida 0.45u ($13.500) a Ambos marcan Sí @3.50 de ejemplo (no verificada; mín 3.00), solo si Somalia-Ghana ya ganó y antes de las 12:00 COT. Cobertura no se colocó. P2 (Grecia–Serbia y Macedonia del Norte–Eslovenia @1.89, $20.100) no se jugó. Neto del día: −$45.000 (−1.5 u). El guardado se mantiene en $20.100.",
     "detalle": "",
     "origen": "bot"
    }
   },
   {
-   "fecha": "2026-11-16",
-   "hora": "14:45",
-   "iso": "2026-11-16T14:45:00-05:00",
-   "parley": "P2",
-   "tipo": "conservador",
-   "tipo_nombre": "conservador",
-   "partido": "Parley conservador (P2) · 2 selecciones",
-   "competencia": "UEFA Nations League",
+   "fecha": "2026-11-18",
+   "hora": "15:00",
+   "iso": "2026-11-18T15:00:00-05:00",
+   "parley": "P1",
+   "tipo": "muy_conservador",
+   "tipo_nombre": "muy_conservador",
+   "partido": "Parley muy_conservador (P1) · 2 selecciones",
+   "competencia": "UEFA Women's Champions League · Brasileirão Serie A (fecha 35)",
    "n_selecciones": 2,
-   "cuota": 1.89,
+   "cuota": 2.05,
    "cuota_registrada": true,
    "cuota_origen": "csv",
+   "resultado": "acierto",
+   "unidades": 1.05,
+   "selecciones": [
+    {
+     "partido": "Chelsea vs PSG (femenino)",
+     "competencia": "UEFA Women's Champions League",
+     "seleccion": "Menos de 3.5 goles",
+     "mercado": "Total goles",
+     "cuota": null,
+     "resultado_partido": "1-0",
+     "estado": "acierto",
+     "hora": "15:00",
+     "iso": "2026-11-18T15:00:00-05:00",
+     "notas": "15:00 COT (fin ~16:55); cuota NO verificada en casas de Wesley: rango 1.57-1.72 en comparadores (PunterScore 1.67, Oddspedia 1.68-1.72); total parley aprox con 1.60; Chelsea invicto 25 partidos, 3 goles totales en 4 de UWCL (0 encajados), 5 de últimos 6 bajo 3.5; PSG 5 de últimos 6 bajo 3.5; H2H recientes 4 de 4 con 3 goles o menos; Malard baja (ESPN); contra: en la temporada 31% (Chelsea) y 33% (PSG) de sus partidos superan 3.5; impl ~62% vs est ~72% (mín 1.39); una casa de apuestas 1u ($30.000) El 17/11 no se jugó ninguna opción (ni P1, ni cobertura, ni P2, ni P3). Neto del día 17/11: $0. El guardado se mantiene en $20.100."
+    },
+    {
+     "partido": "Flamengo vs Athletico-PR",
+     "competencia": "Brasileirão Serie A (fecha 35)",
+     "seleccion": "Flamengo gana",
+     "mercado": "1X2",
+     "cuota": 1.28,
+     "resultado_partido": "2-1",
+     "estado": "acierto",
+     "hora": "18:30",
+     "iso": "2026-11-18T18:30:00-05:00",
+     "notas": "18:30 COT (fin ~20:25); una casa de apuestas 1.28-1.29 vía Oddixo (feed una casa de apuestas, no confirmado una casa de apuestas CO); rango 1.22 una casa de apuestas - 1.29; Flamengo líder 76 pts (+3 sobre Palmeiras), 13V-3E-1D de local y 8 victorias seguidas en el Maracanã, plantel completo; Athletico 1 victoria en 5 y sin Dantas, Viveros (suspendidos), Arthur Dias y Luiz Gustavo; contra: 8 amonestados en riesgo antes del choque directo con Palmeiras, H2H reciente cerrado (1-1, 1-0, 1-1, 0-3), Athletico marcó en 80% de sus últimos 10; impl ~78% vs est ~80% (mín 1.25); una casa de apuestas 1u ($30.000); cobertura 0.25u ($7.500) a doble oportunidad X2 (empate o Athletico) @3.80 de ejemplo (mín 3.00), solo si Chelsea-PSG bajo 3.5 ya ganó, entre ~16:55 y 18:30 COT; sin P2/P3 hoy: no hay partidos que empiecen después de que termine P1 (último inicio 19:30 COT), la ganancia de P1 se guarda El 17/11 no se jugó ninguna opción (ni P1, ni cobertura, ni P2, ni P3). Neto del día 17/11: $0. El guardado se mantiene en $20.100."
+    }
+   ],
+   "argumento": {
+    "texto": "Chelsea vs PSG (femenino): Menos de 3.5 goles — 15:00 COT (fin ~16:55); cuota NO verificada en casas de Wesley: rango 1.57-1.72 en comparadores (PunterScore 1.67, Oddspedia 1.68-1.72); total parley aprox con 1.60; Chelsea invicto 25 partidos, 3 goles totales en 4 de UWCL (0 encajados), 5 de últimos 6 bajo 3.5; PSG 5 de últimos 6 bajo 3.5; H2H recientes 4 de 4 con 3 goles o menos; Malard baja (ESPN); contra: en la temporada 31% (Chelsea) y 33% (PSG) de sus partidos superan 3.5; impl ~62% vs est ~72% (mín 1.39); una casa de apuestas 1u ($30.000) El 17/11 no se jugó ninguna opción (ni P1, ni cobertura, ni P2, ni P3). Neto del día 17/11: $0. El guardado se mantiene en $20.100. Flamengo vs Athletico-PR: Flamengo gana — 18:30 COT (fin ~20:25); una casa de apuestas 1.28-1.29 vía Oddixo (feed una casa de apuestas, no confirmado una casa de apuestas CO); rango 1.22 una casa de apuestas - 1.29; Flamengo líder 76 pts (+3 sobre Palmeiras), 13V-3E-1D de local y 8 victorias seguidas en el Maracanã, plantel completo; Athletico 1 victoria en 5 y sin Dantas, Viveros (suspendidos), Arthur Dias y Luiz Gustavo; contra: 8 amonestados en riesgo antes del choque directo con Palmeiras, H2H reciente cerrado (1-1, 1-0, 1-1, 0-3), Athletico marcó en 80% de sus últimos 10; impl ~78% vs est ~80% (mín 1.25); una casa de apuestas 1u ($30.000); cobertura 0.25u ($7.500) a doble oportunidad X2 (empate o Athletico) @3.80 de ejemplo (mín 3.00), solo si Chelsea-PSG bajo 3.5 ya ganó, entre ~16:55 y 18:30 COT; sin P2/P3 hoy: no hay partidos que empiecen después de que termine P1 (último inicio 19:30 COT), la ganancia de P1 se guarda El 17/11 no se jugó ninguna opción (ni P1, ni cobertura, ni P2, ni P3). Neto del día 17/11: $0. El guardado se mantiene en $20.100.",
+    "detalle": "",
+    "origen": "bot"
+   }
+  },
+  {
+   "fecha": "2026-11-19",
+   "hora": "12:45",
+   "iso": "2026-11-19T12:45:00-05:00",
+   "parley": "P1",
+   "tipo": "muy_conservador",
+   "tipo_nombre": "muy_conservador",
+   "partido": "Parley muy_conservador (P1) · 1 selección",
+   "competencia": "UEFA Women's Champions League",
+   "n_selecciones": 1,
+   "cuota": null,
+   "cuota_registrada": false,
+   "cuota_origen": null,
    "resultado": "pendiente",
    "unidades": null,
    "selecciones": [
     {
-     "partido": "Grecia vs Serbia",
-     "competencia": "UEFA Nations League",
-     "seleccion": "Menos de 3.5 goles",
-     "mercado": "Total goles",
-     "cuota": 1.5,
+     "partido": "Austria Wien vs Bayern Múnich (femenino)",
+     "competencia": "UEFA Women's Champions League",
+     "seleccion": "Bayern gana y más de 2.5 goles (combinado)",
+     "mercado": "Resultado + total goles",
+     "cuota": null,
      "resultado_partido": "",
      "estado": "pendiente",
-     "hora": "14:45",
-     "iso": "2026-11-16T14:45:00-05:00",
-     "notas": "una casa de apuestas 1.50 vía oddixo; 14:45 COT; Grecia 9 de 10 con menos de 3.5 y sin marcar en 6 de 10; Serbia (descendida, 5 derrotas) 8 de 10 con menos de 3.5; contra: Grecia necesita ganar y recibió 7-0 en Países Bajos; Serbia recibe 2.4 por partido; impl 67% vs est ~75% (mín 1.33); escalera: ganancia de P1 (~0.51u) + guardado $20.100 (0.67u) = ~1.17u ($35.000); sin cobertura (mismo horario)"
-    },
-    {
-     "partido": "Macedonia del Norte vs Eslovenia",
-     "competencia": "UEFA Nations League",
-     "seleccion": "Menos de 3.5 goles",
-     "mercado": "Total goles",
-     "cuota": 1.26,
-     "resultado_partido": "",
-     "estado": "pendiente",
-     "hora": "14:45",
-     "iso": "2026-11-16T14:45:00-05:00",
-     "notas": "una casa de apuestas 1.26 vía oddixo; 14:45 COT; Macedonia 2 goles en 10 (xG 0.4), Eslovenia 9 de 10 con menos de 3.5 y 3 goles recibidos en 5 de UNL; 2-0 en la ida; contra: Macedonia recibió 3+ goles 4 veces en 10; impl 79% vs est ~83% (mín 1.20); escalera: ganancia de P1 + guardado = ~1.17u ($35.000); sin cobertura (mismo horario). P3 no se propone: sin 3 selecciones con valor en la franja nocturna"
+     "hora": "12:45",
+     "iso": "2026-11-19T12:45:00-05:00",
+     "notas": "Opción SIMPLE condicionada (no es parley de 2: hoy no hay 2 selecciones con valor verificado). Cuota ~1.55 una casa de apuestas (wettbasis 16/11, no verificada en una casa de apuestas CO); jugar solo si la cuota real >= 1.41; 12:45 COT (fin ~14:40); Bayern invicto en UWCL, Austria última con 9 goles encajados; bajas Austria Amani, Gilles, Potsi; contra: Bayern 2 empates en UWCL y puede rotar; impl 64.5% vs est ~70%; una casa de apuestas 0.5u ($15.000); sin cobertura (una sola selección); P1H/P2/P3: sin valor, la ganancia se guarda"
     }
    ],
    "argumento": {
-    "texto": "Grecia vs Serbia: Menos de 3.5 goles — una casa de apuestas 1.50 vía oddixo; 14:45 COT; Grecia 9 de 10 con menos de 3.5 y sin marcar en 6 de 10; Serbia (descendida, 5 derrotas) 8 de 10 con menos de 3.5; contra: Grecia necesita ganar y recibió 7-0 en Países Bajos; Serbia recibe 2.4 por partido; impl 67% vs est ~75% (mín 1.33); escalera: ganancia de P1 (~0.51u) + guardado $20.100 (0.67u) = ~1.17u ($35.000); sin cobertura (mismo horario) Macedonia del Norte vs Eslovenia: Menos de 3.5 goles — una casa de apuestas 1.26 vía oddixo; 14:45 COT; Macedonia 2 goles en 10 (xG 0.4), Eslovenia 9 de 10 con menos de 3.5 y 3 goles recibidos en 5 de UNL; 2-0 en la ida; contra: Macedonia recibió 3+ goles 4 veces en 10; impl 79% vs est ~83% (mín 1.20); escalera: ganancia de P1 + guardado = ~1.17u ($35.000); sin cobertura (mismo horario). P3 no se propone: sin 3 selecciones con valor en la franja nocturna",
+    "texto": "Austria Wien vs Bayern Múnich (femenino): Bayern gana y más de 2.5 goles (combinado) — Opción SIMPLE condicionada (no es parley de 2: hoy no hay 2 selecciones con valor verificado). Cuota ~1.55 una casa de apuestas (wettbasis 16/11, no verificada en una casa de apuestas CO); jugar solo si la cuota real >= 1.41; 12:45 COT (fin ~14:40); Bayern invicto en UWCL, Austria última con 9 goles encajados; bajas Austria Amani, Gilles, Potsi; contra: Bayern 2 empates en UWCL y puede rotar; impl 64.5% vs est ~70%; una casa de apuestas 0.5u ($15.000); sin cobertura (una sola selección); P1H/P2/P3: sin valor, la ganancia se guarda",
     "detalle": "",
     "origen": "bot"
    }

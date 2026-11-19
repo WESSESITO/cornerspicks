@@ -1,30 +1,260 @@
 {
- "generado": "2026-11-16 06:27",
- "generado_iso": "2026-11-16T06:27:00-05:00",
+ "generado": "2026-11-19 06:02",
+ "generado_iso": "2026-11-19T06:02:00-05:00",
  "zona_origen": "America/Bogota (UTC-5)",
- "hoy": "2026-11-16",
- "ayer": "2026-11-15",
+ "hoy": "2026-11-19",
+ "ayer": "2026-11-18",
  "bots": [
   {
    "bot": "over_corners",
    "nombre": "Picksters Over Córners",
    "mercado": "Más de 9,5 córners totales",
    "link": "picksters-over-corners.html",
-   "pendientes": [],
-   "ayer": [],
+   "pendientes": [
+    {
+     "fecha": "2026-11-19",
+     "hora": "17:30",
+     "iso": "2026-11-19T17:30:00-05:00",
+     "partido": "Vasco da Gama vs Internacional",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,12-10,36",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,12-10,36 córners (umbral: 10 o más de forma clara). TotalCorner (Vasco 5,62/4,06; Internacional 6,12/4,44) 10,12; QueroStats (Vasco 5,97/4,18; Internacional 6,12/4,44) 10,36; TipData confirma 10,16. Internacional genera 6,1 corners por partido y ambos conceden 4 o más, así que pasa el corte de 10 con margen corto. Vasco es favorito pero no muy claro (1.54–1.60).",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-11-19",
+     "hora": "17:30",
+     "iso": "2026-11-19T17:30:00-05:00",
+     "partido": "Vitória vs Red Bull Bragantino",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,70-10,74",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,70-10,74 córners (umbral: 10 o más de forma clara). TotalCorner (Vitória 4,44/5,24; Bragantino 6,12/5,59) 10,70; QueroStats (Vitória 4,47/5,24; Bragantino 6,15/5,62) 10,74; TipData 10,61. Bragantino genera 6,1 y concede 5,6 corners por partido, así que pasa el corte de 10 en las fuentes. Partido parejo, sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-11-19",
+     "hora": "19:30",
+     "iso": "2026-11-19T19:30:00-05:00",
+     "partido": "São Paulo vs Fluminense",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,90-11,01",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,90-11,01 córners (umbral: 10 o más de forma clara). TotalCorner (São Paulo 6,85/4,85; Fluminense 5,41/4,68) 10,90; QueroStats (São Paulo 6,91/4,88; Fluminense 5,41/4,82) 11,01; TipData 10,79. São Paulo es el equipo que más corners genera de la liga (6,9) y el cruce pasa el corte de 10 en todas las fuentes. Partido parejo, sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-11-19",
+     "hora": "19:30",
+     "iso": "2026-11-19T19:30:00-05:00",
+     "partido": "Orlando City vs FC Cincinnati",
+     "competencia": "MLS",
+     "nivel": null,
+     "marcas": [
+      "en vigilancia"
+     ],
+     "respaldo": "promedio 10,51-10,60",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,51-10,60 córners (umbral: 10 o más de forma clara). APWin (Orlando total 10,73; Cincinnati 10,29) 10,51; PredictStats (Orlando 4,0/6,9; Cincinnati 5,0/5,3) 10,60. Orlando concede 6,9 corners por partido, así que pasa el corte MLS lunes–viernes (≥ 10,5) por margen mínimo. Wild Card de eliminación directa, sin favorito claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-11-19",
+     "hora": "22:00",
+     "iso": "2026-11-19T22:00:00-05:00",
+     "partido": "Seattle Sounders vs Real Salt Lake",
+     "competencia": "MLS",
+     "nivel": null,
+     "marcas": [
+      "en vigilancia"
+     ],
+     "respaldo": "promedio 11,10-11,12",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": false,
+     "resultado": "pendiente",
+     "detalle": "",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 11,10-11,12 córners (umbral: 10 o más de forma clara). APWin (Seattle total 11,47; Real Salt Lake 10,76) 11,12; PredictStats (Seattle 5,4/6,0; Salt Lake 4,9/5,9) 11,10. Seattle es de los equipos con más corners de la MLS (11,5 por partido) y el cruce supera el corte MLS entre semana (≥ 10,5) con margen amplio. Wild Card de eliminación directa; Seattle favorito leve.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
+   "ayer": [
+    {
+     "fecha": "2026-11-18",
+     "hora": "19:30",
+     "iso": "2026-11-18T19:30:00-05:00",
+     "partido": "Coritiba vs Santos",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,63-10,75",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "8 córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,63-10,75 córners (umbral: 10 o más de forma clara). CornerProBet (Coritiba 3,9/6,9; Santos 5,4/5,3) 10,75; QueroStats (Coritiba local 4,47/7,06; Santos visitante 4,38/5,35) 10,63. Coritiba es el equipo que más corners concede de la liga (6,9–7,1 por partido), así que pasa el corte de 10 en ambas fuentes con margen corto. Sin favorito muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-11-18",
+     "hora": "20:00",
+     "iso": "2026-11-18T20:00:00-05:00",
+     "partido": "Remo vs Chapecoense",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 10,60-10,91",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "9 córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,60-10,91 córners (umbral: 10 o más de forma clara). CornerProBet (Remo 5,0/6,2; Chapecoense 4,0/6,0) 10,60; QueroStats (Remo local 5,94/6,24; Chapecoense visitante 3,60/6,03) 10,91. Ambos conceden 6 o más corners por partido, así que pasa el corte de 10 en ambas fuentes con margen corto. Remo es favorito claro en cuotas (1.34).",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-11-18",
+     "hora": "20:30",
+     "iso": "2026-11-18T20:30:00-05:00",
+     "partido": "Flamengo vs Athletico Paranaense",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [
+      "favorito claro"
+     ],
+     "respaldo": "promedio 10,15-10,42",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "9 córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,15-10,42 córners (umbral: 10 o más de forma clara). CornerProBet (Flamengo 5,7/4,2; Athletico-PR 5,4/5,0) 10,15; QueroStats (Flamengo local 6,82/4,53; Athletico-PR visitante 4,00/5,48) 10,42. Pasa el corte de 10 con el margen más justo del día en CornerProBet. Flamengo es favorito muy claro (1.12).",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-11-18",
+     "hora": "20:30",
+     "iso": "2026-11-18T20:30:00-05:00",
+     "partido": "Cruzeiro vs Palmeiras",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,80-10,91",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "8 córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,80-10,91 córners (umbral: 10 o más de forma clara). CornerProBet (Cruzeiro 5,3/4,9; Palmeiras 5,9/5,5) 10,80; QueroStats (Cruzeiro local 5,94/5,06; Palmeiras visitante 5,29/5,53) 10,91. Palmeiras genera y concede casi 5,5–5,9 corners, así que pasa el corte de 10 en ambas fuentes. Sin favorito muy claro (partido parejo).",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-11-18",
+     "hora": "21:30",
+     "iso": "2026-11-18T21:30:00-05:00",
+     "partido": "Grêmio vs Bahia",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,90-11,16",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "acierto",
+     "detalle": "11 córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,90-11,16 córners (umbral: 10 o más de forma clara). CornerProBet (Grêmio 4,5/5,5; Bahia 5,7/6,2) 10,95; QueroStats (Grêmio local 5,35/5,70; Bahia visitante 5,12/6,15) 11,16; PredictStats 10,90. Bahia es el equipo con más corners en sus partidos (11,8 por partido), así que pasa el corte de 10 en las tres fuentes. Sin favorito muy claro.",
+      "detalle": "",
+      "origen": "bot"
+     }
+    },
+    {
+     "fecha": "2026-11-18",
+     "hora": "21:30",
+     "iso": "2026-11-18T21:30:00-05:00",
+     "partido": "Corinthians vs Botafogo",
+     "competencia": "Brasileirão",
+     "nivel": null,
+     "marcas": [],
+     "respaldo": "promedio 10,05-10,07",
+     "cuota": "1,60 (promedio)",
+     "sin_apuesta": false,
+     "ya_empezo": true,
+     "resultado": "error",
+     "detalle": "4 córners",
+     "argumento": {
+      "texto": "Promedio combinado del filtro: 10,05-10,07 córners (umbral: 10 o más de forma clara). CornerProBet (Corinthians 5,1/4,7; Botafogo 4,7/5,6) 10,05; QueroStats (Corinthians local 5,53/4,82; Botafogo visitante 4,25/5,53) 10,07. Pasa el corte de 10 solo por centésimas en ambas fuentes, el margen más corto del día. Corinthians es favorito, pero no muy claro (1.60).",
+      "detalle": "",
+      "origen": "bot"
+     }
+    }
+   ],
    "hoy_cerradas": [],
    "balance": {
-    "resueltas": 217,
-    "aciertos": 137,
-    "errores": 80,
-    "pct": 63.13,
-    "unidades": 2.3,
-    "roi": 1.06,
+    "resueltas": 223,
+    "aciertos": 138,
+    "errores": 85,
+    "pct": 61.88,
+    "unidades": -2.1,
+    "roi": -0.94,
     "cuota_media": 1.6,
-    "total": 218,
-    "pendientes": 0,
+    "total": 229,
+    "pendientes": 5,
     "otros": 1,
-    "con_cuota": 217,
+    "con_cuota": 223,
     "sin_cuota": 0,
     "anulados": 1
    }
@@ -36,155 +266,92 @@
    "link": "parley-picks.html",
    "pendientes": [
     {
-     "fecha": "2026-11-16",
-     "hora": "10:00",
-     "iso": "2026-11-16T10:00:00-05:00",
-     "partido": "Parley muy_conservador (P1) · 2 selecciones",
-     "competencia": "Clasificación Copa Africana 2027 · UEFA Nations League",
+     "fecha": "2026-11-19",
+     "hora": "12:45",
+     "iso": "2026-11-19T12:45:00-05:00",
+     "partido": "Parley muy_conservador (P1) · 1 selección",
+     "competencia": "UEFA Women's Champions League",
      "nivel": "muy_conservador",
      "marcas": [
       "muy_conservador"
      ],
-     "respaldo": "2 selecciones",
-     "cuota": "1,64",
-     "cuota_registrada": true,
+     "respaldo": "1 selecciones",
+     "cuota": "cuota combinada no registrada",
+     "cuota_registrada": false,
      "sin_apuesta": false,
      "ya_empezo": false,
      "resultado": "pendiente",
      "detalle": "",
      "argumento": {
-      "texto": "Somalia vs Ghana: Ambos marcan: No — una casa de apuestas 1.31 vía oddixo (08:09 UTC); 10:00 COT (Ghana, sede ghanesa); Somalia 4 goles en últimos 10 (7 sin marcar), 1 gol en 4 de clasificación, 1 tiro a puerta/partido; Ghana le ganó 2-0 el jueves; contra: Ghana recibió 4 de Gambia y rota (Partey y Yirenkyi en duda); impl 76% vs est ~83% (mín 1.20); una casa de apuestas P1 1.5u ($45.000) Lituania vs Liechtenstein: Ambos marcan: No — 1.25 una casa de apuestas vía oddixo, mejor 1.29-1.30 (Sky Bet); no verificada en sus casas; 12:00 COT; Liechtenstein sin marcar en sus últimos 5 (2 goles en 10) y 0 goles en la UNL; Lituania 5 porterías a cero en 10; contra: Lituania sin Kucys (sanción) y 0-0 con Surinam; impl 80% vs est ~85% (mín 1.18); una casa de apuestas 1.5u ($45.000); cobertura sugerida 0.45u ($13.500) a Ambos marcan Sí @3.50 de ejemplo (no verificada; mín 3.00), solo si Somalia-Ghana ya ganó y antes de las 12:00 COT",
+      "texto": "Austria Wien vs Bayern Múnich (femenino): Bayern gana y más de 2.5 goles (combinado) — Opción SIMPLE condicionada (no es parley de 2: hoy no hay 2 selecciones con valor verificado). Cuota ~1.55 una casa de apuestas (wettbasis 16/11, no verificada en una casa de apuestas CO); jugar solo si la cuota real >= 1.41; 12:45 COT (fin ~14:40); Bayern invicto en UWCL, Austria última con 9 goles encajados; bajas Austria Amani, Gilles, Potsi; contra: Bayern 2 empates en UWCL y puede rotar; impl 64.5% vs est ~70%; una casa de apuestas 0.5u ($15.000); sin cobertura (una sola selección); P1H/P2/P3: sin valor, la ganancia se guarda",
       "detalle": "",
       "origen": "bot"
      },
      "selecciones": [
       {
-       "partido": "Somalia vs Ghana",
-       "competencia": "Clasificación Copa Africana 2027",
-       "seleccion": "Ambos marcan: No",
-       "mercado": "Ambos marcan",
-       "cuota": 1.31,
+       "partido": "Austria Wien vs Bayern Múnich (femenino)",
+       "competencia": "UEFA Women's Champions League",
+       "seleccion": "Bayern gana y más de 2.5 goles (combinado)",
+       "mercado": "Resultado + total goles",
+       "cuota": null,
        "resultado_partido": "",
        "estado": "pendiente",
-       "hora": "10:00",
-       "iso": "2026-11-16T10:00:00-05:00",
-       "notas": "una casa de apuestas 1.31 vía oddixo (08:09 UTC); 10:00 COT (Ghana, sede ghanesa); Somalia 4 goles en últimos 10 (7 sin marcar), 1 gol en 4 de clasificación, 1 tiro a puerta/partido; Ghana le ganó 2-0 el jueves; contra: Ghana recibió 4 de Gambia y rota (Partey y Yirenkyi en duda); impl 76% vs est ~83% (mín 1.20); una casa de apuestas P1 1.5u ($45.000)"
-      },
-      {
-       "partido": "Lituania vs Liechtenstein",
-       "competencia": "UEFA Nations League",
-       "seleccion": "Ambos marcan: No",
-       "mercado": "Ambos marcan",
-       "cuota": 1.25,
-       "resultado_partido": "",
-       "estado": "pendiente",
-       "hora": "12:00",
-       "iso": "2026-11-16T12:00:00-05:00",
-       "notas": "1.25 una casa de apuestas vía oddixo, mejor 1.29-1.30 (Sky Bet); no verificada en sus casas; 12:00 COT; Liechtenstein sin marcar en sus últimos 5 (2 goles en 10) y 0 goles en la UNL; Lituania 5 porterías a cero en 10; contra: Lituania sin Kucys (sanción) y 0-0 con Surinam; impl 80% vs est ~85% (mín 1.18); una casa de apuestas 1.5u ($45.000); cobertura sugerida 0.45u ($13.500) a Ambos marcan Sí @3.50 de ejemplo (no verificada; mín 3.00), solo si Somalia-Ghana ya ganó y antes de las 12:00 COT"
+       "hora": "12:45",
+       "iso": "2026-11-19T12:45:00-05:00",
+       "notas": "Opción SIMPLE condicionada (no es parley de 2: hoy no hay 2 selecciones con valor verificado). Cuota ~1.55 una casa de apuestas (wettbasis 16/11, no verificada en una casa de apuestas CO); jugar solo si la cuota real >= 1.41; 12:45 COT (fin ~14:40); Bayern invicto en UWCL, Austria última con 9 goles encajados; bajas Austria Amani, Gilles, Potsi; contra: Bayern 2 empates en UWCL y puede rotar; impl 64.5% vs est ~70%; una casa de apuestas 0.5u ($15.000); sin cobertura (una sola selección); P1H/P2/P3: sin valor, la ganancia se guarda"
       }
      ],
      "parley": "P1",
      "tipo": "muy_conservador"
-    },
-    {
-     "fecha": "2026-11-16",
-     "hora": "14:45",
-     "iso": "2026-11-16T14:45:00-05:00",
-     "partido": "Parley conservador (P2) · 2 selecciones",
-     "competencia": "UEFA Nations League",
-     "nivel": "conservador",
-     "marcas": [
-      "conservador"
-     ],
-     "respaldo": "2 selecciones",
-     "cuota": "1,89",
-     "cuota_registrada": true,
-     "sin_apuesta": false,
-     "ya_empezo": false,
-     "resultado": "pendiente",
-     "detalle": "",
-     "argumento": {
-      "texto": "Grecia vs Serbia: Menos de 3.5 goles — una casa de apuestas 1.50 vía oddixo; 14:45 COT; Grecia 9 de 10 con menos de 3.5 y sin marcar en 6 de 10; Serbia (descendida, 5 derrotas) 8 de 10 con menos de 3.5; contra: Grecia necesita ganar y recibió 7-0 en Países Bajos; Serbia recibe 2.4 por partido; impl 67% vs est ~75% (mín 1.33); escalera: ganancia de P1 (~0.51u) + guardado $20.100 (0.67u) = ~1.17u ($35.000); sin cobertura (mismo horario) Macedonia del Norte vs Eslovenia: Menos de 3.5 goles — una casa de apuestas 1.26 vía oddixo; 14:45 COT; Macedonia 2 goles en 10 (xG 0.4), Eslovenia 9 de 10 con menos de 3.5 y 3 goles recibidos en 5 de UNL; 2-0 en la ida; contra: Macedonia recibió 3+ goles 4 veces en 10; impl 79% vs est ~83% (mín 1.20); escalera: ganancia de P1 + guardado = ~1.17u ($35.000); sin cobertura (mismo horario). P3 no se propone: sin 3 selecciones con valor en la franja nocturna",
-      "detalle": "",
-      "origen": "bot"
-     },
-     "selecciones": [
-      {
-       "partido": "Grecia vs Serbia",
-       "competencia": "UEFA Nations League",
-       "seleccion": "Menos de 3.5 goles",
-       "mercado": "Total goles",
-       "cuota": 1.5,
-       "resultado_partido": "",
-       "estado": "pendiente",
-       "hora": "14:45",
-       "iso": "2026-11-16T14:45:00-05:00",
-       "notas": "una casa de apuestas 1.50 vía oddixo; 14:45 COT; Grecia 9 de 10 con menos de 3.5 y sin marcar en 6 de 10; Serbia (descendida, 5 derrotas) 8 de 10 con menos de 3.5; contra: Grecia necesita ganar y recibió 7-0 en Países Bajos; Serbia recibe 2.4 por partido; impl 67% vs est ~75% (mín 1.33); escalera: ganancia de P1 (~0.51u) + guardado $20.100 (0.67u) = ~1.17u ($35.000); sin cobertura (mismo horario)"
-      },
-      {
-       "partido": "Macedonia del Norte vs Eslovenia",
-       "competencia": "UEFA Nations League",
-       "seleccion": "Menos de 3.5 goles",
-       "mercado": "Total goles",
-       "cuota": 1.26,
-       "resultado_partido": "",
-       "estado": "pendiente",
-       "hora": "14:45",
-       "iso": "2026-11-16T14:45:00-05:00",
-       "notas": "una casa de apuestas 1.26 vía oddixo; 14:45 COT; Macedonia 2 goles en 10 (xG 0.4), Eslovenia 9 de 10 con menos de 3.5 y 3 goles recibidos en 5 de UNL; 2-0 en la ida; contra: Macedonia recibió 3+ goles 4 veces en 10; impl 79% vs est ~83% (mín 1.20); escalera: ganancia de P1 + guardado = ~1.17u ($35.000); sin cobertura (mismo horario). P3 no se propone: sin 3 selecciones con valor en la franja nocturna"
-      }
-     ],
-     "parley": "P2",
-     "tipo": "conservador"
     }
    ],
    "ayer": [
     {
-     "fecha": "2026-11-15",
-     "hora": "09:00",
-     "iso": "2026-11-15T09:00:00-05:00",
+     "fecha": "2026-11-18",
+     "hora": "15:00",
+     "iso": "2026-11-18T15:00:00-05:00",
      "partido": "Parley muy_conservador (P1) · 2 selecciones",
-     "competencia": "UEFA Nations League",
+     "competencia": "UEFA Women's Champions League · Brasileirão Serie A (fecha 35)",
      "nivel": "muy_conservador",
      "marcas": [
       "muy_conservador"
      ],
      "respaldo": "2 selecciones",
-     "cuota": "1,42",
+     "cuota": "2,05",
      "cuota_registrada": true,
      "sin_apuesta": false,
      "ya_empezo": true,
      "resultado": "acierto",
      "detalle": "",
      "argumento": {
-      "texto": "Letonia vs Armenia: Menos de 3.5 goles — Cuota real 1.20 en su casa (publicada 1.23 una casa de apuestas vía Oddixo, no verificada inicialmente). Letonia 10 de 10 últimos con 3 goles o menos, nunca más de 1 gol en la UNL (xG 0.8); Armenia 0 y 1 gol en sus 2 últimos; H2H 4 de 5 con under 3.5; contra: partido sin nada en juego, Letonia 0-5 con Inglaterra en 2025; impl 81% vs est ~86%; 09:00 COT. Cuota real 1.42 en su casa; una casa de apuestas bajado a 1 u ($30.000); sin cobertura. P2 no se jugó: las cuotas bajaron a 1.23 (España 1X) y 1.13 (Chequia menos de 1.5), combinada 1.46, sin valor. P3 (NBA Spurs/Celtics/Thunder) no se jugó porque dependía de la P2. Neto del día: +$12.600 (+0.42 u). Quedan guardados $7.500 del 14/11 + $12.600 de hoy = $20.100. Bielorrusia vs Albania: Menos de 3.5 goles — Cuota real 1.18 en su casa (publicada una casa de apuestas 1.23 vía Oddixo, una casa de apuestas ~1.21). Bielorrusia 2 goles recibidos en 5 de UNL; Albania 10 últimos partidos con 3 goles o menos; a Albania le basta el empate; bajas Svirepa (sanción) y Kalinin; Ramadani (sanción); contra: Bielorrusia obligada a ganar; impl 81% vs est ~87%; 12:00 COT (Budapest). Cobertura sugerida no se colocó. Cuota real 1.42 en su casa; una casa de apuestas bajado a 1 u ($30.000); sin cobertura. P2 no se jugó: las cuotas bajaron a 1.23 (España 1X) y 1.13 (Chequia menos de 1.5), combinada 1.46, sin valor. P3 (NBA Spurs/Celtics/Thunder) no se jugó porque dependía de la P2. Neto del día: +$12.600 (+0.42 u). Quedan guardados $7.500 del 14/11 + $12.600 de hoy = $20.100.",
+      "texto": "Chelsea vs PSG (femenino): Menos de 3.5 goles — 15:00 COT (fin ~16:55); cuota NO verificada en casas de Wesley: rango 1.57-1.72 en comparadores (PunterScore 1.67, Oddspedia 1.68-1.72); total parley aprox con 1.60; Chelsea invicto 25 partidos, 3 goles totales en 4 de UWCL (0 encajados), 5 de últimos 6 bajo 3.5; PSG 5 de últimos 6 bajo 3.5; H2H recientes 4 de 4 con 3 goles o menos; Malard baja (ESPN); contra: en la temporada 31% (Chelsea) y 33% (PSG) de sus partidos superan 3.5; impl ~62% vs est ~72% (mín 1.39); una casa de apuestas 1u ($30.000) El 17/11 no se jugó ninguna opción (ni P1, ni cobertura, ni P2, ni P3). Neto del día 17/11: $0. El guardado se mantiene en $20.100. Flamengo vs Athletico-PR: Flamengo gana — 18:30 COT (fin ~20:25); una casa de apuestas 1.28-1.29 vía Oddixo (feed una casa de apuestas, no confirmado una casa de apuestas CO); rango 1.22 una casa de apuestas - 1.29; Flamengo líder 76 pts (+3 sobre Palmeiras), 13V-3E-1D de local y 8 victorias seguidas en el Maracanã, plantel completo; Athletico 1 victoria en 5 y sin Dantas, Viveros (suspendidos), Arthur Dias y Luiz Gustavo; contra: 8 amonestados en riesgo antes del choque directo con Palmeiras, H2H reciente cerrado (1-1, 1-0, 1-1, 0-3), Athletico marcó en 80% de sus últimos 10; impl ~78% vs est ~80% (mín 1.25); una casa de apuestas 1u ($30.000); cobertura 0.25u ($7.500) a doble oportunidad X2 (empate o Athletico) @3.80 de ejemplo (mín 3.00), solo si Chelsea-PSG bajo 3.5 ya ganó, entre ~16:55 y 18:30 COT; sin P2/P3 hoy: no hay partidos que empiecen después de que termine P1 (último inicio 19:30 COT), la ganancia de P1 se guarda El 17/11 no se jugó ninguna opción (ni P1, ni cobertura, ni P2, ni P3). Neto del día 17/11: $0. El guardado se mantiene en $20.100.",
       "detalle": "",
       "origen": "bot"
      },
      "selecciones": [
       {
-       "partido": "Letonia vs Armenia",
-       "competencia": "UEFA Nations League",
+       "partido": "Chelsea vs PSG (femenino)",
+       "competencia": "UEFA Women's Champions League",
        "seleccion": "Menos de 3.5 goles",
        "mercado": "Total goles",
-       "cuota": 1.2,
-       "resultado_partido": "0-0",
+       "cuota": null,
+       "resultado_partido": "1-0",
        "estado": "acierto",
-       "hora": "09:00",
-       "iso": "2026-11-15T09:00:00-05:00",
-       "notas": "Cuota real 1.20 en su casa (publicada 1.23 una casa de apuestas vía Oddixo, no verificada inicialmente). Letonia 10 de 10 últimos con 3 goles o menos, nunca más de 1 gol en la UNL (xG 0.8); Armenia 0 y 1 gol en sus 2 últimos; H2H 4 de 5 con under 3.5; contra: partido sin nada en juego, Letonia 0-5 con Inglaterra en 2025; impl 81% vs est ~86%; 09:00 COT. Cuota real 1.42 en su casa; una casa de apuestas bajado a 1 u ($30.000); sin cobertura. P2 no se jugó: las cuotas bajaron a 1.23 (España 1X) y 1.13 (Chequia menos de 1.5), combinada 1.46, sin valor. P3 (NBA Spurs/Celtics/Thunder) no se jugó porque dependía de la P2. Neto del día: +$12.600 (+0.42 u). Quedan guardados $7.500 del 14/11 + $12.600 de hoy = $20.100."
+       "hora": "15:00",
+       "iso": "2026-11-18T15:00:00-05:00",
+       "notas": "15:00 COT (fin ~16:55); cuota NO verificada en casas de Wesley: rango 1.57-1.72 en comparadores (PunterScore 1.67, Oddspedia 1.68-1.72); total parley aprox con 1.60; Chelsea invicto 25 partidos, 3 goles totales en 4 de UWCL (0 encajados), 5 de últimos 6 bajo 3.5; PSG 5 de últimos 6 bajo 3.5; H2H recientes 4 de 4 con 3 goles o menos; Malard baja (ESPN); contra: en la temporada 31% (Chelsea) y 33% (PSG) de sus partidos superan 3.5; impl ~62% vs est ~72% (mín 1.39); una casa de apuestas 1u ($30.000) El 17/11 no se jugó ninguna opción (ni P1, ni cobertura, ni P2, ni P3). Neto del día 17/11: $0. El guardado se mantiene en $20.100."
       },
       {
-       "partido": "Bielorrusia vs Albania",
-       "competencia": "UEFA Nations League",
-       "seleccion": "Menos de 3.5 goles",
-       "mercado": "Total goles",
-       "cuota": 1.18,
-       "resultado_partido": "0-2",
+       "partido": "Flamengo vs Athletico-PR",
+       "competencia": "Brasileirão Serie A (fecha 35)",
+       "seleccion": "Flamengo gana",
+       "mercado": "1X2",
+       "cuota": 1.28,
+       "resultado_partido": "2-1",
        "estado": "acierto",
-       "hora": "12:00",
-       "iso": "2026-11-15T12:00:00-05:00",
-       "notas": "Cuota real 1.18 en su casa (publicada una casa de apuestas 1.23 vía Oddixo, una casa de apuestas ~1.21). Bielorrusia 2 goles recibidos en 5 de UNL; Albania 10 últimos partidos con 3 goles o menos; a Albania le basta el empate; bajas Svirepa (sanción) y Kalinin; Ramadani (sanción); contra: Bielorrusia obligada a ganar; impl 81% vs est ~87%; 12:00 COT (Budapest). Cobertura sugerida no se colocó. Cuota real 1.42 en su casa; una casa de apuestas bajado a 1 u ($30.000); sin cobertura. P2 no se jugó: las cuotas bajaron a 1.23 (España 1X) y 1.13 (Chequia menos de 1.5), combinada 1.46, sin valor. P3 (NBA Spurs/Celtics/Thunder) no se jugó porque dependía de la P2. Neto del día: +$12.600 (+0.42 u). Quedan guardados $7.500 del 14/11 + $12.600 de hoy = $20.100."
+       "hora": "18:30",
+       "iso": "2026-11-18T18:30:00-05:00",
+       "notas": "18:30 COT (fin ~20:25); una casa de apuestas 1.28-1.29 vía Oddixo (feed una casa de apuestas, no confirmado una casa de apuestas CO); rango 1.22 una casa de apuestas - 1.29; Flamengo líder 76 pts (+3 sobre Palmeiras), 13V-3E-1D de local y 8 victorias seguidas en el Maracanã, plantel completo; Athletico 1 victoria en 5 y sin Dantas, Viveros (suspendidos), Arthur Dias y Luiz Gustavo; contra: 8 amonestados en riesgo antes del choque directo con Palmeiras, H2H reciente cerrado (1-1, 1-0, 1-1, 0-3), Athletico marcó en 80% de sus últimos 10; impl ~78% vs est ~80% (mín 1.25); una casa de apuestas 1u ($30.000); cobertura 0.25u ($7.500) a doble oportunidad X2 (empate o Athletico) @3.80 de ejemplo (mín 3.00), solo si Chelsea-PSG bajo 3.5 ya ganó, entre ~16:55 y 18:30 COT; sin P2/P3 hoy: no hay partidos que empiecen después de que termine P1 (último inicio 19:30 COT), la ganancia de P1 se guarda El 17/11 no se jugó ninguna opción (ni P1, ni cobertura, ni P2, ni P3). Neto del día 17/11: $0. El guardado se mantiene en $20.100."
       }
      ],
      "parley": "P1",
@@ -193,17 +360,17 @@
    ],
    "hoy_cerradas": [],
    "balance": {
-    "resueltas": 34,
-    "aciertos": 22,
-    "errores": 12,
-    "pct": 64.71,
-    "unidades": 6.82,
-    "roi": 20.06,
-    "cuota_media": 2.04,
-    "total": 36,
-    "pendientes": 2,
+    "resueltas": 36,
+    "aciertos": 23,
+    "errores": 13,
+    "pct": 63.89,
+    "unidades": 6.87,
+    "roi": 19.08,
+    "cuota_media": 2.03,
+    "total": 37,
+    "pendientes": 1,
     "otros": 0,
-    "con_cuota": 34,
+    "con_cuota": 36,
     "sin_cuota": 0
    }
   }
